@@ -1,0 +1,1809 @@
+{
+    "file_info": {
+        "source": "poesia_author_tasks.json",
+        "task_count": 50,
+        "type": "odd_one_out"
+    },
+    "tasks": [
+        {
+            "task_id": 1,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Et perché el tuo splendor non è conforme\\A quel della mia dea, l'ingegno sai\\Di mai non te mostrar, se ella non dorme:\\\\Ad tanta luce sua ripar non hai,\\Et per fuggir da lei sì mortal guerra\\El dì te ascondi et sol di nocte vai.",
+                    "author": "Serafino de' Ciminelli",
+                    "book": "bibit000444.json",
+                    "year": 1466,
+                    "snippet_idx": "522"
+                },
+                {
+                    "text": "E veramente tanto m'alegrava\\quando era teco nel nostro boschetto,\\e li nostri disir si raccontava!\\\\Tanto m'era el star teco gran diletto\\quanto era onesto el conversar e 'l dire,\\che sai che del contrario avea dispetto.",
+                    "author": "Giovanni de' Mantelli di Canobio",
+                    "book": "bibit000257.json",
+                    "year": 1473,
+                    "snippet_idx": "140"
+                },
+                {
+                    "text": "che te trovi constante\\fra tanti affanni ch'hai.\\E per tue luce sante,\\\\te zuro che zà mai\\non te abandonarò, o lucente stella –.\\– Amante, va con Dio,\\\\che meza notte sona;\\ormai l'è forza ch'io\\riposi mia persona.",
+                    "author": "Giovanni de' Mantelli di Canobio",
+                    "book": "bibit000257.json",
+                    "year": 1473,
+                    "snippet_idx": "762"
+                },
+                {
+                    "text": "Amatorii versus incipiunt, partim in\\sonitiis, partim in\\trinariis, et cantilenis moralibus\\editi a domino Tartalia de\\Mantellis alias Johanne quondam\\Jacobi de Mantellis de Canobio, et\\primo sonitium introductivum ad alia\\sua sonitia et opera. Lege\\feliciter, in nomine domini Jesu X, amen.",
+                    "author": "Giovanni de' Mantelli di Canobio",
+                    "book": "bibit000257.json",
+                    "year": 1473,
+                    "snippet_idx": "0"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 2,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Così lo stame solamente ordisco\\de' vostri onori, né 'l gran subbio ch'empio\\de le fila votar tessendo ardisco.\\\\Però, se questa tela i'non adempio,\\basta ch'incominciarla pur m'arrisco,\\per dar forse di me non basso essempio.",
+                    "author": "Diego Sandoval de Castro",
+                    "book": "bibit000278.json",
+                    "year": 1505,
+                    "snippet_idx": "9"
+                },
+                {
+                    "text": "Amor è desiderio di bellezza,\\la qual è sempre amabil per se stessa.\\Amor conde ogni amaro di dolcezza\\e di giovar altrui già mai non cessa.\\Amor ogni viltà scaccia e disprezza\\e pensier degno a lui solo s'appressa.\\Amor è seme d'ogni cosa buona,\\è quel ch'a nullo amato amar perdona.",
+                    "author": "Diego Sandoval de Castro",
+                    "book": "bibit000278.json",
+                    "year": 1505,
+                    "snippet_idx": "159"
+                },
+                {
+                    "text": "Questi con penne d'or veloce e snello\\per li suoi regni in un momento vola\\e, adattando gli strali in Mongibello\\temprati, mille cor ferendo invola.\\Commove spesso nel più gioven bello\\l'ardenti fiamme, e spesso si consola\\di richiamar ne' vecchi i spenti ardori\\e d'allumar i più aghiacciati cuori.",
+                    "author": "Diego Sandoval de Castro",
+                    "book": "bibit000278.json",
+                    "year": 1505,
+                    "snippet_idx": "160"
+                },
+                {
+                    "text": "Amor è graziosa e dolce voglia,\\che i più selvaggi e più feroci affrena;\\Amor d´ogni viltà l´anime spoglia,\\e le scorge a diletto e trae di pena;\\Amor le cose umili ir alto invoglia,\\le brievi e fosche eterna e rasserena;\\Amor è seme d´ogni ben fecondo,\\e quel ch´informa e regge e serva il mondo.",
+                    "author": "Pietro Bembo",
+                    "book": "bibit001120.json",
+                    "year": 1470,
+                    "snippet_idx": "402"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 3,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Da cento vie che tutte vanno a un punto.\\Son vie, viuzze, chiassi, avvolgimenti,\\Ma, dopo vario errore,\\\\Ciascuna via minore\\Fa capo alle più grandi e più frequenti.\\Poi tutte queste mettono a la piazza,",
+                    "author": "Vittorio Betteloni",
+                    "book": "bibit001356.json",
+                    "year": 1840,
+                    "snippet_idx": "136"
+                },
+                {
+                    "text": "prometter suo! sola mi lascia. E quando\\alta è la notte, io pallido mel veggio\\comparir, non so donde. E fa risposta\\\\alle parole mie con disdegnosi\\gesti, o muti sospiri, o violento\\suon di dolcezza... e d'ingannarmi ei crede.",
+                    "author": "Giovanni Prati",
+                    "book": "bibit000663.json",
+                    "year": 1814,
+                    "snippet_idx": "218"
+                },
+                {
+                    "text": "Noi prenderemo a viver norma e stile.\\E infin che sia l'aurora, o buon camello,\\Verran due nuovi amanti nel castello.\\\\Piccioli spiritelli accorti e destri,\\Per servirci discreti a cento a cento\\Dagli sterpi e dai sassi balzeranno;",
+                    "author": "Vittorio Betteloni",
+                    "book": "bibit001356.json",
+                    "year": 1840,
+                    "snippet_idx": "87"
+                },
+                {
+                    "text": "E davvero facondo allor mi faccio:\\Tutto le dico il dolce sentimento,\\Ch'ella m'ispira, tutto, non le taccio\\\\Nulla di quel che sento.\\Ella stupisce e credermi non vuole:\\Con interrotte voci esce talora;",
+                    "author": "Vittorio Betteloni",
+                    "book": "bibit001356.json",
+                    "year": 1840,
+                    "snippet_idx": "22"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 4,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Di Sparta il re non io perciò mi estimo,\\finché rimane Agide in vita. Ei vive\\non pur, ma ei regna in cor de' molti. Asilo\\gli è questo tempio, il cui vicino foro\\empie ogni dì tumultuante ardita\\plebe, che re lo vuol pur anco, e in trono\\un'altra volta a me compagno il grida.",
+                    "author": "Vittorio Alfieri",
+                    "book": "bibit000014.json",
+                    "year": 1749,
+                    "snippet_idx": "1"
+                },
+                {
+                    "text": "Oltre mie brame? E ciò ch'io bramo, il sai?\\\\Di me vendetta, a tutte cose innanzi,\\brami, e l'avrai; dartela piena io voglio.\\Durevol possa, è il tuo desir secondo;\\e additar ten vogl'io la vera base.\\Né basta; io t'offro alto infallibil mezzo,\\onde acquistar cosa ben altra, a cui\\forse il pensier mai non volgesti; e tale,\\che pur (dov'ella ad acquistar sia lieve)\\tu sprezzarla non puoi. Perenne, immensa\\procacciartela ancora...",
+                    "author": "Vittorio Alfieri",
+                    "book": "bibit000014.json",
+                    "year": 1749,
+                    "snippet_idx": "27"
+                },
+                {
+                    "text": "Caso dunque lei tiè cquarch´interresse\\Da sbrigà cco la sora Lusciola,\\Vadi, ché ttanto noi semo l´istesse.\\\\Ce sò li Presidenti pe ´ggni urione,\\Ma è ccome nun ce fussino, fratello.\\Cuesto sta ar foco a rriscallasse: cuello\\Sente e rrisente, e nnun dà mmai raggione:",
+                    "author": "Giuseppe Gioachino Belli",
+                    "book": "bibit000033.json",
+                    "year": 1791,
+                    "snippet_idx": "1875"
+                },
+                {
+                    "text": "Ecco il senato;\\ecco gli efori tutti: il popol molto\\li segue, e par non torbido in aspetto;\\lieto anzi par di assistere all'accusa\\di un re sovvertitore. Ardire, ardire.\\Mentr'io gli animi lor, con opportune\\lusinghe adesco, al carcer entra, e in breve\\Agide a noi ben custodito traggi.",
+                    "author": "Vittorio Alfieri",
+                    "book": "bibit000014.json",
+                    "year": 1749,
+                    "snippet_idx": "49"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 5,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Qual da un fiume talor la vespertina\\Nebbia s'estolle, e dopo breve istante\\Giù nella valle rotasi e declina;\\\\Tal, la cima radendo delle piante,\\D'un venticel portata in su le penne,\\La celeste discese ombra aspettante.",
+                    "author": "Vincenzo Monti",
+                    "book": "bibit001638.json",
+                    "year": 1754,
+                    "snippet_idx": "41"
+                },
+                {
+                    "text": "Ma qual fragore\\Gli orecchi fiede?\\Ma qual fulgore\\Splender si vede\\D'Arven colà nella soggetta valle?\\Chi è costui, che viene\\Alla possa dei fiumi somigliante,\\Quando l'onde affollate\\Splendono a' rai della vibrante luna?",
+                    "author": "Melchiorre Cesarotti",
+                    "book": "bibit000122.json",
+                    "year": 1730,
+                    "snippet_idx": "10"
+                },
+                {
+                    "text": "O narrator della dolente istoria,\\Dunque è caduto di Comallo il figlio?\\Già sul colle\\Il tuon romoreggia\\Il lampo fiammeggia,\\Sopra penne di foco: ah no, non temo.\\E che temer poss'io,\\Se 'l mio Fingallo è spento?\\Deh dimmi, autor della dolente istoria,\\Dunque cadeo lo spezzator di scudi?",
+                    "author": "Melchiorre Cesarotti",
+                    "book": "bibit000122.json",
+                    "year": 1730,
+                    "snippet_idx": "7"
+                },
+                {
+                    "text": "Dunque parti, Silrico, ed io qui resto\\Su la collina meschinetta e sola?\\Le damme già sopra l'alpestre vetta\\Pascon senza timor;\\Né temon fronda, o sussurrante auretta,\\Che lungi è 'l cacciator.\\Egli è nel campo delle tombe amare:\\Chi sa s'egli rivien?\\Stranieri per pietà, figli del mare,\\Lasciatemi il mio ben.",
+                    "author": "Melchiorre Cesarotti",
+                    "book": "bibit000122.json",
+                    "year": 1730,
+                    "snippet_idx": "23"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 6,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Dicea Ranaldo: - Io te prego, per Dio,\\Che me raconti il fatto come è andato,\\Poi de saperlo m'hai posto in disio,\\Veggendo il tuo languir sì sterminato. -\\Alciò la fronte con sembiante pio\\Quel cavallier che giacea sopra il prato,\\E poi rispose con doglioso pianto,\\Come io vi conterò ne l'altro canto.",
+                    "author": "Matteo Maria Boiardo",
+                    "book": "bibit000049.json",
+                    "year": 1441,
+                    "snippet_idx": "1139"
+                },
+                {
+                    "text": "Ed egli a me: «tu sai che 'l luogo è tondo;\\e tutto che tu sia venuto molto\\pur[e] a sinistra, giù calando al fondo».\\\\sciagurati, che mai non fur vivi;\\\\Io sono al terzio cerchio, della piova...\\\\Così scendemo nella quarta lacca.",
+                    "author": "Cristoforo Landino",
+                    "book": "bibit000875.json",
+                    "year": 1424,
+                    "snippet_idx": "9"
+                },
+                {
+                    "text": "come le pecorelle, che non sanno,\\tornan dal pasto pasciute di vento;\\\\in questa primavera sempiterna;\\\\Ben fiorisce negl'uomini il volere;\\ma la pioggia continüa converte\\in bozacchioni le susine vere.",
+                    "author": "Cristoforo Landino",
+                    "book": "bibit000875.json",
+                    "year": 1424,
+                    "snippet_idx": "7"
+                },
+                {
+                    "text": "Cum deus in nobis agitante calescimus illic,\\impetus ille sacrae semina mentis habet.\\\\A Iove principium, Musae: Iovis omnia plena.\\\\Non fronda verde, ma di color fosco;\\non rami schietti, ma nodosi e volti;\\non pomi v'eron, ma stecchi con tosco.",
+                    "author": "Cristoforo Landino",
+                    "book": "bibit000875.json",
+                    "year": 1424,
+                    "snippet_idx": "3"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 7,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "se ben a calefacer la natura\\vi insegna et io mi senta ogn'hor nel core\\per lo dominio vostro ardente foco,\\\\state immobili pure in questo loco,\\perché il mio incendio è sì fuor di misura\\che non può farsi un atomo maggiore.",
+                    "author": "Camillo Scroffa",
+                    "book": "bibit000573.json",
+                    "year": 1526,
+                    "snippet_idx": "23"
+                },
+                {
+                    "text": "e da i vizi egualmente si dilunga.\\Dunque il soverchio ardir saria un estremo,\\e 'l soverchio timor sarebbe l'altro:\\\\però pigliamo la virtù, ch'è il mezzo,\\il quale ha in sé non men ardir che tema;\\e differiamo questa impresa alquanto,",
+                    "author": "Gian Giorgio Trissino",
+                    "book": "bibit001420.json",
+                    "year": 1478,
+                    "snippet_idx": "1289"
+                },
+                {
+                    "text": "Io sentia il splen et l'hepate concutere\\con tal dolor che, vinta la constantia,\\fu forza al fin la patientia abutere;\\\\pur, revocata ancor la tolerantia,\\provava s'io il potea gradario efficere,\\col freno obstando a tanta petulantia.",
+                    "author": "Camillo Scroffa",
+                    "book": "bibit000573.json",
+                    "year": 1526,
+                    "snippet_idx": "98"
+                },
+                {
+                    "text": "Mandami in Syria, mandami in Cilicia,\\mandami ne la Gallia ulteriore,\\nel mar Rubeo c'ha i flutti di cruore,\\in Paphlagonia, in Bitinia, in Fenicia;\\\\fammi paupere o dammi gran divicia,\\fa il mio gymnasio vacuo a tutte l'hore,\\fal locuplete con mio grande honore,\\fa ch'io sia mesto, o sia pien di leticia;",
+                    "author": "Camillo Scroffa",
+                    "book": "bibit000573.json",
+                    "year": 1526,
+                    "snippet_idx": "12"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 8,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "con acque fresche e vive\\gir mormorando per l'arene estive\\mi parve, quando riveder vi volli.\\\\Oh che i guardi e i pensier fur sogni folli!\\Confuso m'ha l'inopinata vista,\\sì novo i' sono a me medesmo, a voi,",
+                    "author": "Giovan Battista Pigna",
+                    "book": "bibit000887.json",
+                    "year": 1529,
+                    "snippet_idx": "187"
+                },
+                {
+                    "text": "o quanto sole è dentro al sol raccolto,\\e quel che l'altrui lume,\\quando più intensamente l'è congiunto,\\\\aver più in abondanza ha, per costume,\\s'a l'infinita sua vaghezza è un punto\\come, qual è qui fia ritratta a punto?",
+                    "author": "Giovan Battista Pigna",
+                    "book": "bibit000887.json",
+                    "year": 1529,
+                    "snippet_idx": "118"
+                },
+                {
+                    "text": "altrimente al tacer, a le proposte,\\al dar o tronche o non proprie risposte,\\al volger spesso i guardi scoprirei\\\\d'esser intento a lei:\\però, quando m'addatti\\con questi tali e ch'io misuri gli atti,",
+                    "author": "Giovan Battista Pigna",
+                    "book": "bibit000887.json",
+                    "year": 1529,
+                    "snippet_idx": "222"
+                },
+                {
+                    "text": "Ben fosti pronto in saettarmi al varco\\allor che per vaghezza incauto venni\\là 've spirar tra le purpuree rose\\\\sentii l'aure amorose;\\e ben piaghe da te gravi io sostenni,\\ch'aperte e sanguinose\\\\ancor dimostro a chi le stagni e chiuda;\\ma trovo chi l'inaspra ognor più cruda.\\Lasso! il pensier ciò che dispiace e duole",
+                    "author": "Torquato Tasso",
+                    "book": "bibit001217.json",
+                    "year": 1544,
+                    "snippet_idx": "57"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 9,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "quand'ei ch'una gran caccia il giorno dianzi\\dentro il loco medesmo avea bandita,\\più d'una truppa a far ch'oltre s'avanzi\\di cacciatori e cacciatrici invita.\\Clizio il gentil pastor si tragge innanzi\\e gli promette ogni fedele aita.\\La bella Citerea pria che partisse,\\– Ti raccomando il bell'Adon – gli disse.",
+                    "author": "Giovan Battista Marino",
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "snippet_idx": "3976"
+                },
+                {
+                    "text": "O de l'ingegno uman delusi inganni!\\Ciò che può far non fa. Può far sicuri\\prezzi d'Eternità fugaci gli anni.\\\\E sol precipitando estratti impuri\\fissa bugie di sublimati affanni.\\Idoli di rapine ama i Mercurii.",
+                    "author": "Giacomo Lubrano",
+                    "book": "bibit000842.json",
+                    "year": 1619,
+                    "snippet_idx": "103"
+                },
+                {
+                    "text": "Da l'Erebo scoppiò Mostro dannato,\\chi a man di Furie architettò le Mine:\\e in sen di sotterranee rovine\\offrì spaventi sconosciuti al Fato.\\\\Mancan forse di Morte al corso usato\\ben cento vie d'incenerarci al fine,\\se l'Arte in proditorie fucine\\non apre novi varchi a l'odio armato?",
+                    "author": "Giacomo Lubrano",
+                    "book": "bibit000842.json",
+                    "year": 1619,
+                    "snippet_idx": "118"
+                },
+                {
+                    "text": "Di Stagira e di Coo i due gran Numi\\nati ad invigorir spirti di vita,\\godon mirare in Te la gloria unita,\\vivo Liceo de' fisici volumi.\\\\Nel pensiero mille ali e mille lumi\\di Febo ancor ti diè Lira erudita;\\e col Plettro far puoi ché l'onda ardita\\de l'Italo Ippocren gorgogli in fiumi.",
+                    "author": "Giacomo Lubrano",
+                    "book": "bibit000842.json",
+                    "year": 1619,
+                    "snippet_idx": "254"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 10,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Dipinto porto ne la fronte il foco,\\e insieme espresso il duol, né perch'io taccia,\\o fatto sia già dai singulti roco,\\l'affetto e il pensier mio però s'asconde,\\che agli occhi di ciascun sì ben risponde,\\e più di quella che m'incende e agghiaccia,\\che chi mi vuol nel cor mi vegga in faccia.",
+                    "author": "Giovan Battista Pigna",
+                    "book": "bibit000887.json",
+                    "year": 1529,
+                    "snippet_idx": "37"
+                },
+                {
+                    "text": "e piacemi che 'l cor doppio ritrove\\il suo conforto, ove talor sospira,\\e mentre che l'un volto e l'altro mira,\\brama il vero trovar, né sa ben dove.\\\\Ma io come potrò l'interna parte\\formar giamai di questa altera imago,\\oscuro fabro a sì chiara opra eletto?",
+                    "author": "Giovanni Della Casa",
+                    "book": "bibit000150.json",
+                    "year": 1503,
+                    "snippet_idx": "69"
+                },
+                {
+                    "text": "Né di me, credo, o del tuo fido e saggio\\Quirino unqua però ti prese oblio,\\ch'ambo i vestigi tuoi cerchiam piangendo:\\\\ei dritto e scarco e pronto in suo viaggio,\\io pigro ancor, pur col tuo specchio amendo\\gli error che torto han fatto il viver mio.",
+                    "author": "Giovanni Della Casa",
+                    "book": "bibit000150.json",
+                    "year": 1503,
+                    "snippet_idx": "110"
+                },
+                {
+                    "text": "Stiamo a veder la meraviglia nova,\\che 'n Adria il mar produce, e l'antico uso\\di partorir celesti Dee rinova.\\\\L'altero nido, ov'io sì lieto albergo\\fuor d'ira e di discordia acerba e ria,\\che la mia dolce terra alma natia\\e Roma dal penser parto e dispergo;",
+                    "author": "Giovanni Della Casa",
+                    "book": "bibit000150.json",
+                    "year": 1503,
+                    "snippet_idx": "72"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 11,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "e di guardarmi, s'io il potrò fare,\\che non m'accolga più Malinconia:\\ch'i' posso dir che per la mia follia\\i' ho perduto assai buon sollazzare.\\\\Anche che troppo tardi me n'avveggio,\\non lascerò ch'i' non prenda conforto,\\ca far d'un danno due sarebbe peggio;",
+                    "author": "Cecco Angiolieri",
+                    "book": "bibit000728.json",
+                    "year": 1260,
+                    "snippet_idx": "194"
+                },
+                {
+                    "text": "di tal c'ha tutto 'l cuor avviluppato\\di tradimento, di frode e d'inganni.\\Ed e' non fu sì leal san Giovanni\\a Geso Cristo com'i' le son stato!\\\\Ma la falsa natura femminile\\sempre fu e serà sanza ragione,\\per ciò cad Eva diè lor quello stile.",
+                    "author": "Cecco Angiolieri",
+                    "book": "bibit000728.json",
+                    "year": 1260,
+                    "snippet_idx": "92"
+                },
+                {
+                    "text": "Non per ragion, ma per malvagia usanza,\\sovra le donne ha preso om segnoria,\\ponendole 'n dispregio e 'n villania\\ciò ch'a sé 'n cortesia pone ed orranza.\\Ahi, che villan giudicio e che fallace!\\Ch'a Deo e a ragione è l'om tenuto\\e per onne statuto,\\sì come donna, a guardar de fallire;\\e tanto avante più, quant'è più sire\\e maggiormente ha saggia openione.\\Adonqua avemo a veder per ragione\\qual più se guarda e che 'l blasmar men face.",
+                    "author": "Guittone d'Arezzo",
+                    "book": "bibit000238.json",
+                    "year": 1235,
+                    "snippet_idx": "123"
+                },
+                {
+                    "text": "\"Becchin' amore, piacciati provare\\sed i' ti son leal o traditore\".\\Cecco, . . . . . . . . . . . . . . . . . . . . . . . . . . .\\. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\\\\\"Becchin' amore, or veggio certamente\\che tu non vuo' ched i' servir ti possa,\\dapuo' che mi comandi 'l non possente\".",
+                    "author": "Cecco Angiolieri",
+                    "book": "bibit000728.json",
+                    "year": 1260,
+                    "snippet_idx": "44"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 12,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Ben fosti ingrato, Amor, ben fosti stolto,\\quando girar vedesti a Morte fella\\l'adunca falce in quel leggiadro volto,\\né la cacciasti a forza di quadrella.\\\\Bastava lo splendor quivi entro accolto\\per far e Morte di pietate ancella.\\Ma ciechi siam: non vide ella, non io,\\ella tanta beltà, io il colpo rio.",
+                    "author": "Erasmo di Valvasone",
+                    "book": "bibit001132.json",
+                    "year": 1523,
+                    "snippet_idx": "0"
+                },
+                {
+                    "text": "Col cieco vulgo e con la turba sciocca\\non far ch’i’ corra, e che saper mi basti\\che tu ’l volesti e ch’atterrando alzasti\\la vita mia, da morte afflitta e tocca.\\\\In ogni parte ove ’l pensier si stende\\scorgo, quasi guerrieri armati e forti,\\gli occhi, anchor mia dolce esca e miei dolci hami;",
+                    "author": "Berardino Rota",
+                    "book": "bibit001469.json",
+                    "year": 1508,
+                    "snippet_idx": "333"
+                },
+                {
+                    "text": "Ma se mori con lei, chi fia più mai\\ch'accenda l'alme d'amoroso zelo?\\\\Fama e sembianza di quei chiari rai,\\ch'or vive stelle son fatti nel cielo.\\\\Dunque stelle si fan de' nostri guai,\\e di là su fiammeggia il nostro gelo?",
+                    "author": "Erasmo di Valvasone",
+                    "book": "bibit001132.json",
+                    "year": 1523,
+                    "snippet_idx": "2"
+                },
+                {
+                    "text": "Or come cieco ancor inerme e nudo\\sei fatto senza i dolci lumi ardenti,\\ch'a romper ogni adamantino scudo\\de' freddi cor ti furo arme possenti!\\\\Io 'l so, io 'l sento, et è il mio duol sì crudo,\\che essendo in terra omai spariti e spenti,\\con una donna, tutti gli onor miei,\\anch'io m'invoglio di morir con lei.",
+                    "author": "Erasmo di Valvasone",
+                    "book": "bibit001132.json",
+                    "year": 1523,
+                    "snippet_idx": "1"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 13,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Tutti i tuoi dì saran lieti e sereni,\\senz'ira, senza guerra e senza danni,\\di pace, di riposo e d'amor pieni.\\\\Felice chi si fa, sotto umil panni,\\di Cristo, signor suo, devot'ancella,\\né prova i nostri maritali affanni!",
+                    "author": "Gaspara Stampa",
+                    "book": "bibit000468.json",
+                    "year": 1523,
+                    "snippet_idx": "648"
+                },
+                {
+                    "text": "come s'avessen da combatter ora,\\ché i tempi de le guerre sono ascosi,\\e da lieve principio, o da qualch'ira,\\\\si fan più volte i fatti d'arme orrendi;\\e spesso i pochi proveduti e cauti\\vincono i molti che non han paura",
+                    "author": "Gian Giorgio Trissino",
+                    "book": "bibit001420.json",
+                    "year": 1478,
+                    "snippet_idx": "964"
+                },
+                {
+                    "text": "E perché temo ancor (che più m'annoia)\\che la memoria mia sia dipartita\\da quel conte crudel, che m'ha ferita,\\che mi resta altro omai, se non ch'io moia?\\\\E vo' morir, ché rimirar d'altrui\\quel che fu mio quest'occhi non potranno,\\perché mirar non sanno altri che lui.",
+                    "author": "Gaspara Stampa",
+                    "book": "bibit000468.json",
+                    "year": 1523,
+                    "snippet_idx": "168"
+                },
+                {
+                    "text": "Né la quiete lor potea turbare\\l'émpito de le guerre amaro ed empio,\\che l'umane allegrezze suol cangiare:\\\\guerre che fan di noi sì crudo scempio,\\guerre che turban sì l'umano stato,\\guerre suggetto d'ogni crudo essempio.",
+                    "author": "Gaspara Stampa",
+                    "book": "bibit000468.json",
+                    "year": 1523,
+                    "snippet_idx": "487"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 14,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Fanno in prima purgar di sterpo e sasso\\e per tutto adeguar l'eletto loco;\\poi misuran lo spazio a passo a passo,\\dividendo il confin tra 'l molto e 'l poco,\\che non troppo al principio, o nel fin lasso\\l'incontro sia, poi che già spento è 'l foco\\che più riscalde il corso, ma in quel punto\\ch'al suo sommo vigor ciascuno è giunto.",
+                    "author": "Luigi Alamanni",
+                    "book": "bibit001583.json",
+                    "year": 1495,
+                    "snippet_idx": "345"
+                },
+                {
+                    "text": "Così diceva, allor che sospirando\\fece la donna a lui risposta tale:\\“caro figliuol, così vi chiam'io quando\\sempre amor vi portai di madre eguale,\\io vi trovai d'ogni ventura in bando\\vicino al lago, il nido mio natale,\\con la misera madre, a cui vi tolsi\\nato d'un anno, e meco vi raccolsi;",
+                    "author": "Luigi Alamanni",
+                    "book": "bibit001583.json",
+                    "year": 1495,
+                    "snippet_idx": "78"
+                },
+                {
+                    "text": "Blanoro e Gossemante, il core ardito,\\Mandrino ed Ozzonelio d'Estrangorre\\con molti cavalier nel vicin lito\\per più lor sicurar si vanno a porre,\\che nessun sia impiagato o sia impedito\\da qualche leve arcier, che spesso corre\\non scoperto d'altrui fra gente e gente,\\che via miglior di lui può far dolente.",
+                    "author": "Luigi Alamanni",
+                    "book": "bibit001583.json",
+                    "year": 1495,
+                    "snippet_idx": "1467"
+                },
+                {
+                    "text": "Gl'insidiosi ferri eran vicini\\A i padiglioni, che tiraro in volta\\Al padiglion di Carlo: i Paladini\\Facendo ognun la guardia la sua volta,\\Quando da l'empia strage i saracini\\Trasson le spade, e dietro a tempo volta,\\Ch'impossibil lor par: tra si gran torma\\Che non s'habbia a trovar un che non dorma",
+                    "author": "Ludovico Ariosto",
+                    "book": "bibit001135.json",
+                    "year": 1474,
+                    "snippet_idx": "1762"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 15,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "E tonni si vedien pigliare a schiere,\\e cornioletti e lamprede e sardelle\\ed altri pesci di tante maniere\\che dir non puossi con cento favelle,\\per fiumi e laghi e diverse peschiere,\\però che son più i pesci che le stelle;\\anguille e lucci e tinche e pesci persi\\pensa che quivi potevon vedersi,",
+                    "author": "Luigi Pulci",
+                    "book": "bibit000363.json",
+                    "year": 1432,
+                    "snippet_idx": "1279"
+                },
+                {
+                    "text": "Vuolsi ancor la 'ndustria mettere\\nello scriver ben e presto,\\e 'n saper contraffar lettere,\\che la cosa vadi a sesto.\\Sarà forse anche buon questo,\\ch'io v'insegni un certo inchiostro\\che fie proprio el caso vostro\\se 'l vorrete adoperare.",
+                    "author": "Agnolo Poliziano",
+                    "book": "bibit001113.json",
+                    "year": 1454,
+                    "snippet_idx": "191"
+                },
+                {
+                    "text": "Tutti questi nuovi pesci\\hanno un po' del dileggino,\\e pur pregan ch'i' rovesci\\del sacchetto il pellicino:\\ma s'i' scuoto un pochettino,\\tanta roba n'uscirebbe,\\ch'ognun poi se n'avedrebbe,\\e megli' è che non si paia.",
+                    "author": "Agnolo Poliziano",
+                    "book": "bibit001113.json",
+                    "year": 1454,
+                    "snippet_idx": "155"
+                },
+                {
+                    "text": "e con man suspendea l'ornata veste\\regale in atto e portamento altero:\\i' non so di me el vero,\\se quivi morto mi rimasi o vivo.\\\\Morto cred'io, po' ch'ero di te privo,\\o dolze luce mia, ma vivo forse,\\per la virtù che scorse\\da' tuo begli occhi e 'n vita mi ritenne.",
+                    "author": "Agnolo Poliziano",
+                    "book": "bibit001113.json",
+                    "year": 1454,
+                    "snippet_idx": "226"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 16,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Né doppia fiamma accesa\\così, spirando spesso, Austro cruccioso\\strugge biade, arde selve, incende armenti,\\\\e quanto pasce più, via più divora,\\fin ch'ogni cosa avrà spenta e distrutta,\\come a' danni del fior de l'Asia tutta",
+                    "author": "Giambattista Vico",
+                    "book": "bibit000784.json",
+                    "year": 1668,
+                    "snippet_idx": "136"
+                },
+                {
+                    "text": "e d'un sposo gentile,\\il cui gran zio, che puoi tu dir gran padre,\\nel mestiere de l'armi è assai ben noto.L'eccellentissimo signor don Giacomo Filomarino duca di Pierdifumo, nella gioventù capitano de' cavalli.",
+                    "author": "Giambattista Vico",
+                    "book": "bibit000784.json",
+                    "year": 1668,
+                    "snippet_idx": "216"
+                },
+                {
+                    "text": "E pe desgrazia nosta ogne pezzente\\Ce sgrigna e tene mente;\\E diceno cierte asene vestute,\\\\Cierte straccia–vellute,\\Tutte pezzolle, brénzole e retaglie:\\“Canta poeta mio, ca piglie quaglie !”\\\\E nce fanno l' allucca co la baia,\\Chiammannoce poete asciutte e sfritte\\Comme a fiecate fritte,",
+                    "author": "Sgruttendio",
+                    "book": "bibit000898.json",
+                    "year": 1646,
+                    "snippet_idx": "177"
+                },
+                {
+                    "text": "e, perch'eran le voci\\corte, quai fûr le note poi del canto,\\mandavan fuori per natura versi;\\\\né avendo l'uso ancor di ragion pura,\\i veementi affetti\\soli potean destar le menti pigre,\\\\onde credean che 'n lor pensasse il core.\\Ed in quella che puoi\\dir fanciullezza de l'umanitade",
+                    "author": "Giambattista Vico",
+                    "book": "bibit000784.json",
+                    "year": 1668,
+                    "snippet_idx": "176"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 17,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Ne gli amori del mondo\\Sento ch'in me s'indonna\\Virtù ch'in tutte l'alme hor signoreggia,\\E co 'l desio m'ascondo\\Spesso in leggiadra gonna,\\Qual novo Achille entro feminea greggia:\\E sì il pensier vaneggia\\Che poi di veder parmi\\Chi militari spoglie\\Mi mostri e me n'invoglie,\\Et odo un suon di tromba e corro a l'armi.\\Alfin, del vero avista,\\L'alma il suo dolce error piange, e s'attrista.",
+                    "author": "Torquato Tasso",
+                    "book": "bibit001315.json",
+                    "year": 1544,
+                    "snippet_idx": "150"
+                },
+                {
+                    "text": "Prima se troverà ogni potta netta\\Che no habbia un fregolìn de tattarette,\\Che sapia tutta d'acqua de moschette,\\\\E stretta d'occhio co xe una magietta.\\Prima ogni barca correrà a staffetta,\\E andarà a vele i cocchi e le carrette,",
+                    "author": "Maffio Venier",
+                    "book": "bibit001236.json",
+                    "year": 1550,
+                    "snippet_idx": "131"
+                },
+                {
+                    "text": "Di' ch'incago a le donne in te 'l mustazzo,\\Che mi m'attenderò a menarm'el cazzo.\\\\Signor, se per pietà no ti soccorri\\Sti to moderni meschini poeti,\\I vedo tanto grami e povereti\\Che infina i sassi ha compassion de lori.\\Tutte le so fadighe e i so suori,\\Compona pur e canzon e sonetti,\\No è bone da cavar quatro marchetti\\Da ste arpie, da sti mostri traditori.\\Una de do: o fa che sia bandìa\\Sta profession, o più severamente\\Castiga, che no se usa l'eresia.\\O manda adosso a cusì crudel zente\\Una sorte de nuova malatia\\Che la varissa i versi solamente.",
+                    "author": "Maffio Venier",
+                    "book": "bibit001236.json",
+                    "year": 1550,
+                    "snippet_idx": "84"
+                },
+                {
+                    "text": "Che a voler dar recapito ai to mali\\Bisognarave far nuovi hospidali.\\Perché vinti Arsenali\\\\Non ha tante maistranze che lavora\\Quante ti infirmità che te devora.\\Che no viva mezz'hora\\\\Se no tremo in sto dirte villania\\De piar qualche strana malatìa.\\Spiuma fezza caìa,",
+                    "author": "Maffio Venier",
+                    "book": "bibit001236.json",
+                    "year": 1550,
+                    "snippet_idx": "162"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 18,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Di mispregianza —Amor mi scusa,\\se gioia per me e cominzata\\di voi che tant'ò disiata,\\e sonne in vita cordogliosa;\\ca, bella, sanza dubitanza,\\tutte fiate in voi mirare,\\veder mi pare\\una maraviliosa simiglianza.",
+                    "author": "Jacopo da Lentini",
+                    "book": "bibit000201.json",
+                    "year": 1210,
+                    "snippet_idx": "25"
+                },
+                {
+                    "text": "Che d'aquistar l'amico poco vale,\\da poi che no lo sa ben mantenere:\\che lo de' conoscere bene e male,\\donare e torre, e saperl'agradire.\\\\Ma molti creden tenere amistade\\sol per pelare altrui a la cortese,\\e non mostrare in vista ciò che sia;",
+                    "author": "Jacopo da Lentini",
+                    "book": "bibit000201.json",
+                    "year": 1210,
+                    "snippet_idx": "123"
+                },
+                {
+                    "text": "E perché parva era umana scienza,\\e non degno om omo angel laudando,\\prese Dio la tua laude in sua potenza,\\tuo caro merto degno orrato orrando;\\e no in dire, u' non ben par valenza,\\ma in mirabili fatti essa provando;\\ché più fiate augelli te fece onrare\\ubidendo e seguendo,\\e a morti, surgendo,\\la tua cara vertù fece parlare.",
+                    "author": "Guittone d'Arezzo",
+                    "book": "bibit000238.json",
+                    "year": 1235,
+                    "snippet_idx": "325"
+                },
+                {
+                    "text": "e credo ben, se Dio l'avesse a fare,\\non vi metrebbe sì su' 'ntendimento\\che la potesse simile formare.\\\\Angelica figura —e comprobata,\\dobiata —di ricura —e di grandezze,\\di senno e d'adornezze —sete ornata,\\e nata —d'afinata —gentilezze.",
+                    "author": "Jacopo da Lentini",
+                    "book": "bibit000201.json",
+                    "year": 1210,
+                    "snippet_idx": "120"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 19,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Non gli fidatte qualche bella vesta\\da farlo conparir fra le brigatte\\ché la torà se [passo] gli ne date\\per servirsene il giorno della festa.\\\\Ché s'egli getta via lo scappolare\\per rubare ad un prete una beretta,\\che farà d'una vesta singulare",
+                    "author": "Baldassarre Castiglione",
+                    "book": "bibit000441.json",
+                    "year": 1478,
+                    "snippet_idx": "39"
+                },
+                {
+                    "text": "Come non veggo donna qui di voi\\più illustre, più bella e più gentile\\così i dì vostri sian sempre tra noi.\\\\Leggiadre donne hebbe l'antica etade\\ma di gran longa voi, et quelle et quelle\\vanzate in qual si volia qualitade.",
+                    "author": "Baldassarre Castiglione",
+                    "book": "bibit000441.json",
+                    "year": 1478,
+                    "snippet_idx": "72"
+                },
+                {
+                    "text": "di varii effetti son sera e mattino\\come tra prati anchor fiori et herbette\\per ché suso le porte, en tacolette\\e più che capre al maggio entro ' l giardino\\\\angeli rasembran passeggiando 'n via\\con gli occhi bassi, et se nel tempio stanno\\son tutte sante in dir l'Ave Maria.",
+                    "author": "Baldassarre Castiglione",
+                    "book": "bibit000441.json",
+                    "year": 1478,
+                    "snippet_idx": "53"
+                },
+                {
+                    "text": "Come ne vene! E' par che metta l'ale!\\E pure ha un gran poltrone armato adosso;\\Per manco nol darebbe come il vale,\\Né lasciarebbe del suo pregio un grosso.\\E veramente che io faccio ben male\\Ferire a quel meschin, ma più non posso;\\Qua fusse Orlando con Ranaldo a un fasso,\\Ché io so che a un colpo l'uno e l'altro passo. -",
+                    "author": "Matteo Maria Boiardo",
+                    "book": "bibit000049.json",
+                    "year": 1441,
+                    "snippet_idx": "3413"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 20,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "ma fa che almeno io questa sera\\senta di vivere fra le tue morbide\\braccia! Tu, come la Primavera\\sei bella, o giovine, togli la maschera!\\\\Suggimi, amica, dal labro fiacco\\la vita, infondimi nel sangue il brivido\\ultimo! Ebe, sono un vigliacco,\\è vero; piccola Dea perdonami!",
+                    "author": "Sergio Corazzini",
+                    "book": "bibit000141.json",
+                    "year": 1886,
+                    "snippet_idx": "327"
+                },
+                {
+                    "text": "Noi chiediamo alle nobili persone\\un argomento per poter cantare,\\il canto improvvisato qua si impone,\\un bigliettino ci vorrete dare;\\siccome la poetica versione\\ciò deve l'uditorio accontentare,\\allora è d'uso e credo sia il sistema\\di porgerci qua a noi qualsiasi tema.",
+                    "author": "Vasco Cai",
+                    "book": "bibit000125.json",
+                    "year": 1905,
+                    "snippet_idx": "48"
+                },
+                {
+                    "text": "Il progresso iner mondo, è ver, cammina\\ma ricordiamo l'epoca passata:\\nel diciassette una carneficina\\ci fu in Europa, mai e mai registrata\\fu nel passato, allora la latina\\America all'Europa e' si è affiancata,\\all'Italia, Inghilterra ed alla Francia,\\della vittoria il tratto è alla bilancia.",
+                    "author": "Vasco Cai",
+                    "book": "bibit000125.json",
+                    "year": 1905,
+                    "snippet_idx": "26"
+                },
+                {
+                    "text": "Vedi quanta divina luce albeggio!\\Ma non ripensi a tante scuole, asilo\\per educarci ed evitare il peggio,\\e le suore ci sono sempre a filo!\\Come te non mi perdo e non vaneggio,\\basta appena guardarti di profilo:\\carne sfruttata, rifiutata e guasta,\\e poi siei prostituta e questo basta.",
+                    "author": "Vasco Cai",
+                    "book": "bibit000125.json",
+                    "year": 1905,
+                    "snippet_idx": "90"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 21,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "(Chi vide mai sì rari abitatori\\in sì spessi abituri? Or, s'io non erro,\\eccone la cagione:\\vèlli qua tutti in un drappel ridotti.\\Oh quanta turba, oh quanta!\\Com'è ricca e solenne! veramente\\qui si fa sacrificio.)",
+                    "author": "Battista Guarini",
+                    "book": "bibit000799.json",
+                    "year": 1538,
+                    "snippet_idx": "195"
+                },
+                {
+                    "text": "Così fatti consigli\\non mi desti mai più: come se' ora\\tanto da te diverso?\\\\Altri tempi, altre cure.\\Così certo farei, se Silvio fussi.\\\\Ed io, se fussi Linco.\\Ma, perché Silvio sono,\\oprar da Silvio e non da Linco i' voglio.",
+                    "author": "Battista Guarini",
+                    "book": "bibit000799.json",
+                    "year": 1538,
+                    "snippet_idx": "2"
+                },
+                {
+                    "text": "Ti me respondi: No te ne vuoi dar.\\Donna coiona, che crédistu far?\\Crédistu forsi che sia 'l to ragazzo,\\\\O pur mi tienti per sì castronazzo\\Che ti me possi a to modo trattar?\\Per dirme: Anema mia, doman de sera",
+                    "author": "Maffio Venier",
+                    "book": "bibit001236.json",
+                    "year": 1550,
+                    "snippet_idx": "260"
+                },
+                {
+                    "text": "Son veramente i sogni\\de le nostre speranze,\\più che de l'avvenir, vane sembianze,\\imagini del dì guaste e corrotte\\da l'ombra de la notte.\\\\Non è sempre co' sensi\\l'anima addormentata;\\anzi tanto è più desta,\\quanto men traviata\\da le fallaci forme\\del senso, allor che dorme.",
+                    "author": "Battista Guarini",
+                    "book": "bibit000799.json",
+                    "year": 1538,
+                    "snippet_idx": "22"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 22,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "E sorridea morente a la natura\\sfolgorante, ai suoi campi, alle sue vette.\\Intanto dalle bende nere strette\\colava il sangue su la fronte pura.\\\\Volle morir così: in faccia al sole\\radioso, e strappò convulsamente\\le fasce dalla sanguinosa pelle.",
+                    "author": "Sergio Corazzini",
+                    "book": "bibit000141.json",
+                    "year": 1886,
+                    "snippet_idx": "250"
+                },
+                {
+                    "text": "Un'ora prima de schiattà, me dette\\un cazzottone, fio, sott'ar barbozzo,\\che ce dev'esse ancora er lividozzo,\\perché la sora Nanna Lèvemmette\\\\m'aveva visto giù da Pippo er Bozzo\\a beve con un antro dù fojette!\\E baccaiò, finché nun se n'annette\\a letto senza voce più 'nder gozzo!!",
+                    "author": "Sergio Corazzini",
+                    "book": "bibit000141.json",
+                    "year": 1886,
+                    "snippet_idx": "216"
+                },
+                {
+                    "text": "cuor nostalgico in preda al doloroso senso\\di cercar, vanamente, per sé un amore immenso!\\\\O piccoli giardini addormentati\\in un sonno di pace e di dolcezze,\\o piccoli custodi rassegnati\\di sussurri, di baci e di carezze;",
+                    "author": "Sergio Corazzini",
+                    "book": "bibit000141.json",
+                    "year": 1886,
+                    "snippet_idx": "46"
+                },
+                {
+                    "text": "Ma poscia, un tratto che pendeva all'Orsa\\cheta la luna appresso,\\e gli alberi affannati dalla corsa\\palpitavan sommesso,\\\\in quella ch'io piangea l'amor mio bello\\che m'ha beato e ucciso,\\scoppiava nel silenzio uno stornello\\dolce come un sorriso...",
+                    "author": "Giovanni Pascoli",
+                    "book": "bibit000522.json",
+                    "year": 1855,
+                    "snippet_idx": "96"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 23,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Poi ch'alle liete vostre amate rive,\\dove or fortuna el mio venir disdice,\\pervenne l'onorata mia Fenice,\\ch'e mia dolci pensier sola prescrive,\\\\il cor, che sanza lei lieto non vive,\\segue sue orme come Amor mi dice,\\et or lì vive in pace e lì felice\\il dolor canta e qui piangendo scrive.",
+                    "author": "Buonaccorso da Montemagno il Giovane",
+                    "book": "bibit000162.json",
+                    "year": 1391,
+                    "snippet_idx": "46"
+                },
+                {
+                    "text": "Luce de gli occhi miei, spirto del core,\\Per cui cantar suolea sì dolcemente\\Rime legiadre e bei versi d'amore,\\Spirami aiuto alla istoria presente.\\Tu sola al canto mio facesti onore,\\Quando di te parlai primeramente,\\Perché a qualunche che di te ragiona,\\Amor la voce e l'intelletto dona.",
+                    "author": "Matteo Maria Boiardo",
+                    "book": "bibit000049.json",
+                    "year": 1441,
+                    "snippet_idx": "2139"
+                },
+                {
+                    "text": "Isparto è quel gentil musico sono,\\che fe' già tanti ingegni alti e leggiadri\\fiorir per fama sempiterna e bella,\\\\salvo che or per due felici padri,\\che 'n questa età peregrinando sono,\\vostra antica virtù si rinnovella.",
+                    "author": "Buonaccorso da Montemagno il Giovane",
+                    "book": "bibit000162.json",
+                    "year": 1391,
+                    "snippet_idx": "51"
+                },
+                {
+                    "text": "Quando el pianeta occidental da sera\\splende al seren del bel nostro orizonte,\\dipoi ch'Apollo al trapassar del monte\\lasciata ha l'ombra qua cangiata e nera,\\\\veggio diverso el ciel da quel ch'egli era\\e fatto el mondo simil a Acheronte,\\onde allor dico con turbata fronte:\\così m'ha tolto Amor mia luce altera,",
+                    "author": "Buonaccorso da Montemagno il Giovane",
+                    "book": "bibit000162.json",
+                    "year": 1391,
+                    "snippet_idx": "8"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 24,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Quelli dei che 'n questo mondo\\delli amanti hanno el governo\\ringraziati in sempiterno\\sien da noi col cor giocondo.\\Ne' suo' casi adversi e rei\\non die mai alcun pastore\\diffidarsi delli dei,\\né sprezzare el lor favore.\\Benché paia ingrato Amore,\\sa ben lui in un momento\\porre in alto e far contento\\quel che giù iacea in fondo.\\Quelli dei che 'n questo mondo.\\",
+                    "author": "Filippo Galli",
+                    "book": "bibit000592.json",
+                    "year": 1465,
+                    "snippet_idx": "4"
+                },
+                {
+                    "text": "Ove romita e stanca si sedea\\quella, in cui sparse ogni suo don natura,\\guidommi Amor, e fu ben mia ventura,\\che più felice farmi non potea.\\\\Raccolta in sé, co´ suoi pensier parea\\ch´ella parlasse; ond´io, che tema e cura\\non ho mai d´altro, a guisa d´uom che fura,\\di paura e di speme tutto ardea.",
+                    "author": "Pietro Bembo",
+                    "book": "bibit001120.json",
+                    "year": 1470,
+                    "snippet_idx": "20"
+                },
+                {
+                    "text": "Sì levemente in ramo alpino fronda\\non è mossa dal vento o spica molle\\in colto e verde poggio o nebbia in colle\\o vaga nel ciel nube e nel mar onda,\\\\come sotto bel velo e treccia bionda\\in picciol tempo un cor si dona e tolle,\\e disvorrà quel che più ch´altro volle,\\e di speranze e di sospetti abonda.",
+                    "author": "Pietro Bembo",
+                    "book": "bibit001120.json",
+                    "year": 1470,
+                    "snippet_idx": "225"
+                },
+                {
+                    "text": "A cui più ch´altri mai servi e devoti,\\questi felici, e son nel ver ben tali,\\han posto più d´un tempio e fan lor voti\\sopra l´offese de´ suoi dolci strali,\\e mille a prova eletti sacerdoti\\curan le cose sante e spirituali,\\et hanno in guardia lor tutta la legge\\che le belle contrade amica e regge.",
+                    "author": "Pietro Bembo",
+                    "book": "bibit001120.json",
+                    "year": 1470,
+                    "snippet_idx": "387"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 25,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Chi m'ha tolto i sospiri, ond'io quest'acque\\Sì calde feci? e chi dagl'occhi e' pianti,\\Che già col sangue mi bagnaro il seno?\\E chi mi cinge a' crin sì belle fronde?\\Et onde vien ch'in su l'erbose rive\\Oda cantar così leggiadri versi?",
+                    "author": "Remigio Nannini",
+                    "book": "bibit000513.json",
+                    "year": 1518,
+                    "snippet_idx": "0"
+                },
+                {
+                    "text": "Dunque saran da queste altiere fronde,\\A cui s'inchina il ciel, dal ciel le rive\\E da' fieri destin difese, e l'acque\\Sicure se n'andran del mar al seno?\\Cantiamo or lieti pur, s'in dolci versi\\Cosmo ha cangiato i nostri acerbi pianti.",
+                    "author": "Remigio Nannini",
+                    "book": "bibit000513.json",
+                    "year": 1518,
+                    "snippet_idx": "4"
+                },
+                {
+                    "text": "Già mi pensai ch'a le tue verdi rive,\\Come le fiamme a l'abruciato seno,\\Crescessin l'erbe i miei penosi pianti\\E s'allegrassin de' miei tristi versi,\\Ma tolto ha COSMO la bruttezza a l'acque,\\Et a' tuoi crin l'impallidite fronde.",
+                    "author": "Remigio Nannini",
+                    "book": "bibit000513.json",
+                    "year": 1518,
+                    "snippet_idx": "3"
+                },
+                {
+                    "text": "Arsa pendice, u’ de gl’iberi buoi\\fece Hercol vincitor pompa superba,\\poi ch’è lo stato di mia sorte acerba\\peggior del tuo, ben consolar ti puoi.\\\\Tu già sol una volta ardesti, e poi\\sparve la fiamma, in me nova si serba\\più d’hor in hor; te fa verde pur l’herba,\\mia vita è secca al fior de’ giorni suoi.",
+                    "author": "Berardino Rota",
+                    "book": "bibit001469.json",
+                    "year": 1508,
+                    "snippet_idx": "96"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 26,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "S'asciugar le volete, quell'ardore\\che fan vostr'occhi fia bastante assai.\\Ben conoscete il suo calor che mai\\non mi trovate senza fiamma in core.\\\\E s'ei non basta, s'un po' l'appoggiate\\al fuoco che nel cor porto ristretto,\\quelle vedrete subito asciugate.",
+                    "author": "Matteo Bandello",
+                    "book": "bibit000957.json",
+                    "year": 1485,
+                    "snippet_idx": "226"
+                },
+                {
+                    "text": "Udilla e vide Amor, e a lei s'assise\\a canto e disse: – Venere, che vuoi?\\Ecco mie voglie per servirti pronte –.\\\\Com'ella ciò sentì, di lui si rise,\\la benda gli pigliò, e quella poi\\s'avvinse intorno all'alma e altiera fronte.",
+                    "author": "Matteo Bandello",
+                    "book": "bibit000957.json",
+                    "year": 1485,
+                    "snippet_idx": "97"
+                },
+                {
+                    "text": "Quando la bella virginetta accolto\\si vide il cuor da l'amoroso strale,\\rivolse gli occhi lampeggianti al viso\\\\del bel Giustino, e 'l dilicato petto\\di lei da nuovo amor tutto commosso\\levossi, e mandò fuor qualche sospiro;",
+                    "author": "Gian Giorgio Trissino",
+                    "book": "bibit001420.json",
+                    "year": 1478,
+                    "snippet_idx": "343"
+                },
+                {
+                    "text": "E quando mai s'udir sì crudi guai,\\cagion sì giusta a lagrimar? Che move\\Europa tutta a star mai sempre in doglia?\\\\Tanti trofei e tant'eccelse spoglie,\\di quanti carco si vedeva ogn'ora\\il gran Marchese che, di vita fuora,\\più che mai vive e chiara fama coglie,",
+                    "author": "Matteo Bandello",
+                    "book": "bibit000957.json",
+                    "year": 1485,
+                    "snippet_idx": "516"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 27,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "mostrato ha Dio in lui la sua sapienza,\\la comparte esso poi mirabilmente\\in ogni stella e in ogni intelligenza:\\\\però se 'l giovenetto fu sapiente,\\celeste animo avendo, io tel confesso\\che 'l frutto de la pianta il sapor sente.",
+                    "author": "Antonio Fileremo Fregoso",
+                    "book": "bibit001695.json",
+                    "year": 1460,
+                    "snippet_idx": "302"
+                },
+                {
+                    "text": "Ma questo si levò come scellerato e crudele,\\e saccheggiatore, uomo cupido e astuto.\\E quando congiurarono contro di lui i suoi príncipi e suo fratello,\\\\egli mio padre tra i congiurati falsamente accusò.\\Poi che ebbe assassinato suo fratello, cercò di uccidere anche lui:\\ma lo salvò dalla morte Colui che sopra i cherubini procede.",
+                    "author": "Leone Ebreo",
+                    "book": "bibit001366.json",
+                    "year": 1460,
+                    "snippet_idx": "10"
+                },
+                {
+                    "text": "E quando si volgono i miei sguardi verso oriente,\\la separazione da loro mi morde nel tallone:\\mi sdrucciola il piede e il mio cuore è inquieto e agitato,\\\\e non so decidere se vado o se ritorno.\\Ah sí, il destino infranse e lacerò il mio cuore\\e lo dilaniò come gli orsi e i lupi;",
+                    "author": "Leone Ebreo",
+                    "book": "bibit001366.json",
+                    "year": 1460,
+                    "snippet_idx": "4"
+                },
+                {
+                    "text": "In ogni scienza, in ogni sapienza e intendimento\\i suoi disegni al desiderio di ognuno erano soddisfacenti:\\ma la sua passione fu per la Legge di Dio in ogni momento,\\\\i suoi pensieri ad essa fortemente dediti e occupati.\\Gli eventi del giorno e le fraudi dei re\\e le avversitá e la sua vita angustiata",
+                    "author": "Leone Ebreo",
+                    "book": "bibit001366.json",
+                    "year": 1460,
+                    "snippet_idx": "62"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 28,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "E il figlio in alto leva, ed entro viene;\\E il minor fratellin tolto, ed assiso,\\L'un sul ginocchio, e in braccio l'altro tiene,\\Di cui la mano scherzagli sul viso;\\La madre ora al bollir dell'olle piene,\\Ed ora a quei tre cari ha l'occhio fiso;\\E già la mensa lor fuma, non senza\\I due sali miglior, fame e innocenza.",
+                    "author": "Ippolito Pindemonte",
+                    "book": "bibit001489.json",
+                    "year": 1753,
+                    "snippet_idx": "135"
+                },
+                {
+                    "text": "Ma già il Sole a mirar non resta loco,\\Che in quelle nubi, a cui l'instabil seno\\Splende di fuggitiva ambra e d'un foco,\\Che al torcer sol d'un guardo mio vien meno.\\Par che il colle s'abbassi; e a poco a poco\\Fugge da sotto all'occhio ogni terreno:\\Già manca, già la bella scena verde\\Entro a grand'ombra si ritira e perde.",
+                    "author": "Ippolito Pindemonte",
+                    "book": "bibit001489.json",
+                    "year": 1753,
+                    "snippet_idx": "141"
+                },
+                {
+                    "text": "Or leggendo talor mi piace ancora\\Qualche bella d'amore istoria finta,\\Cui di dolce eloquenza orna e colora\\Penna in anglici inchiostri, o in franchi tinta.\\Qui più d'una mia propria, e più talora\\D'una vicenda tua chiara e distinta,\\Zenofila gentil, legger m'è avviso;\\E di lagrime dolci aspergo il viso.",
+                    "author": "Ippolito Pindemonte",
+                    "book": "bibit001489.json",
+                    "year": 1753,
+                    "snippet_idx": "126"
+                },
+                {
+                    "text": "Un fanciullo che Madre la dice\\s´apre il passo, le corre al ginocchio,\\e co´ baci la lagrima elice\\che a lei gonfia tremava nell´occhio.\\Come rosa è fiorente il fanciullo,\\ma nessuno a mirarlo ristà;\\per quel pargolo un vezzo, un trastullo,\\per la madre un saluto non v´ha.",
+                    "author": "Giovanni Berchet",
+                    "book": "bibit000036.json",
+                    "year": 1783,
+                    "snippet_idx": "92"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 29,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Sette lor nati van sopra la terra,\\che cercan tutto l'uno e l'altro polo,\\e solo a' iusti fanno insidie e guerra,\\e mille capi ha ciascun per sé solo.\\L'etterno abisso per lor s'apre e serra,\\tal preda fan nell'universo stuolo;\\e lor membra ci prendon passo passo,\\come edera fa el mur fra sasso e sasso.",
+                    "author": "Michelangelo Buonarroti",
+                    "book": "bibit000129.json",
+                    "year": 1475,
+                    "snippet_idx": "128"
+                },
+                {
+                    "text": "Si che prima ch'entrassero in viaggio\\Cio che lor bisogno fecion raccorre,\\E carcar su'l Gigante il carriaggio\\C'havria portato in collo ancho una torre\\Al finir del camino aspro e selvaggio\\Da l'alto monte alla lor vista occorre\\La santa terra, ove il superno Amore\\Lavo col proprio sangue il nostro errore.",
+                    "author": "Ludovico Ariosto",
+                    "book": "bibit001135.json",
+                    "year": 1474,
+                    "snippet_idx": "1346"
+                },
+                {
+                    "text": "Ond'io con esso son sempre con voi,\\e piango e parlo del mio morto Urbino,\\che vivo or forse saria costà meco,\\\\com'ebbi già in pensier. Sua morte poi\\m'affretta e tira per altro cammino,\\dove m'aspetta ad albergar con seco.",
+                    "author": "Michelangelo Buonarroti",
+                    "book": "bibit000129.json",
+                    "year": 1475,
+                    "snippet_idx": "440"
+                },
+                {
+                    "text": "El ciglio col color non fere el volto\\col suo contrar, che l'occhio non ha pena\\da l'uno all'altro stremo ov'egli è volto.\\\\L'occhio, che sotto intorno adagio mena,\\picciola parte di gran palla scuopre,\\che men rilieva suo vista serena,",
+                    "author": "Michelangelo Buonarroti",
+                    "book": "bibit000129.json",
+                    "year": 1475,
+                    "snippet_idx": "50"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 30,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Ohimè, lasso, acciò d'ira così accesa\\Non provi 'l foco, per pietà prendete\\Quanto fu vostro senza altra contesa;\\\\E chi sola il pò far incolparete,\\S'a voi più non verrò: benché 'l piè resta,\\La voglia no, di gir dove sarete.",
+                    "author": "Stefano Saletti",
+                    "book": "bibit001570.json",
+                    "year": 1964,
+                    "snippet_idx": "39"
+                },
+                {
+                    "text": "Né sì tosto ebbe detto, che d'amari\\Pianti una pioggia tenebrosa tolse,\\Col dir, il bel seren da gli occhi chiari.\\\\Poi ch'un poco fu stata, a sé raccolse\\Lo smarrito vigor e, ancor già piene\\D'acqua, le luci a me sdegnando volse.",
+                    "author": "Stefano Saletti",
+                    "book": "bibit001570.json",
+                    "year": 1964,
+                    "snippet_idx": "37"
+                },
+                {
+                    "text": "Fiumi, gorghi, torrenti e bei ruscelli,\\Nascosti orrori solitari e queti,\\Boschi selvaggi, inospiti e segreti,\\D'erbe campi dipinti ed arboscelli,\\Pastor leggiadri, inamorati e snelli,\\Alte quercie nodose, lauri, abeti,\\Fonti, ombre amiche, fior felici e lieti,\\Aure fresche soavi e vaghi augelli,\\Ninfe, che giù di poggio in poggio andate,\\D'erbe tessendo ghirlandette e frondi\\A' bei, crespi capei dorati e biondi,\\Deh, se punto vi cal d'aver pietate\\D'amorosa fatiche, state attenti\\Ch'io vegno a partir vosco i miei lamenti.",
+                    "author": "Stefano Saletti",
+                    "book": "bibit001570.json",
+                    "year": 1964,
+                    "snippet_idx": "55"
+                },
+                {
+                    "text": "Siisi quale esser voglia, a me non piace.\\\\E perché più piacer ti dee Filisio,\\Di cui non è il più sozzo in queste parti?\\Via più che la caligine son neri\\I suoi capelli, et ha simil la fronte\\A quella d'un cengiale; ha gli occhi bianchi\\Che paion quei della gattuccia nostra,\\Schiacciato il naso che una simia pare\\E gonfiate le labra e il viso nero\\Che pare un etiopo, e s'egli canta\\Egli sembra una rana di palude,\\0 vero un corvo che su quercia gracchi;\\E se si pon a i labri la sampogna.\\Una cicada par che al caldo strida,\\Tanta vien dal suo son noia molesta.",
+                    "author": "Giovanni Giraldi",
+                    "book": "bibit000981.json",
+                    "year": 1915,
+                    "snippet_idx": "4"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 31,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Hor pur tornando a lei, questa Donzella\\al cavallier che le usò cortesia\\del esser suo non niega dar novella\\quando esso alei voglia contar chi sia\\e la prima esser vuol a nomarse ella\\tanto il nome di lui saper disia\\io son (disse) Marphisa, e fu assai questo\\che si sapea per tutto il mondo il resto",
+                    "author": "Ludovico Ariosto",
+                    "book": "bibit000553.json",
+                    "year": 1474,
+                    "snippet_idx": "1677"
+                },
+                {
+                    "text": "– Madre, trovai troppo crudel contesa\\là dove esser credea voglie mortali,\\e fûro i miei pensier caduchi e frali\\a una pudica, ahimè, tanta difesa!\\\\L'usate frodi, i gravi, antichi inganni,\\cagion ben degna, m'han condotto ai tardi,\\ma poi tanto maggior, gravosi affanni.",
+                    "author": "Giovanni Bellini",
+                    "book": "bibit000996.json",
+                    "year": 1430,
+                    "snippet_idx": "235"
+                },
+                {
+                    "text": "e sento il vivo suo valor del foco\\che mostra quel che lo intelletto serra,\\e provo com'egli arde e come sferra\\ogni saldo pensier dal proprio loco.\\\\Mia donna 'l vede e, pur pietosa 'n viso,\\la scorgo in me girar gli ardenti raggi,\\quasi che del mio mal sé stessa accuse.",
+                    "author": "Giovanni Bellini",
+                    "book": "bibit000996.json",
+                    "year": 1430,
+                    "snippet_idx": "237"
+                },
+                {
+                    "text": "ma, acciò che di ciascun fosse secondo,\\commun lor diede in donna amplo ricetto,\\e per lei vago e pellegrino è 'l mondo.\\\\De la città la qual Lepido onora,\\e che nome real pare che ritegna,\\che de gli altri vicin la fa pi` degna,\\nel fonte un vago lauro oggi dimora,",
+                    "author": "Giovanni Bellini",
+                    "book": "bibit000996.json",
+                    "year": 1430,
+                    "snippet_idx": "188"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 32,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Or se no po de sé far parlamento,\\parli per tal che sia privata e conta\\e sia sua par, se po, di valimento.\\\\Or chi dirà, o ver chi farà dire,\\da poi ch'avèn ched ha loco e stagione,\\s'è maggio o pare o menor de podere\\la donna, se vol guardi per ragione;",
+                    "author": "Guittone d'Arezzo",
+                    "book": "bibit000238.json",
+                    "year": 1235,
+                    "snippet_idx": "630"
+                },
+                {
+                    "text": "Torto è tale, no lo vidi anco pare:\\non osarme piacer ciò ch'è piacente,\\ed essere odiato per amare,\\\\Malgrado vostro e mio son benvogliente,\\e serò, ché non posso unque altro fare,\\e fa mister che pur vegna vincente.",
+                    "author": "Guittone d'Arezzo",
+                    "book": "bibit000238.json",
+                    "year": 1235,
+                    "snippet_idx": "450"
+                },
+                {
+                    "text": "Amando lungiamente,\\disio ch'io vedesse\\quell'ora ch'io piacesse\\com'io valesse —a voi, donna valente.\\Meravigliosamente\\mi sforzo s'io potesse\\ch'io cotanto valesse,\\c'a voi paresse —lo mio affar piacente.\\Vorria servire a piacimento\\là 'v'è tutto piacere,\\e convertire —lo meo parlamento\\a ciò ch'eo sento:\\per intendanza de le mie parole\\veggiate come lo meo cor si dole.",
+                    "author": "Jacopo da Lentini",
+                    "book": "bibit000201.json",
+                    "year": 1210,
+                    "snippet_idx": "49"
+                },
+                {
+                    "text": "Baron lombardi e romani e pugliesi\\e tosci e romagnuoli e marchigiani,\\Fiorenza, fior che sempre rinovella,\\a sua corte v'apella;\\che fare vol de sé re dei toscani,\\da poi che li Alamanni\\ave conquiso per forza e i senesi.",
+                    "author": "Guittone d'Arezzo",
+                    "book": "bibit000238.json",
+                    "year": 1235,
+                    "snippet_idx": "121"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 33,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Sta coverto di ferro un uom di legno,\\con lo scudo imbracciato e l'elmo chiuso,\\ch'esposto ai colpi altrui, bersaglio e segno\\termina il busto in un volubil fuso\\e s'affige ala base e gli è sostegno\\forato ceppo e ben fondato ingiuso,\\sovra cui, quando avien ch'altri il percota,\\agevolmente si raggira e rota.",
+                    "author": "Giovan Battista Marino",
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "snippet_idx": "4860"
+                },
+                {
+                    "text": "Dio pur n'avvisa, che l'Arabia ottenne\\solo rugiada, e fenne - incenso e manna,\\nettarea canna, - e ragia, di che degni\\fûr i miei regni.\\\\Tutti anche i regni han piani, balze e selve,\\pasto e casa di belve. - Oh, maraviglia!\\quanta famiglia - per te, Signor, nasce,\\si cresce e pasce.",
+                    "author": "Tommaso Campanella",
+                    "book": "bibit000557.json",
+                    "year": 1568,
+                    "snippet_idx": "412"
+                },
+                {
+                    "text": "Vuoi l'Arabie veder per te famose?\\la petrea, la deserta e la felice?\\eccoti il loco apunto, ove t'espose\\la trasformata già tua genitrice.\\Ve' le rive di Cipro ambiziose\\d'una tanta bellezza abitatrice;\\conosci il prato ove perdesti il core?\\è quello il tetto ove t'accolse Amore?",
+                    "author": "Giovan Battista Marino",
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "snippet_idx": "1954"
+                },
+                {
+                    "text": "Dopo colui che l'universo regge,\\ponsi il signor che sovra l'onde regna.\\Ai principi minor ch'han da lui legge\\loco non lunge inferior s'assegna.\\Tien presso al gran Nettun le prime segge\\Nereo con Forco e gente altra più degna.\\Stan con mill'altri poi cerulei numi\\degli umid'antri usciti, i vecchi fiumi.",
+                    "author": "Giovan Battista Marino",
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "snippet_idx": "4622"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 34,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Che poss'io dunque fare\\se non seguir cantando\\poscia che 'l mio fallir di scusa è degno?\\\\Luci beate e care,\\a voi volgo 'l mio stile\\rozzo da sé: ma quando\\\\parla di voi, di cossì inetto e vile\\si fa tutto gentile;\\ben, perché varca 'l segno",
+                    "author": "Giovanni Muzzarelli",
+                    "book": "bibit001432.json",
+                    "year": 1486,
+                    "snippet_idx": "87"
+                },
+                {
+                    "text": "che sembran quasi un mar d'aürea luce\\contento degli stretti suoi confini,\\fra i quali l'acqua sua chiara si spazia,\\\\di picciol corso sazia,\\e l'onde d'or che senza fin riluce\\contente al fisso termine conduce!",
+                    "author": "Giovanni Muzzarelli",
+                    "book": "bibit001432.json",
+                    "year": 1486,
+                    "snippet_idx": "42"
+                },
+                {
+                    "text": "nel suo penser rivede\\e che dal caso oppressa\\non conoscea se stessa,\\\\lieta si specchia e gode di vedersi,\\poi, colma d'alte brame,\\pasce di questa sol l'ingorda fame\\\\e' suoi desir diversi,\\onde sente al gustar d'un cibo tale\\a poco a poco a sé rinascer l'ale.",
+                    "author": "Giovanni Muzzarelli",
+                    "book": "bibit001432.json",
+                    "year": 1486,
+                    "snippet_idx": "62"
+                },
+                {
+                    "text": "Non e senza cagion s io me ne doglio\\intendami chi puo che me intendo io\\ne perho di proposito mi toglio\\ne la materia del mio canto oblio\\ma non piu a quel cho detto adattar voglio\\ch a quel ch io vho da dire: il parlar mio\\hor torniamo a contar del paladino\\ch ad assaggiare il vaso fu vicino",
+                    "author": "Ludovico Ariosto",
+                    "book": "bibit000319.json",
+                    "year": 1474,
+                    "snippet_idx": "3821"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 35,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Ond je vous veul proier, por l'autisme puisançe,\\che vous tous la escoutiés en peis e en silançe;\\char je ne vous diray nulle çouse d'enfançe,\\\\ains vous diray de cil che pour la pietançe\\de nous soufri a morir a aspre penetançe.\\E je le pri de cuer, cum cil ch'est ma sperançe,",
+                    "author": "Niccolò da Verona",
+                    "book": "bibit000507.json",
+                    "year": 1350,
+                    "snippet_idx": "1"
+                },
+                {
+                    "text": "l'oreille, che Jesus pues aprés resana,\\e dist: «Cum le pois tu desdir, ch'il te trova\\mien cors ou lu en l'ort?». Lour Piere tant dota\\\\la peour de la mort, che ancour renoia\\Jesu Crist e ancour cum seiremant ferma\\che meis ne ama Jesu ne onque li parla.",
+                    "author": "Niccolò da Verona",
+                    "book": "bibit000507.json",
+                    "year": 1350,
+                    "snippet_idx": "72"
+                },
+                {
+                    "text": "«O santa Dea, poich'è nostro disire,\\per la virtù del nostro sacrificio\\non isdegnar le nostre voci udire:\\\\ma pietosa al tuo giocondo officio\\per merito de' nostri preghi umili,\\ricevi noi e per tuo beneficio.",
+                    "author": "Giovanni Boccaccio",
+                    "book": "bibit000044.json",
+                    "year": 1313,
+                    "snippet_idx": "152"
+                },
+                {
+                    "text": "por desour suen palés, ch'estoit paint ad orfroi,\\fist despoilier le fil de Dieu, le sovrein roi,\\de celle veste blance che Herodes par foloi\\\\le fist vestir davant pour fer de lu gaboi,\\e de pourprine veste, sens desduit ne sbanoi,\\fu vestu mantinant e pues, a grand esfroi,",
+                    "author": "Niccolò da Verona",
+                    "book": "bibit000507.json",
+                    "year": 1350,
+                    "snippet_idx": "100"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 36,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "rompe in iscoglio lacerata e vinta.\\Nulla fatica è vincer chi si tiene\\contra 'l nimico l'arme al fianco cinta.\\\\Le storie antique e moderne son piene\\di varii exempli che chi giugne al sonno\\el suo adversario, vincitor diviene.",
+                    "author": "Alessandro Braccesi",
+                    "book": "bibit001641.json",
+                    "year": 1445,
+                    "snippet_idx": "232"
+                },
+                {
+                    "text": "Io so ben che·lla terra non produce\\cosa divina, ma la tuo belleza,\\la tuo virtù, la tua viril prodeza,\\l'aspecto adorno che più che 'l sol luce,\\quella angelica rara e sancta luce,\\gli atti leggiadri e quella gentileza\\ch'avanza ogni altra, quella bionda treza\\e 'l bel volto ch'a morte mi conduce,\\opre non sono humane o ver terreste,\\ma son dal cel. Chi può adunque negare\\che donna tu non sia sacra e celeste,\\e vera dea da far Giove infiamare?\\Oro né gemme né purpurea veste,\\ma sol Natura adorna ti fa stare.",
+                    "author": "Alessandro Braccesi",
+                    "book": "bibit001641.json",
+                    "year": 1445,
+                    "snippet_idx": "226"
+                },
+                {
+                    "text": "Parla, non mel celar, fa' che ancor io\\conosca la cagion de i tuoi sospiri.\\Al ragionar d'Asteria la fanciulla\\\\s'arrossì fortemente, e per vergogna\\si tacque ciò che disïava aprirle:\\e le parole fin sopra la lingua",
+                    "author": "Gian Giorgio Trissino",
+                    "book": "bibit001420.json",
+                    "year": 1478,
+                    "snippet_idx": "377"
+                },
+                {
+                    "text": "Sie maladecta quella iniqua lingua\\che facto ha lachrimabil la mia sorte\\e di gioconda l'ha conversa in pianti.\\\\Solo un rimedio vegio a' tristi pianti:\\s'almanco chi possiede il miser core\\meco si muterà per miglior sorte,",
+                    "author": "Alessandro Braccesi",
+                    "book": "bibit001641.json",
+                    "year": 1445,
+                    "snippet_idx": "142"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 37,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "(Oh voce\\Che mi piomba sul cor!)\\\\(a Sesto con maestà) Non odi?\\\\(s´avanza due passi e si ferma) (Oh Dio!\\Mi trema il piè; sento bagnarmi il volto\\Da gelido sudore;\\L'angoscia del morir non è maggiore).",
+                    "author": "Pietro Metastasio",
+                    "book": "bibit000409.json",
+                    "year": 1698,
+                    "snippet_idx": "108"
+                },
+                {
+                    "text": "E pur, dolce mia sposa... (a Servilia\\\\A me t'invola:\\Tua sposa io più non son. (in atto di partire\\\\Fermati e senti.\\\\Non odo gli accenti\\D'un labbro spergiuro;\\Gli affetti non curo\\D'un perfido cor.\\Ricuso, detesto\\Il nodo funesto,\\Le nozze, lo sposo,\\L'amante e l'amor. (parte",
+                    "author": "Pietro Metastasio",
+                    "book": "bibit000409.json",
+                    "year": 1698,
+                    "snippet_idx": "85"
+                },
+                {
+                    "text": "Giustizia è pur...\\\\Se la giustizia usasse\\Di tutto il suo rigor, sarebbe presto\\Un deserto la terra. Ove si trova\\Chi una colpa non abbia, o grande o lieve?\\Noi stessi esaminiam. Credimi: è raro\\Un giudice innocente\\Dell'error che punisce.",
+                    "author": "Pietro Metastasio",
+                    "book": "bibit000409.json",
+                    "year": 1698,
+                    "snippet_idx": "31"
+                },
+                {
+                    "text": "Qual fia allor sì intatto giglio\\Ch'io non macchj, e ch'io non sfrondi,\\Dalle forche e dall'esiglio\\Sempre salvo? A me fecondi\\Di quant'oro fien gli strilli\\De' clienti e de' pupilli!\\\\Ma qual arde amabil lume?\\Ah, ti veggio ancor lontano\\Verità mio solo nume,\\Che m'accenni con la mano;\\E m'inviti al latte schietto,\\Ch'ognor bevvi al tuo bel petto.",
+                    "author": "Giuseppe Parini",
+                    "book": "bibit001140.json",
+                    "year": 1729,
+                    "snippet_idx": "57"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 38,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Al sì m'ocorre poy da l'altro canto,\\che l'huom civil non de' star solitario,\\anzi è desïo naturale et santo\\\\aver famiglia; et poi fornir l'armario\\di quel chi dona la Fortuna alquanto,\\al viver d'oggi pur è necessario.",
+                    "author": "Giovanni Dondi dell'Orologio",
+                    "book": "bibit000325.json",
+                    "year": 1330,
+                    "snippet_idx": "19"
+                },
+                {
+                    "text": "et se altra possa fu may tanto acerba\\a metter sopra altruy gravosa soma,\\tute san già quant'ogno orgoglio doma\\al fin Cholui che a sé vendeta serba.\\\\Però qualunque è magior segnoria\\dovrebbe rifrenar chon più mesura\\fra termen di justicia sua potenzza,",
+                    "author": "Giovanni Dondi dell'Orologio",
+                    "book": "bibit000325.json",
+                    "year": 1330,
+                    "snippet_idx": "23"
+                },
+                {
+                    "text": "ch'estoit nomee Efrem; e ou soi oit mené\\siens deciples; e ensi fu nostre sire celé\\toute cele semaine e das Juïs eslonçé.\\\\Pues, pour voloir nous armes torner a saoveté,\\le samedi avant de l'olive, sacié\\ch'il isci dou desert e se fu demotré",
+                    "author": "Niccolò da Verona",
+                    "book": "bibit000507.json",
+                    "year": 1350,
+                    "snippet_idx": "12"
+                },
+                {
+                    "text": "Io non so ben s'io volia quel ch'io volio,\\s'i' tocho quel ch'i' palpo tuta via,\\se quel ch'i' odo, oda, et sia busia\\o vero et ciò che parlo et ciò ch'io lezo.\\\\Sì traviato sum ch'io non mi reggio,\\nì trovo loco, nì so s'i' mi sia;\\et quanto volgo più la fantasia\\più m'abarbalio, ni me ne coreggio.",
+                    "author": "Giovanni Dondi dell'Orologio",
+                    "book": "bibit000325.json",
+                    "year": 1330,
+                    "snippet_idx": "6"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 39,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "— Oh, fratello, tu sei buono!\\Il mio cuore, ecco, ti dono:\\è più dolce di un perdono,\\è più bianco di un altare —.\\\\Foglie morte, foglie morte\\su la soglia delle porte\\dove il cuore batte forte\\e non fa che domandare.",
+                    "author": "Sergio Corazzini",
+                    "book": "bibit000141.json",
+                    "year": 1886,
+                    "snippet_idx": "158"
+                },
+                {
+                    "text": "Io non so a che mi tenga, che non faccia\\Vendetta di cotesta grave ingiuria\\Che mi avete ora fatta a biasimarmi\\Il mio Filisio in così strana guisa:\\Egli val più dormendo che non vale\\Viaste quanto più cerca mostrarsi\\Fra' pastori leggiadro. Or non siate osa\\Più mai di dirmi mal del mio Filisio,\\Ché, se non mi verran meno le mani,\\I'vi farò pentir di tanto ardir.",
+                    "author": "Giovanni Giraldi",
+                    "book": "bibit000981.json",
+                    "year": 1915,
+                    "snippet_idx": "5"
+                },
+                {
+                    "text": "Son le parole buone\\Ma non so se saran sì buoni i fatti.\\\\Saranno anche migliori. I' tengo certo\\Che, s'alcun ti volesse dar per moglie\\Giovane che figliuola si trovasse\\De la sorella di tua madre, mai\\Tu non consentiressi a cosa tale.",
+                    "author": "Giovanni Giraldi",
+                    "book": "bibit000981.json",
+                    "year": 1915,
+                    "snippet_idx": "16"
+                },
+                {
+                    "text": "Prudente veramente è stata Lisa,\\Come tu di', né si potea pensare\\Cosa più acconcia al desiderio nostro.\\Fa Gaia, che si venga qui Viaste,\\Che non si partirà spero da noi,\\Che ogni discordia fia ridotta a pace.",
+                    "author": "Giovanni Giraldi",
+                    "book": "bibit000981.json",
+                    "year": 1915,
+                    "snippet_idx": "12"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 40,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Ce sò llà ll´osterie, le carrettelle?\\Pissceno com´e nnoi nell´urinale?\\Le case pe annà ssù ccianno le scale?\\Cala la luna llà? ssò assai le stelle?\\\\Li muri sò de leggno o ssò de muro?\\Va a Rripetta er carbone o a Rripagranne?\\L´acqua de Trevi, di´, ffuma llà ppuro?",
+                    "author": "Giuseppe Gioachino Belli",
+                    "book": "bibit000033.json",
+                    "year": 1791,
+                    "snippet_idx": "627"
+                },
+                {
+                    "text": "Cacaritto, Ciosciò, Sgorgio, Trippella,\\Rinzo, Sturbalaluna, Pidocchietto,\\Puntattacchi, Freggnone, Gammardella,\\Sciriàco, Lecchestrèfina, er Bojetto,\\\\Manfredonio, Chichì, Chiappa, Ficozza,\\Grillo, Chiodo, Tribuzzio, Spaccarapa,\\Fregassecco, er Ruffiano e Mastr´Ingozza.",
+                    "author": "Giuseppe Gioachino Belli",
+                    "book": "bibit000033.json",
+                    "year": 1791,
+                    "snippet_idx": "792"
+                },
+                {
+                    "text": "«Benissimo Eccellenza», io j´arisposi:\\Poi curzi a ccasa, e, ppe nun dì una stroppola,\\M´incoppolai Presseda, e ssemo sposi.\\\\Davero pònno di ste mmaledette\\«Bbuggiaravve, ecco fiori!» Ma ddavéro\\L´omo drento ar boccino nun cià un zero,\\E li scechi per dio fanno a ttresette!",
+                    "author": "Giuseppe Gioachino Belli",
+                    "book": "bibit000033.json",
+                    "year": 1791,
+                    "snippet_idx": "1307"
+                },
+                {
+                    "text": "Drimo, Nemerte, e Glauce de' cavalli\\di Nettuno custode, e Toe vermiglia,\\di zoofiti amante e di coralli;\\\\Galatea, che nel sen della conchiglia\\la prima perla invenne, e Doto e Proto,\\e tutta di Neréo l'ampia famiglia,",
+                    "author": "Vincenzo Monti",
+                    "book": "bibit001646.json",
+                    "year": 1754,
+                    "snippet_idx": "229"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 41,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Che fai, Corimbo? Stolto chi si crede\\pietà trovar più in altri che 'n sé stessi!\\Prendi da Amore quanto ti concede.\\Stolto, Corimbo, stolto se credessi\\con libertà poter viver suggetto:\\potresti assai, se te stesso vincessi.\\Ma' sempre suole Amor chiuso nel petto\\più palesarsi quanto più l'ascondi:\\non val contra l' iddii l'uman concetto.\\Che fai, Corimbo? Te stessi confondi.\\Ben scorge chi tu servi in un sospiro\\qua' sieno de' pensier' tuoi i più profondi.\\Se 'l ciel si porge a voi sdegnoso e diro,\\miseri amanti, vincete soffrendo.\\Matura il tempo ogni vostro disiro.",
+                    "author": "Leon Battista Alberti",
+                    "book": "bibit000002.json",
+                    "year": 1404,
+                    "snippet_idx": "13"
+                },
+                {
+                    "text": "Po' ch' i' son suto tradito\\già più volte dall'Amore,\\ho disposto e fermo il core\\non amare a gnun partito.\\\\I' son certo che nessuna\\non tien fede a gnuno amante;\\i' n'ho provate più d'una:\\tutte son lieve e voltante.\\Le dimostran tutte quante\\di donarti l'alma e 'l core:\\po' son tutte traditore\\conducendo a mal partito.",
+                    "author": "Bernardo Giambullari",
+                    "book": "bibit001393.json",
+                    "year": 1450,
+                    "snippet_idx": "60"
+                },
+                {
+                    "text": "Or provi quel che è amor fanciulla altiera.\\S'i' solevo sonar, cantar, ballare,\\e mottegiar ridendo volentiera,\\come un giovenco mal uso ad arare\\superbo or si rimpreme, or fuge inanti,\\cossì la Niera. O che tormento è amare!",
+                    "author": "Leon Battista Alberti",
+                    "book": "bibit000002.json",
+                    "year": 1404,
+                    "snippet_idx": "2"
+                },
+                {
+                    "text": "Nymphe, cantate; e risonate ancora,\\aure, con nüi, rivi, fronde, augelli.\\Audissi Amor chi lui cantando onora.\\La Mea con quei soi ditaggi belli\\di fiori scelti mi fa girlandette,\\poi me le asconde doppo gli arbosegli.",
+                    "author": "Leon Battista Alberti",
+                    "book": "bibit000002.json",
+                    "year": 1404,
+                    "snippet_idx": "5"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 42,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "che dèsti duol ne' placidi e sereni,\\e in questi poi svegli contrari affetti,\\quanti 'n tua scorta, ancorché lo cor cinti\\\\di duro smalto, fûro in pace vinti\\dal duce mio? Ma tra' suoi tanti pregi\\abbia la doglia mia pur tanto loco,",
+                    "author": "Giambattista Vico",
+                    "book": "bibit000784.json",
+                    "year": 1668,
+                    "snippet_idx": "44"
+                },
+                {
+                    "text": "E so' restato già scuro e scontente,\\E quanto cchiù me voto e sguardo a tunno\\Tanto me trovo cchiù nigro e dolente.\\\\Ma che spero de fa' si Cecca mia\\È morta, arrasso sia?\\Venite, o chiante, co selluzze, a tommola,",
+                    "author": "Sgruttendio",
+                    "book": "bibit000898.json",
+                    "year": 1646,
+                    "snippet_idx": "458"
+                },
+                {
+                    "text": "Quinzia schiaffina, Renza e Menechella\\Cenza sperduta, Rita e Fragostina,\\Perna, Pantacchia, Zoza e Carmosina,\\Chiagnite Cecca mia, Cecca mia bella!\\Sciccate chesse zérvole, o Ciannella,\\Cacapatacche, Vasta e Catarina,\\Pommizia, Schiattacantare e Sabbina,\\Ciulla, Ciomma, Pordenzia e Pedocchiella!\\Chiagnite a crepa core ed a selluzzo,\\Ca Cecca è morta, ed è muorto cod essa\\Quanto de bello avea sto munno suzzo!\\Ma vuie redite mo, vocche de sguessa,\\Perché non c' è chi ve fa stare a tuzzo,\\E morze chi ve dea la cacavessa.",
+                    "author": "Sgruttendio",
+                    "book": "bibit000898.json",
+                    "year": 1646,
+                    "snippet_idx": "141"
+                },
+                {
+                    "text": "Ietta lo 'mpiso e d' auto non se cura.\\Pascariello, che 'n terra se vedette,\\Te fece, o bene mio, netta palette.\\\\Pacicco stìjo no poco,\\Né sentenno cchiù llà tale né quale\\Torna a lo stisso luoco,\\\\E 'ncuollo se schiaffai lo Caporale:\\Perché lo trovai 'n terra accossì stiso,\\Se crese chillo llà ch' era lo 'mpiso.",
+                    "author": "Sgruttendio",
+                    "book": "bibit000898.json",
+                    "year": 1646,
+                    "snippet_idx": "205"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 43,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Quanto più stanno sotto terra ascosi,\\dove gli altri cotal diventan vecchi,\\questi diventan belli e rigogliosi.\\\\Non so quel che mi dir di quelli stecchi\\ch'essi hanno; ma, secondo il parer mio,\\si posson comportar così parecchi,",
+                    "author": "Francesco Berni",
+                    "book": "bibit000038.json",
+                    "year": 1497,
+                    "snippet_idx": "82"
+                },
+                {
+                    "text": "Giovan Battista della Spada,\\Lionardo de' Foderi.\\\\Vincenzio delle Corazzine,\\Carlo della Maglia.\\\\Vincenzio da Libri,\\Pier Antonio Scrittori.\\\\Giovan Iacopo de' Savi,\\Il Zoppo Mattana.\\\\Evangelista de' Nobili,\\Vergilio Mezzo Villano.",
+                    "author": "Francesco Berni",
+                    "book": "bibit000038.json",
+                    "year": 1497,
+                    "snippet_idx": "289"
+                },
+                {
+                    "text": "e per suo amore andrei fin in Egitto\\et anche credo ch'io combatterei,\\defendendola a torto et a diritto.\\\\Ma s'io facessi e dicessi per lei\\tutto quel ch'io potessi fare e dire,\\non arei fatto quel ch'io doverei;",
+                    "author": "Francesco Berni",
+                    "book": "bibit000038.json",
+                    "year": 1497,
+                    "snippet_idx": "150"
+                },
+                {
+                    "text": "Ed io a lei: – Non mi poran livare\\da sua defesa le parole tue;\\se non morendo, me n' farai ritrare –.\\\\Per la lunga battaglia la qual fue\\tra noi gli avevo tratto ogni mio strale,\\e ella ch'aveva tutte le arme sue",
+                    "author": "Giovanni de' Mantelli di Canobio",
+                    "book": "bibit000257.json",
+                    "year": 1473,
+                    "snippet_idx": "106"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 44,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Quanti favoleggiò numi profani\\l'etate antica han quivi i lor soggiorni.\\Lari, Sileni e Semicapri e Pani,\\la man di tirso, il crin di vite adorni,\\Geni salaci e rustici Silvani,\\Fauni saltanti e Satiri bicorni\\e, di ferule verdi ombrosi i capi,\\senza fren, senza vel Bacchi e Priapi",
+                    "author": "Giovan Battista Marino",
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "snippet_idx": "1289"
+                },
+                {
+                    "text": "Né pria, né poi, né fuor, l'alma pensosa\\(ché 'n vigor, tempo e luogo egli è infinito)\\può andar, se in qualche fin falso non posa.\\\\Da lui, per lui e 'n lui vien stabilito\\lo smisurato spazio e gli enti sui,\\al cui far del niente si è servito.",
+                    "author": "Tommaso Campanella",
+                    "book": "bibit000557.json",
+                    "year": 1568,
+                    "snippet_idx": "5"
+                },
+                {
+                    "text": "Di': come al buio hai tu distinto l'ossa?\\i nervi soprasteso alle giunture?\\tante varie testure\\di vene, arterie e muscoli formasti,\\le viscere, le fibre e legature?\\come il bodel si piega, stringe e ingrossa?\\come, di carne rossa\\vestendo il tutto, la testa scarnasti?\\come il caldo obbedia? come il frenasti?",
+                    "author": "Tommaso Campanella",
+                    "book": "bibit000557.json",
+                    "year": 1568,
+                    "snippet_idx": "319"
+                },
+                {
+                    "text": "Locri, Tarento, Sibari e Crotone,\\Sannio, Capua, Firenze, Reggio e Chiuse,\\Genova e l'altre, di gloria deluse,\\fa da sé ognuna a Grecia paragone;\\Roma no, che s'oppone\\a tutto 'l mondo insieme, a tutte cose:\\ma pur le favolose\\o vere laudi greche a sé pospone\\Venezia, onor di virgini e di spose:\\nuota in mar, rugge in terra e vola in cielo,\\pesce, leon alato col Vangelo.",
+                    "author": "Tommaso Campanella",
+                    "book": "bibit000557.json",
+                    "year": 1568,
+                    "snippet_idx": "194"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 45,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "il fa sembiante in sì mirabil vista.\\Altri de gli elementi il sommo e 'l puro\\da l'immondo e feccioso aduna e scieglie;\\\\e ne figura gli stellanti chiostri,\\c'hanno dal foco la serena luce\\e da la terra il suo costante e 'l saldo.",
+                    "author": "Torquato Tasso",
+                    "book": "bibit001455.json",
+                    "year": 1544,
+                    "snippet_idx": "103"
+                },
+                {
+                    "text": "La bell'aura partissi, e gli elementi\\ben segno ne mostrorno;\\l'aura ch'or spazia a l'altre dive accanto\\del sesto e primo ciel, benché nessuna\\l'agguagli di splendor, Cinzia rimossa,\\che seco unita superar s'ingegna\\quel che distingue l'ore.",
+                    "author": "Giovanni Guidiccioni",
+                    "book": "bibit000158.json",
+                    "year": 1500,
+                    "snippet_idx": "6"
+                },
+                {
+                    "text": "Mentre le voci tue meste e dolenti\\percuoton d'ogni intorno,\\l'aura risuona e 'l bel nome altrettanto,\\e 'l resto par che taccia eco importuna\\al tuo disio; benché non mai percossa\\chiuse ferita né per giunger legna\\si spense alcun ardore.",
+                    "author": "Giovanni Guidiccioni",
+                    "book": "bibit000158.json",
+                    "year": 1500,
+                    "snippet_idx": "7"
+                },
+                {
+                    "text": "Con veloci pensier, con passi lenti\\al sacro sasso io torno:\\vien meco, Clita, a rinnovare il pianto\\funesto e grave e ritentar più d'una\\volta l'ingegno per alzar quell'ossa\\ove è salita l'alma e dove regna\\cinta d'eterno onore.",
+                    "author": "Giovanni Guidiccioni",
+                    "book": "bibit000158.json",
+                    "year": 1500,
+                    "snippet_idx": "0"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 46,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Serena, estiva luce, matutina,\\Celeste gioventù, ch'ognihor rinova,\\Beltà frequente a la magion divina,\\Nel nostro mondo inconsuëta et nova;\\Fulgor de sol, che 'n nulla età declina,\\Margarita, che 'n ciel simil ritrova,\\A cui vittoria Amor, vinto, s'inclina,\\Ché pugnar con Constantia è vana prova.\\Ché, benché il blandïente et dolce riso\\Et l'ornato parlar gli animi tire\\Dietro al bel, giovenil, tenero viso;\\D'alto valor non vien basso desire:\\Chi di tal volto affètta il Paradiso,\\Conven ch'a gloria et pudicitia aspire.",
+                    "author": "Chariteo",
+                    "book": "bibit000637.json",
+                    "year": 1450,
+                    "snippet_idx": "257"
+                },
+                {
+                    "text": "Non sian homai sì fise\\Le vostre menti, in voglie, in foco accese,\\D'esser superïori a vostri eguali.\\\\O cupidi mortali,\\S'ardente honor vi chiama ad alte imprese,\\Ite a spogliar quel sacro, almo paese",
+                    "author": "Chariteo",
+                    "book": "bibit000637.json",
+                    "year": 1450,
+                    "snippet_idx": "359"
+                },
+                {
+                    "text": "Sol m'è rimasa una mortal paura\\De viver lungamente in tanti affanni;\\Dunque conven ch'io m'interrompa gli anni,\\\\Ch'altro che ben morir non m'assicura.\\Però per presto uscir da questa oscura\\Pregion, contra la sorte",
+                    "author": "Chariteo",
+                    "book": "bibit000637.json",
+                    "year": 1450,
+                    "snippet_idx": "110"
+                },
+                {
+                    "text": "Degno sarei di sotto a tutti quanti\\e forte temo che morte non giunga\\e truovimi ribello a Dio e' Santi.\\\\Non so quanto mie vita ha esser lunga,\\e son tanto indurato nel mal fare\\ch' i' temo che 'l ben far poco mi punga.",
+                    "author": "Bernardo Giambullari",
+                    "book": "bibit001393.json",
+                    "year": 1450,
+                    "snippet_idx": "6"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 47,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "come quel dì che tu n'avesti sdegno\\e tanto spiacque al figliuol di Mellone.\\E s'io potessi acquistar questo regno,\\io lo farò, ché così vuol ragione;\\ma sempre Carlo col suo titol degno\\istarà in sedia con reputazione;\\però che questa alfin non è mia opra,\\ma così dato, Ulivieri, è disopra:",
+                    "author": "Luigi Pulci",
+                    "book": "bibit000363.json",
+                    "year": 1432,
+                    "snippet_idx": "2727"
+                },
+                {
+                    "text": "e la Francia e la Ghienna e la Borgogna\\e Navarra, Araona con la Spagna,\\la Fiandra e l'Inghilterra e la Guascogna,\\la Dazia e la Germania e la Brettagna\\e Pannonia e Boemia e la Sansogna\\e tante gran provincie della Magna\\e l'Istria e la Dalmazia e Lombardia\\rimason sotto la sua monarchia.",
+                    "author": "Luigi Pulci",
+                    "book": "bibit000363.json",
+                    "year": 1432,
+                    "snippet_idx": "3724"
+                },
+                {
+                    "text": "ma per paura nessun non si mosse.\\In questo mezzo sopra loro apparse\\un vampo che parea di fuoco fosse;\\e l'acque vidon traboccate e sparse\\fuor della fonte, che parevon rosse;\\e ciò che quelle toccorno, tutto arse,\\sì che dintorno abbruciò la gramigna,\\ché l'acqua bolle e pareva sanguigna.",
+                    "author": "Luigi Pulci",
+                    "book": "bibit000363.json",
+                    "year": 1432,
+                    "snippet_idx": "2911"
+                },
+                {
+                    "text": "Francia, Spagna, Bertagna, che Inghilterra\\da gli Angli di Sassonia poi fu detta;\\la Francia, a cui Germania era congiunta,\\\\dicesette provincie aveano insieme,\\la Spagna sette e la Bertagna cinque.\\Ora, perché poi che fu morto Oreste",
+                    "author": "Gian Giorgio Trissino",
+                    "book": "bibit001420.json",
+                    "year": 1478,
+                    "snippet_idx": "197"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 48,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Mentre ardenti sospiri e pianto amaro\\hanno avuto questi occhi e questo core,\\mentre ha potuto la mia lingua dire,\\v'ho mostro la mia fede e 'l mio martire.\\Or che, lasso, l'umor, la voce e 'l fiato\\donna, colpa di voi, m'invola il fato,\\se vostro fui, se soffert'ho dolore,\\ve ne darà il mio fin segno maggiore.\\Ahi poi che giunto a tal m'avete stato,\\non vi sia il mio morir cotanto caro,\\che fuor non veggia uscir di quel bel seno\\un pietoso sospir, morendo almeno.",
+                    "author": "Girolamo Parabosco",
+                    "book": "bibit000967.json",
+                    "year": 1524,
+                    "snippet_idx": "0"
+                },
+                {
+                    "text": "Niuna sconsolata\\da dolersi ha quant'io,\\ch'in van sospiro, lassa innamorata;\\ben mi fu dett'a pien quant'era ingrato\\questi ch'in terra adoro,\\ma fu sì dolc'il suo guardo gentile,\\che senz'aver pensato\\alle parole altrui,\\ahi, quanto sciocca fui:\\in preda me gli diedi, ond'io ne moro.\\Né per lo mio morir ei cangia stile,\\né cangerà se pria non si dissolve\\lo spirto in aria e 'l corpo in poca polve.",
+                    "author": "Girolamo Parabosco",
+                    "book": "bibit000967.json",
+                    "year": 1524,
+                    "snippet_idx": "63"
+                },
+                {
+                    "text": "Che no so, alla fè bona, se trovasse\\Qualche matto spazzà che me mandasse,\\Sempre che te chiavasse,\\\\Quatro mille zichini el zorno drio,\\Se volesse accettar nianca el partìo.\\Ma son cusì insorìo,\\\\Son tanto stuffo a razonar de ti,\\Che me resolvo de no scriver pi.\\Resta pur col mal dì,",
+                    "author": "Maffio Venier",
+                    "book": "bibit001236.json",
+                    "year": 1550,
+                    "snippet_idx": "164"
+                },
+                {
+                    "text": "chi ognor mirar potesse il suo bel viso.\\Adunque meglio fora\\lasciar che il tempo intepidisse il foco,\\\\che ne sface e distilla a poco a poco,\\che raccenderlo più per sopportare\\un anno di tormento,\\\\inaspettando un'ora\\di goder poi così breve contento.\\Ah, sciocco, non t'avedi",
+                    "author": "Girolamo Parabosco",
+                    "book": "bibit000967.json",
+                    "year": 1524,
+                    "snippet_idx": "33"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 49,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Serbica e Turca, ed Itala e Francese,\\né ben d'altrui né tua ben fosti mai:\\patria viva non ha chi di te nacque.\\\\Ma se non mente al mio doglioso affetto\\il ciel sereno, e negli aperti venti\\libero il cedro, e l'odorata neve",
+                    "author": "Niccolò Tommaseo",
+                    "book": "bibit000698.json",
+                    "year": 1802,
+                    "snippet_idx": "37"
+                },
+                {
+                    "text": "E l´ingiurie ingozzate, e ll´accidenti,\\Sò ppartitelle ariservate in petto\\Pe ppoi mettele in conto a li crienti.\\\\L´antr´anno er mi´ padrone lo spezziale\\Ebbe dar Brodomedico l´avviso\\Ch´er primo luneddì de carnovale\\Vierebbe a vvisitallo a l´improviso.",
+                    "author": "Giuseppe Gioachino Belli",
+                    "book": "bibit000033.json",
+                    "year": 1791,
+                    "snippet_idx": "1091"
+                },
+                {
+                    "text": "E il calor ch'esce di due alme unite\\in un amplesso generoso e pio,\\in quant'aria si fuse, in quante vite\\corse e svanìo?\\\\Quanti moti un solo moto, e quanti adduce\\una sola cagion diversi effetti!\\piena di preghi è l'armonia, la luce\\piena d'affetti.",
+                    "author": "Niccolò Tommaseo",
+                    "book": "bibit000698.json",
+                    "year": 1802,
+                    "snippet_idx": "372"
+                },
+                {
+                    "text": "E quando al fin de' miei pensati guai\\vicino essere credea, raccomandai\\potesser le ignorate ossa posar\\\\al Borgo, là dov'Ombre armate intorno\\ai ben difesi tetti errano, e il corno\\paion, che a guerra inciti, ansie bramar.",
+                    "author": "Niccolò Tommaseo",
+                    "book": "bibit000698.json",
+                    "year": 1802,
+                    "snippet_idx": "34"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 50,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Tu ci dona la parola.\\\\Tu difendi i giornalisti,\\E dirigi i nostri accordi ...\\\\Finché durano i balordi.\\Ecco finito, o Donne. Or se volete\\Ciarlar, ciarlate, che buon pro vi faccia;\\Se con la Ciarla mia vi fei star chete,\\Me con la vostra rammentar vi piaccia;\\Se far poi nol vorrete, vostro danno:\\Vi lascio; e a rivederci a quest'altr'anno.",
+                    "author": "Antonio Guadagnoli",
+                    "book": "bibit001454.json",
+                    "year": 1798,
+                    "snippet_idx": "3"
+                },
+                {
+                    "text": "Bella Dea, che il mondo reggi\\Fin da' secoli remoti,\\Ci soccorri, ci proteggi,\\Ed accogli i nostri voti,\\E ci guida all'arte antica\\Di buscar senza fatica.\\\\Tu c'ispira, o Dea clemente,\\Un parlar loquace e tondo,\\Sicché vada allegramente\\L'ammalato all'altro mondo,\\E abbia requie almen defonto...",
+                    "author": "Antonio Guadagnoli",
+                    "book": "bibit001454.json",
+                    "year": 1798,
+                    "snippet_idx": "0"
+                },
+                {
+                    "text": "Te, ricca di comune\\Censo, la patria loda;\\Te sublime, te immune\\\\Cigno da tempo che il tuo nome roda,\\Chiama gridando intorno;\\E te molesta incita\\\\Di poner fine al Giorno,\\Per cui cercato a lo stranier ti addita:\\Ed ecco, il debil fianco",
+                    "author": "Giacomo Leopardi",
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "snippet_idx": "1338"
+                },
+                {
+                    "text": "Ma l'erede paghi il conto.\\\\Se stringiam la penna in mano,\\Fra la cabala e l'imbroglio,\\D'un ingegno sovrumano,\\Tua mercé, domiam l'orgoglio\\Con ingiurie, e scherni a josa ...\\\\Ma se paga, è un'altra cosa.",
+                    "author": "Antonio Guadagnoli",
+                    "book": "bibit001454.json",
+                    "year": 1798,
+                    "snippet_idx": "1"
+                }
+            ],
+            "solution": 2,
+            
+        }
+    ]
+}

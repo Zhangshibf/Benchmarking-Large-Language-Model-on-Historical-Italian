@@ -1,0 +1,5794 @@
+[
+  {
+    "letter_id": "DLCL_CF_E10001",
+    "filename": "DLCL_CF_E10001.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1711-10-31",
+      "place_sent": "Ribano",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Ribano, 31 Ottobre 1711)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Con la gratissima lettera di Vostra Paternitàricevo la nota de' libri di Faenzae insieme la certa notizia dell'offerta già fatta dal mio Marozzi. Con questo lume ora potrò regolarmi nel rispondere alla richiesta di dieci scudi. Mi spiace che ancora non siano giunti i due Manoscritti del Quadriregio; perché non avrò costì l’ozio, che qui posso godere, per collazionarli con lo stampato. Avrò caro che presto arrivino i libri del Ruinetti. Raccomando a Vostra Paternitàsollecitare la copia del Calendario; la qual fatta consegni subito al Padre Camerlingoper la stampa. Indi converrà ch’ella applichi a fare il Catalogo della Libreria Vecchia. Con che raccomandandomi a suoi santi sagrifici, ed alle orazioni sue, mi confermo. Ribano 31 ottobre 1711. DVP Mi scrive il Padre Amiciche siano giunte a Don Bonifaciole tre copie del Martelli. Faccia sapere a lui che si faccia venire da quel Padredel Monte di Cesenala Copia delle Ipercrisidel Bacchini. Veda col Padre Camerlengo, che ha la chiave, trovare delle nostre camere due copie del Catullodel Volpilegato alla rustica; e le mandi al Padre Amici. Cordialissimo Padre nel Signore Pietro Canneti Al Molto Reverendo Padre mio Osservandissimo Il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna",
+    "entities": [
+      {
+        "text": "Faenza",
+        "start": 115,
+        "end": 121,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0005",
+        "key": "DLCL_CF_L0005"
+      },
+      {
+        "text": "Marozzi",
+        "start": 179,
+        "end": 186,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0004",
+        "key": "DLCL_CF_PC0004"
+      },
+      {
+        "text": "due Manoscritti del Quadriregio",
+        "start": 310,
+        "end": 341,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Ruinetti",
+        "start": 472,
+        "end": 480,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0005",
+        "key": "DLCL_CF_PC0005"
+      },
+      {
+        "text": "Calendario",
+        "start": 536,
+        "end": 546,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Catalogo della Libreria Vecchia",
+        "start": 653,
+        "end": 684,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Ribano",
+        "start": 769,
+        "end": 775,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0006",
+        "key": "DLCL_CF_L0006"
+      },
+      {
+        "text": "Padre Amici",
+        "start": 810,
+        "end": 821,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0006",
+        "key": "DLCL_CF_PC0006"
+      },
+      {
+        "text": "Don Bonifacio",
+        "start": 840,
+        "end": 853,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0007",
+        "key": "DLCL_CF_PC0007"
+      },
+      {
+        "text": "Martelli",
+        "start": 870,
+        "end": 878,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Monte di Cesena",
+        "start": 938,
+        "end": 953,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0003",
+        "key": "DLCL_CF_O0003"
+      },
+      {
+        "text": "Ipercrisi",
+        "start": 968,
+        "end": 977,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Bacchini",
+        "start": 981,
+        "end": 989,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0009",
+        "key": "DLCL_CF_PC0009"
+      },
+      {
+        "text": "Catullo",
+        "start": 1078,
+        "end": 1085,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Volpi",
+        "start": 1089,
+        "end": 1094,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0011",
+        "key": "DLCL_CF_PC0011"
+      },
+      {
+        "text": "Padre Amici",
+        "start": 1129,
+        "end": 1140,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0006",
+        "key": "DLCL_CF_PC0006"
+      },
+      {
+        "text": "Pietro Canneti",
+        "start": 1174,
+        "end": 1188,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": "DLCL_CF_PC0001"
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 1237,
+        "end": 1265,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 1284,
+        "end": 1290,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 1291,
+        "end": 1298,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 20,
+    "text_length": 1298
+  },
+  {
+    "letter_id": "DLCL_CF_E10002",
+    "filename": "DLCL_CF_E10002.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1711-11-03",
+      "place_sent": "Ribano",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Ribano, 3 Novembre 1711)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Al mio ritorno dunque troverò i libri da spedirsi dal Ruinetti. Se il prezzo o è inalterabile, o stabilito in 22 scudi, non accade altro discorrerne. Se v’ha luogo ad alterarlo con vantaggio, mi rimetto al nostro Marozzi, che di cuore saluto. Ricevo il Martellolegato approposito per una Libreria. Quando non possa aversi sciolto, si avrà questa copia che mi piace, e questa basterà, non volendone che una per la Libreria. Aspetteremo che da Bolognaritorni la copia delle Ipercrisia Cesena; e poi manderò la nostra a far emendare. Saluti caramente il Padre Don Venanzio, dalla cui attenzione godo che sia stata fatta condurre a fine l’una, e l’altra copia. Con che di tutto cuore mi confermo, pregandole dal Signore Iddio la pienezza delle vere felicità. DVP. Ribano 3 Novembre 1711 Il Signore Muratorimi scrive non so che di cinque Copiedel Petrarcamandate al nostro Libraio. Suppongo abbia rimesso il dinaro al Soliani. Un Amicomi scrive che gli proveda un’ Istoria di Ravennadel Rossidella 2a edizione. Il Librarofaccia diligenza se può aversene una ben conservata a prezzo giusto. Suol vendersi al più tre scudi. [So che Monsignore Vicarione ha, o aveva due copie; ma ne pretendeva cinque, o sei scudi] Affettuosissimo Cordialissimo Padre nel Signore Don Pietro Canneti Al molto reverendo Padre mio Osservandissimo il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna",
+    "entities": [
+      {
+        "text": "Ruinetti",
+        "start": 96,
+        "end": 104,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0005",
+        "key": "DLCL_CF_PC0005"
+      },
+      {
+        "text": "Marozzi",
+        "start": 255,
+        "end": 262,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0004",
+        "key": "DLCL_CF_PC0004"
+      },
+      {
+        "text": "Martello",
+        "start": 295,
+        "end": 303,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 455,
+        "end": 463,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": "DLCL_CF_O0001"
+      },
+      {
+        "text": "Bologna",
+        "start": 484,
+        "end": 491,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0007",
+        "key": "DLCL_CF_L0007"
+      },
+      {
+        "text": "Ipercrisi",
+        "start": 514,
+        "end": 523,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Cesena",
+        "start": 525,
+        "end": 531,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0009",
+        "key": "DLCL_CF_L0009"
+      },
+      {
+        "text": "Padre Don Venanzio",
+        "start": 593,
+        "end": 611,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0012",
+        "key": "DLCL_CF_PC0012"
+      },
+      {
+        "text": "Ribano",
+        "start": 802,
+        "end": 808,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0006",
+        "key": "DLCL_CF_L0006"
+      },
+      {
+        "text": "Muratori",
+        "start": 836,
+        "end": 844,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0013",
+        "key": "DLCL_CF_PC0013"
+      },
+      {
+        "text": "cinque Copie",
+        "start": 868,
+        "end": 880,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Petrarca",
+        "start": 884,
+        "end": 892,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0025",
+        "key": "DLCL_CF_PC0025"
+      },
+      {
+        "text": "Soliani",
+        "start": 955,
+        "end": 962,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0026",
+        "key": "DLCL_CF_PC0026"
+      },
+      {
+        "text": "Istoria di Ravenna",
+        "start": 1002,
+        "end": 1020,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Rossi",
+        "start": 1024,
+        "end": 1029,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0014",
+        "key": "DLCL_CF_PC0014"
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 1297,
+        "end": 1315,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": "DLCL_CF_PC0001"
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 1364,
+        "end": 1392,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": "DLCL_CF_PC0002"
+      },
+      {
+        "text": "Classe",
+        "start": 1411,
+        "end": 1417,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": "DLCL_CF_L0020"
+      },
+      {
+        "text": "Ravenna",
+        "start": 1418,
+        "end": 1425,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 19,
+    "text_length": 1425
+  },
+  {
+    "letter_id": "DLCL_CF_E10005",
+    "filename": "DLCL_CF_E10005.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1713-08-06",
+      "place_sent": "Ravenna",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Ravenna, 6 Agosto 1713)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Se l’aria, che và dolcemente ventilandosi intorno all’inclita Torre degli Asinelli, non basta a superar le doglie, e i magoni del fiacchissimo Padre Fiacchi; e che ne faremo? egli vorrebbe prolongar costì la sua dimora; io l’intendo; e perciò s’infinge languido, svenevole, e tristanzuolo. Ma non basterà, né gioverà tal’arte contro alla sollecitudine di Frate Ferdinando, che ogni dì interroga quando dee rimandar la sedia a levarlo di Bologna. Sbrighi dunque il rassettamento dello Studio Sbaraglia, e non perda tempo in complimentar colle doglie, coll’ inabilità, col non sapere, col non esser buono, e che sò io. Suppongo per indubitato che nello Studiovi sian libri di Matematica. Veda di studiare da se qualche cosa, e tanto in somma che basti al suo ritorno per sapermi dire qual proporzione corra tra il Padre Lettore Corazza, e il nostro Padre Don Bonifazio. Mi preme intendere buone nuove dell’interesse, per cui Vostra Paternitàprincipalmente si è mossa. Anco per questo motivo è stato bene ch’ella, trascurato ogni altro invito, siasi fermata appresso il Padre Don Bonifazio. Ne ho avuto somma consolazione. E, per dirla, non mi piaceva che ella andasse altrove. Quando potrà andare alla Libreria di S. Salvatore, si ricordi vedere nell’ Epistole manoscrittedel Candidose vi è menzione del nostro Ambrogio. Mi riverisca il Padre Amici; e gli dica che in quest’ordinario mando a Romaal Signore Crescimbeniun’esemplare del Sonetto di San Filipponobilissimamente stampato costì, essendomi stato chiesto con grande istanza. Son’ arrivati i libri di Foligno; e vi ho trovate di belle cose. Ieri, dovendosi consegnare al Signor Verattila sua porzione de’ libri del fu Dottore Muratori, non fu possibile trovar in verun luogo la nota fatta di tutti, con la dovuta distribuzione, da Vostra Paternitàche però dopo replicate inutilmente le ricerche, convenne a me, e al Padre Buticon una flemma sforzata rifare la nota smarrita. Preghi il Signor Iddio per me, che caramente l’abbraccio. DVP. Ravenna 6 agosto 1713 Affettuosissimo Padre nel Signore Don Pietro Canneti Commentarij deVita. Jacobi Augusti Thuani [...] in calce Vol. 2. et [cons.] lib. VI. pag. 106. Al Molto Reverendo Padre mio Osservandissimo Il Padre Don Mariangelo FiacchiMonaco Camaldolese Bologna [...] Antonio Andrea P. Candidus Decembrius Abbas",
+    "entities": [
+      {
+        "text": "Torre degli Asinelli",
+        "start": 104,
+        "end": 124,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0007",
+        "key": ""
+      },
+      {
+        "text": "Padre Fiacchi",
+        "start": 185,
+        "end": 198,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Frate Ferdinando",
+        "start": 397,
+        "end": 413,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0029",
+        "key": ""
+      },
+      {
+        "text": "Bologna",
+        "start": 479,
+        "end": 486,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0007",
+        "key": ""
+      },
+      {
+        "text": "Studio Sbaraglia",
+        "start": 526,
+        "end": 542,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0008",
+        "key": ""
+      },
+      {
+        "text": "Studio",
+        "start": 693,
+        "end": 699,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0008",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Corazza",
+        "start": 854,
+        "end": 875,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0030",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Bonifazio",
+        "start": 889,
+        "end": 908,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0007",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Bonifazio",
+        "start": 1109,
+        "end": 1128,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0007",
+        "key": ""
+      },
+      {
+        "text": "Libreria di S. Salvatore",
+        "start": 1242,
+        "end": 1266,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0009",
+        "key": ""
+      },
+      {
+        "text": "Epistole manoscritte",
+        "start": 1292,
+        "end": 1312,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Candido",
+        "start": 1316,
+        "end": 1323,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0031",
+        "key": ""
+      },
+      {
+        "text": "Ambrogio",
+        "start": 1351,
+        "end": 1359,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0032",
+        "key": ""
+      },
+      {
+        "text": "Padre Amici",
+        "start": 1377,
+        "end": 1388,
+        "type": "PER",
+        "ref": "DLCL_CF_PC0006",
+        "key": ""
+      },
+      {
+        "text": "Roma",
+        "start": 1432,
+        "end": 1436,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0008",
+        "key": ""
+      },
+      {
+        "text": "Signore Crescimbeni",
+        "start": 1439,
+        "end": 1458,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0033",
+        "key": ""
+      },
+      {
+        "text": "Sonetto di San Filippo",
+        "start": 1475,
+        "end": 1497,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Foligno",
+        "start": 1599,
+        "end": 1606,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0023",
+        "key": ""
+      },
+      {
+        "text": "Signor Veratti",
+        "start": 1669,
+        "end": 1683,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0034",
+        "key": ""
+      },
+      {
+        "text": "Dottore Muratori",
+        "start": 1716,
+        "end": 1732,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0013",
+        "key": ""
+      },
+      {
+        "text": "Padre Buti",
+        "start": 1914,
+        "end": 1924,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0035",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 2036,
+        "end": 2043,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2092,
+        "end": 2110,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 2254,
+        "end": 2282,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Bologna",
+        "start": 2301,
+        "end": 2308,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0007",
+        "key": ""
+      }
+    ],
+    "entity_count": 25,
+    "text_length": 2358
+  },
+  {
+    "letter_id": "DLCL_CF_E10007",
+    "filename": "DLCL_CF_E10007.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1714-05-02",
+      "place_sent": "Bertinoro",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Bertinoro, 2 Maggio 1714)"
+    },
+    "text": "Padre Don MariangeloAmatissimo Nell’ Indiciho segnato i libri, che desidero aver meco. Conviene far le Cassette; che non passino trecentolibre l’una. Se a coprire le some vi mancheranno de’ libri, Vostra Paternitàvi aggiunga quei, che ella giudicherà più proporzionati a’ miei studi, e più uniformi agli altri già scelti. Certo è che, per non far crescere troppo le some, molti ne ho lasciati, che mi sarebbe stato caro trasportare appresso di me. Nell’ Indicevi mancano i due Tomi del Concilio Fiorentinovenuti ultimamente da Venezia. Questi non manchi di mettergli nelle Casse. Forse vi manderanno eziandio i libri, ch’erano in mano di Frate Teodoro. Non sapendo io quali precisamente siano, non posso dire se abbiano da rimanere, o no. Sol mi ricordi che v’era da legare in cartone il volume grosso in foglio dell’ epistole del Filelfo. Questo metta nelle casse. Per gli altri a lei mi rimetto. Delle molte copie della Cilauda, del Rossie della Scanzia... del Cinelli, ne riponga alcune poche nelle Casse. Il resto si trattenga. Fermi costì tutta la molta quantità de’ libri Miscellanei. Se vi è luogo per la Somma di S. Tommaso, ve la riponga. Solleciti la spedizione di questa faccenda. L’abbraccio caramente e mi confermo di tutto cuore. Bertinoro 2 maggio 1714 DVPMR Vi metta il libro Acta Translationis S. Bartholomei Apostoli, ch’è veramente nostro. Servito che io me ne sia, lo cederò, con altri, in dono alla Libreria. Con gli accennati due libri del Concilio Fiorentinovi deve essere il Bauldry delle Cerimonie. Ne ho necessità. Affettuosissimo Servo e Padre nel Signore Don Pietro Canneti Al Molto Reverendo Padre mio Osservandissimo Il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna",
+    "entities": [
+      {
+        "text": "Padre Don Mariangelo",
+        "start": 0,
+        "end": 20,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": "DLCL_CF_PC0002"
+      },
+      {
+        "text": "Indici",
+        "start": 37,
+        "end": 43,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Indice",
+        "start": 454,
+        "end": 460,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "due Tomi del Concilio Fiorentino",
+        "start": 473,
+        "end": 505,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Venezia",
+        "start": 527,
+        "end": 534,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0024",
+        "key": ""
+      },
+      {
+        "text": "Frate Teodoro",
+        "start": 638,
+        "end": 651,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0036",
+        "key": ""
+      },
+      {
+        "text": "epistole del Filelfo",
+        "start": 818,
+        "end": 838,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Cilauda",
+        "start": 922,
+        "end": 929,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Rossi",
+        "start": 935,
+        "end": 940,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Scanzia",
+        "start": 948,
+        "end": 955,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Cinelli",
+        "start": 963,
+        "end": 970,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0038",
+        "key": ""
+      },
+      {
+        "text": "Somma di S. Tommaso",
+        "start": 1112,
+        "end": 1131,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Bertinoro",
+        "start": 1244,
+        "end": 1253,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0025",
+        "key": ""
+      },
+      {
+        "text": "Acta Translationis S. Bartholomei Apostoli",
+        "start": 1292,
+        "end": 1334,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 1420,
+        "end": 1428,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "due libri del Concilio Fiorentino",
+        "start": 1448,
+        "end": 1481,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Bauldry delle Cerimonie",
+        "start": 1499,
+        "end": 1522,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 1583,
+        "end": 1601,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 1650,
+        "end": 1678,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 1697,
+        "end": 1703,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 1704,
+        "end": 1711,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 21,
+    "text_length": 1711
+  },
+  {
+    "letter_id": "DLCL_CF_E10018",
+    "filename": "DLCL_CF_E10018.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1715-03-30",
+      "place_sent": "Perugia",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Perugia, 30 Marzo 1715)"
+    },
+    "text": "Padre Don MariangeloCarissimo Io son tuttavia debitore alla Paternità Vostrad’una piena risposta all’ultima sua. Intanto, ritrovandomi angustiatissimo dell’incessante lavoro intorno alle pistole Ambrosiane, mandai a lei per la posta una succinta lettera con raccomandarle premurosamente la spedizione sollecita de’ nostri libri, che avea alle mani, senza aspettarne altri, che sopraggiungano. Ma non ho veduto risposta, né effetto delle mie istanze. Ora replico più che mai le mie premure, e per mezzo di lei le raccomando al Padre Camerlengo, che riverisco, e a Frate Ferdinando, che caramente saluto perché mi si mandino quanto prima è mai possibile, facendone indirizzo a Pesaroal Reverendissimo Magni. Di là a Perugiavi son’occasioni continue per via di Gubbio. So ch’ella ha avuto i Giornali, le due coppie della Merope, delle quali ho necessità. Al mio Padre Don Bonifaziomille saluti con tutto l’ cuore. Non so se mi abbia fatto venire l’ Orlandidegli Scrittori Bolognesi. L’aspetto legato. Già diedi l’assenso perché in cambio si dassero le Prosedel Firenzuolacol supposto che ve ne sia altra copia in Libreria. Quando non sia venuto, solleciti. Ma non per questo si differisca la spedizione degli altri. Quanto alle medaglie, penso che dopo Pasqua il Padre Camerlengo mio Mastri, le levi da Cesena, e me le faccia trasportar quà. Se l’ Amicole vuole, risolva avanti Pasqua. Quando il Padre Don Bonifazionon possa averne di più, le dia per circa cinquanta scudi contanti, o in poliza per Roma. Sono in mano del signor Dottor Ceccarini; e si può intendere ancora col detto Padre mio Camerlengo. Sono immerso nella mia occupazione. Ho empiti già cinque quinterni di carta. Ma dopo Pasqua voglio prendermi un poco di respiro. Mi raccomando per la nota de’ nostri libri. Di grazia me la spedisca. Qui si va accrescendo qualche cosa, anco del buono. Resto con abbracciare entrambi. DVPMR Perugia 30 Marzo 1715 Ai Padri Lettori Guiccioli, e Onestinii miei riverenti saluti. Affettuosissimo Servo e Padre nel Signore Don Pietro Canneti Al molto Reverendo Padre mio Osservandissimo il Padre Don Mariangelo FiacchiMonaco Camaldolese Ravenna",
+    "entities": [
+      {
+        "text": "Padre Don Mariangelo",
+        "start": 0,
+        "end": 20,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": "DLCL_CF_PC0002"
+      },
+      {
+        "text": "pistole Ambrosiane",
+        "start": 187,
+        "end": 205,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Frate Ferdinando",
+        "start": 563,
+        "end": 579,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0029",
+        "key": ""
+      },
+      {
+        "text": "Pesaro",
+        "start": 675,
+        "end": 681,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0003",
+        "key": ""
+      },
+      {
+        "text": "Reverendissimo Magni",
+        "start": 684,
+        "end": 704,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0154",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 714,
+        "end": 721,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "Gubbio",
+        "start": 758,
+        "end": 764,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0036",
+        "key": ""
+      },
+      {
+        "text": "Giornali",
+        "start": 788,
+        "end": 796,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Merope",
+        "start": 818,
+        "end": 824,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Bonifazio",
+        "start": 859,
+        "end": 878,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0007",
+        "key": ""
+      },
+      {
+        "text": "Orlandi",
+        "start": 946,
+        "end": 953,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0127",
+        "key": ""
+      },
+      {
+        "text": "Scrittori Bolognesi",
+        "start": 959,
+        "end": 978,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Prose",
+        "start": 1049,
+        "end": 1054,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Firenzuola",
+        "start": 1058,
+        "end": 1068,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0148",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 1110,
+        "end": 1118,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Camerlengo mio Mastri",
+        "start": 1260,
+        "end": 1287,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0163",
+        "key": ""
+      },
+      {
+        "text": "Cesena",
+        "start": 1300,
+        "end": 1306,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0009",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Bonifazio",
+        "start": 1393,
+        "end": 1412,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0007",
+        "key": ""
+      },
+      {
+        "text": "Roma",
+        "start": 1496,
+        "end": 1500,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0008",
+        "key": ""
+      },
+      {
+        "text": "signor Dottor Ceccarini",
+        "start": 1519,
+        "end": 1542,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0155",
+        "key": ""
+      },
+      {
+        "text": "la nota de’ nostri libri",
+        "start": 1749,
+        "end": 1773,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 1891,
+        "end": 1898,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "Guiccioli",
+        "start": 1930,
+        "end": 1939,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0121",
+        "key": ""
+      },
+      {
+        "text": "Onestini",
+        "start": 1943,
+        "end": 1951,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0093",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2018,
+        "end": 2036,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 2085,
+        "end": 2113,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 2132,
+        "end": 2139,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 27,
+    "text_length": 2139
+  },
+  {
+    "letter_id": "DLCL_CF_E10033",
+    "filename": "DLCL_CF_E10033.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1716-04-07",
+      "place_sent": "Perugia",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Perugia, 7 Aprile 1716)"
+    },
+    "text": "Padre Don MariangeloCarissimo L’istravagantissima stagione, che ci perseguita con nevi, e freddi intollerabili, aggiuntavi una flussione nel petto, la quale molto mi travagliò nel recitare il Panegirico di San Francesco di Paolail dì primo Aprile, non mi lascia libero il poter’applicare, come vorrei, al tavolino. Pertanto non sò se appieno potrò oggi compire a miei doveri in risposta alle due ultime al solito gratissime di Vostra Paternità. In primo luogo la prego mandarmi il Giornale XXIIIper un’Uomoche cotesto Padre Reverendissimoinvia in queste parti al Padre Pier Iacopo BacciFilippino, e deve partire dopo la Domenica in Albis. Ne parli al garbatissimo Padre Camerlingo, con riverirlo cordialissimamente da mia parte, pregandolo far’in modo che l’uomo seco porti il poco peso di cotesti tre libretti. Godo che il signor Abate Rondoniabbia fatto godere a cotesta Città il suo talento nel predicare, e riportato ne abbia applauso. Senza dubbio è una bellissima rarità, di cui mi fece dono il Padre Maestro Burgosnella lettera manoscritta antica aggiunta all’ opera stampata del Pirovano. Il Piccinellinell’ Ateneo milanesescrive che il titolo del Libro è De Astronomiae Veritatee che fu stampato in Basilea1554. Mi avvisi se cotesta edizione più antica porti il medesimo titolo, e dove e quando sia fatta. In somma la memoria tradisce. Padre Burgosavrà letto altrove l’erudizione del Trivulzioed avrà concepito che ciò si rammemori nella lettera manoscritta. Di questa faccia Vostra Paternitàdistinta nota nell’ Indicee forse non farebbe male se collocasse il libro tra li manoscritti. A rivederci con più agio Sabbato prossimo. L’abbraccio co’ Padri Lettori Collina, Guicciolie Onestini. Un cordiale saluto alli nostri Fratelli, Benedetto, e Francoche prego Dio risanino perfettamente. Addio. DVPMR Perugia 7 aprile 1716 Mi dia nuova di Frate Teodoro Cordialissimo Affettuosissimo Servo e Padre nel Signore Don Pietro Canneti",
+    "entities": [
+      {
+        "text": "Padre Don Mariangelo",
+        "start": 0,
+        "end": 20,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": "DLCL_CF_PC0002"
+      },
+      {
+        "text": "Panegirico di San Francesco di Paola",
+        "start": 192,
+        "end": 228,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Giornale XXIII",
+        "start": 481,
+        "end": 495,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Padre Pier Iacopo Bacci",
+        "start": 563,
+        "end": 586,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0168",
+        "key": ""
+      },
+      {
+        "text": "signor Abate Rondoni",
+        "start": 824,
+        "end": 844,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0128",
+        "key": ""
+      },
+      {
+        "text": "Padre Maestro Burgos",
+        "start": 1001,
+        "end": 1021,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0138",
+        "key": ""
+      },
+      {
+        "text": "Pirovano",
+        "start": 1087,
+        "end": 1095,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0262",
+        "key": ""
+      },
+      {
+        "text": "Piccinelli",
+        "start": 1100,
+        "end": 1110,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0263",
+        "key": ""
+      },
+      {
+        "text": "Ateneo milanese",
+        "start": 1116,
+        "end": 1131,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0044",
+        "key": ""
+      },
+      {
+        "text": "De Astronomiae Veritate",
+        "start": 1164,
+        "end": 1187,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Basilea",
+        "start": 1208,
+        "end": 1215,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0042",
+        "key": ""
+      },
+      {
+        "text": "Padre Burgos",
+        "start": 1345,
+        "end": 1357,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0138",
+        "key": ""
+      },
+      {
+        "text": "Trivulzio",
+        "start": 1393,
+        "end": 1402,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0264",
+        "key": ""
+      },
+      {
+        "text": "Indice",
+        "start": 1521,
+        "end": 1527,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Padri Lettori Collina",
+        "start": 1654,
+        "end": 1675,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0007",
+        "key": ""
+      },
+      {
+        "text": "Guiccioli",
+        "start": 1677,
+        "end": 1686,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0121",
+        "key": ""
+      },
+      {
+        "text": "Onestini",
+        "start": 1688,
+        "end": 1696,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0093",
+        "key": ""
+      },
+      {
+        "text": "Benedetto",
+        "start": 1739,
+        "end": 1748,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0265",
+        "key": ""
+      },
+      {
+        "text": "Franco",
+        "start": 1752,
+        "end": 1758,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0266",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 1809,
+        "end": 1816,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "Frate Teodoro",
+        "start": 1847,
+        "end": 1860,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0036",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 1917,
+        "end": 1935,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      }
+    ],
+    "entity_count": 22,
+    "text_length": 1935
+  },
+  {
+    "letter_id": "DLCL_CF_E10044",
+    "filename": "DLCL_CF_E10044.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1716-11-28",
+      "place_sent": "Perugia",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Perugia, 28 Novembre 1716)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Veramente non aspettavasi da me ora la funesta nuova della morte del Signor Dottor Veratti, che sia in Cielo. Il ramarico, che ne provo, mi viene nel tempo stesso raddolcito dalla riflessione del vantaggio, che potiamo piamente credere goda l’anima del medesimo uscita dalle calamità di questo mondo, e passata almeno ad avvicinarsi all’eterna felicità. Da tanti e tanti discorsi, ch’egli ha costì fatto meco, vado conghietturando che siano con lui mancate al mondo grandi, e rilevanti notizie raccolte con lunghi esperimenti, e pellegrinaggi. E di questa verità un’irrefragabile testimonianza abbiam noi nella Notomia dell’Acqua. Godo infinitamente del beneficio, che riporterà cotesta nostra Casa dalla virtù del Degnissimo Signor Calbi. Desidera sapere se in cotesta Libreriasiano i due Volumi in 12. delle Rime scelte di Diversi Autori. Giolito1563. Raccolte dal Dolce= e le Vite de’ Santi e Beati di Todidi Giovanni Battista Possevino, in 4to. Mi occorrerà per la Genealogiade’ Cattani di Doccia, ch’ella sà, il Documento intierodel Ghirardacci, non trovandosi in Perugiaquella Storia. Con suo comodo l’attenderò. L’abbraccio, e riverisco con tutti gli altri. DVPMR. Perugia 28 novembre 1716 Affettuosissimo Servitore Padre nel Signore Cordialissimo Don Pietro Canneti Al Molto Reverendo Padre mio Osservandissimo Il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna",
+    "entities": [
+      {
+        "text": "Signor Dottor Veratti",
+        "start": 111,
+        "end": 132,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0034",
+        "key": ""
+      },
+      {
+        "text": "Notomia dell’Acqua",
+        "start": 653,
+        "end": 671,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Signor Calbi",
+        "start": 768,
+        "end": 780,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0088",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 812,
+        "end": 820,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Rime scelte di Diversi Autori",
+        "start": 852,
+        "end": 881,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Giolito",
+        "start": 883,
+        "end": 890,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0161",
+        "key": ""
+      },
+      {
+        "text": "Dolce",
+        "start": 909,
+        "end": 914,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Vite de’ Santi e Beati di Todi",
+        "start": 921,
+        "end": 951,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Giovanni Battista Possevino",
+        "start": 954,
+        "end": 981,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0830",
+        "key": ""
+      },
+      {
+        "text": "Genealogia",
+        "start": 1011,
+        "end": 1021,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Cattani di Doccia",
+        "start": 1025,
+        "end": 1042,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0324",
+        "key": ""
+      },
+      {
+        "text": "Documento intiero",
+        "start": 1059,
+        "end": 1076,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Ghirardacci",
+        "start": 1080,
+        "end": 1091,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0126",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 1111,
+        "end": 1118,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 1214,
+        "end": 1221,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 1297,
+        "end": 1315,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 1364,
+        "end": 1392,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 1411,
+        "end": 1417,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 1418,
+        "end": 1425,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 19,
+    "text_length": 1425
+  },
+  {
+    "letter_id": "DLCL_CF_E10079",
+    "filename": "DLCL_CF_E10079.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1718-05-17",
+      "place_sent": "Perugia",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Perugia, 17 Maggio 1718)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Molto gradita mi giunge la nuova, che Vostra Paternitàmi dà col suo cordialissimo foglio, della pastoraledel Signor Conte Vincenzo Piazzadall’Autor medesimo donata a cotesta Libreria. Sopra la risoluzione ch’ella ha preso, di mandare al Cavaliereil mio Discorso, non sò che dire altro, se non che ringrazio l’amore di lei sempre attento a favorirmi. Quando ora sulle mosse per Parmail Padre Franchettinostro gentilissimo, e colà dovendosi egli trattener qualche tempo, indugerò a scrivere al Signor Conteverso il fine di questo mese, affine di assicurarmi che in opportuno tempo arrivi la mia lettera per la consegna del Tomo sesto del Farnese Museodel Padre Pedrusi.[...]o la rigorosa purga del Padre Lettore Collina. Poco di profitto egli sarà per riportarne, se non attende prima da vero a purgar l’animo dalle passioni, vincendo le gagliarde impressioni della propria fantasia. Caramente me lo saluti, e lo persuada, e lo aiuti a sciogliere il coagulo delle apprensioni. Se ciò riesce io lo tengo mezzo guarito. Ipocrateera un Vecchio, che intendeva bene il mestier suo, e però non meno attendeva a comprendere le affezioni dell’animo di quel che badasse a regolare gli umori del corpo. È uscito il Tomo settimo delle Rime degli Arcadi, nel quale han luogo tre dei nostri Abati, Merighi, Grandie Amigoni. Appresso seguono nell’ ottavo Tomo le Prose. Per servire quì due Amici, ho fatto venir da Venezial’ Istoriadi Garzoni, in due Tomi. Parmi che costì un solo ne abbia forse perché il 2° non era uscito allora in luce. Nella nuova edizionedell’ Ughelliosservo citarsi frequentemente la nuova Raccolta de’ Conciljdell’ Arduino, in 12 Tomi. Mi spiace non poterla acquistar, né vedere, trovandomi io in pa[...] ove intorno alle nuove letterarie, e a’ libri moderni si vive molto al buvio. Del Giornale de’ Letteratinon odo parlarsene più. Piaccia a Dio che non se ne tronchi la serie coll’andata a Viennadel Signor Apostolo, il quale dicesi chiamato, ed eletto Poeta Cesareo. La poesia, per quanto mi figuro, si fermerà ne’ Drammi da mettersi in musica. Quel Valentuomo conosce, e intende il disordine di simili componimenti, ma l’utile, che gliene deriva, lo porta a comporre contra coscienza, ed a secondar la comune corrutela e della Musica, e della poesia drammatica. Addio. L’abbraccio toto cordis affectu. Perugia, 17 Maggio 1718. DVPMR. Affettuosissimo servitore Cordialissimo Padre nel Signore Don Pietro Canneti Al Molto Reverendo Padre mio Osservandissimo il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna",
+    "entities": [
+      {
+        "text": "pastorale",
+        "start": 138,
+        "end": 147,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Signor Conte Vincenzo Piazza",
+        "start": 151,
+        "end": 179,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0529",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 216,
+        "end": 224,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Discorso",
+        "start": 295,
+        "end": 303,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Parma",
+        "start": 419,
+        "end": 424,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0054",
+        "key": ""
+      },
+      {
+        "text": "Padre Franchetti",
+        "start": 427,
+        "end": 443,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0336",
+        "key": ""
+      },
+      {
+        "text": "Tomo sesto del Farnese Museo",
+        "start": 663,
+        "end": 691,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Padre Pedrusi",
+        "start": 695,
+        "end": 708,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0530",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Collina",
+        "start": 738,
+        "end": 759,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0007",
+        "key": ""
+      },
+      {
+        "text": "Ipocrate",
+        "start": 1058,
+        "end": 1066,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0576",
+        "key": ""
+      },
+      {
+        "text": "Tomo settimo delle Rime degli Arcadi",
+        "start": 1245,
+        "end": 1281,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Merighi",
+        "start": 1325,
+        "end": 1332,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0577",
+        "key": ""
+      },
+      {
+        "text": "Grandi",
+        "start": 1334,
+        "end": 1340,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0132",
+        "key": ""
+      },
+      {
+        "text": "Amigoni",
+        "start": 1342,
+        "end": 1349,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0193",
+        "key": ""
+      },
+      {
+        "text": "ottavo Tomo le Prose",
+        "start": 1374,
+        "end": 1394,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Venezia",
+        "start": 1441,
+        "end": 1448,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0024",
+        "key": ""
+      },
+      {
+        "text": "Istoria",
+        "start": 1451,
+        "end": 1458,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Garzoni",
+        "start": 1461,
+        "end": 1468,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0578",
+        "key": ""
+      },
+      {
+        "text": "nuova edizione",
+        "start": 1572,
+        "end": 1586,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Ughelli",
+        "start": 1592,
+        "end": 1599,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0021",
+        "key": ""
+      },
+      {
+        "text": "Raccolta de’ Concilj",
+        "start": 1639,
+        "end": 1659,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Arduino",
+        "start": 1665,
+        "end": 1672,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0559",
+        "key": ""
+      },
+      {
+        "text": "Giornale de’ Letterati",
+        "start": 1837,
+        "end": 1859,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Vienna",
+        "start": 1942,
+        "end": 1948,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0115",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 2356,
+        "end": 2363,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2446,
+        "end": 2464,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 2513,
+        "end": 2541,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 2560,
+        "end": 2566,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 2567,
+        "end": 2574,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 29,
+    "text_length": 2574
+  },
+  {
+    "letter_id": "DLCL_CF_E10094",
+    "filename": "DLCL_CF_E10094.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1719-02-04",
+      "place_sent": "Perugia",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Perugia, 4 Febbraio 1719)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Mi avvisi Vostra Paternitàquali siano i Tomi che devo chiedere al Signor Conte Vincenzio Piazza. Veramente parmi che cinque sieno quei, che ottenni, e lasciai costì; ma precisamente non me ne ricordo; e non sò quanti ne abbia prodotti dipoi la feconda penna di quell’insigne, e rinomato Religioso, che meritamente ha in cura il Farnese Museo. Approvo il contratto; cancello dal Catalogoi libri dati al Priore Reggente; e vi aggiungo (ohimè, non sò i titoli da aggiungere). Hò l’ Italia Sacradel Lucenti; ma non hò l’ Appendicefatta a quel tomo dal Padre Abate Gattola. Dov’è ella stampata? Mi è capitato un Cicerone de Officijs Venetijs1477 in folio parvo; ma non è bello, né ornato, né pulitissimamente tenuto. È un grande impiccio il comprare per altri simil sorta di mercanzia. Il manoscritto dell’Acquedottiintorno la Basilica di Classe, è venuto qua framischiato, non sò come, tra’ nostri libri. Con maggior comodo un’altra volta. Resto caramente confermandomi. DVPMR. Perugia 4 Febbraio 1719 Cordialissimo Servitore e Padre nel Signore Don Pietro Canneti Al Molto Reverendo Padre Mio Osservandissimo Il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna",
+    "entities": [
+      {
+        "text": "Signor Conte Vincenzio Piazza",
+        "start": 108,
+        "end": 137,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0529",
+        "key": ""
+      },
+      {
+        "text": "Catalogo",
+        "start": 420,
+        "end": 428,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Italia Sacra",
+        "start": 521,
+        "end": 533,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Lucenti",
+        "start": 537,
+        "end": 544,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0651",
+        "key": ""
+      },
+      {
+        "text": "Appendice",
+        "start": 559,
+        "end": 568,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Padre Abate Gattola",
+        "start": 590,
+        "end": 609,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0650",
+        "key": ""
+      },
+      {
+        "text": "Cicerone",
+        "start": 649,
+        "end": 657,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0153",
+        "key": ""
+      },
+      {
+        "text": "de Officijs",
+        "start": 658,
+        "end": 669,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Venetijs",
+        "start": 670,
+        "end": 678,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0024",
+        "key": ""
+      },
+      {
+        "text": "manoscritto dell’Acquedotti",
+        "start": 826,
+        "end": 853,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Basilica di Classe",
+        "start": 864,
+        "end": 882,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0005",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 1016,
+        "end": 1023,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 1084,
+        "end": 1102,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 1151,
+        "end": 1179,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 1198,
+        "end": 1204,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 1205,
+        "end": 1212,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 16,
+    "text_length": 1212
+  },
+  {
+    "letter_id": "DLCL_CF_E10098",
+    "filename": "DLCL_CF_E10098.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1719-05-27",
+      "place_sent": "Perugia",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Perugia, 27 Maggio 1719)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Conviene alzare gli occhi sopra la nebbia densissima, che formano alla nostra mente le cose di quaggiù, e mirare gli accidenti umani al puro lume della Divina Provvidenza; ed oh quanto si muta l’aria, il colore, e fino la sostanza de’ nostri avvenimenti! Non c’inquietiamo. Iddio ha così ò voluto, ò permesso per nostro maggiore bene: ed ecco calmata la tempesta delle passioni. Il Padre Don Francescoanderà o a Roma, o a Fabriano. Ho chiesto al Reverendissimo Galaminii Padri Don Giovanniper me, e Don Abondionuovamente per il Reverendissimo Grandi. Il Signor Iddio disponga ciò, ch’è meglio. Del Padre Don Leandronon sò più che fare. Oggi ricevo dal Padre Reverendissimo Generalenuova negativa sopra la stanza di S. Ippolito. Ne quella di S. Gregoriofà per lui, né l’altra di Fabriano. Ogni volta che la carità del Superiore gli faccia goder delle necessarie dispense, cotesta di Classeper ora è la migliore: e creda, e persuada ch’è così. La maggior parte degli Abati, anco de’ Vincitori, è partita mal soddisfatta dal Capitolo, costretta ad accettar non ciò, ch’era di sua convenienza, ma che gli è stato addossato. Qual maraviglia se corrono i Monaci la stessa disgrazia? Almen per questi rimane speranza di accomodarsi col tempo dentro al quinquennio, ma non per noi, se non per disgrazia. Il Padre Lettore Fondisi è adoperato per Don Leandro, ed è testimonio della mia attenzione. Ma... Stia allegramente con la speranza di rivederci in breve in Fabriano, verso dove penso di incaminarmi fra otto giorni. Colà aspetterò sue lettere con la[...] del nobile acquisto. Io ancora stò ora trattandone uno, il quale se riesce, potrà accrescere al sommo, in materia di antiche edizioni, la Biblioteca Classense. Allora sì avrebbero grande motivo di maraviglia i Greci, gli Scozzesi, ogni Dilettante di qualunque nazione. Mi avvisi se costì vi è il Floridantedi Bernardo Tasso, e di quale stampa, e il Petrarcadel Giolito, di qual figura, e anno. Al Padre Lettore Guicciolii miei cordiali rispetti, con promessa di scrivergli, subito che avrò un poco di ozio di farlo con comodo, e di notificargli[...] capi dell’Istoria occulta. Con che di tutto cuore mi confermo. DVPMR. Perugia 27 Maggio 1719 Cordialissimo Servitore e Padre Affettuosissimo nel Signore Don Pietro Canneti Al Molto Reverendo Padre mio Osservandissimo Il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna",
+    "entities": [
+      {
+        "text": "Padre Don Francesco",
+        "start": 424,
+        "end": 443,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0672",
+        "key": ""
+      },
+      {
+        "text": "Roma",
+        "start": 454,
+        "end": 458,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0008",
+        "key": ""
+      },
+      {
+        "text": "Fabriano",
+        "start": 464,
+        "end": 472,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0004",
+        "key": ""
+      },
+      {
+        "text": "Reverendissimo Galamini",
+        "start": 488,
+        "end": 511,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0003",
+        "key": ""
+      },
+      {
+        "text": "Padri Don Giovanni",
+        "start": 513,
+        "end": 531,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0673",
+        "key": ""
+      },
+      {
+        "text": "Don Abondio",
+        "start": 541,
+        "end": 552,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0246",
+        "key": ""
+      },
+      {
+        "text": "Reverendissimo Grandi",
+        "start": 570,
+        "end": 591,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0132",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Leandro",
+        "start": 640,
+        "end": 657,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0090",
+        "key": ""
+      },
+      {
+        "text": "S. Ippolito",
+        "start": 757,
+        "end": 768,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0678",
+        "key": ""
+      },
+      {
+        "text": "S. Gregorio",
+        "start": 783,
+        "end": 794,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0245",
+        "key": ""
+      },
+      {
+        "text": "Fabriano",
+        "start": 820,
+        "end": 828,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0004",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 924,
+        "end": 930,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0005",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Fondi",
+        "start": 1341,
+        "end": 1360,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0144",
+        "key": ""
+      },
+      {
+        "text": "Don Leandro",
+        "start": 1379,
+        "end": 1390,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0090",
+        "key": ""
+      },
+      {
+        "text": "Fabriano",
+        "start": 1495,
+        "end": 1503,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0004",
+        "key": ""
+      },
+      {
+        "text": "Biblioteca Classense",
+        "start": 1731,
+        "end": 1751,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Floridante",
+        "start": 1889,
+        "end": 1899,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Bernardo Tasso",
+        "start": 1902,
+        "end": 1916,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0674",
+        "key": ""
+      },
+      {
+        "text": "Petrarca",
+        "start": 1942,
+        "end": 1950,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Giolito",
+        "start": 1954,
+        "end": 1961,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0161",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Guiccioli",
+        "start": 1990,
+        "end": 2013,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0121",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 2213,
+        "end": 2220,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2296,
+        "end": 2314,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 2363,
+        "end": 2391,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 2410,
+        "end": 2416,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 2417,
+        "end": 2424,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 26,
+    "text_length": 2424
+  },
+  {
+    "letter_id": "DLCL_CF_E10105",
+    "filename": "DLCL_CF_E10105.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1719-09-18",
+      "place_sent": "Fabriano",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Fabriano, 18 Settembre 1719)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Due compitissime di Vostra Paternitàricevo ad un tempo, una delli 6, l’altra delli 14 [corrente]. La prima non mi ha portato cosa alcuna di nuovo; onde ringraziandola della conferma datami della sua affettuosa attenzione, passo alla seconda. È vero che tralle copie di molte lettere, ch’ebbi non senza buona spesa nel farle copiare, dal Signor Cavaliere Marmidi Firenze, una ve n’ha volgare, onde scorgesi di buon gusto il nostro Ambrogioanco nella favella toscana per quanto portavan quei tempi, ne’ quali correndo gl’ingegni alla coltura delle lingue greca, e latina, il toscano parlare si era insalvatichito. Dunque tutta l’enfasi del suo Direttorenon è bastata a trattener Paolinodal fare la seconda minchioneria? Si metterà in ordine la Cassetta. Ma non posso applicar’a nulla, finché non ho finito di rivedere, aggiustare, e compire la mia Raccolta Ambrosiana. La ringrazio della notizia de’ Libri, che si vendono, del fu Cardinale d’Adda. Scrivo ora subito al Padre Lettore Onestiniper lo Spicilegio Acheriano, e il Mabillon de Re Diplomatica. Alla Paternità Vostraresti il pensiero del S. Ambrogio, ch’è necessarissimo, e potrà aversi per poco. Importa molto comprar presto il Tomo 5° degli Annali Benedettini, perché fra non molto tempo non si troverà più, o si pagherà carissimo. Del S. Ambrogio, e del 5° Tomone parli al Padre Abate. In Cagliè ancor da vendere la Libreria de’ Luperti, per la quale l’anno 1710 io esibij 300 scudi. Vi sono i Conciljdel Labbe, che ne vagliono centoventi almeno. Nella Libreria d’Addavi saran forse queidell’ Arduino, che costano, se non erro, 60 scudi. Le Operedel Claviosi trovano tutte in un Corpo di quattro, e forse più Tomi in foglio. Ammiro il generoso genio del Padre Lettoremio paesano. L’abbraccio caramente; e resto. DVPMR. Fabriano 18 Settembre 1719 Cordialissimo Servitore e Affettuosissimo Padre nel Signore Don Pietro Canneti Al Molto Reverendo Padre mio Osservandissimo Il Padre Don Mariangelo FiacchiMonaco Camaldolese Savignanoper Ribano",
+    "entities": [
+      {
+        "text": "Signor Cavaliere Marmi",
+        "start": 379,
+        "end": 401,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0270",
+        "key": ""
+      },
+      {
+        "text": "Firenze",
+        "start": 404,
+        "end": 411,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0018",
+        "key": ""
+      },
+      {
+        "text": "Ambrogio",
+        "start": 472,
+        "end": 480,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0177",
+        "key": ""
+      },
+      {
+        "text": "Paolino",
+        "start": 719,
+        "end": 726,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0313",
+        "key": ""
+      },
+      {
+        "text": "Raccolta Ambrosiana",
+        "start": 888,
+        "end": 907,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Cardinale d’Adda",
+        "start": 970,
+        "end": 986,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0693",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Onestini",
+        "start": 1009,
+        "end": 1031,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0093",
+        "key": ""
+      },
+      {
+        "text": "Spicilegio Acheriano",
+        "start": 1038,
+        "end": 1058,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Mabillon",
+        "start": 1065,
+        "end": 1073,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0129",
+        "key": ""
+      },
+      {
+        "text": "de Re Diplomatica",
+        "start": 1074,
+        "end": 1091,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "S. Ambrogio",
+        "start": 1136,
+        "end": 1147,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Tomo 5° degli Annali Benedettini",
+        "start": 1227,
+        "end": 1259,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "S. Ambrogio",
+        "start": 1336,
+        "end": 1347,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "5° Tomo",
+        "start": 1355,
+        "end": 1362,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Cagli",
+        "start": 1390,
+        "end": 1395,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0135",
+        "key": ""
+      },
+      {
+        "text": "Libreria de’ Luperti",
+        "start": 1417,
+        "end": 1437,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0111",
+        "key": ""
+      },
+      {
+        "text": "Concilj",
+        "start": 1495,
+        "end": 1502,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Labbe",
+        "start": 1506,
+        "end": 1511,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0583",
+        "key": ""
+      },
+      {
+        "text": "Libreria d’Adda",
+        "start": 1554,
+        "end": 1569,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0112",
+        "key": ""
+      },
+      {
+        "text": "quei",
+        "start": 1584,
+        "end": 1588,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Arduino",
+        "start": 1594,
+        "end": 1601,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0559",
+        "key": ""
+      },
+      {
+        "text": "Opere",
+        "start": 1642,
+        "end": 1647,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Clavio",
+        "start": 1651,
+        "end": 1657,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0694",
+        "key": ""
+      },
+      {
+        "text": "Fabriano",
+        "start": 1820,
+        "end": 1828,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0004",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 1907,
+        "end": 1925,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 1974,
+        "end": 2002,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Savignano",
+        "start": 2021,
+        "end": 2030,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0109",
+        "key": ""
+      },
+      {
+        "text": "Ribano",
+        "start": 2034,
+        "end": 2040,
+        "type": "LOC",
+        "ref": "#DLCL_CF_O0117",
+        "key": ""
+      }
+    ],
+    "entity_count": 28,
+    "text_length": 2040
+  },
+  {
+    "letter_id": "DLCL_CF_E10108",
+    "filename": "DLCL_CF_E10108.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1719-12-12",
+      "place_sent": "Fabriano",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Fabriano, 12 Dicembre 1719)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Rimando il manoscritto dell’Acquedotto, il quale ha necessitato di essere rilegato. Sarà bene collocarlo sotto chiave in Libreriatra gli altri Codici a penna. Giungerà a tempo per mettere in ordine le notizie di cotesto Monasteroda comunicarsi a’ Monaci di San Mauro, secondo la carta d’invito stampata: e molto gioverà anco la Collettaneadello spoglio del Rossi, che vi è congiunta. Su si faccia animo: e non mi stia mo’ a far le scamoffie: Non sò: non posso: non son buono: e altre sì fatte cose, che potrebbono dare un nuovo soggetto alla Banzoladel Dottor Lotti. Nel riveder le scritture, osservi certa relazione, o che altro sia, ove si racconta la depredazione fatta de’ marmi levati alla Chiesa di Classe, e trasportati a quella di San Francesco di Rimini. Mi sarebbe grata molto la copia di quel foglio. Stia sana Vostra Paternità, e lavori allegramente, come fo’ io. Il Signor Iddio le conceda le buone feste. Addio. Fabriano 12 Dicembre 1719. DVPMR. Cordialissimo Servitore e Padre Affettuosissimo nel Signore Don Pietro Canneti Al Molto Reverendo Padre Mio Osservandissimo Il Padre Don Mariangelo Fiacchi Classe Ravenna",
+    "entities": [
+      {
+        "text": "manoscritto dell’Acquedotto",
+        "start": 53,
+        "end": 80,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 163,
+        "end": 171,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "cotesto Monastero",
+        "start": 254,
+        "end": 271,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0005",
+        "key": ""
+      },
+      {
+        "text": "San Mauro",
+        "start": 299,
+        "end": 308,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0030",
+        "key": ""
+      },
+      {
+        "text": "Collettanea",
+        "start": 370,
+        "end": 381,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Rossi",
+        "start": 399,
+        "end": 404,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0014",
+        "key": ""
+      },
+      {
+        "text": "Banzola",
+        "start": 584,
+        "end": 591,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Dottor Lotti",
+        "start": 595,
+        "end": 607,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0708",
+        "key": ""
+      },
+      {
+        "text": "Chiesa di Classe",
+        "start": 737,
+        "end": 753,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0005",
+        "key": ""
+      },
+      {
+        "text": "San Francesco di Rimini",
+        "start": 781,
+        "end": 804,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0114",
+        "key": ""
+      },
+      {
+        "text": "Fabriano",
+        "start": 968,
+        "end": 976,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0004",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 1062,
+        "end": 1080,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 1129,
+        "end": 1157,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 1158,
+        "end": 1164,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 1165,
+        "end": 1172,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 15,
+    "text_length": 1172
+  },
+  {
+    "letter_id": "DLCL_CF_E10115",
+    "filename": "DLCL_CF_E10115.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1720-06-14",
+      "place_sent": "Fabriano",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Fabriano, 14 Giugno 1720)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Questa mattina per tempo è di qua partito di ritorno a Bolognail nostro Padre Amicicol Padre Isolani, e Signor Dottor Aldrovandi, i quali mercoledì intorno alle ventun’ora erano arrivati veramente all’improvviso, e perciò con somma mia consolazione, e de’ nostri amici. Grande è stato il contento, ma non è piccola con tuttociò la sete lasciatami, avendo potuto discorrer’insieme, o non quanto il vicendevole affetto richiedeva. Iersera nel licenziarsi m’ingiunse caldamente scrivere a Vostra Paternitàcon salutarla caramente, e pregarla che mandi a Bolognaquel libretto, che umilij i di lui rispetti (e vi aggiunga i miei) a cotesto Padre Reverendissimo; e saluti per sua parte i Giovani, de’ cuori de’ quali ha fatto offerta al Padre San Romualdonel celebrar quì sul suo altare. Mi ha detto aver lasciati in mano di Vostra Paternitàtre libretti da mandarmi. Gli attendo a suo tempo con gli altri. Ritenga del consaputo danaro il prezzo di essi libri, e lo rimetta al Padre Amici. Se il nostro Paolinovuole altre Cartepecore, avvisi quali, e quante. Copiosamente la ringrazio del giudicioso estratto del Diariodi Frate Aurelio della Rocca Contrada, detto però nel Catalogo de’ Teologi del Concilio di Trento, da Corinaldo. Aspetto il passo Tentzeliosopra Ambrogio. Desidero copia del necrologio dell’ Avellana. In fretta non posso stendermi più oltre. Mi scriva più spesso. Un abbraccio al Padre Lettore Collina. Resto senza fine. DVPMR. Fabriano 14 Giugno 1720 Non ho mai veduto le note de’ libri da permutarsi. Affettuosissimo Servitore e Padre Cordialissimo nel Signore Don Pietro Canneti Al Molto Reverendo Padre mio Osservandissimo Il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna",
+    "entities": [
+      {
+        "text": "Bologna",
+        "start": 97,
+        "end": 104,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0007",
+        "key": ""
+      },
+      {
+        "text": "Padre Amici",
+        "start": 114,
+        "end": 125,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0006",
+        "key": ""
+      },
+      {
+        "text": "Padre Isolani",
+        "start": 129,
+        "end": 142,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0762",
+        "key": ""
+      },
+      {
+        "text": "Signor Dottor Aldrovandi",
+        "start": 146,
+        "end": 170,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0763",
+        "key": ""
+      },
+      {
+        "text": "Bologna",
+        "start": 592,
+        "end": 599,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0007",
+        "key": ""
+      },
+      {
+        "text": "Padre San Romualdo",
+        "start": 772,
+        "end": 790,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0017",
+        "key": ""
+      },
+      {
+        "text": "Padre Amici",
+        "start": 1011,
+        "end": 1022,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0006",
+        "key": ""
+      },
+      {
+        "text": "Paolino",
+        "start": 1037,
+        "end": 1044,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0313",
+        "key": ""
+      },
+      {
+        "text": "Diario",
+        "start": 1147,
+        "end": 1153,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Frate Aurelio della Rocca Contrada",
+        "start": 1156,
+        "end": 1190,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0822",
+        "key": ""
+      },
+      {
+        "text": "Catalogo de’ Teologi del Concilio di Trento, da Corinaldo",
+        "start": 1207,
+        "end": 1264,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Tentzelio",
+        "start": 1283,
+        "end": 1292,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0734",
+        "key": ""
+      },
+      {
+        "text": "Ambrogio",
+        "start": 1298,
+        "end": 1306,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0177",
+        "key": ""
+      },
+      {
+        "text": "Avellana",
+        "start": 1344,
+        "end": 1352,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0026",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Collina",
+        "start": 1433,
+        "end": 1454,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0007",
+        "key": ""
+      },
+      {
+        "text": "Fabriano",
+        "start": 1481,
+        "end": 1489,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0004",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 1616,
+        "end": 1634,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 1683,
+        "end": 1711,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 1730,
+        "end": 1736,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 1737,
+        "end": 1744,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 20,
+    "text_length": 1744
+  },
+  {
+    "letter_id": "DLCL_CF_E10116",
+    "filename": "DLCL_CF_E10116.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1720-06-17",
+      "place_sent": "Fabriano",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Fabriano, 17 Giugno 1720)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Venerdì mattina scrissi ch’era di quà partito colla compagnia sua il Padre Amicialcune ore avanti. Poscia il seguente giorno 15 ho ricevuto per la posta la carissima di Vostra Paternitàdelli 5; ch’è arrivata appunto otto giorni più tardi di quel che richiede il solito corso della posta; e questo disordine è stato da me osservato altre volte in questo anno. Ma tutto è forse accaduto, perche quanto più inaspettata, tanto più cara mi fosse la sorpresa del Padre Amici, il quale mi diede in voce piena contezza della vestitura seguita. Nuovamente con Vostra Paternitàmi rallegro della consolazione, che sono certo avrà provata pel luogo, che vi ha conseguito Don Carlo. Ho considerato attentamente il Padre Isolani, nel quale evvi molto che ammirare. Esigge amore, e stima col suo costume veramente buono, facile, savio e disinvolto. Mi rallegro con lei, e col Padre Lettore Collinadell’applicazione a dar ordine alla Libreriadi cotesto Eminentissimo Legato. Mi rimetto a quanto scrissi l’ordinario precedente, in ordine ad altro. È uscito il primo Tomo di Luglio de’ Bollandiani. Ora tutto il Corpo si vende in Livornodal Donati200 piastre. Resto in fretta con un caro abbraccio confermandomi. Fabriano 17 Giugno 1720 DVPMR. Nell’ordinario stesso ho lettera di Faenzadelli 12 venuta in 3 giorni Affettuosissimo Servitore e Padre Cordialissimo nel Signore Don Pietro Canneti [ Messaggero al Signor Vincenzo Gonzaga Veneziaper Vernardo Giunti1582 4 Della virtù eroica e della Caritàivi 4 Gonzaga secondoivi Discorsi Poetici dell’Accademia Fiorentina in difesa di Aristotile Fiorenzaper l’ Marescotti1597 4. Demetrio Fallereo della locuzi[o]ne volgarizzato da Pier Segni, con le postille. Firenzepe Cosimo Giunti1603. 4] Al Molto Reverendo Padre mio Osservandissimo Il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna",
+    "entities": [
+      {
+        "text": "Padre Amici",
+        "start": 111,
+        "end": 122,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0006",
+        "key": ""
+      },
+      {
+        "text": "Padre Amici",
+        "start": 499,
+        "end": 510,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0006",
+        "key": ""
+      },
+      {
+        "text": "Don Carlo",
+        "start": 701,
+        "end": 710,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0764",
+        "key": ""
+      },
+      {
+        "text": "Padre Isolani",
+        "start": 743,
+        "end": 756,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0762",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Collina",
+        "start": 903,
+        "end": 924,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0007",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 960,
+        "end": 968,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0131",
+        "key": ""
+      },
+      {
+        "text": "Tomo di Luglio de’ Bollandiani",
+        "start": 1091,
+        "end": 1121,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Livorno",
+        "start": 1154,
+        "end": 1161,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0139",
+        "key": ""
+      },
+      {
+        "text": "Donati",
+        "start": 1165,
+        "end": 1171,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0766",
+        "key": ""
+      },
+      {
+        "text": "Fabriano",
+        "start": 1237,
+        "end": 1245,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0004",
+        "key": ""
+      },
+      {
+        "text": "Faenza",
+        "start": 1304,
+        "end": 1310,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0005",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 1398,
+        "end": 1416,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Messaggero al Signor Vincenzo Gonzaga",
+        "start": 1419,
+        "end": 1456,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Venezia",
+        "start": 1457,
+        "end": 1464,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0024",
+        "key": ""
+      },
+      {
+        "text": "Vernardo Giunti",
+        "start": 1468,
+        "end": 1483,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0814",
+        "key": ""
+      },
+      {
+        "text": "Della virtù eroica e della Carità",
+        "start": 1490,
+        "end": 1523,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Gonzaga secondo",
+        "start": 1529,
+        "end": 1544,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Discorsi Poetici dell’Accademia Fiorentina in difesa di Aristotile",
+        "start": 1548,
+        "end": 1614,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Fiorenza",
+        "start": 1615,
+        "end": 1623,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0018",
+        "key": ""
+      },
+      {
+        "text": "Marescotti",
+        "start": 1630,
+        "end": 1640,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0815",
+        "key": ""
+      },
+      {
+        "text": "Demetrio Fallereo della locuzi[o]ne volgarizzato da Pier Segni, con le postille",
+        "start": 1648,
+        "end": 1727,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Firenze",
+        "start": 1729,
+        "end": 1736,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0018",
+        "key": ""
+      },
+      {
+        "text": "Cosimo Giunti",
+        "start": 1739,
+        "end": 1752,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0816",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 1809,
+        "end": 1837,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 1856,
+        "end": 1862,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 1863,
+        "end": 1870,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 26,
+    "text_length": 1870
+  },
+  {
+    "letter_id": "DLCL_CF_E10121",
+    "filename": "DLCL_CF_E10121.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1720-10-07",
+      "place_sent": "Fabriano",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Fabriano, 7 Ottobre 1720)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Oggi otto, dopo partita la posta, arrivò Don Giuseppe Vitali, il quale spedij mercoledì a Camerinoaccompagnato dal Padre Priore. Per grazia di Dio non vi era il Vescovo, che trovasi in visita verso le parti di Foligno. Il Padre Priorefece di molto, spianando le difficoltà appresso Monsignor Vicario Generale, e al Cancelliere, che fà da Dottore, e può assai. Restò concluso che tornasse per il dì 13; quando avrà toccati gli anni 25 e sarà messo all’esame, e poi mandato da Monsignorecon l’accompagnato del Padre Maestro Reverendosuo Confessore alla cui protezione l’ho raccomandato, e appoggiato validamente. Avea portato il Vitaliuna lettera di Monsignor Vescovodi Forlìa questo Vescovo suo Fratello. Avendola mostrata a quel Religioso, questi gli disse che ringraziasse Dio, che lo avea ispirato a mostrar detta lettera, la qual’abbruggiasse subito: perché se la presentava al Vescovo, non serviva che per farlo infuriare, e ricevere per prima accoglienza del Prete Beccocon 1 f., com’è solito. Spero che tutto anderà bene; ma vi vuole una grande astrologia sotto la costellazione di questo Toro indomito. Ho ricevuto i libri, e la ringrazio senza fine. Sono soddisfattissimo appieno. Ringrazio, e riverisco il Padre Lettore Collina. Il Padre Reverendissimomi scrive che và in Toscana, suppongo a ricevere congratulazioni per la scrittura stampata. Ora sono applicato a stringere contratto di alcuni libri Manoscritti e di antiche edizioni, tra quali vi stà il Santo Agostino de Civitate Dei in Domo de Maximi. Ve n’è un’altro del 1475. Sopra tutto è rara il Liranoin sei grossi Tomi 1472, nella stessa Casa de’ Massimi. Mi dia nuova se è copiata l’ Istoriadel Carrari. Intesi che la faceva trascrivere il Padre Lettore Guiccioli. E del Vossioparte per messe, parte per contanti[...] più ella mi ha scritto. Resto in fretta. DVPMR. Fabriano 7 Ottobre 1720 Fù quì Venerdì il Signor Boccolini: rimase estatico in vedere il nostro Plinio, e confessò non potersi veder cosa simile, ed essere un Tesoro. Gira uno Scozzese Giovane, che raccoglie libri, e li paga bene. Gran tentazione sua, e mia, se capita quà, e se esibisce molto oro. Affettuosissimo Servitore e Cordialissimo Padre nel Signore Don Pietro Canneti Al Molto Reverendo Padre Mio Osservandissimo Il Padre Don Mariangelo FiacchiBibliotecario Classe Ravenna",
+    "entities": [
+      {
+        "text": "Don Giuseppe Vitali",
+        "start": 83,
+        "end": 102,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0773",
+        "key": ""
+      },
+      {
+        "text": "Camerino",
+        "start": 132,
+        "end": 140,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0132",
+        "key": ""
+      },
+      {
+        "text": "Foligno",
+        "start": 252,
+        "end": 259,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0023",
+        "key": ""
+      },
+      {
+        "text": "Vitali",
+        "start": 669,
+        "end": 675,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0773",
+        "key": ""
+      },
+      {
+        "text": "Forlì",
+        "start": 710,
+        "end": 715,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0043",
+        "key": ""
+      },
+      {
+        "text": "Prete Becco",
+        "start": 1006,
+        "end": 1017,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0774",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Collina",
+        "start": 1257,
+        "end": 1278,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0007",
+        "key": ""
+      },
+      {
+        "text": "Toscana",
+        "start": 1323,
+        "end": 1330,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0079",
+        "key": ""
+      },
+      {
+        "text": "Santo Agostino",
+        "start": 1507,
+        "end": 1521,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0172",
+        "key": ""
+      },
+      {
+        "text": "de Civitate Dei",
+        "start": 1522,
+        "end": 1537,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Domo de Maximi",
+        "start": 1541,
+        "end": 1555,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0109",
+        "key": ""
+      },
+      {
+        "text": "un’altro del 1475",
+        "start": 1564,
+        "end": 1581,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Lirano",
+        "start": 1605,
+        "end": 1611,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Casa de’ Massimi",
+        "start": 1649,
+        "end": 1665,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0109",
+        "key": ""
+      },
+      {
+        "text": "Istoria",
+        "start": 1696,
+        "end": 1703,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Carrari",
+        "start": 1707,
+        "end": 1714,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0176",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Guiccioli",
+        "start": 1752,
+        "end": 1775,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0121",
+        "key": ""
+      },
+      {
+        "text": "Vossio",
+        "start": 1783,
+        "end": 1789,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0328",
+        "key": ""
+      },
+      {
+        "text": "Fabriano",
+        "start": 1878,
+        "end": 1886,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0004",
+        "key": ""
+      },
+      {
+        "text": "Signor Boccolini",
+        "start": 1920,
+        "end": 1936,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0232",
+        "key": ""
+      },
+      {
+        "text": "Plinio",
+        "start": 1974,
+        "end": 1980,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2237,
+        "end": 2255,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 2304,
+        "end": 2332,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 2346,
+        "end": 2352,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 2353,
+        "end": 2360,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 25,
+    "text_length": 2360
+  },
+  {
+    "letter_id": "DLCL_CF_E10123",
+    "filename": "DLCL_CF_E10123.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1720-11-22",
+      "place_sent": "Fabriano",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Fabriano, 22 Novembre 1720)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Il precedente ordinario risposi all’ultima di Vostra Paternità. Ora mi viene alle mani altra lettera sua giuntami in tempo, che io era occupatissimo in rivedere lo stato economico del Monastero[...] la Visita. Mi spedisco presto; perché poco anzi pochissimo abbiamo che dire de’ nostri Forlivesi. Di essi non mi suvviene altri che Benedetto Generale, immediato predecessore del nostro Grande Ambrogio, il quale nel Capitolo di Bertinorofu elevato alla suprema dignità dell’Ordine per la deposizione di Benedetto. Questi conseguì poi la Badia di San Zenofuor di[...] morì: ed ivi fino al dì d’oggi se ne vede il sepolcro con l'arme gentilizia, non sapendosi per altro il di lui[...]. Del General Benedettoveggasi il Fortunio. Per quel, che riguarda la Biblioteca, può avervi luogo il Dionisio Zauli, di cui[...] stampato un[...] Capitolo: e stà in un Tomo de’ nostri Miscellaneo. Fu il ZauliPredicatore, e Lettore tra noi. Lasciò ancora cominciata la Vita del Padre San Romualdo, che venne in mie mani; e credo[...] Manoscritti. Fiorì cento anni fa nell’ Avellanaun[...] Vitalidi Forlì Abatedi quel Monastero, e Visitatore Uomo di[...], e di religiosa virtù, e di[...]. Compose una Pastorale, che in quella[...] recitata per dare virtuoso trattenimento al Cardinale[...], e Manoscritta era; e forse tuttavia è nella Libreria dell’Avellana. Queste, ed altre più esatte notizie di lui sono in un libro a penna di Don Michele Los[...] di lui Allievo. Se occorrerà ricavare altro, si manderà. Non sò che più oltre [stendasi] la materia richiesta. Ne è maraviglia, perché Camaldolino, ove fuor della Città dimorante, non era che un Priorato, ove il Priore o con un compagno, o due dimorava. San Salvatore Monisterodi nostre Monache, da poco tempo in quà ha[...] di conventuali[...] Bonellifa il[...] Abate, che vi facesse officiar’il Coro.[...] al Signor Sancassani, me lo riverisca in modo speciale[...]. Tenti se per mezzo suo potesse aversi alcun Codice Manoscritto buono, o libri di prime antiche edizioni, cioè fin verso il 1480 in circa. Potrebbe ciò servir di anello per rifare la catena interrotta dalla stampa di quella lettera. Resto con abbracciandola caramente. Fabriano 22 Novembre 1720 DVPMR. Affettuosissimo Servitore e Cordialissimo Padre nel Signore Don Pietro Canneti Al Molto Reverendo Padre Mio Osservandissimo Il Padre Don Mariangelo Fiacchi Classe Ravenna",
+    "entities": [
+      {
+        "text": "Benedetto Generale",
+        "start": 373,
+        "end": 391,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0779",
+        "key": ""
+      },
+      {
+        "text": "Ambrogio",
+        "start": 434,
+        "end": 442,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0177",
+        "key": ""
+      },
+      {
+        "text": "Bertinoro",
+        "start": 469,
+        "end": 478,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0025",
+        "key": ""
+      },
+      {
+        "text": "Benedetto",
+        "start": 544,
+        "end": 553,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0779",
+        "key": ""
+      },
+      {
+        "text": "Badia di San Zeno",
+        "start": 578,
+        "end": 595,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0136",
+        "key": ""
+      },
+      {
+        "text": "General Benedetto",
+        "start": 729,
+        "end": 746,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0779",
+        "key": ""
+      },
+      {
+        "text": "Fortunio",
+        "start": 757,
+        "end": 765,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Biblioteca",
+        "start": 793,
+        "end": 803,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Dionisio Zauli",
+        "start": 825,
+        "end": 839,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0780",
+        "key": ""
+      },
+      {
+        "text": "Zauli",
+        "start": 927,
+        "end": 932,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0780",
+        "key": ""
+      },
+      {
+        "text": "Vita del Padre San Romualdo",
+        "start": 992,
+        "end": 1019,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Avellana",
+        "start": 1096,
+        "end": 1104,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0026",
+        "key": ""
+      },
+      {
+        "text": "Vitali",
+        "start": 1112,
+        "end": 1118,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0773",
+        "key": ""
+      },
+      {
+        "text": "Forlì",
+        "start": 1121,
+        "end": 1126,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0043",
+        "key": ""
+      },
+      {
+        "text": "quel Monastero",
+        "start": 1135,
+        "end": 1149,
+        "type": "ORG",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Libreria dell’Avellana",
+        "start": 1357,
+        "end": 1379,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0132",
+        "key": ""
+      },
+      {
+        "text": "Don Michele Los",
+        "start": 1452,
+        "end": 1467,
+        "type": "PER",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "San Salvatore Monistero",
+        "start": 1727,
+        "end": 1750,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0032 #DLCL_CF_O0002",
+        "key": ""
+      },
+      {
+        "text": "Bonelli",
+        "start": 1818,
+        "end": 1825,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0781",
+        "key": ""
+      },
+      {
+        "text": "Signor Sancassani",
+        "start": 1884,
+        "end": 1901,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0056",
+        "key": ""
+      },
+      {
+        "text": "Fabriano",
+        "start": 2210,
+        "end": 2218,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0004",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2303,
+        "end": 2321,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 2370,
+        "end": 2398,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 2399,
+        "end": 2405,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 2406,
+        "end": 2413,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 25,
+    "text_length": 2413
+  },
+  {
+    "letter_id": "DLCL_CF_E10128",
+    "filename": "DLCL_CF_E10128.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1720-12-09",
+      "place_sent": "Fabriano",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Fabriano, 9 Dicembre 1720)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Ricevo il proseguimento dell’ indice de’ libricon via maggiore accrescimento di mie obbligazioni. Non mi ricordo quali fossero i libri di Padre Maestro Pugnettidati in cambio di quei, che furono de’ nostri, levati. Ma intorno a’ libri al primo ordinario, in cui manderò altri fogli di nota de’ libri, [che] penso poter’ applicare, senza che siano essi nella Libreriaduplicati. [Pell] nome del nostro Generale Benedettoebbi un’abbozzo dal Reverendissimo Grandi, e di costà lo mandai al Signor Dottore Lodovico Balducci, il quale mi significò non ravvisarsi di qual famiglio sia stato, e argomentarsi che non fosse di nobil Casa, come se in Forlìsi fossero conservati gli stemmi gentilizi di quante Case sono estinte tra le nobili, senza esserne andato in oblivione pur’uno. Di qual professa fosse il Zaulinon mi sovviene averlo mai inteso. La Vita del Padre San Romualdoda lui cominciata è in prosa: e credo sia tra le carte, che sono presso di me. La memoria dell’ Abate Maldentinon può aver luogo tra’ Letterati. Direi più tosto che vi si debba inserire l’ Abate Don Aniceto Dandi, di cui è alle stampe certa traduzione della Storia della Pulcella d’Orleans, dal franzese: e parmi averla posta in Libreria. È stampata in 12 in Bolognaappresso il Longhi, il quale con addurre il motivo di tale stampa dedicò ad esso Padre Abatela Descrizionedella Città di Orleansin foglio aperto. Si può aggiungere che molte altre Opere e’ tradusse dal franzese: siccome scrisse la Storia di tutte l’Eresie, e altri libri, che inediti si conservano, e vanno per le mani di molti. Ma, lasciando cotali scempiate faccenduole del buon Dandi, e di quegli altri semplici Religiosi, osservi che tra nostri Manoscritti: evvi non sò che del famosissimo Mercuriali. Con l’ordinario venturo glielo accennerò più distintamente siccome spremerò dal Manoscritto del nostro[...]na quel di più, che riferirsi potrà dell’ Abate Don Gregorio Vitali. In questo mentre resto. DVPMR. Fabriano 9 Dicembre 1720 Cordialissimo Servitore e Padre Affettuosissimo nel Signore Don Pietro Canneti",
+    "entities": [
+      {
+        "text": "indice de’ libri",
+        "start": 72,
+        "end": 88,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Padre Maestro Pugnetti",
+        "start": 180,
+        "end": 202,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0625",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 400,
+        "end": 408,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Generale Benedetto",
+        "start": 442,
+        "end": 460,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0779",
+        "key": ""
+      },
+      {
+        "text": "Reverendissimo Grandi",
+        "start": 480,
+        "end": 501,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0132",
+        "key": ""
+      },
+      {
+        "text": "Dottore Lodovico Balducci",
+        "start": 534,
+        "end": 559,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0797",
+        "key": ""
+      },
+      {
+        "text": "Forlì",
+        "start": 681,
+        "end": 686,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0043",
+        "key": ""
+      },
+      {
+        "text": "Zauli",
+        "start": 841,
+        "end": 846,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0780",
+        "key": ""
+      },
+      {
+        "text": "Vita del Padre San Romualdo",
+        "start": 884,
+        "end": 911,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Abate Maldenti",
+        "start": 1007,
+        "end": 1021,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0798",
+        "key": ""
+      },
+      {
+        "text": "Abate Don Aniceto Dandi",
+        "start": 1100,
+        "end": 1123,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0799",
+        "key": ""
+      },
+      {
+        "text": "Storia della Pulcella d’Orleans",
+        "start": 1169,
+        "end": 1200,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 1240,
+        "end": 1248,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Bologna",
+        "start": 1270,
+        "end": 1277,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0007",
+        "key": ""
+      },
+      {
+        "text": "Longhi",
+        "start": 1289,
+        "end": 1295,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0800",
+        "key": ""
+      },
+      {
+        "text": "Descrizione",
+        "start": 1372,
+        "end": 1383,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Orleans",
+        "start": 1398,
+        "end": 1405,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0153",
+        "key": ""
+      },
+      {
+        "text": "Storia di tutte l’Eresie",
+        "start": 1508,
+        "end": 1532,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Dandi",
+        "start": 1658,
+        "end": 1663,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0799",
+        "key": ""
+      },
+      {
+        "text": "Mercuriali",
+        "start": 1771,
+        "end": 1781,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0801",
+        "key": ""
+      },
+      {
+        "text": "Abate Don Gregorio Vitali",
+        "start": 1932,
+        "end": 1957,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0802",
+        "key": ""
+      },
+      {
+        "text": "Fabriano",
+        "start": 1990,
+        "end": 1998,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0004",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2075,
+        "end": 2093,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      }
+    ],
+    "entity_count": 23,
+    "text_length": 2093
+  },
+  {
+    "letter_id": "DLCL_CF_E10129",
+    "filename": "DLCL_CF_E10129.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1720-12-13",
+      "place_sent": "Fabriano",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Fabriano, 13 Dicembre 1720)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Ricevo la continuazione del Catalogo de’ nostri libri, in ordine al quale io non solamente non ho motivo di accusarla di lentezza, ma debbo anzi lodar molto la sollecitudine di VPMR. Ed io quindi entro via più in obbligo di spingere la spedizione dell’ Indicegià cominciato costì a comparire. Riceverà ora annessi due fogli della Nota di cotesti Manoscritti. La seguiterò, ma tengo per certo che né pur quanto al numero sarà compiuta, molto meno quanto alle belle osservazioni, che sarebbe opportuno farvi sopra. Più d’ogni altra cosa, han bisogno di esser riveduti, e posti sotto più attenta considerazione. Il tempo mi mancò, e preveggo che non li rivedrò più! Desidero sapere di quale stampa sia il Nizoliodella Libreria. In Perugiane comprai un’altro: onde cotesto nostro (se non ha qualità particolare, che lo renda considerabile) sarà via più da esitare. Per chi hà da scriver latino è libro necessarissimo, e utilissimo. Starebbe bene che una penna diligentissima rimediasse al difetto del Rame, ch’è mancante nel librodel Cardinal Rasponi. Un’altra copia credo sia nella Biblioteca dello Spirito Santo. Aiutisi, quanto si può, la Biblioteca de’ Cappuccininel difetto contratto per essere venuta da Genovain compagnia di certa conserva di rose, che guastò versandovi da un vaso, il libro non obvio. Se il Budeodella stampa elegantissima di Aldoè migliore di quel, ch’è in Libreria Vostra Paternitàne faccia permuta. Avvisi se si apre occasione di esitare i libri, i quali relativamente a cotesta Biblioteca, o a nostri libri, stanno presso lei duplicati. Io applicherò a vendergli a giusto prezzo, e con riputazione, per rinvestirne in altri libri il prezzo. Ben vengano i manicotti, che m’immagino si muovano nel viaggio colla fretta medesima, con cui caminano i fagotti spediti di quà per Ravenna. Un cordialissimo abbraccio al Padre Don Leandro. Un’altro a lei eguale, con cui mi confermo. Fabriano 13 Dicembre 1720 DVPMR. Cordialissimo Servitore e Padre Affettuosissimo nel Signore Don Pietro Canneti Al Molto Reverendo Padre Mio Osservandissimo Il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna [ Thesaurus Ciceron. Marij[...] Venetijs per Georgium Valentinum 1624 in folio]",
+    "entities": [
+      {
+        "text": "Catalogo de’ nostri libri",
+        "start": 70,
+        "end": 95,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Indice",
+        "start": 295,
+        "end": 301,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Nota di cotesti Manoscritti",
+        "start": 372,
+        "end": 399,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Nizolio",
+        "start": 744,
+        "end": 751,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 757,
+        "end": 765,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 770,
+        "end": 777,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "libro",
+        "start": 1063,
+        "end": 1068,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Cardinal Rasponi",
+        "start": 1072,
+        "end": 1088,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0804",
+        "key": ""
+      },
+      {
+        "text": "Biblioteca dello Spirito Santo",
+        "start": 1121,
+        "end": 1151,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0142",
+        "key": ""
+      },
+      {
+        "text": "Biblioteca de’ Cappuccini",
+        "start": 1180,
+        "end": 1205,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0143",
+        "key": ""
+      },
+      {
+        "text": "Genova",
+        "start": 1248,
+        "end": 1254,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0083",
+        "key": ""
+      },
+      {
+        "text": "Budeo",
+        "start": 1354,
+        "end": 1359,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Aldo",
+        "start": 1389,
+        "end": 1393,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0581",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 1421,
+        "end": 1429,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Biblioteca",
+        "start": 1545,
+        "end": 1555,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 1840,
+        "end": 1847,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Leandro",
+        "start": 1879,
+        "end": 1896,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0090",
+        "key": ""
+      },
+      {
+        "text": "Fabriano",
+        "start": 1942,
+        "end": 1950,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0004",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2035,
+        "end": 2053,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 2102,
+        "end": 2130,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 2149,
+        "end": 2155,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 2156,
+        "end": 2163,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      },
+      {
+        "text": "Thesaurus Ciceron",
+        "start": 2166,
+        "end": 2183,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Georgium Valentinum",
+        "start": 2209,
+        "end": 2228,
+        "type": "PER",
+        "ref": "",
+        "key": ""
+      }
+    ],
+    "entity_count": 24,
+    "text_length": 2243
+  },
+  {
+    "letter_id": "DLCL_CF_E10004",
+    "filename": "DLCL_CF_E10004.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1712-10-19",
+      "place_sent": "Ribano",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Ribano, 19 Ottobre 1712)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Rimando la descrizione della libreriadel Padre Abate Pasolini, ch’è troppo digiuna, e l’altra del Padre Don Romualdo, la quale sfolgoreggia con un lusso troppo superiore a’ Lustri Ravennati. La lettura di queste seconda mi ha fatto intendere quanto starebbe bene la pubblicazione del nostro Indice; colla descrizione della Libreria. Quanto alla prima, rimetterò la descrizione al caso, non sapendo a chi più giustamente raccomandare i voli di quella penna istorica. Solo accennerò che possibile aggiungersi il Coretto della notte, che nel genere suo non è cosa dispreggevole, e la Cassina ora fabbricata vicino al Cesenatico, e la chiesa di S. Micheleda fondamenti eretta tra Montiano, e Cesena, e l’altra similmente fatta in Pigneta. Ma di ciò meglio saprà informare il Padre Camerlingo. Il nuovo Decreto per la Sequenza del Padre S. Romualdoè stato pubblicato con lettera circolare agli Abati dal Padre Reverendissimo Generale. Però non è necessario inserirlo nelle nostre stampe del Calendario. Pure, se vuole Vostra Paternitàmetterlo in fine, ove vi avvanzi luogo, a lei ne lascio la libertà. Della Sequenza ne avrà copia il Padre Priore. Se vi rimane carta bianca, ancor essa può aggiungersi dopo il Decreto. Riceva il viaggio di Vostra Paternitàa Bagnacavalloil merito della santa ubbidienza, col quale vada pure ad accompagnare Don Germano, al quale senza tal compagnia non gliene darei la licenza. Goderò in somma che tal mossa sia fruttuosa al desiderio della sua Sorella. Si ricordi ritornare prima dell’Avvento. Avanti di partire, trovi nel nostro Camerone il Castellanoin 4to, che mi mando da supplire il Signore Canonico Teologo Filippo Rondinini; e lo mandi al detto Signore a Faenza, accompagnandolo con breve lettera, nella quale esprima dove sia il Vescovato Cariatensein Italia; al quale esso Castellanifu eletto. Lo troverà nel Baudrand, e sarà nell’ Ughelliil quale forse non ne farà menzione, perché stimo non ne andasse in possesso. Resto di vero cuore confermandomi. Ribano 19 novembre 1712. DVP, che saluti caramente Don Bonifazio, cui mando la Copia del Quadriregio. Potrà impiegarvi intorno qualche ora alla Ragazina. Un cordialissimo saluto al Padre Don Romualdo, cui risponderò per la posta. Mando la sua Relazione. Affettuosissimo Padre nel Signore Don Pietro Canneti. Per gli abiti degl’Imperadori, e Imperatrici d’Oriente si può veder certa raccolta di rami sul principio del primo tomo del Glossariodel Du-Cange, e forse la storia Bizantinadello stesso Autore. Per gli vescovi greci si vedano i tomi di S. Epifanio e di S. Atanasio. Per la Sibilla Tiburtina, i Rami delle St[...] Al Molto Reverendo Padre mio Osservandissimo Il Padre Don Mariangelo FiacchiMonaco Camaldolese Con un involtino Classe Ravenna",
+    "entities": [
+      {
+        "text": "libreria",
+        "start": 71,
+        "end": 79,
+        "type": "ORG",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Padre Abate Pasolini",
+        "start": 83,
+        "end": 103,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0016",
+        "key": "DLCL_CF_PC0016"
+      },
+      {
+        "text": "Padre Don Romualdo",
+        "start": 140,
+        "end": 158,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0027",
+        "key": ""
+      },
+      {
+        "text": "Lustri Ravennati",
+        "start": 215,
+        "end": 231,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "nostro Indice",
+        "start": 326,
+        "end": 339,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 365,
+        "end": 373,
+        "type": "ORG",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Cesenatico",
+        "start": 656,
+        "end": 666,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0014",
+        "key": "DLCL_CF_L0014"
+      },
+      {
+        "text": "chiesa di S. Michele",
+        "start": 673,
+        "end": 693,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0006",
+        "key": ""
+      },
+      {
+        "text": "Montiano",
+        "start": 718,
+        "end": 726,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0015",
+        "key": ""
+      },
+      {
+        "text": "Cesena",
+        "start": 730,
+        "end": 736,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0009",
+        "key": ""
+      },
+      {
+        "text": "Pigneta",
+        "start": 768,
+        "end": 775,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0021",
+        "key": ""
+      },
+      {
+        "text": "Padre S. Romualdo",
+        "start": 868,
+        "end": 885,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0017",
+        "key": "DLCL_CF_PC0017"
+      },
+      {
+        "text": "Calendario",
+        "start": 1028,
+        "end": 1038,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Bagnacavallo",
+        "start": 1295,
+        "end": 1307,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0016",
+        "key": ""
+      },
+      {
+        "text": "Don Germano",
+        "start": 1377,
+        "end": 1388,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0028",
+        "key": ""
+      },
+      {
+        "text": "Castellano",
+        "start": 1613,
+        "end": 1623,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Filippo Rondinini",
+        "start": 1684,
+        "end": 1701,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0018",
+        "key": "DLCL_CF_PC0018"
+      },
+      {
+        "text": "Faenza",
+        "start": 1733,
+        "end": 1739,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0005",
+        "key": "DLCL_CF_L0005"
+      },
+      {
+        "text": "Vescovato Cariatense",
+        "start": 1808,
+        "end": 1828,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0004",
+        "key": "DLCL_CF_O0004"
+      },
+      {
+        "text": "Italia",
+        "start": 1831,
+        "end": 1837,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0026",
+        "key": ""
+      },
+      {
+        "text": "Castellani",
+        "start": 1853,
+        "end": 1863,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0019",
+        "key": "DLCL_CF_PC0019"
+      },
+      {
+        "text": "Baudrand",
+        "start": 1889,
+        "end": 1897,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Ughelli",
+        "start": 1912,
+        "end": 1919,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Ribano",
+        "start": 2032,
+        "end": 2038,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0006",
+        "key": "DLCL_CF_L0006"
+      },
+      {
+        "text": "Don Bonifazio",
+        "start": 2083,
+        "end": 2096,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0007",
+        "key": ""
+      },
+      {
+        "text": "Quadriregio",
+        "start": 2121,
+        "end": 2132,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Ragazina",
+        "start": 2176,
+        "end": 2184,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0022",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Romualdo",
+        "start": 2213,
+        "end": 2231,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0027",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2320,
+        "end": 2338,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": "DLCL_CF_PC0001"
+      },
+      {
+        "text": "Glossario",
+        "start": 2464,
+        "end": 2473,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Du-Cange",
+        "start": 2477,
+        "end": 2485,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0022",
+        "key": "DLCL_CF_PC0022"
+      },
+      {
+        "text": "storia Bizantina",
+        "start": 2498,
+        "end": 2514,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "tomi di S. Epifanio e di S. Atanasio",
+        "start": 2569,
+        "end": 2605,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 2702,
+        "end": 2730,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 2766,
+        "end": 2772,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 2773,
+        "end": 2780,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 36,
+    "text_length": 2780
+  },
+  {
+    "letter_id": "DLCL_CF_E10010",
+    "filename": "DLCL_CF_E10010.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": null,
+      "place_sent": null,
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi"
+    },
+    "text": "Padre Don MariangeloAmatissimo[...] l’altra dell’ordinario passato, nel rivedere i nostri libri, trovo tra essi le Vite de’ Pittori Antichidel Dati. Ma di due tometti in 12 delle lettere di M. Simon in franzese, non trovo che quello legato alla franzese, un altro in rustico sarà restato costi. E se è così, me lo mandi; insieme colle Scanziedel Cinellitutte; alle quali aggiunga sei copie della Scanzia IX; se non erro, dedicata a me; e altrettante della VI, o altra che sia dedicata al Cavaliere Mandosio. Vi metta altresì le Lezionidel Bianchini, e un libro in 12 legato alla franzese intitolato Moynes emprunteze il Lattanzio Firmianodel Cellarioin 8.L’altra sera ebbi da Romail libro del Cecchiniscritto con maravigliosa eleganza, e colla solita protesta degl’Ignoranti, che non fan caso delle parole, ma della dottrina. Non l’ho ancora letto. Or capisco quel, che ultimamente mi fu scritto da Comacchio, cioè il Brunori Giovaneaver colà portata nuova che in Ravennasi faceva una risposta sull’aria di quella del Bertinial Lucardesi. Cotesto Maraviglia è uomo da ciò; e Cecchinine ha tutto ‘l merito. Intanto si avverta che lo StellatoPoeta addotto dal Cecchiniè uno scrittore degli Antipodi. Vostra Paternitàlo troverà tra Poeti[...] in Libreria= Marcelli Palingenii Stellati Zodiacus C[...] Amstelodami, in 16 tutto dorato, ed è proibito; e[...] si per lo più il Palingenio. Né avverta il buon M[...]. Ho trovata un’altra lettera di Vostra Paternità, in ordine alla quale;[...] la Difesadel Nigrisoli, con l’opera che vi si difende, p[…]domi non averla messa in Libreria. Ho bisogno di dar[...] ‘a Medicipiù studiosi, che qui mi favoriscono di continuo[...]vo in quest’ordinario al Padre M. Capelli. L’Orazione de[...]razza è tale, che mi ha fatto alzare affari in alto il[...] del medesimo. Aspetto l’ Opuscolo dell’Imitazione[...]. Sopra le Rubriche; i Decreti della Congregazione de’ Ritifanno a’[...] tra loro. Di S. Gio. di Dionon sò qual messasia assegnata.[...] Olivetanihan qui stampato un Calendarioper tre[...] e han tralasciato (né so perché) questo Santo. Del co[...] paonazzo usato da’ Vescovi, e altri Prelatinelle M[...] di Requiem, altra ragione non può assegnarsi, che la[...]tudine, contraria alle Rubriche, e Ceremoniale.",
+    "entities": [
+      {
+        "text": "Padre Don Mariangelo",
+        "start": 0,
+        "end": 20,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": "DLCL_CF_PC0002"
+      },
+      {
+        "text": "Vite de’ Pittori Antichi",
+        "start": 115,
+        "end": 139,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Dati",
+        "start": 143,
+        "end": 147,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0070",
+        "key": ""
+      },
+      {
+        "text": "lettere di M. Simon in franzese",
+        "start": 179,
+        "end": 210,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Scanzie",
+        "start": 335,
+        "end": 342,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Cinelli",
+        "start": 346,
+        "end": 353,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0038",
+        "key": ""
+      },
+      {
+        "text": "Scanzia IX",
+        "start": 396,
+        "end": 406,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "VI",
+        "start": 456,
+        "end": 458,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Cavaliere Mandosio",
+        "start": 488,
+        "end": 506,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0071",
+        "key": ""
+      },
+      {
+        "text": "Lezioni",
+        "start": 528,
+        "end": 535,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Bianchini",
+        "start": 539,
+        "end": 548,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0050",
+        "key": ""
+      },
+      {
+        "text": "Moynes empruntez",
+        "start": 599,
+        "end": 615,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Lattanzio Firmiano",
+        "start": 620,
+        "end": 638,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Roma",
+        "start": 676,
+        "end": 680,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0008",
+        "key": ""
+      },
+      {
+        "text": "Cecchini",
+        "start": 693,
+        "end": 701,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0072",
+        "key": ""
+      },
+      {
+        "text": "Comacchio",
+        "start": 899,
+        "end": 908,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0031",
+        "key": ""
+      },
+      {
+        "text": "Brunori Giovane",
+        "start": 918,
+        "end": 933,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0073",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 964,
+        "end": 971,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      },
+      {
+        "text": "Bertini",
+        "start": 1018,
+        "end": 1025,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0074",
+        "key": ""
+      },
+      {
+        "text": "Lucardesi",
+        "start": 1028,
+        "end": 1037,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0075",
+        "key": ""
+      },
+      {
+        "text": "Cecchini",
+        "start": 1075,
+        "end": 1083,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0072",
+        "key": ""
+      },
+      {
+        "text": "Stellato",
+        "start": 1132,
+        "end": 1140,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0076",
+        "key": ""
+      },
+      {
+        "text": "Cecchini",
+        "start": 1158,
+        "end": 1166,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0072",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 1243,
+        "end": 1251,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Marcelli Palingenii Stellati Zodiacus C[...] Amstelodami",
+        "start": 1253,
+        "end": 1309,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Palingenio",
+        "start": 1370,
+        "end": 1380,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0076",
+        "key": ""
+      },
+      {
+        "text": "Difesa",
+        "start": 1488,
+        "end": 1494,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Nigrisoli",
+        "start": 1498,
+        "end": 1507,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0077",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 1569,
+        "end": 1577,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Padre M. Capelli",
+        "start": 1689,
+        "end": 1705,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0078",
+        "key": ""
+      },
+      {
+        "text": "Opuscolo dell’Imitazione",
+        "start": 1810,
+        "end": 1834,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Rubriche",
+        "start": 1850,
+        "end": 1858,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Decreti della Congregazione de’ Riti",
+        "start": 1862,
+        "end": 1898,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "S. Gio. di Dio",
+        "start": 1925,
+        "end": 1939,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0079",
+        "key": ""
+      },
+      {
+        "text": "messa",
+        "start": 1951,
+        "end": 1956,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Calendario",
+        "start": 2005,
+        "end": 2015,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Rubriche",
+        "start": 2223,
+        "end": 2231,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Ceremoniale",
+        "start": 2235,
+        "end": 2246,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      }
+    ],
+    "entity_count": 38,
+    "text_length": 2247
+  },
+  {
+    "letter_id": "DLCL_CF_E10049",
+    "filename": "DLCL_CF_E10049.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1717-01-30",
+      "place_sent": "Perugia",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Perugia, 30 Gennaio 1717)"
+    },
+    "text": "Carissimo Padre Don Mariangelo Ricevo con obbligata cordialità corrispondente al di lei amore i favori a me trasmessi dalla Paternità Vostranel Calendario, e ne’ quattro fogli spettanti al punto de’ Catanei. Mi rallegro con esso lei dell’opportuna congiuntura di portarsi alla Patria, e godervi della geniale conversazione del Padre Filippo Amiciverso la persona di lei sommamente sviscerato, e suo Benefattore. Mi consola la cara riflessione che ne’ loro discorsi qualche volta io vi occuperò il mio luogo, come son certo di possederlo ne’ cuori d’ambidue. Ritornato a Ravenna, quando che sia, non si scordi rispondermi sopra gli altri particolari tutti. Quanto a Catanei, non si affatichi più che tanto intorno l’ Epitomedell’ Olivetano, della quale io fo’ poco conto, a misura del merito dell’Opera. Basterà accennare un succinto ristretto delle principali notizie, le quali possano conferire all’intento. Intanto comincerò col Signor Abate Ferriil carteggio. Solleciterò la spedizione delle altre cose, per servire il Signor Dottor Sancassanidella Scanzia Cinelliana XV. Di certe copie del mio Discorsospedite tempo fa da Padre Don Pietronon essendosi saputa nuova, si crede che siano ite a male: onde né pur in Bolognaella ne vedrà alcun esemplare. Ma rifletto meglio, e considerata pre - -mura del Signor Dottore, la maniera facile di servirlo da esso proposta, l’obbligo, che mi corre al medesimo per avermi favorito d’altre Scanzie, risolvo di sollecitamente farcopiare la detta Scanzia, e mandargliela, com’egli ha ordinato. Gliene scriva con riverirla in mio nome. Aspetto la risposta del Signor Muratorisopra i Marmi Pesaresi. Staremo poi a vedere i frutti dell’erudizioni indicate sopra gli Attidi Santa Sabina. Scorrendo l’altro giorno il libro intitolato = Iani Laurenbergij Antiquarius= lessi = Basterna, ut ait Isidorus, vehiculum est itineris, quasi vasterna: ea mollibus strame[...] composita a duobus animalibus portatur=. Porti i miei ossequiosi rispetti al Reverendissimo Gasparini: e mi riverisca il Padre Lettore Giusticon distinzione, e il Padre Curato Bologninie il Degnissimo Signor Dottor Malisardi, come ancora il Signor Marcantonio Sbaraglia, e il Signor Sante Fattorini. Se per divertimento in ore disoccupate ella potesse vedere i manoscritti della Libreria di San Salvatore, osservi se in Miscellanee o altri Codici d’Autoridi quell’età si trovi menzione di S. Ambrogio. Resto con tutto lo spirito abbracciandola. DVPMR. Perugia 30 Gennaio 1717. Affettuosissimo Servo e Padre nel Signore Don Pietro Canneti Al Molto Reverendo Padre mio Osservandissimo il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna [ Fasciculus | rerum expetandarum et fugandarum in Concilio Basileensio]",
+    "entities": [
+      {
+        "text": "Padre Don Mariangelo",
+        "start": 10,
+        "end": 30,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": "DLCL_CF_PC0002"
+      },
+      {
+        "text": "Calendario",
+        "start": 144,
+        "end": 154,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Catanei",
+        "start": 199,
+        "end": 206,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0065",
+        "key": ""
+      },
+      {
+        "text": "Padre Filippo Amici",
+        "start": 327,
+        "end": 346,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0006",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 570,
+        "end": 577,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      },
+      {
+        "text": "Catanei",
+        "start": 665,
+        "end": 672,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0065",
+        "key": ""
+      },
+      {
+        "text": "Epitome",
+        "start": 716,
+        "end": 723,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Olivetano",
+        "start": 729,
+        "end": 738,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0101",
+        "key": ""
+      },
+      {
+        "text": "Signor Abate Ferri",
+        "start": 931,
+        "end": 949,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0125",
+        "key": ""
+      },
+      {
+        "text": "Signor Dottor Sancassani",
+        "start": 1022,
+        "end": 1046,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0056",
+        "key": ""
+      },
+      {
+        "text": "Scanzia Cinelliana XV",
+        "start": 1052,
+        "end": 1073,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Discorso",
+        "start": 1098,
+        "end": 1106,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Pietro",
+        "start": 1126,
+        "end": 1142,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0043",
+        "key": ""
+      },
+      {
+        "text": "Bologna",
+        "start": 1216,
+        "end": 1223,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0007",
+        "key": ""
+      },
+      {
+        "text": "Scanzie",
+        "start": 1432,
+        "end": 1439,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Scanzia",
+        "start": 1487,
+        "end": 1494,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Signor Muratori",
+        "start": 1599,
+        "end": 1614,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0013",
+        "key": ""
+      },
+      {
+        "text": "Atti",
+        "start": 1703,
+        "end": 1707,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Santa Sabina",
+        "start": 1710,
+        "end": 1722,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0370",
+        "key": ""
+      },
+      {
+        "text": "Iani Laurenbergij Antiquarius",
+        "start": 1771,
+        "end": 1800,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Isidorus",
+        "start": 1827,
+        "end": 1835,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0364",
+        "key": ""
+      },
+      {
+        "text": "Reverendissimo Gasparini",
+        "start": 1978,
+        "end": 2002,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0391",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Giusti",
+        "start": 2022,
+        "end": 2042,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0392",
+        "key": ""
+      },
+      {
+        "text": "Padre Curato Bolognini",
+        "start": 2064,
+        "end": 2086,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0393",
+        "key": ""
+      },
+      {
+        "text": "Signor Dottor Malisardi",
+        "start": 2102,
+        "end": 2125,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0394",
+        "key": ""
+      },
+      {
+        "text": "Signor Marcantonio Sbaraglia",
+        "start": 2142,
+        "end": 2170,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0260",
+        "key": ""
+      },
+      {
+        "text": "Signor Sante Fattorini",
+        "start": 2177,
+        "end": 2199,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0395",
+        "key": ""
+      },
+      {
+        "text": "Libreria di San Salvatore",
+        "start": 2280,
+        "end": 2305,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0009",
+        "key": ""
+      },
+      {
+        "text": "Miscellanee o altri Codici d’Autori",
+        "start": 2321,
+        "end": 2356,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "S. Ambrogio",
+        "start": 2390,
+        "end": 2401,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0326",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 2453,
+        "end": 2460,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2520,
+        "end": 2538,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 2587,
+        "end": 2615,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 2634,
+        "end": 2640,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 2641,
+        "end": 2648,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 35,
+    "text_length": 2721
+  },
+  {
+    "letter_id": "DLCL_CF_E10054",
+    "filename": "DLCL_CF_E10054.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1717-03-27",
+      "place_sent": "Perugia",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Perugia, 27 Marzo 1717)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Dall’indefessa cordialità di Vostra Paternitàricevo le notizie, che riguardano il nostro Cardinale de Anna, o Sommariva, Napolitano, o Lodigiano, rimanendo per verità le cose di questo Porporato assai intricate e confuse. Il Lancellottinella Storia Olivetanaapertamente lo fa da Lodidella Casa Sommariva, la qual tuttavia colà fiorisce; e scrive che egli con Niccolòsuo Fratello fondò il Monistero di Villanuovain quel Territorio. Dall’altra parte l’epitafio lo dimostra della Casa de Anna, che altresì in Napolifino al dì d’oggi si mantiene, e tra’ Napolitani è riferito dal Toppinella Biblioteca Napolitana. Alle diligenze fatte Vostra Paternitàaggiungane un’altra con veder se ne parla certo istorico, che costì abbiamo, di Lodi, e chiamasi, se non erro, il Villanuova. L’ Ughelliconcorda a Lancellottiin proposito della fondazione del Monistero di Villanuovadegli Olivetani eretto dal Cardinale Angeloper testamentaria disposizione di Niccolò SommarivaFratello d’esso Cardinale. La ringrazio altresì di quel, che mi notifica intorno a Pietro Quirino, tratto dal Ciacconio. Mi persuado che il Palazziancora ne scriva negli stessi precisi termini. Luca Spagnuoloè appresso di me colla sua Romualdina. Ho ancora il Garimberto, che iniquamente maltrattò il Venerabile Cardinale Maffeo Gerardo. Tengo ancor copia di tutto quel, che altri ne ha scritto in difesa. Ma tra essi spicca Ludovico Doni d’AttichyVescovo Franzese nell’Opera Insigne in tre Tomi in folio intitolata = Flores Historiae Sacri Collegij Cardinalium= Ivi lo rappresenta Uomo Santo, quale in fatti convien dire ch’è fosse. Care mi saranno le notizie della Famiglia Traversarj, della quale penso accrescere il primo capitolo della Vitadel nostro Ambrogio, disteso troppo in succinto. Nuovamente mi rallegro che abbia Vostra Paternitàintrapresa la fatica di trascrivere la Storiadel Carrari, la quale in più luoghi io scopersi essere indubitatamente di cotesto Autore, e non di un Morigi, qual si supponeva. Penserò il modo di mettere in credito la lapida di Bologna, della quale io penso ne avesse Vostra Paternitàfatta ingerir qualche stima. Era nato in me qualche timore che la mia lettera scritta sopra essa lapide fusse andata a male. Nell’ Indice de’ nostri libri, che sono in guardia di Vostra Paternitànon vi leggo i due tomi della Biblioteca Romanadel Mandosio. Desidero sapere se ciò sia seguito perché manchino. Delle Instituzioni Teologichedel Cardinale Tommasiquanti tometti ne abbiamo costì? Mi riverisca ben caramente il Padre Camerlengo. Resto con tutto lo spirito, abbracciandola di vero cuore. DVPMR., che ringrazia ancora per la notizia di Modenadal Signor Sancassaniottenuta sopra il Manoscrittodi Pesaro. Perugia 27 Marzo 1717 Cordialissimo Servitore e Affettuosissimo Padre nel Signore Don Pietro Canneti Al Molto Reverendo Padre mio Osservandissimo Il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna",
+    "entities": [
+      {
+        "text": "Cardinale de Anna, o Sommariva",
+        "start": 131,
+        "end": 161,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0413",
+        "key": ""
+      },
+      {
+        "text": "Lancellotti",
+        "start": 267,
+        "end": 278,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0376",
+        "key": ""
+      },
+      {
+        "text": "Storia Olivetana",
+        "start": 284,
+        "end": 300,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Lodi",
+        "start": 321,
+        "end": 325,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0095",
+        "key": ""
+      },
+      {
+        "text": "Casa Sommariva",
+        "start": 331,
+        "end": 345,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0070",
+        "key": ""
+      },
+      {
+        "text": "Niccolò",
+        "start": 401,
+        "end": 408,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0375",
+        "key": ""
+      },
+      {
+        "text": "Monistero di Villanuova",
+        "start": 430,
+        "end": 453,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0072",
+        "key": ""
+      },
+      {
+        "text": "Casa de Anna",
+        "start": 519,
+        "end": 531,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0071",
+        "key": ""
+      },
+      {
+        "text": "Napoli",
+        "start": 548,
+        "end": 554,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0082",
+        "key": ""
+      },
+      {
+        "text": "Toppi",
+        "start": 618,
+        "end": 623,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0377",
+        "key": ""
+      },
+      {
+        "text": "Biblioteca Napolitana",
+        "start": 629,
+        "end": 650,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Lodi",
+        "start": 769,
+        "end": 773,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0095",
+        "key": ""
+      },
+      {
+        "text": "Villanuova",
+        "start": 803,
+        "end": 813,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0383",
+        "key": ""
+      },
+      {
+        "text": "Ughelli",
+        "start": 818,
+        "end": 825,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0021",
+        "key": ""
+      },
+      {
+        "text": "Lancellotti",
+        "start": 836,
+        "end": 847,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0376",
+        "key": ""
+      },
+      {
+        "text": "Monistero di Villanuova",
+        "start": 881,
+        "end": 904,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0072",
+        "key": ""
+      },
+      {
+        "text": "Cardinale Angelo",
+        "start": 931,
+        "end": 947,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0413",
+        "key": ""
+      },
+      {
+        "text": "Niccolò Sommariva",
+        "start": 981,
+        "end": 998,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0375",
+        "key": ""
+      },
+      {
+        "text": "Pietro Quirino",
+        "start": 1081,
+        "end": 1095,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0414",
+        "key": ""
+      },
+      {
+        "text": "Ciacconio",
+        "start": 1108,
+        "end": 1117,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0412",
+        "key": ""
+      },
+      {
+        "text": "Palazzi",
+        "start": 1138,
+        "end": 1145,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0426",
+        "key": ""
+      },
+      {
+        "text": "Luca Spagnuolo",
+        "start": 1192,
+        "end": 1206,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0427",
+        "key": ""
+      },
+      {
+        "text": "Romualdina",
+        "start": 1233,
+        "end": 1243,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Garimberto",
+        "start": 1258,
+        "end": 1268,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0428",
+        "key": ""
+      },
+      {
+        "text": "Venerabile Cardinale Maffeo Gerardo",
+        "start": 1299,
+        "end": 1334,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0429",
+        "key": ""
+      },
+      {
+        "text": "Ludovico Doni d’Attichy",
+        "start": 1423,
+        "end": 1446,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0430",
+        "key": ""
+      },
+      {
+        "text": "Flores Historiae Sacri Collegij Cardinalium",
+        "start": 1516,
+        "end": 1559,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Famiglia Traversarj",
+        "start": 1665,
+        "end": 1684,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0066",
+        "key": ""
+      },
+      {
+        "text": "Vita",
+        "start": 1739,
+        "end": 1743,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Ambrogio",
+        "start": 1754,
+        "end": 1762,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0032",
+        "key": ""
+      },
+      {
+        "text": "Storia",
+        "start": 1880,
+        "end": 1886,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Carrari",
+        "start": 1890,
+        "end": 1897,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0176",
+        "key": ""
+      },
+      {
+        "text": "Morigi",
+        "start": 1988,
+        "end": 1994,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0073",
+        "key": ""
+      },
+      {
+        "text": "Bologna",
+        "start": 2066,
+        "end": 2073,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0007",
+        "key": ""
+      },
+      {
+        "text": "Indice de’ nostri libri",
+        "start": 2253,
+        "end": 2276,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "due tomi della Biblioteca Romana",
+        "start": 2332,
+        "end": 2364,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Mandosio",
+        "start": 2368,
+        "end": 2376,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0071",
+        "key": ""
+      },
+      {
+        "text": "Instituzioni Teologiche",
+        "start": 2436,
+        "end": 2459,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Cardinale Tommasi",
+        "start": 2463,
+        "end": 2480,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0431",
+        "key": ""
+      },
+      {
+        "text": "Modena",
+        "start": 2666,
+        "end": 2672,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0012",
+        "key": ""
+      },
+      {
+        "text": "Signor Sancassani",
+        "start": 2676,
+        "end": 2693,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0056",
+        "key": ""
+      },
+      {
+        "text": "Manoscritto",
+        "start": 2711,
+        "end": 2722,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Pesaro",
+        "start": 2725,
+        "end": 2731,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0003",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 2733,
+        "end": 2740,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2815,
+        "end": 2833,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 2882,
+        "end": 2910,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 2929,
+        "end": 2935,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 2936,
+        "end": 2943,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 48,
+    "text_length": 2943
+  },
+  {
+    "letter_id": "DLCL_CF_E10066",
+    "filename": "DLCL_CF_E10066.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1718-01-29",
+      "place_sent": "Perugia",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Perugia, 29 Gennaio 1718)"
+    },
+    "text": "Molto Reverendo Padre mio Osservandissimo Per l’ordinario presente, in occasione di mandare per la conferma, la licenza concedutami già dalla Suprema Inquisizionedi leggere i libri proibiti, prego istantemente il Padre Reverendissimo Procuratore Generale, che a Vostra Paternitàper la necessità del suo impiego, e per quiete di sua coscienza ottenga licenza de’ libri vietatio dal Santo Officio, o dall’ Indice, secondo l’apertura, che potrà egli trovarne. Ottenuta che sia, come spero, gliela trasmetterò. Son giunti gl’involti appunto mercoledì mattina. Mi ha recato maraviglia, e dispiacere la novità del giungere sciolti i Giornali, che da tanti anni si ricevevano legati alla rustica, col comodo di subito leggerli, e senza necessità di fargli legare in altra maniera. La prego impiegar l’attenzione sua perché in avvenire si goda il benefizio solito di quella, qualunque siasi, legatura. Nel Calendarioalla Festa della Trinità ho veduto subito notata la Commemorazione de’ Santi Martiri, contra la quale non ho, né mai mi ricordo di aver’avuta alcuna difficoltà. Ho notato il ripiego al Venerdì Santo circa l’Incensazione. Egli è ben vero che, non facendosi espressa menzione dell’incensar la Croce, cessa la convenienza di apporre nel Calendariola Rubrica: e questa può onninamente tralasciarsi. Ieri su due piedi, e quasi non volendo, feci acquisto delli due Tomi delle Operedi Giovanni, e di GiovanfrancescoPichi della Mirandola. L’edizione è dell’Enricpetro di Basilea[1573]. In fine del Tomo 1; che contiene le Opere di Giovanni dopo i dodici libri contro all’Astrologia, e in fine un’ Epistolaal Cardinale Oliviero Carafascritta da Giovan Francesco, e dopo il Commento volgare,[...] la Canzone d’Amoredi Girolamo Benivieni; segue De Arte Cabalistica Libri III per Joannem Reuchlinconscripticon una epistoladel sopradetto Giovan Francesco. Dubito fortemente che questo, qualunque siasi, Trattato dell’Arte Cabalisticanon sia in cotesto esemplare della Biblioteca Classense. Vostra Paternitàme lo avvisi subito, e mi chiarisca intorno al dubbio. Nell’involto grande speditomi dal Padre Camerlingoeravi il primo Tomo della nuova edizionedell’ Ughelli, la quale in vero è più bella, magnifica, e corretta e copiosa della prima, superandola ne’ caratteri ancora, e nella carta. Finalmente abbiam fatto un poco di Reliquiario per gli frammenti delle reliquie di San Severo, che portai di costà con l’autentica. Martedì si esporranno alla pubblica adorazione: e ne avranno la lor porzione il Padre Amicinostro, e il Signor Cellesi Pistoiese, che me ne fece viva istanza in tempo della Traslazione. Un riverente, e cordiale saluto al nostro Degnissimo Padre Lettore Guiccioli. Da lui s’inf[ormi] se mai sia uscito il Libro Genealogico della Casa Vaini. Resto abbracciandola caramente. Perugia 29 Gennaio 1718. DVPMR Cordialissimo Servitore Affettuosissimo Padre nel Signore Don Pietro Canneti",
+    "entities": [
+      {
+        "text": "Suprema Inquisizione",
+        "start": 142,
+        "end": 162,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0080",
+        "key": ""
+      },
+      {
+        "text": "licenza de’ libri vietati",
+        "start": 350,
+        "end": 375,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Santo Officio",
+        "start": 381,
+        "end": 394,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0011",
+        "key": ""
+      },
+      {
+        "text": "Indice",
+        "start": 404,
+        "end": 410,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Giornali",
+        "start": 627,
+        "end": 635,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Calendario",
+        "start": 898,
+        "end": 908,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Calendario",
+        "start": 1242,
+        "end": 1252,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Rubrica",
+        "start": 1255,
+        "end": 1262,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Opere",
+        "start": 1378,
+        "end": 1383,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Giovanni",
+        "start": 1386,
+        "end": 1394,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0521",
+        "key": ""
+      },
+      {
+        "text": "Giovanfrancesco",
+        "start": 1401,
+        "end": 1416,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0522",
+        "key": ""
+      },
+      {
+        "text": "Basilea",
+        "start": 1471,
+        "end": 1478,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0042",
+        "key": ""
+      },
+      {
+        "text": "Opere di Giovanni dopo i dodici libri contro all’Astrologia",
+        "start": 1522,
+        "end": 1581,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Epistola",
+        "start": 1597,
+        "end": 1605,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Cardinale Oliviero Carafa",
+        "start": 1608,
+        "end": 1633,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0523",
+        "key": ""
+      },
+      {
+        "text": "Giovan Francesco",
+        "start": 1644,
+        "end": 1660,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0522",
+        "key": ""
+      },
+      {
+        "text": "Commento volgare",
+        "start": 1672,
+        "end": 1688,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Canzone d’Amore",
+        "start": 1698,
+        "end": 1713,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Girolamo Benivieni",
+        "start": 1716,
+        "end": 1734,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0524",
+        "key": ""
+      },
+      {
+        "text": "De Arte Cabalistica Libri III",
+        "start": 1742,
+        "end": 1771,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Joannem Reuchlin",
+        "start": 1776,
+        "end": 1792,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0525",
+        "key": ""
+      },
+      {
+        "text": "epistola",
+        "start": 1810,
+        "end": 1818,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Giovan Francesco",
+        "start": 1833,
+        "end": 1849,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0522",
+        "key": ""
+      },
+      {
+        "text": "Trattato dell’Arte Cabalistica",
+        "start": 1898,
+        "end": 1928,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Biblioteca Classense",
+        "start": 1963,
+        "end": 1983,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "primo Tomo della nuova edizione",
+        "start": 2115,
+        "end": 2146,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Ughelli",
+        "start": 2152,
+        "end": 2159,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0021",
+        "key": ""
+      },
+      {
+        "text": "San Severo",
+        "start": 2368,
+        "end": 2378,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0040",
+        "key": ""
+      },
+      {
+        "text": "Padre Amici",
+        "start": 2497,
+        "end": 2508,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0006",
+        "key": ""
+      },
+      {
+        "text": "Signor Cellesi Pistoiese",
+        "start": 2521,
+        "end": 2545,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0041",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Guiccioli",
+        "start": 2656,
+        "end": 2679,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0121",
+        "key": ""
+      },
+      {
+        "text": "Libro Genealogico della Casa Vaini",
+        "start": 2721,
+        "end": 2755,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 2789,
+        "end": 2796,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2878,
+        "end": 2896,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      }
+    ],
+    "entity_count": 34,
+    "text_length": 2896
+  },
+  {
+    "letter_id": "DLCL_CF_E10069",
+    "filename": "DLCL_CF_E10069.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1718-02-05",
+      "place_sent": "Perugia",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Perugia, 5 Febbraio 1718)"
+    },
+    "text": "Padre Don MariangeloCarissimo Ha abbracciata il Padre Reverendissimo Procuratore Generalel’incombenza di procurare per Vostra Paternitàla licenza de’ libri proibiti. Quantunque le difficoltà per ottenerla siano grandi, non dispera, atteso il requisito di Custode d’una Biblioteca universale, e aperta al pubblico benefizio. Se il quadretto, in cui si conserverà disteso, senza il pregiudicio delle pieghe, il foglio della Licenzadi cotesta Libreria, si accompagnasse con altro simile, in cui si conservasse l’ Elogiodel Signor Abate Rondoni, si farebbe all’Autore quella stessa dimostrazione, che fà nella propria Biblioteca l’ Eminentissimo Orsini: eccone annessa l’autentica, che le raccomando custodire, o a rimandare. Né d’altro intende la lettera di Sua Eminenza. Ho sentita con rammarico la storia del baratto del Bellarmino. Se chi ha qualche gusto, e vi stà sopra, accadono simili abbagli, quali strafalcioni non commetterà chi vuol metter mano in materia di libri senza le previe cognizioni? Oh quanto è vasta la materia! Quanto lunga è l’arte, anzi immensa! Vostra Paternitàfaccia scriver’a Coloniaper il Corpodel Bellarminointiero.[...] Colà, o lì intorno si troverà, e non costerà tanto mai, quanto in Italia. Non trovandosi, faremo le diligenze ne’ nostri paesi, ne mancherò ad ogni maggior premura. La ringrazio del documento di Comacchio. Mi spiace che il Signor Sancassania tempo non l’abbia mandato al Coletida riferirsi nel Tomo 2°, il quale sta per uscire, o già è uscito del torchio. Con flemma veda un poco se possa unirsi qualche cosa delle tante, che dispose il Padre Lettore Collina, in quell’ Accademia di San Gregorio. Egli apprende il negozio per impossibile, e forse non[...] ad esser difficile. Desidero sapere quanti ora sieno i Tomi del compiuto Semestre de’ Bollandiani. Mi sarà caro altresì intendere se nell’ Opera grandede’ Wallemburchsi comprenda il tomo in 4to, che [par]mi fusse già posto in Libreria. Oh quanto mi consolano le n[...] del nostro Degnissimo Padre Lettore Guccioli. Tanto più gioconde mi[...]cono, quanto più mi consola la brevità necessarissima, non esclusa dal suo metodo. Egli avrà fuggito lo scoglio, in cui tanti e tanti dei nostri sono urtati con naufragio di tanti ingegni. Per far degli Uomini è necessario contenersi nell’imitare l’economia tenuta dal Ivenin. E questa tengo nelle scuole loro di Romai Monaci Casinensi. Resto con abbracciarla di tutto cuore. Perugia 5 Febbraio 1718. DVPMR. Cordialissimo Servitore Padre nel Signore Affettuosissimo Don Pietro Canneti. Monsignore Lercarinostro Governatore è il Prediletto del Signore Cardinale Orsini, che lo considera come gli fosse Nipote. Esso si è stretto con Monsignore de’ Buoinostro vescovo, ottimo, e cordial Bolognese; ed io entro continuamente per terzo, in ogni luogo. In somma si vive da per tutto. Al Molto Reverendo Padre mio Osservandissimo il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna",
+    "entities": [
+      {
+        "text": "Padre Don Mariangelo",
+        "start": 0,
+        "end": 20,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": "DLCL_CF_PC0002"
+      },
+      {
+        "text": "licenza de’ libri proibiti",
+        "start": 138,
+        "end": 164,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Licenza",
+        "start": 422,
+        "end": 429,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 440,
+        "end": 448,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Elogio",
+        "start": 510,
+        "end": 516,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Signor Abate Rondoni",
+        "start": 520,
+        "end": 540,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0128",
+        "key": ""
+      },
+      {
+        "text": "Eminentissimo Orsini",
+        "start": 628,
+        "end": 648,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0045",
+        "key": ""
+      },
+      {
+        "text": "Bellarmino",
+        "start": 820,
+        "end": 830,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Colonia",
+        "start": 1101,
+        "end": 1108,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0110",
+        "key": ""
+      },
+      {
+        "text": "Corpo",
+        "start": 1115,
+        "end": 1120,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Bellarmino",
+        "start": 1124,
+        "end": 1134,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0533",
+        "key": ""
+      },
+      {
+        "text": "Italia",
+        "start": 1214,
+        "end": 1220,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0026",
+        "key": ""
+      },
+      {
+        "text": "Comacchio",
+        "start": 1343,
+        "end": 1352,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0031",
+        "key": ""
+      },
+      {
+        "text": "Signor Sancassani",
+        "start": 1371,
+        "end": 1388,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0056",
+        "key": ""
+      },
+      {
+        "text": "Coleti",
+        "start": 1419,
+        "end": 1425,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0284",
+        "key": ""
+      },
+      {
+        "text": "Tomo 2°",
+        "start": 1442,
+        "end": 1449,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Collina",
+        "start": 1585,
+        "end": 1606,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0007",
+        "key": ""
+      },
+      {
+        "text": "Accademia di San Gregorio",
+        "start": 1618,
+        "end": 1643,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0083",
+        "key": ""
+      },
+      {
+        "text": "Tomi del compiuto Semestre de’ Bollandiani",
+        "start": 1759,
+        "end": 1801,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Opera grande",
+        "start": 1843,
+        "end": 1855,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Wallemburch",
+        "start": 1859,
+        "end": 1870,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0496 #DLCL_CF_PC0497",
+        "key": ""
+      },
+      {
+        "text": "tomo in 4to",
+        "start": 1886,
+        "end": 1897,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 1930,
+        "end": 1938,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Guccioli",
+        "start": 1995,
+        "end": 2017,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0121",
+        "key": ""
+      },
+      {
+        "text": "Ivenin",
+        "start": 2314,
+        "end": 2320,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0534",
+        "key": ""
+      },
+      {
+        "text": "Roma",
+        "start": 2358,
+        "end": 2362,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0008",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 2421,
+        "end": 2428,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2511,
+        "end": 2529,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Monsignore Lercari",
+        "start": 2531,
+        "end": 2549,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0535",
+        "key": ""
+      },
+      {
+        "text": "Signore Cardinale Orsini",
+        "start": 2588,
+        "end": 2612,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0538",
+        "key": ""
+      },
+      {
+        "text": "Monsignore de’ Buoi",
+        "start": 2676,
+        "end": 2695,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0094",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 2871,
+        "end": 2899,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 2918,
+        "end": 2924,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 2925,
+        "end": 2932,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 34,
+    "text_length": 2932
+  },
+  {
+    "letter_id": "DLCL_CF_E10071",
+    "filename": "DLCL_CF_E10071.xml",
+    "metadata": {
+      "sender": "Pietro Canneti",
+      "date": "1718-02-12",
+      "place_sent": "Perugia",
+      "receiver": "Mariangelo Fiacchi",
+      "title": "Canneti a Fiacchi (Perugia, 12 Febbraio 1718)"
+    },
+    "text": "Padre Don MariangeloCarissimo Riceverò comodamente da Folignoper mezzo del mio Signor Giustinianoil Calendario. E con esso và accompagnata la Storiadel Corno? Oh mi arriva all’improvviso, e da’ corni bisogna guardarsi. Suppongo che non porti spesa, perché non tornerebbe il conto. E pure ho comprato ier l’altro un terzo Leggendone del Farulli, che ha per titolo = Annali d’Arezzo= e non vagliono un corno. A quest’ora sarà andato in Sacra Congregazione del Santo Officioil Memorialedi legger’ i libri proibiti per Vostra Paternità. Così è stato consigliato fare il Reverendissimo Padre Procuratore Generale, trattandosi di un Custode di Libreria pubblica, ove si conservano, o posson conservarsi Libri Ereticali. Sentiremo l’esito. Intorno al libro in pergamenadi Magonzadubito che la deformità delle miniature tagliate lo guasti. Se così è, non è da innamorarsene per contro nostro; e per conto del Padronebisogna che si venda discreto. Lo prenderò per Messe, quando ella giudichi che sia volume capace di far’onore alla Libreria, e si moderi il numero delle Messe. In proposito di libri mi scrive il Reverendissimo Amigonisopra certi libri, de’ quali dice accluder la nota, e si è scordato. Suppone che siano nostri, e che per me tratti il Padre Lettore Collina. E non sò nulla. Un cordialissimo saluto al Padre Lettore, da cui spero qualche rimasuglio dell’ Accademia di San Gregorio. Quel libro de’ Pittori Romani, di cui tempo fà, si comprò? Seguito a trattar l’acquisto della superbissima edizionedel Lipsio. Ho proposti a conto i due Tomi, che sono costì di Lione, e il Tacitoappunto della stampa d’ Anversa, di cui sono gli altri cinque Tomi. Potrebbe farsi baratto anco de’ i due Tomidell’ uno, e l’ altro Pico. Mi scriva il Catalogo delle Opere. L’altro giorno misi insieme tutti i fogli spettanti alla Casa Guccioli. Voglio assolutamente adempier la promessa. Come ho servito chi bramava le reliquie di San Severo, così seguira nel caso nostro. Ora parimente dopo quattro anni si è ripigliato lo studio del Quadriregio, e vi si lavora. Bisogna fermare i cervelli predominanti in un sodo sistema e [fare] un Calendario, come quel di MonteCorona. Quella festa di Fabrianonon può farsi con altr’officio, che con quello, che corre, altrimenti si contraviene al Decreto stampato ne’ Breviarj ultimi, e non si soddisfà all’obbligo, e si pecca in materia grave. Suppongo che siano di que’ Santi Ignoti, che volgarmente diconsi battezzati. Abusi sono questi, e altri simili introdotti o da ignoranza, o da irragionevole divozione. Seppi la morte del Signor Fabio, alla cui anima doni il Signore eterno riposo. Resto con caramente abbracciarla. DVPMR. Perugia 12 Febbraio 1718 Cordialissimo Servitore e Padre Affettuosissimo nel Signore Don Pietro Canneti Al Molto Reverendo Padre mio Osservandissimo il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna [ Januar. 2. | Februar. 3. | Martius. 3. | Aprilis 3. | Propileum 1. | Maius 6 7. | Junus 7. | 26]",
+    "entities": [
+      {
+        "text": "Padre Don Mariangelo",
+        "start": 0,
+        "end": 20,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": "DLCL_CF_PC0002"
+      },
+      {
+        "text": "Foligno",
+        "start": 54,
+        "end": 61,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0023",
+        "key": ""
+      },
+      {
+        "text": "Signor Giustiniano",
+        "start": 79,
+        "end": 97,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0015",
+        "key": ""
+      },
+      {
+        "text": "Calendario",
+        "start": 100,
+        "end": 110,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Storia",
+        "start": 142,
+        "end": 148,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Corno",
+        "start": 152,
+        "end": 157,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0186",
+        "key": ""
+      },
+      {
+        "text": "Farulli",
+        "start": 336,
+        "end": 343,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0536",
+        "key": ""
+      },
+      {
+        "text": "Annali d’Arezzo",
+        "start": 365,
+        "end": 380,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Sacra Congregazione del Santo Officio",
+        "start": 434,
+        "end": 471,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0011",
+        "key": ""
+      },
+      {
+        "text": "Memoriale",
+        "start": 474,
+        "end": 483,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "libro in pergamena",
+        "start": 744,
+        "end": 762,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Magonza",
+        "start": 765,
+        "end": 772,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0053",
+        "key": ""
+      },
+      {
+        "text": "Libreria",
+        "start": 1023,
+        "end": 1031,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0001",
+        "key": ""
+      },
+      {
+        "text": "Reverendissimo Amigoni",
+        "start": 1103,
+        "end": 1125,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0193",
+        "key": ""
+      },
+      {
+        "text": "Padre Lettore Collina",
+        "start": 1243,
+        "end": 1264,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0007",
+        "key": ""
+      },
+      {
+        "text": "Accademia di San Gregorio",
+        "start": 1362,
+        "end": 1387,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0083",
+        "key": ""
+      },
+      {
+        "text": "libro de’ Pittori Romani",
+        "start": 1394,
+        "end": 1418,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "edizione",
+        "start": 1496,
+        "end": 1504,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Lipsio",
+        "start": 1508,
+        "end": 1514,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0531",
+        "key": ""
+      },
+      {
+        "text": "Lione",
+        "start": 1566,
+        "end": 1571,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0044",
+        "key": ""
+      },
+      {
+        "text": "Tacito",
+        "start": 1578,
+        "end": 1584,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Anversa",
+        "start": 1608,
+        "end": 1615,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0032",
+        "key": ""
+      },
+      {
+        "text": "cinque Tomi",
+        "start": 1639,
+        "end": 1650,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "due Tomi",
+        "start": 1686,
+        "end": 1694,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "altro Pico",
+        "start": 1710,
+        "end": 1720,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0522",
+        "key": ""
+      },
+      {
+        "text": "Catalogo delle Opere",
+        "start": 1735,
+        "end": 1755,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Casa Guccioli",
+        "start": 1814,
+        "end": 1827,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0084",
+        "key": ""
+      },
+      {
+        "text": "San Severo",
+        "start": 1915,
+        "end": 1925,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0040",
+        "key": ""
+      },
+      {
+        "text": "Quadriregio",
+        "start": 2019,
+        "end": 2030,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Calendario",
+        "start": 2119,
+        "end": 2129,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "MonteCorona",
+        "start": 2144,
+        "end": 2155,
+        "type": "ORG",
+        "ref": "#DLCL_CF_O0013",
+        "key": ""
+      },
+      {
+        "text": "Fabriano",
+        "start": 2173,
+        "end": 2181,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0004",
+        "key": ""
+      },
+      {
+        "text": "Decreto stampato ne’ Breviarj ultimi",
+        "start": 2269,
+        "end": 2305,
+        "type": "WORK",
+        "ref": "",
+        "key": ""
+      },
+      {
+        "text": "Signor Fabio",
+        "start": 2554,
+        "end": 2566,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0537",
+        "key": ""
+      },
+      {
+        "text": "Perugia",
+        "start": 2655,
+        "end": 2662,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0028",
+        "key": ""
+      },
+      {
+        "text": "Don Pietro Canneti",
+        "start": 2740,
+        "end": 2758,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0001",
+        "key": ""
+      },
+      {
+        "text": "Padre Don Mariangelo Fiacchi",
+        "start": 2807,
+        "end": 2835,
+        "type": "PER",
+        "ref": "#DLCL_CF_PC0002",
+        "key": ""
+      },
+      {
+        "text": "Classe",
+        "start": 2854,
+        "end": 2860,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0020",
+        "key": ""
+      },
+      {
+        "text": "Ravenna",
+        "start": 2861,
+        "end": 2868,
+        "type": "LOC",
+        "ref": "#DLCL_CF_L0002",
+        "key": ""
+      }
+    ],
+    "entity_count": 39,
+    "text_length": 2967
+  }
+]

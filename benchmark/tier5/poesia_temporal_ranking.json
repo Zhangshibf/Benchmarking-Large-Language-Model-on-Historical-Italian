@@ -1,0 +1,1609 @@
+{
+    "file_info": {
+        "source": "poesia_ranking_tasks.json",
+        "task_count": 50,
+        "type": "ranking"
+    },
+    "tasks": [
+        {
+            "task_id": 1,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000453.json",
+                    "year": 1844,
+                    "idx": "458",
+                    "text": "Che tu despriexij e tiens a mal\\Li nostri die e la nostra fe,\\E as receuuda altra le\\\\Cha quella, che a sempre abuda\\Nostri anteçessory et mantegnuda?\\En ueritade molto me par\\\\Strania cossa da inpensar,\\A dir che tu sies sollo quellú,\\Che eba plu fe dreta cha nu,"
+                },
+                {
+                    "book": "bibit000784.json",
+                    "year": 1668,
+                    "idx": "78",
+                    "text": "e da' vostri costumi acquistan fede.\\\\Ma, se l'acquistan sì ch'al paragone\\de la di voi virtù mancan di pregio,\\chi le vostr'opre crederà da poi?\\\\I' spero, allor quando sia al fato in pregio\\che la terra già vinta al ciel vi done,\\per accrescer chiarezza a' lumi suoi,"
+                },
+                {
+                    "book": "bibit000637.json",
+                    "year": 1450,
+                    "idx": "216",
+                    "text": "Se tu, Galeazzo mio, per te contempli\\Li costumi di questa nostra etate\\Col natural saver, che 'l ciel ti diede,\\\\Vedrai non sol per molti et varii exempli,\\Ma per ragione et mille opre passate,\\Ch'oggi solo il mal dire acquista fede."
+                },
+                {
+                    "book": "bibit000238.json",
+                    "year": 1235,
+                    "idx": "329",
+                    "text": "Merabel meraviglia o cosa nova\\quale è tua pare? Parli e sé non celi.\\Maggio, m'è viso, te tal prova approva,\\che se 'nchinati te fusser li celi,\\o tolta, o data, como a Elia, piova,\\e suscitati in te tutti fedeli,\\o fusse Cristo in propia forma in are,\\o in terra a te sceso,\\o suo spirto in te acceso,\\o se tu fatto in sua fazion su' pare."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 2,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit001001.json",
+                    "year": 1798,
+                    "idx": "7",
+                    "text": "Se da Somaro un mettesi a fuggire\\Nè la sua fuga copre attentamente,\\Uno sciocco parrà, se il vogliam dire.\\Con occhi neri e insiem senza alcun dente\\Io piuttosto amerei di comparire\\Che far ne' versi miei rider la gente,\\Come colui che sol l'unghie e la chioma\\Sa nel bronzo imitare o il bel di Roma."
+                },
+                {
+                    "book": "bibit000842.json",
+                    "year": 1619,
+                    "idx": "218",
+                    "text": "Corran le maraviglie a darti il nome,\\o de i Sarmati Regni invitto Alcide.\\Potesti, espugnator di Lerne infide,\\in su 'l Danubio incoronar più Rome.\\\\Si morse i labri e si strappò le chiome\\il Trace assalitore, allor che vide\\di Bistoni Tifei l'armi omicide\\fuggir a' lampi tuoi sconfitte e dome."
+                },
+                {
+                    "book": "bibit001321.json",
+                    "year": 1460,
+                    "idx": "45",
+                    "text": "Così fatto hai del nostro bel Milano,\\ch'essendo in notte oscura, ora il fai chiaro\\con raggi de l'ingegno tuo soprano.\\\\In lui se vede ogni ingegno preclaro,\\tutte l'opere sue son or palese,\\e chi fu da odiare e d'aver caro."
+                },
+                {
+                    "book": "bibit000238.json",
+                    "year": 1235,
+                    "idx": "234",
+                    "text": "Iacomo, Giovanni, amici, e Meo,\\me piace onni dir meo\\interpetrare e difendere in Pisa\\deggiate a vostra guisa,\\e come piace voi mel calognate.\\\\Poi male tutto è nulla inver peccato,\\e peccato onne parvo inver d'errore,\\e onne error leggero, al viso meo,"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 3,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000739.json",
+                    "year": 1855,
+                    "idx": "54",
+                    "text": "del cielo azzurro. - È l'usignolo, o Rosa! -\\\\Il mare, al buio, fu cattivo. Urlava\\sotto gli schiocchi della folgore! Ora\\qua e là brilla in rosa la sua bava.\\\\Intorno a mucchi d'alga ora si dora\\la bava sua lungi da lui. S'effonde\\l'alito salso alla novella aurora."
+                },
+                {
+                    "book": "bibit001011.json",
+                    "year": 1754,
+                    "idx": "106",
+                    "text": "la bellicosa degli augei reina.\\Tremava tutta e si battea la guancia,\\del contumace suo furor pentita,\\\\la superba Lamagna; e del suo sangue\\tinto e satollo alfin sorgea l'olivo.\\All'apparir che fea sulle gelate"
+                },
+                {
+                    "book": "bibit000026.json",
+                    "year": 1474,
+                    "idx": "41",
+                    "text": "S'accosta alla spelunca spaventosa,\\e percuote a gran colpo con un'asta\\quella ferrata porta, mezzo rósa\\da' tarli e da la rugine più guasta.\\L'Invidia, che di carne venenosa\\allora si pascea d'una cerasta,\\levò la bocca alla percossa grande\\da le amare e pestifere vivande."
+                },
+                {
+                    "book": "bibit000047.json",
+                    "year": 1313,
+                    "idx": "358",
+                    "text": "E sopra l´acqua del fossato gito,\\l´aguto dardo si recava in mano,\\e al petto si ponea ´l ferro pulito,\\e ´n terra l´asta, dicendo: «O villano\\Amor, che m´hai condotto a tal partito,\\ch´i´ moro in questo modo tanto strano!\\e pure, innanzi ch´i´ voglia più stare\\in cotal vita, mi vo´ disperare."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 4,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "249",
+                    "text": "Ma quale al maggior dì la bianca aurora\\Lieta mostrarsi in oriente suole;\\Qual fresca rosa che pur nasce allora,\\\\Né sente ancor come poi punge il sole;\\Qual per le piagge che dipinge l'ora,\\Perse, vermiglie e candide viole;"
+                },
+                {
+                    "book": "bibit000784.json",
+                    "year": 1668,
+                    "idx": "198",
+                    "text": "la Sirena sul lito,\\l'un cui par che 'l petto aneli\\ed a un tempo stesso gieli\\\\tutto e bagni di sudore\\sol la fronte, è 'l Metastasi,\\pien del tuo divin furore,\\\\a cui serve or senno ed arte;\\l'altro è 'l Marmi teneruzzo.\\Venuti anche tra questi"
+                },
+                {
+                    "book": "bibit000468.json",
+                    "year": 1523,
+                    "idx": "610",
+                    "text": "Qual è fresc'aura, a l'estiv'ora ardente,\\a la stanca e sudata pastorella,\\qual è a chi dorme in riva erbosa e bella\\il mormorar d'un bel cristal corrente,\\\\qual di sol raggio in bel prato ridente\\a fior che langue a la stagion novella,\\qual certo porto a dubbia navicella,\\ch'esce fuor di tempesta aspra e repente;"
+                },
+                {
+                    "book": "bibit001257.json",
+                    "year": 1304,
+                    "idx": "173",
+                    "text": "Occhi dolenti, accompagnate il core,\\piangete omai mentre la vita dura,\\poi che 'l sol vi si oscura\\che lieti vi facea col suo splendore.\\\\Poscia che 'l lume de' begli occhi è spento,\\Morte spietata e fera,\\che solea far serena la mia [vita],\\a qual duol mi reservi, a qual tormento?"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 5,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000132.json",
+                    "year": 1835,
+                    "idx": "27",
+                    "text": "In vece di ghirlande le fanciulle\\Vestonsi i neri panni,\\Mancan le vite a le aspettanti culle...\\Maledetti i tiranni!\\\\Ma io per man torrommi questa madre\\Vedova, questa sposa\\Vedova; e, dove fra sue turbe ladre\\Quel prete empio riposa,"
+                },
+                {
+                    "book": "bibit000122.json",
+                    "year": 1730,
+                    "idx": "17",
+                    "text": "Garzon malnato, dal funesto ciglio,\\Togliti agli occhi miei, più non vedranti\\I miei conviti, né le fere in caccia\\Verrai meco a inseguir, né i miei nemici\\Più non cadranno dal tuo brando uccisi.\\Deh guidatemi, o fidi,\\Dove il mio amor riposa.\\Ond'io possa vederla\\Nel fior di sua beltade,\\Pria che in tutto sia spento. Eccola stesa\\Pallida pallida\\Presso la rupe, e 'l vento\\Le scompone i bei crini,\\Fischia nell'aria ancora\\La corda del suo arco,\\Ch'ella cadendo infranse. Orsù, cantori,\\Alla di Sarno sventurata figlia\\S'alzino i canti, e si consegni al vento\\De' nostri colli quell'amabil nome."
+                },
+                {
+                    "book": "bibit000682.json",
+                    "year": 1544,
+                    "idx": "64",
+                    "text": "Disdegno e Gelosia,\\vostri custodi, Donna, e miei nemici,\\fan gli occhi miei famelici e mendici;\\et insieme co 'l raggio\\de' bei vostri occhi i bei cortesi detti,\\pien di spirti e d' affetti,\\mi toglie de le guardie il doppio oltraggio.\\Ond' io, lasso, d' intorno\\a le guardate mura\\erro la notte solitario e 'l giorno,\\qual cacciator ch' insidi\\d' errante fera i boscarecci nidi;\\ma non vuol mia ventura\\ch' involi senza pena, onde io divegno\\preda di predator, d' arciero il segno."
+                },
+                {
+                    "book": "bibit000996.json",
+                    "year": 1430,
+                    "idx": "51",
+                    "text": "Ardente il verno sia, fredda la 'state\\e gli augelletti a languir solo intenti;\\e sian i cor benigni aspri e selvaggi,\\né si scorgan pi` voglie innamorate\\ma ritrose e spietate.\\\\E ognun pianto dal suo petto sgombri\\con dogliosi concenti e rei martìri,\\né cosa altra rimiri;\\che 'l miser petto d'allegrezza ingombri,\\ma cangi in duro il suo felice stato,"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 6,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000735.json",
+                    "year": 1754,
+                    "idx": "59",
+                    "text": "di tutti quanti i fiori ella il più bello.\\Ma sotto vago aspetto alma chiudendo\\superbetta, d'amor tutte parole\\\\la ritrosa fanciulla ebbe in dispregio.\\Né la vinse il pregar di madri afflitte,\\che la chiedeano in nuora, e per la schiva"
+                },
+                {
+                    "book": "bibit000540.json",
+                    "year": 1544,
+                    "idx": "125",
+                    "text": "Ma benchè sia mastra d'inganni, e i suoi\\modi gentili e le maniere accorte,\\e che simil bellezze o prima o poi\\non siano state in altra donna scorte,\\tal che del campo i più famosi eroi\\presi abbia d'un piacer tenace e forte;\\non è però ch'a l'esca de' diletti\\il buon Goffredo lusingando alletti."
+                },
+                {
+                    "book": "bibit000363.json",
+                    "year": 1432,
+                    "idx": "98",
+                    "text": "Ed ha una sua figlia molto bella,\\onesta, savia, nobile e gentile;\\e non è uom che la muova di sella,\\e ciascun cavalier reputa vile:\\s'ella non fussi saracina quella,\\non fu mai donna tanto signorile.\\Dintorno alla città sopra i confini\\sono accampati molti saracini;"
+                },
+                {
+                    "book": "bibit000041.json",
+                    "year": 1313,
+                    "idx": "12",
+                    "text": "La quale, ancora che femina fosse\\e di bellezze piena oltre misura,\\prese la signoria, e sì rimosse\\da sé ciascuna feminil paura,\\e in tal guisa ordinò le sue posse,\\che 'l regno suo e sé fece sicura;\\né di vicine genti avea dottanza,\\sì si fidava nella sua possanza."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 7,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000735.json",
+                    "year": 1754,
+                    "idx": "123",
+                    "text": "del misero la sorte avea la diva;\\e della diva il santo simulacro\\tremò, e sudante (maraviglia a dirsi!)\\\\torse altrove il bel capo, e non sostenne\\tanta pietà. Ma ben di Giuno il crudo\\cor la sostenne; e la virtude umana"
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "4428",
+                    "text": "L'Ermo, il Pattolo e qual per gemme ed oro\\più famoso tra gli altri il mondo apprezza,\\perdeano appo 'l tuo pregio i pregi loro,\\ch'eri ben possessor d'altra ricchezza.\\Quelch'ha titol di re, corna di toro,\\mercé di quella estinta alta bellezza\\bench'illustre corona abbia d'elettro,\\ti reveriva e ti cedea lo scettro."
+                },
+                {
+                    "book": "bibit001695.json",
+                    "year": 1460,
+                    "idx": "505",
+                    "text": "anzi ambi, a dir il ver, pace e onore,\\ché queste son ricchezze che seco hanno\\vita quïeta, e poi mai non se more,\\ch'in terra e in cielo sempre viver fanno –.\\Ai tre compagni alor nacque nel core\\uno laudabil virtüoso affanno:\\dubbiavan non aver moneta tanta\\da comprar vita sì famosa e santa;"
+                },
+                {
+                    "book": "bibit000238.json",
+                    "year": 1235,
+                    "idx": "835",
+                    "text": "ed altrui bon laudar laid'è peccato,\\e nel secul ontoso esser ragiono.\\Fogga onor, chi vol d'onor gran stato,\\e segua Dio, cui sol d'onor è dono;\\\\ché picciol suo vero bon servidore\\è, morto, orrato mei di vivo ree,\\e passa el ciel sua laude e ad angel monta,"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 8,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000453.json",
+                    "year": 1844,
+                    "idx": "478",
+                    "text": "Ço puos tu ueder per raxon.\\E tu medemo è si van,\\Che gran mestier te aueria del pan.\\\\Toa gran dureça, che xe si forta,\\Si passa natura e sormonta,\\Et incontra la scritura\\\\Et ongna raxon e dretura,\\Quando tu lassi perir cossí\\E ti e lla toa carne altrossí;"
+                },
+                {
+                    "book": "bibit000898.json",
+                    "year": 1646,
+                    "idx": "294",
+                    "text": "Ad ogne nfieto che se mecca 'nn ordene.\\Mille vesse crepate llà benettero,\\E bernacchie de viecchie e de figliule,\\\\Loffe de cane e mule\\E pedeta 'ndeggeste po' correttero,\\Co li fiete de chiaveche\\\\E de latrine rotte pe le fraveche:\\Ed ordenaie a tutte quante 'nzemma\\Che senz' avere fremma,"
+                },
+                {
+                    "book": "bibit000592.json",
+                    "year": 1465,
+                    "idx": "28",
+                    "text": "Animal stretti in catena,\\ucellin rinchiusi in cabbia,\\se buon volto et esca amena\\ciaschedun dal signor abbia,\\poi disciolti con gran rabbia\\spreto el cibo ognun se 'n va.\\Se tal grazia e don non ha,\\nissun dica ricco so'."
+                },
+                {
+                    "book": "bibit000238.json",
+                    "year": 1235,
+                    "idx": "808",
+                    "text": "ché carcare non può om legno spinoso;\\e 'l piò saccente è con ella folle,\\e qual è maggio, maggio el fa ontoso.\\\\Gloria vana, tu furtivamente\\di vertù tutte d'om tolli onni merto;\\tu venen dolce e malatia piagente,\\laccio mortal di bell'esca coverto,"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 9,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "2341",
+                    "text": "Scosse le fibre, ed agitò le vene,\\Ed ogni caldo umor corse al suo loco.\\Dispensatrice di mìnovella spene\\\\Allor rifulse un'iride tranquilla\\Su le volte del cielo ampie e serene.\\La mia nube d'incontro arde e sfavilla"
+                },
+                {
+                    "book": "bibit001322.json",
+                    "year": 1643,
+                    "idx": "5",
+                    "text": "All'ignudo Redentore,\\se non fosse troppo angusto\\e di colpe così onusto,\\offrirei per cuna il core,\\o col foco de' caldi sospir miei\\le fredde membra sue riscalderei.\\\\Con quel gel ch'il sen gl'agghiaccia\\vibra altrui celeste arsura,\\ond'avvien ch'ogn'alma pura\\dolcemente si disfaccia.\\Ei regge il mondo eppur vagisce infante:\\ha le saette in mano ed è tremante."
+                },
+                {
+                    "book": "bibit001135.json",
+                    "year": 1474,
+                    "idx": "2475",
+                    "text": "Poi che l'ha seco in solitario loco\\Dove non teme d'esser sopraggiunta\\Con atti e con parole a poco a poco\\Le scopre il fisso cuor di grave punta,\\Con gliocchi ardenti e co i sospir di fuoco\\Le mostra l'alma di disio consunta\\Hor si scolora in viso, hor si raccende,\\Tanto s'arrischia ch'un bacio ne prende"
+                },
+                {
+                    "book": "bibit000044.json",
+                    "year": 1313,
+                    "idx": "32",
+                    "text": "l'andò la pelle con l'unghion tagliente,\\e risalita ancor la riferio\\un'altra volta vie più fieramente.\\\\La variata lonza, che sentio\\fieri colpi, in terra si distese\\e quivi dibattendosi morio.\\\\La bella donna il forte uccel riprese\\ed alla lonza trasse il caldo cuore\\e l'aquila pascé; e poi discese"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 10,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000850.json",
+                    "year": 1798,
+                    "idx": "264",
+                    "text": "Che di cotanta speme oggi m'avanza;\\Sento serrarmi il cor, sento ch'al tutto\\Consolarmi non so del mio destino.\\\\E quando pur questa invocata morte\\Sarammi allato, e sarà giunto il fine\\Della sventura mia; quando la terra"
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "1724",
+                    "text": "Io veggio quinci dopo molto e molto\\volger di ciel, girar di mesi e d'anni,\\del secol tristo in tenebre sepolto\\spuntare un sole a ristorare i danni,\\sol ch'avrà sol di donna il sesso e 'l volto,\\ma 'l cor sempre viril tra i regi affanni.\\Ogni nobil virtù sol da costei\\verrà che nasca o sorgerà per lei."
+                },
+                {
+                    "book": "bibit000048.json",
+                    "year": 1441,
+                    "idx": "265",
+                    "text": "Sarà quel giorno mai ch'io veda extinto\\questo foco immortal? sarà quel'ora\\ch'io veda il cor mio libero e discinto\\di laci ove io me stesso me legai?\\\\Laci di bei crin d'or che in tanti lai\\me faceti languire,\\tenendomi legato in pianto e in guai,"
+                },
+                {
+                    "book": "bibit000040.json",
+                    "year": 1313,
+                    "idx": "79",
+                    "text": "o Dio! nascoso sento che 'l riface\\el mio destin: laonde eterne fieno\\le pene che mi disfano e rifanno.\\\\Sì tosto come il sole a noi s'asconde\\e l'ombra vien, che 'l suo lume ne toglie,\\ogn'animale in terra si racoglie\\al notturno riposo, insin che l'onde"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 11,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "2052",
+                    "text": "Né pur lascia caderne un sul terreno.\\Dunque perch'io morir debba di stento,\\Fin cessa i rami d'agitare il vento?\\\\Da l'alto udì la sua querula voce\\Il melo, e del suo duol pietade il vinse:\\E, poi che in tanti frutti a lui non nuoce"
+                },
+                {
+                    "book": "bibit000898.json",
+                    "year": 1646,
+                    "idx": "428",
+                    "text": "Ed a sciurire 'ncigna\\Gusto sarrà che me vò da' la sciorte\\Contra a la sgrata morte.\\\\Lo berde ch' ogne fronna spaparanza\\Me prommette speranza”.\\Quanno ca veo annegreca' lo cielo,\\\\E bennesenne Vòira,\\Che mille vecchie scòira,\\E seccala de botta co lo ielo."
+                },
+                {
+                    "book": "bibit001583.json",
+                    "year": 1495,
+                    "idx": "2286",
+                    "text": "Perch'al candido scudo il colpo muove,\\dicendo: “Or senta il fero Lancilotto\\di Galindo il potere e l'alte pruove,\\e come del ferir nell'arte è dotto;\\ché se l'erba e l'incanto non gli giove\\della fata del lago, oggi condotto\\sarà dal suo destino a quella morte,\\ch'ha riservata in me l'amica sorte”."
+                },
+                {
+                    "book": "bibit000040.json",
+                    "year": 1313,
+                    "idx": "182",
+                    "text": "tuttor cascar si vede, con le vette\\dell'alte torri sparse alla pianura,\\per terremoti o vive folgorette.\\\\Dunque ha ben pien di furia suo coraggio\\chi non paventa natural dannaggio.\\\\«L'arco degli anni tuoi trapassat'hai,\\cambiato il pelo e la virtù mancata,\\di questa tuo picciola giornata\\già verso 'l vespro camminando vai;"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 12,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000739.json",
+                    "year": 1855,
+                    "idx": "229",
+                    "text": "\"Se ho fatto male, non l'ho fatto apposta!\\Lascia ch'io resti qui con te, ch'io stia\\in un cantuccio, ma con te, nascosta...\\\\Non mi mandare, o dolce madre, via!...\"\\\\\"Non io ti mando. È un altro che ti manda.\\Fa quel ch'io feci, che per te fu bene.\\Va col tuo velo e con la tua ghirlanda."
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "775",
+                    "text": "\"Non tua, né di tua man, senon m'inganno,\\fu già quest'opra, o scelerata (disse)\\opra fu di colui che per tuo danno\\di te volse il destin che s'invaghisse.\\Ma godi pur, ch'al'un e l'altra stanno\\le devute da me pene prefisse\".\\E, partendo da lei, poich'ha ciò detto,\\consente al sonno e si ritragge in letto."
+                },
+                {
+                    "book": "bibit000049.json",
+                    "year": 1441,
+                    "idx": "820",
+                    "text": "\"Odeti, fiori, e voi, selve, - dicia -\\Poi che quella crudel più non me ascolta,\\Dati odienza alla sventura mia.\\Tu, sol, che hai mo del cel la notte tolta,\\Voi, chiare stelle, e luna che vai via,\\Oditi il mio dolor solo una volta:\\Ché in queste voce estreme aggio a finire\\Con cruda morte il lungo mio martìre."
+                },
+                {
+                    "book": "bibit000728.json",
+                    "year": 1260,
+                    "idx": "42",
+                    "text": "\"Tu mi fara' venir tal bizzarria\\qual i' mi so, puo' che così dè andare\".\\\"Perché dici così, anima mia?\\ha' voglia ch'i' mi vad'a trarripare?\".\\\\\"Volesse Dio che tu fossi già mosso,\\ch'assa' mi piaceria cotal novella,\\dapoi che rimaner far non ti posso\"."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 13,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000033.json",
+                    "year": 1791,
+                    "idx": "3097",
+                    "text": "Odescarchi, Sciabbotta, Lammruschini,\\Morozzo, Arbani, Zzùllera, Franzoni,\\Delaporta, Isuà, Mmacchia, Guidoni,\\Vèrde, Arezzi, Crapano, e Ppidiscini.\\\\Sin qua ssò vventinove. Chi cce resta?\\Sirva, Riari, Grassucchi, Canale.\\Sala, Doria, Arberghini quela cresta"
+                },
+                {
+                    "book": "bibit000898.json",
+                    "year": 1646,
+                    "idx": "141",
+                    "text": "Quinzia schiaffina, Renza e Menechella\\Cenza sperduta, Rita e Fragostina,\\Perna, Pantacchia, Zoza e Carmosina,\\Chiagnite Cecca mia, Cecca mia bella!\\Sciccate chesse zérvole, o Ciannella,\\Cacapatacche, Vasta e Catarina,\\Pommizia, Schiattacantare e Sabbina,\\Ciulla, Ciomma, Pordenzia e Pedocchiella!\\Chiagnite a crepa core ed a selluzzo,\\Ca Cecca è morta, ed è muorto cod essa\\Quanto de bello avea sto munno suzzo!\\Ma vuie redite mo, vocche de sguessa,\\Perché non c' è chi ve fa stare a tuzzo,\\E morze chi ve dea la cacavessa."
+                },
+                {
+                    "book": "bibit001420.json",
+                    "year": 1478,
+                    "idx": "202",
+                    "text": "Cappadocia la Prima e la Seconda,\\Ponto Polemoniaco, Elenoponto,\\Armenia Prima ed Armenia Seconda:\\\\Galatia Salutar vien dopo queste.\\L'Orïente n'ha quindeci: Fenicia,\\Palestina, Cilicia, Arabia e Cipro,"
+                },
+                {
+                    "book": "bibit000040.json",
+                    "year": 1313,
+                    "idx": "402",
+                    "text": "Reggevi Macedonia con Galazia,\\Egitto, soriani e cappadoci,\\li franceschi feroci,\\bitini, lusitani, iberi e persi,\\illirici, celtiberi e Dalmazia,\\li numantini e li parti veloci,\\e variate voci\\d'altri reami e paesi diversi!\\Ove sardeschi e mauritan conversi,\\ircani, arcadii e pelasgoni,\\armeni, libani e calcedoni,\\indi, mesopotami, arabi e scite,\\e gente, più che qui sono, infinite?"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 14,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000033.json",
+                    "year": 1791,
+                    "idx": "307",
+                    "text": "E cquer gruggno de sscimminivaghezzi\\Dell´orzarolo, m´accusò ppe mmiscio!\\Poi ha vvorzuto arippezzalla er griscio,\\Ma li rippezzi sò ssempre rippezzi.\\\\Io l´ho avvisato che nun ce s´avvezzi\\A rifamme mai ppiù sto bbon uffiscio,\\Si nun vò ssotto ar casaccone bbiscio\\Portà le spalle com´e pperi–mezzi."
+                },
+                {
+                    "book": "bibit000540.json",
+                    "year": 1544,
+                    "idx": "123",
+                    "text": "Fra vergogna e timor mesti e confusi\\riportan quelli il cavaliero ucciso.\\Goffredo, ancor che con rampogne accusi\\la lor viltade e mostri irato il viso,\\gode tacito in sè che sì delusi\\tornati sian del lor fallace aviso.\\Ama l'invitto Ubaldo, e la severa\\legge esseguire in lui molesto gli era."
+                },
+                {
+                    "book": "bibit000049.json",
+                    "year": 1441,
+                    "idx": "1558",
+                    "text": "Venner contra Marfisa e duo germani,\\Ciascun di lor se stringe, il scudo imbraccia;\\E il pro' Ranaldo, solo in su quei piani,\\Al re Adriano e a Chiarion minaccia;\\E fôr Torindo ed Oberto alle mani,\\Ben che ferito è Oberto nella faccia.\\Trufaldin sta da libroe e pone mente,\\Come avesse de questo a far niente."
+                },
+                {
+                    "book": "bibit000041.json",
+                    "year": 1313,
+                    "idx": "1164",
+                    "text": "Di Panfil poscia v'era la malizia\\che elli usò, quando fece Alimeto\\quivi venire, e simil la letizia\\di Palemon, quando si vedea lieto\\fuor di prigion, dov'elli avea dovizia\\vie più che d'allegrezza, d'amar fleto;\\e lui armato vedevasi andare\\nel tempo oscuro ad Arcita trovare."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 15,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000187.json",
+                    "year": 1778,
+                    "idx": "115",
+                    "text": "Sul lor sembiante il giorno, all'ara vostra\\Sacerdotesse, o care Grazie, io guido.\\Qui e voi che Marte non rapì alle madri\\\\Correte, e voi che muti impallidite\\Nel penetrale della Dea pensosa\\Urania era più lieta"
+                },
+                {
+                    "book": "bibit000842.json",
+                    "year": 1619,
+                    "idx": "41",
+                    "text": "Tal d'incogniti Eroi Virtù negletta,\\se di Fama la scuopre occhio sagace,\\ad operar prodigii il volo affretta.\\\\Ogni Valor, cadavero si giace,\\se non vi ha chi lo stimi: e 'l plauso aspetta,\\per farsi un Marte in guerra, un Giove in pace."
+                },
+                {
+                    "book": "bibit000319.json",
+                    "year": 1474,
+                    "idx": "3407",
+                    "text": "Et hanno appresso quel secondo Marte\\(ben che i nimici al mio dispetto lodo)\\io dico il valoroso Brandimarte\\non men dOrlando o di Rinaldo prodo\\del qual provata ho la virtude in parte\\parte ne vegho allaltrui spese et odo\\poi son piu di: che non vi e Orlando stato\\& piu perduto habbian che guadagnato"
+                },
+                {
+                    "book": "bibit000041.json",
+                    "year": 1313,
+                    "idx": "988",
+                    "text": "Signor, tu sai che, poi che di Creonte\\il giusto Marte ti diede vittoria,\\io, che con lui t'era uscito a fronte,\\per prigion preso, fui della tua gloria\\picciola parte, e certo non isponte,\\e Palemone ancor, come in memoria\\esser ti dee; li qua' festi guardare,\\forse temendo del nostro operare."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 16,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "2234",
+                    "text": "Se non che il Re de l'onde,\\Dolente ancor d'Ippolito,\\Surse per le profonde\\\\Vie dal tirreno talamo,\\E respinse il furente\\Col cenno onnipotente.\\\\Quei dal flutto arretrosse\\Ricalcitrando, e, orribile!\\Sovra l'anche rizzosse;"
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "2134",
+                    "text": "Ma par negli atti si contristi e dolga,\\e va turbata e disdegnosa alquanto\\che senza morte si rallenti e sciolga\\quel nodo, onde là strinse imeneo santo,\\e ch'altra a un punto le rapisca e tolga\\di Gallia il regno e di beltate il vanto,\\onde perder inun deggia per quella\\e di reina il titolo e di bella."
+                },
+                {
+                    "book": "bibit000049.json",
+                    "year": 1441,
+                    "idx": "3959",
+                    "text": "Da l'altra libroe il forte re Gradasso\\Contra di lui se mosse con gran fretta.\\Alcun de' duo corsier non mostra lasso,\\Anci sembravan folgore e saetta,\\E se incontrarno insieme a tal fraccasso,\\Che par che nello inferno il cel si metta\\E la terra profondi e la marina:\\Odita non fu mai tanta ruina."
+                },
+                {
+                    "book": "bibit000045.json",
+                    "year": 1313,
+                    "idx": "252",
+                    "text": "Inver lo ciel ne gia, poi ch'ebbe preso\\Giove il diletto che di lei li piacque,\\pregna lasciandola, al salire inteso:\\\\di cui appresso il forte Ercule nacque.\\\\Ivi più non seguia, perché finiva\\quella facciata con gli antichi autori\\che stanno innanzi a quella donna diva."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 17,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000033.json",
+                    "year": 1791,
+                    "idx": "3718",
+                    "text": "Aramo dritto, eh? bbrava la bbestia!\\Nun pare de sentì fra Vvituperio\\Predicà la vertù de la modestia?\\\\Lo so da Tanislao, che cco la cosa\\C'ha a Ppalazzo un fratello scopatore,\\È ar caso de conossce, sora sposa,\\Tutti li peti de Nostro Siggnore."
+                },
+                {
+                    "book": "bibit000898.json",
+                    "year": 1646,
+                    "idx": "195",
+                    "text": "Ma si m' accide, affé, morarragg' io.\\Già so' la toia, a pena de l' aurecchia!\\'Nfodara tu nfratanto ssa serrecchia”.\\\\Ca marfuso respose\\Pascariello: “Sì, tu mo me contiente !”\\Essa disse: “Ste ccose"
+                },
+                {
+                    "book": "bibit001135.json",
+                    "year": 1474,
+                    "idx": "3624",
+                    "text": "Rispose Ferrau tenete certo\\Che non e alcun di quei c'havete detto,\\A me parea (chi'l vidi a viso aperto)\\Il fratel di Rinaldo giovinetto,\\Ma poi ch'io n'ho l'alto valore esperto\\E so che non puo tanto Ricciardetto\\Penso che sia la sua sorella, molto\\(Per quel ch'io n'odo) a lui simil di volto."
+                },
+                {
+                    "book": "bibit000041.json",
+                    "year": 1313,
+                    "idx": "260",
+                    "text": "— Che? — li rispose allora Palemone.\\Arcita disse: — Io veggo in lor colui\\che già per Danne il padre di Fetone\\ferì, se io non erro, e in man dui\\istral dorati tene, e già l'un pone\\sovra la corda, e non rimira altrui\\che me; non so se forse li dispiace\\ch'io miri questa che tanto mi piace. -"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 18,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "115",
+                    "text": "Ma dicol perché godo che proceda\\Come conviensi, e com'è più opportuno\\Per salir qui, ciascuno\\\\Tuo passo; e che tu sappia quanto costi\\Il meritarci i ricchi primi posti.\\Non godo men, che a gl'ineffabil pregi"
+                },
+                {
+                    "book": "bibit000784.json",
+                    "year": 1668,
+                    "idx": "107",
+                    "text": "inverso noi da mille etati innanti,\\per orror così densi il passo mena,\\che chi pon cura di non girli incontra,\\\\quando crede fuggirlo, allor lo 'ncontra.\\\\Ma, se a la vostra altissima fortuna,\\felicissimo Sire, i' mi rivolgo,\\sembra ch'al Fato il valor vostro imperi:"
+                },
+                {
+                    "book": "bibit001455.json",
+                    "year": 1544,
+                    "idx": "351",
+                    "text": "ed uscendo e tornando, invidia e sdegno\\move nel primo e ne l'estremo occorso;\\e d'ogni intorno vede a l'alte porte\\\\accorrer gente, ch'ivi adduce e tragge\\grazia, prezzo, favor, mercede e cibo.\\A le ricchezze alta possanza arroge"
+                },
+                {
+                    "book": "bibit001257.json",
+                    "year": 1304,
+                    "idx": "234",
+                    "text": "Ciascun poi vedrem prender suo camino\\Ciascun poi vedrem prender suo viaggio\\come fiera scacciata si rimbosca;\\\\et vedrassi quel poco di vantaggio\\d'oro o di terra che vi fa ir superbi\\et vedrassi quel poco di paraggio"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 19,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "117",
+                    "text": "E fede e castità; tanto più caro,\\Quanto esser suol più in bella donna raro.\\Questo, più onor che scender da l'augusta\\\\Stirpe d'antichi Ottoni, estimar dei:\\Di ciò più illustre sei,\\Che d'esser de' sublimi, incliti e santi"
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "1081",
+                    "text": "Doni i più preziosi, i più graditi\\che possan farsi a quegli eccelsi numi,\\di natural simplicità conditi\\son frutti e fiori, aromati e profumi.\\Ma sovra quanti mai più reveriti\\rotano i raggi in ciel celesti lumi,\\Adon, la bella dea, con cui tu vai,\\di queste offerte si diletta assai,"
+                },
+                {
+                    "book": "bibit001695.json",
+                    "year": 1460,
+                    "idx": "503",
+                    "text": "Tante preziose merce e ammirande\\che tutte aresti ditte dal ciel scese\\vedean per ordin d'ambedue le bande,\\ma poi che meglio ognun de lor comprese\\sua bellezza e 'l valor quant'era grande,\\quel bon calor ch'in lor l'angelo accese\\tanto multiplicava a poc'a poco\\ch'eran al spender tutti tre de foco."
+                },
+                {
+                    "book": "bibit000045.json",
+                    "year": 1313,
+                    "idx": "170",
+                    "text": "entrato infra 'l tesoro più fervente\\vi vid'io Mida, in vista che sazia\\saria di tutto appena possedente,\\\\non bastandoli avere avuta grazia\\dall'iddii che ciò che e' toccasse\\ritornasse oro ver sanza fallazia."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 20,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000174.json",
+                    "year": 1798,
+                    "idx": "65",
+                    "text": "D'intorno s'aggirava ai stanchi corpi,\\E il plumbeo scettro distendea tranquillo.\\Il quieto silenzio, e l'atra notte\\\\De' Galli asconde le dannose insidie,\\Che già con forti valorosi duci,\\Con mille armati, e mille, e con guerriere"
+                },
+                {
+                    "book": "bibit000784.json",
+                    "year": 1668,
+                    "idx": "89",
+                    "text": "le virtù regie, onde cotanto in suso\\siete sul poggio de l'onor salito,\\vi menâr anco i di lor santi amori\\\\fra disagi de l'armi e fra terrori.\\\\Però, se a quei che fece in guerra chiari\\sol un nobil desio d'eterne glorie,\\furon eretti altari e pòrti incensi,"
+                },
+                {
+                    "book": "bibit001135.json",
+                    "year": 1474,
+                    "idx": "3914",
+                    "text": "Il creder d'haver seco il Re d'Algieri\\Fece che si curo poco del patto,\\E non havria di mille cavallieri\\Giunti in suo aiuto, si gran stima fatto,\\Percio lancie abbassar spronar destrieri\\Di qua: di la veduto fu in un tratto,\\Melissa, poi che con sue finte larve\\La battaglia attacco: subito sparve."
+                },
+                {
+                    "book": "bibit000041.json",
+                    "year": 1313,
+                    "idx": "797",
+                    "text": "Il quale il ne portò tutto stordito\\del teatro di fuor, forte correndo,\\dove da Tarso e da Cidon seguito\\fu, che 'l ritenner, che giva dormendo;\\ma nol ritenner pria che risentito\\si fu il re, e a caval credendo\\esser ancora, voleva tornare\\il colpo ricevuto a vendicare."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 21,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000033.json",
+                    "year": 1791,
+                    "idx": "1168",
+                    "text": "Va´ ddritto a Ssan Giuvanni Decollato,\\Rescita un Deprofunnisi in disparte\\All´anima dell´urtimo impiccato;\\\\E cquer che ssentirai drento o a l´isterno\\Cerchelo doppo in ner Libro dell´Arte;\\E bbuggiaratte si nnun vinchi er terno."
+                },
+                {
+                    "book": "bibit000898.json",
+                    "year": 1646,
+                    "idx": "205",
+                    "text": "Ietta lo 'mpiso e d' auto non se cura.\\Pascariello, che 'n terra se vedette,\\Te fece, o bene mio, netta palette.\\\\Pacicco stìjo no poco,\\Né sentenno cchiù llà tale né quale\\Torna a lo stisso luoco,\\\\E 'ncuollo se schiaffai lo Caporale:\\Perché lo trovai 'n terra accossì stiso,\\Se crese chillo llà ch' era lo 'mpiso."
+                },
+                {
+                    "book": "bibit000319.json",
+                    "year": 1474,
+                    "idx": "257",
+                    "text": "Lascia il scudo all arcion che gia riposto\\havea ne la coperta: a pie discende\\verso la Donna: che come reposto\\Lupo: in la macchia il Capriolo attende\\senza piu soggiornar: si leva tosto\\che se lo vede sopra: e stretto il prende\\havea lasciato quel misero in terra\\il libro: che facea tutta la guerra"
+                },
+                {
+                    "book": "bibit000046.json",
+                    "year": 1313,
+                    "idx": "401",
+                    "text": "— Va — Criseida disse — io t'imprometto,\\Pandaro mio, ch'io me ne sforzeraggio.\\Come partito ti sarai, dal letto\\sanza indugio niun mi leveraggio,\\ed il mio male e 'l perduto diletto\\tutto nel cor serrato mi terraggio.\\Fa pur ch'el vegna e vegna al modo usato,\\che troverà qual suol l'uscio appoggiato. —"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 22,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "527",
+                    "text": "Non a la madre, il ricercar partito\\Conveniente al grado ed a la dote.\\Perché poi l'esser data ad Aristeo,\\\\Che per uomo di villa è ricco assai,\\Farà che tu terrai famigli e serve;\\T'insegnerò come portar ti deggia"
+                },
+                {
+                    "book": "bibit000409.json",
+                    "year": 1698,
+                    "idx": "66",
+                    "text": "Colui, qualunque sia, che cadde estinto,\\Basta a scoprir...\\\\Là dov'ei cadde, io volo.\\Saprò chi fu; se il ver si sa; se parla\\Alcun di te. Pria che s'induca Augusto\\A temer di tua fé, potrò avvertirti:\\Fuggir potrai. Dubbio è 'l tuo mal, se resti;\\Certo, se parti."
+                },
+                {
+                    "book": "bibit000553.json",
+                    "year": 1474,
+                    "idx": "1856",
+                    "text": "Crede ciascun, fuor che la iniqua moglie\\che molte miglia Argeo lontan si trove,\\dunque il tempo opportuno ella si coglie,\\e al frate mio va con malitie nuove\\e simulato sdegno, e dice, dove\\(e con lachryme pronte alle sue voglie)\\ohime dove potrò trovare aiuto\\che in tutto lhonor mio non sia perduto"
+                },
+                {
+                    "book": "bibit000238.json",
+                    "year": 1235,
+                    "idx": "58",
+                    "text": "Va a le parte d'Arezzo,\\canzon, e a lei di quale\\spera m'aiuta e vale.\\Remembranza mi sconforta e menaccia;\\ma dì ch'a sua merzede\\di tornar pur ho fede, – e voglio faccia\\di me ciò che li piaccia – e ragion crede."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 23,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit001646.json",
+                    "year": 1754,
+                    "idx": "215",
+                    "text": "Ne cercai le bell'arti e i sacri ingegni\\che alzar sublime le facean la fronte\\e toccar tutti del sapere i segni;\\\\ed il Felsineo vidi Anacreonte\\cacciato di suo seggio, e da profani\\labbri inquinato d'eloquenza il fonte."
+                },
+                {
+                    "book": "bibit000557.json",
+                    "year": 1568,
+                    "idx": "250",
+                    "text": "Ben seimila anni in tutto 'l mondo io vissi:\\fede ne fan l'istorie delle genti,\\ch'io manifesto agli uomini presenti\\co' libri filosofici ch'io scrissi.\\\\E tu, marmeggio, visto ch'io mi ecclissi,\\ch'io non sapessi vivere argomenti,\\o ch'io fossi empio; e perché il sol non tenti,\\se del Fato non puoi gli immensi abissi?"
+                },
+                {
+                    "book": "bibit001653.json",
+                    "year": 1460,
+                    "idx": "195",
+                    "text": "In questo sacro erario di sapienza\\me era licito intrare a mio piacere,\\e se libro alcun gli era di eccellenza,\\io poteva studiarlo e ritenere\\a mio bell'agio senza resistenza.\\E come volser le celesti sfere,\\io ne trovai fra tanti volumi uno\\che certo intender nol sapeva alcuno."
+                },
+                {
+                    "book": "bibit000040.json",
+                    "year": 1313,
+                    "idx": "30",
+                    "text": "In quel risplende chiara la bellezza\\che 'l ciel adorna e che n'impenna l'ali\\a l'alto vol con penne di virtute.\\\\Spesso m'avvien ch'essendom'io raccolto\\co' miei pensier, partito dalla gente,\\senza donde veder, nella mia mente\\sen vien colei nel cui celeste volto"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 24,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit001489.json",
+                    "year": 1753,
+                    "idx": "50",
+                    "text": "Drizzi a più bello ed onorato segno\\Quella mente, che a te, solo de' vaghi\\Per favellar misteriosi nulla,\\\\Onde suo dire il gentil Mondo intesse,\\Non t'infuse nel capo il tuo Pianeta.\\E loderò, che il più bel fior traendo"
+                },
+                {
+                    "book": "bibit000838.json",
+                    "year": 1643,
+                    "idx": "17",
+                    "text": "Non ti sdegnare, o sire: a tali eroi,\\da' bei raggi de' quali, in questo giorno,\\l'umido regno tuo gloria riceve,\\maggior lode si deve.\\\\E qual mortal mai fia\\che possa in tempo alcuno\\con suoi raggi illustrar la reggia mia?"
+                },
+                {
+                    "book": "bibit000991.json",
+                    "year": 1508,
+                    "idx": "34",
+                    "text": "Ché non lasciate l’ombre, i rivi e il monte\\e, cinte il crin di nuovi eletti allori,\\passando Aterno, il bel parto honorate?\\\\O sian per voi sì chiare al mondo e conte\\nostre alte gioie, e suoi ben degni honori,\\che questa goda e taccia ogni altra etate."
+                },
+                {
+                    "book": "bibit000040.json",
+                    "year": 1313,
+                    "idx": "455",
+                    "text": "I ciel, gl'iddii, l'età e la fortuna,\\secondo ai tuoi disiri, Iscipione,\\ti tiran forse fuor d'ogni ragione\\a non voler con noi concordia alcuna.\\\\Ma se le mie vittorie ad una ad una\\narrassi e la presente condizione,\\forse porresti giù l'oppenione,\\che splendida ti mostra la via bruna."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 25,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000698.json",
+                    "year": 1802,
+                    "idx": "57",
+                    "text": "d'uccidere a pieno piacer,\\far sorgere in alto e cader.\\Nabucco di contro al Signor\\\\levò la superbia del cor:\\ma Dio d'ogni onore l'orbò,\\cogli asini al bosco il mandò:\\\\bagnaro il ferino suo pel\\le piogge e le brine del ciel.\\E adesso il suo degno figliuol"
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "3153",
+                    "text": "Apena agli occhi suoi Sidonio crede\\e s'accosta ben ben sotto la pianta,\\alfin ringrazia il ciel che gli concede\\d'un tanto danno una vendetta tanta\\e, consolato assai di quel che vede,\\prorompe: – O cara, o benedetta, o santa,\\quell'arbor, quella mano e quella corda\\che dal mondo smorbò peste sì lorda."
+                },
+                {
+                    "book": "bibit000363.json",
+                    "year": 1432,
+                    "idx": "3742",
+                    "text": "Quanti beni ha commessi! A quanto male\\ovviato costei mentre era in vita!\\Però con la sua veste nuziale\\l'anima in Cielo a Dio si rimarita\\quel dì che il santo messo aperse l'ale\\per la sua carità tanto infinita:\\sì che ancor prego che lassù m'accetti\\tra' servi suoi nel numer degli eletti."
+                },
+                {
+                    "book": "bibit000041.json",
+                    "year": 1313,
+                    "idx": "524",
+                    "text": "E risposero a lui umilemente:\\— Signore, a tanta grazia quanta fai\\a ciaschedun di noi, nessun possente\\a ciò guiderdonar sarebbe mai;\\ma que' che 'l cielo e 'l mondo parimente\\governa ti contenti, sì come hai\\noi contentati de l'alto perdono\\del nostro fallo, il qual ci è sommo dono."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 26,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit001502.json",
+                    "year": 1798,
+                    "idx": "26",
+                    "text": "Dimmi, chi t'ha la zampogna furada,\\Perché guardar mi possa da suo artiglio.\\\\Ma da un che si conosce, mal si guarda,\\E più quando dimostrano ne li cigli\\Una devotione, un andar lento,\\Sì che per segni in tal modo li pigli."
+                },
+                {
+                    "book": "bibit000557.json",
+                    "year": 1568,
+                    "idx": "320",
+                    "text": "Non mi risponder quel ch'impari altronde\\e nell'anatomia, ché non è tuo\\cotal saper, ma suo,\\di chi t'avvisa: e pur t'inganni spesso,\\come n'hai sperimenti più che duo.\\Or, se in te ignori ciò che 'l corpo asconde\\e in altri spii, risponde\\non essere, a chi al buio sta, concesso\\veder che fa, né il luogo, né se stesso."
+                },
+                {
+                    "book": "bibit000977.json",
+                    "year": 1460,
+                    "idx": "388",
+                    "text": "o miserrimi, (ahimè!) non ve accorgete\\che sì ve inebria questa adulatrice,\\che 'l summo Architettor non cognoscete?\\\\Ragione e lei studiate fare amice,\\anzi regina de la vita nostra\\colei ch'è d'ogni nostro ben nutrice."
+                },
+                {
+                    "book": "bibit000756.json",
+                    "year": 1304,
+                    "idx": "33",
+                    "text": "Ingegno usato a le question profonde,\\cessar non sai dal tuo proprio lavoro:\\ma perché non destar, anzi, un di loro\\ove senza alcun forse si risponde?\\\\Le rime mie son disviate altronde,\\dietro a colei per cui mi discoloro,\\a' suo' begli occhi ed alle trecce d'oro,\\ed al dolce parlar che mi confonde."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 27,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000522.json",
+                    "year": 1855,
+                    "idx": "334",
+                    "text": "e sulla terra un atomo di luce. -\\\\Gesù: per le città, per le castella\\andava lungo il limpido Giordano,\\predicando la sua buona novella.\\\\E cui sul capo Egli imponea la mano,\\e cui dicea la sua parola vera,\\cieco, ossesso, lebbroso, ecco era sano."
+                },
+                {
+                    "book": "bibit000114.json",
+                    "year": 1754,
+                    "idx": "64",
+                    "text": "E quel supremo servator su l'ali\\De' quattro venti di procelle armato\\Inviava il suo spirto, che de' regi\\\\Visitava le colpe e ne sperdea\\Come polve l'orgoglio e la possanza.\\Degli alti federati e degli amici"
+                },
+                {
+                    "book": "bibit001420.json",
+                    "year": 1478,
+                    "idx": "1717",
+                    "text": "i quali andaro a lui senza tardanza;\\ed ei sentendo la venuta loro\\gli venne contra, e poi seder gli fece,\\\\e cominciò parlarli in questa forma:\\Signori illustri, e posti al bel governo\\di questa eccellentissima cittade"
+                },
+                {
+                    "book": "bibit000046.json",
+                    "year": 1313,
+                    "idx": "315",
+                    "text": "E verso il suo palagio se ne gio,\\sanza ascoltare o volgersi ad alcuno,\\e tal qual era sospiroso e pio,\\sanza voler compagnia di nessuno,\\nella camera ginne, e che disio\\di riposarsi avea, disse; onde ognuno,\\amico e servitor quantunque caro,\\n'uscì, ma pria le finestre serraro."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 28,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000229.json",
+                    "year": 1855,
+                    "idx": "358",
+                    "text": "Il musino aguzzo del topo\\è apparito ad uno spiraglio.\\È sparito, per venir dopo:\\fa già l'acqua qualche sonaglio...\\Lontano lontano lontano\\si sente sonare un campano.\\\\È un muletto per il sentiero,\\che s'arrampica su su su;\\che tra i faggi piccolo e nero\\si vede e non si vede piú.\\Ma il suo campanaccio si sente\\sonare continuamente."
+                },
+                {
+                    "book": "bibit000735.json",
+                    "year": 1754,
+                    "idx": "235",
+                    "text": "e dille che la man che ve le avvinse,\\non ha perduta la possanza antica. -\\\\Disse; e Mercurio ad eseguir del padre\\il precetto s'accinse. E pria l'alato\\petaso al capo adatta, ed alle piante\\\\i bei talari, ond'ei vola sublime\\su la terra e sul mare, e la rattezza\\passa de' venti. Impugna indi l'avvinta"
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "2233",
+                    "text": "Scendon la balza e dal poggetto ameno\\tornano al piano, onde partiro avanti.\\Ma di stupore innebriato e pieno\\spesso sospende Adon tra via le piante\\e perch'alto desio gli bolle in seno\\di saver qual destin gli è sovrastante,\\che gliel voglia scoprir Mercurio prega,\\e 'n sì fatto parlar la lingua slega:"
+                },
+                {
+                    "book": "bibit000045.json",
+                    "year": 1313,
+                    "idx": "540",
+                    "text": "en l'andar suo nulla diritta via:\\ad aquilon talora e ver ponente\\scendendo, non so dove si finia.\\\\Ciò che dal leon cade pianamente\\dico che corre, e sopra li suoi liti\\d'erbe e di fior si vede ognor ridente."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 29,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit001651.json",
+                    "year": 1798,
+                    "idx": "81",
+                    "text": "Regnar sul campidoglio, e al mondo intero\\Leggi dettare in maestoso aspetto,\\E prostesi mirare a' piedi suoi\\\\E popoli, e città, regni, ed imperi.\\Folle! da l'alto ciel con torvo ciglio\\Quirino il mira, e minaccioso il Nume"
+                },
+                {
+                    "book": "bibit001455.json",
+                    "year": 1544,
+                    "idx": "760",
+                    "text": "e congiunger le forze e i cari alberghi,\\quasi in una città comune a tutti,\\sotto un lor propio re. L'imperio e 'l fasto\\\\ricusan altre del signor superbo,\\talchè ciascuna a sè provede e pensa.\\\\Sia da quelle il principio, onde l'essempio\\prendiam per l'uso de l'umana vita.\\Comuni han l'api la cittate, e i tetti"
+                },
+                {
+                    "book": "bibit000049.json",
+                    "year": 1441,
+                    "idx": "4029",
+                    "text": "Com'io vi dico, nacque per incanto\\Quella persona di mercé ribella,\\Che questo regno ha strutto tutto quanto,\\Perché ogni cavalliero o damigella,\\Qual quivi gionga o passi in ogni canto,\\Fa divorare a quella bestia fella.\\Cercato abbiamo de un barone assai,\\Che tragga il regno e noi de tanti guai."
+                },
+                {
+                    "book": "bibit000238.json",
+                    "year": 1235,
+                    "idx": "393",
+                    "text": "Tutto mondo, signori, vi guarda e sae\\che 'l male e 'l ben restae\\di vostra terra in voi, sì com'ho detto.\\Pensate adonque retto\\quanto in tanto aspetto\\men d'onor e onor esser voi poe.\\De tiranni e regi assai trovate;\\merzé, non v'assemprate\\a tiranni di lor terra struttori,\\ma a Roman boni, in cui ver valor foe;\\ed essi veri di boni son miradori."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 30,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000033.json",
+                    "year": 1791,
+                    "idx": "2700",
+                    "text": "E, appena che ddiluvia, opri la bbocca,\\Arzi la mano su la turba maggna,\\Intoni un bravo Vebbattizzo, e tocca.\\\\S´io fussi prete o ffrate, e avessi vosce\\Deggna de fà ddu´ strilli a le missione,\\E de sputamme un´ala de pormone\\In onor de la grolia de la Crosce,"
+                },
+                {
+                    "book": "bibit001093.json",
+                    "year": 1643,
+                    "idx": "19",
+                    "text": "Vado a darLe risposta.\\Oh!, che felice incontro!\\Son proprio fortunato:\\nell'andare e tornare\\due volte la fatica ho sparammiato.\\\\Ecco che pronto ad obedir m'accingo\\al tuo desio, Filandro:\\del tuo grande Alessandro\\l'Efestion tra le mie braccia io stringo."
+                },
+                {
+                    "book": "bibit001420.json",
+                    "year": 1478,
+                    "idx": "3271",
+                    "text": "perch'io non veggio l'ora di provarmi\\con Turrismondo, e veder la sua forza;\\poi vorrò star fra i primi a la battaglia\\\\ed animar gli amici, e con furore\\cacciare a sbaragliar tutti i nimici.\\Alor disse Traian queste parole:"
+                },
+                {
+                    "book": "bibit000041.json",
+                    "year": 1313,
+                    "idx": "484",
+                    "text": "E e' mi piace, poi che t'è in piacere,\\che pure infra noi due battaglia sia;\\io sarò presto a fare il tuo volere,\\ma pria mi lascia addobbar l'arma mia\\e ripigliare lo mio buon destriere;\\quindi farén tutto ciò che disia\\la mente folle che sì ti consiglia:\\piangasi il danno a cui di ciò mal piglia. -"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 31,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "2005",
+                    "text": "Forse così, seguìto il reo consiglio,\\L'Eden comparve al genitore antico.\\Invan spirava odor la rosa e il giglio,\\\\E il lusingava invano il rezzo amico;\\Ch'ovunque egli temea danno o periglio,\\Seco portando il suo crudel nemico;"
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "2051",
+                    "text": "Movesi al'armi e ne va seco armato\\Enrico, il primo fior del regio seme,\\quei che pur dianzi andò, quasi sdegnato,\\co' men fedeli a collegarsi insieme;\\sdegno fu, ma fu lieve; orch'alo stato\\del gran cugino alto periglio ei teme,\\gli sovien quand'è d'uopo in tanta impresa\\di consiglio, d'aiuto e di difesa."
+                },
+                {
+                    "book": "bibit000049.json",
+                    "year": 1441,
+                    "idx": "3393",
+                    "text": "Ma non lo aspetta lui, che è impaurito;\\Mostrògli Sinagon ciò che 'l die' fare,\\Ed ebbe senno a pigliar bon libroito.\\Ecco Grandonio, che un serpente pare:\\E gionse Avino, il giovanetto ardito,\\E sottosopra il fece trabuccare;\\Poi Belengero abatte in sul sabbione,\\E seco Avorio e il suo fratello Ottone."
+                },
+                {
+                    "book": "bibit000045.json",
+                    "year": 1313,
+                    "idx": "246",
+                    "text": "Conforme poi si vedea similmente\\Asterien ad aquile seguire,\\cui elli amava molto coralmente.\\\\Allato a lei ed or di sopra gire\\per alti boschi quivi si vedeva,\\e poi con l'ali lei presa covrire.\\\\Molto dubbiosa lì quella pareva,\\per che rivolta contra il grande iddio\\con fievol possa cacciar lo voleva."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 32,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "415",
+                    "text": "Già le prepara, e legge iniqua e torta?\\Quasi ladron notturno, al cielo oscuro,\\Che serrato non trovi od uscio o porta,\\\\Porterà le corone e gli aurei fregi\\E tante prede di spogliati regi?\\E potrem noi soffrir che pur ritorni,"
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "2009",
+                    "text": "Intanto e quinci e quindi ecco spediti\\vanno e vengono ognor corrieri e messi,\\ché 'l buon re ch'io dicea vuol che sopiti\\sieno i contrasti e la gran pugna cessi;\\ed accioché gli affar di tante liti\\in non sospetta man restin rimessi,\\ai deputati imperiali e regi\\fa consegnar dela vittoria i pregi."
+                },
+                {
+                    "book": "bibit000049.json",
+                    "year": 1441,
+                    "idx": "4248",
+                    "text": "Lasciamo andare alquanto Bradamante,\\Poi di lei seguiremo e soa ventura,\\E ritorniamo ove io lasciai davante\\Rugier lo ardito alla battaglia dura.\\Il re di Constantina con Mordante,\\Che non han di vergogna alcuna cura,\\Gli sono intorno per farlo cadere,\\E ciascun de essi tocca a più potere."
+                },
+                {
+                    "book": "bibit000041.json",
+                    "year": 1313,
+                    "idx": "190",
+                    "text": "Andiamo adunque, e lui, fiero Creonte,\\umil facciàn con le spade tornare,\\sì che e' lasci l'ombre ad Acheronte,\\poi fien sepulti i corpi, trapassare;\\noi non andiamo acciò che a Demofonte\\rimanga regno, a l'altrui usurpare,\\ma a ragion rilevare in sua gloria;\\per che l'iddii ne daranno vittoria. -"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 33,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "747",
+                    "text": "Innocente di cor, di colpe scarco,\\Ei non impallidisce e non paventa\\Se tuona Giove, e se saette avventa\\\\Del giusto Ciel l'inevitabil arco.\\Segga chi vuol de' sospirati onori\\Su le lubriche cime; offrirsi veggia"
+                },
+                {
+                    "book": "bibit001236.json",
+                    "year": 1550,
+                    "idx": "69",
+                    "text": "Al ciel nude e scoverte\\Per pompa de natura poverette,\\Andé a sto muodo averte,\\\\O collo, o spalle, o tette,\\Che no se tàgia un vanto ove è l'anello,\\Se no, perché è pi bel questo de quello.\\\\Che drappi porìa mai, se i fosse d'oro,\\Covrir sì bei colori,\\Che no fosse un leame in su un tesoro,"
+                },
+                {
+                    "book": "bibit000996.json",
+                    "year": 1430,
+                    "idx": "98",
+                    "text": "il ciglio al mondo raro,\\onde nascon ognor gli acuti dardi\\che non furon mai tardi\\ferirmi il cor, di cui saldar la piaga\\non può mai forza d'erbe o d'arte maga.\\\\Ohimè, ché morte par che 'l lor viaggio\\chiuda a gli spirti accensi!\\Ed io il pur ben vorrei per minor danno!\\E dal suo grembo or fuggo, or in lui caggio,\\pensando quai dispensi"
+                },
+                {
+                    "book": "bibit001257.json",
+                    "year": 1304,
+                    "idx": "150",
+                    "text": "Dal laccio d'or non si[a] mai chi mi scioglie,\\[ne]gletto ad arte, e 'nnanellato et hirto,\\né da l'ardente spirto\\de la sua vista dolcemente acerba,\\la qual dì e notte più che lauro o mirto\\tenea in me verde l'amorosa voglia,\\quando si veste e spoglia\\di frondi il boscho, e la campagna d'erba.\\Ma poi che Morte è stata sì superba\\c[he] rotto à 'l nodo ond'io temea scampare,\\né trovar puoi, qu[a]ntunque gira il mond[o],\\di che ordischi 'l secondo,\\che giova, Amor, tuoi ingegni riten[tare]?\\Buon cavalier senz'arme è quasi ignud[o];\\tua lancia è rotta et i'ò piu for[te] [schudo]."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 34,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000033.json",
+                    "year": 1791,
+                    "idx": "2381",
+                    "text": "A ssu´ Eccellenza, a ssu´ Maestà, a ssu´ Artezza\\Fumi, patacche, titoli e sprennori;\\E a nnoantri artiggiani e sservitori\\Er bastone, l´imbasto e la capezza.\\\\Cristo creò le case e li palazzi\\P´er prencipe, er marchese e ´r cavajjere,\\E la terra pe nnoi facce de cazzi."
+                },
+                {
+                    "book": "bibit000784.json",
+                    "year": 1668,
+                    "idx": "185",
+                    "text": "l'aquila assisa a' regi scettri in terra\\e del romano impero\\alto nume guerriero;\\\\ed io, di Giove alta sorella e moglie,\\sì fastosa passeggio in ciel regina\\e coi comandi d'aspre e dure imprese,\\\\quante Alcide se 'l sa, pruovo gli eroi.\\Questi tutti son tuoi gran benefìci,\\de' quali eterne grazie io ti professo."
+                },
+                {
+                    "book": "bibit001420.json",
+                    "year": 1478,
+                    "idx": "1507",
+                    "text": "la casa d'Austria, veramente capo\\de l'altre case che mai furo al mondo:\\madre di tanti imperadori e duchi\\\\e re, d'ogni gentil virtute adorni.\\Il primo d'essa ch'a l'imperio ascenda\\sarà il conte Rodolfo, che combatte"
+                },
+                {
+                    "book": "bibit001318.json",
+                    "year": 1304,
+                    "idx": "251",
+                    "text": "Molte gran cose in picciol fascio stringo.\\Ov'è un re Arturo, e tre Cesari Augusti,\\un d'Affrica, un di Spagna, un Lottoringo?\\\\Cingean costui suo' dodici robusti,\\poi venía solo il buon duce Goffrido,\\che fe' l'impresa santa e ' passi giusti:"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 35,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000033.json",
+                    "year": 1791,
+                    "idx": "3820",
+                    "text": "Quanto va cche l'acchiappo pe le zzampe\\E vve lo sbatto in faccia? Oh a vvoi, per dio!,\\Avemo messo er correttor de stampe!\\\\Che rrabbia è de sentì sti forestieri\\De tremmonti, che, ssenz'èsse romani,\\Arriven'oggi ar Popolo, e ddomani\\Ne sanno ppiù de li romani veri."
+                },
+                {
+                    "book": "bibit000784.json",
+                    "year": 1668,
+                    "idx": "249",
+                    "text": "del grave aratro, poi vi seminasti\\la prima spezie di frumento, il farro;\\e 'l farro poi dal vincitor romano\\\\fu dato in premio a' forti\\che 'nsigni l'arme oprâr ne le battaglie;\\ed i più forti de' romani, i padri,"
+                },
+                {
+                    "book": "bibit001420.json",
+                    "year": 1478,
+                    "idx": "4431",
+                    "text": "Bisandro se n'uscì fuor de le mura\\con molti Gotti ed assalì e' Romani\\ne l'ora appunto che i pasciuti armenti\\\\tornan da i paschi a le dilette mandre;\\onde i Romani, che muniano il vallo,\\quantunque fosser colti a l'improviso"
+                },
+                {
+                    "book": "bibit000047.json",
+                    "year": 1313,
+                    "idx": "453",
+                    "text": "Ma poi che Fiesol fu la prima volta\\per li Roman consumata e disfatta,\\e poi ch´a Roma la gente diè volta,\\que´ che rimason dell´africhea schiatta\\alla disfatta fortezza a raccolta\\tutti si fur, che Pruneo avea fatta,\\e quivi il me´ che seppon s´allogaro,\\faccendo case assai per lor riparo."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 36,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000174.json",
+                    "year": 1798,
+                    "idx": "65",
+                    "text": "D'intorno s'aggirava ai stanchi corpi,\\E il plumbeo scettro distendea tranquillo.\\Il quieto silenzio, e l'atra notte\\\\De' Galli asconde le dannose insidie,\\Che già con forti valorosi duci,\\Con mille armati, e mille, e con guerriere"
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "3038",
+                    "text": "Venne al delubro dispietato e crudo\\la cruda Argene e scese entro la soglia.\\Sostenea nela destra un ferro ignudo,\\nera e spruzzata a rosso avea la spoglia.\\Seco era quella per cui tremo e sudo,\\Dorisbe, la cagion d'ogni mia doglia,\\che seguia pur del barbaro olocausto\\l'apparecchio inumano e 'l culto infausto."
+                },
+                {
+                    "book": "bibit000049.json",
+                    "year": 1441,
+                    "idx": "1334",
+                    "text": "A quel romore è il cavallier svegliato,\\E pauroso se ebbe a risentire;\\Come la dama non se vide a lato,\\Della gran doglia credette morire.\\Piglia il destriero e fu subito armato,\\E verso quel romor ne prese a gire,\\Ché proprio odir la voce gli assembrava\\De una donzella che se lamentava."
+                },
+                {
+                    "book": "bibit000045.json",
+                    "year": 1313,
+                    "idx": "103",
+                    "text": "Questo crudel sanza mezzo seguieno\\Diomede ed Ulisse, e ad agguati\\andare ancor pensando mi parieno.\\\\Vigoroso di dietro a loro armati\\Patrocolo veniva ed Antenore,\\ciascun con gli occhi ver la donna alzati."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 37,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000114.json",
+                    "year": 1754,
+                    "idx": "82",
+                    "text": "Meste intorno al caduto e paventose\\Stan le piante minori; ed egli in grande\\Spazio prosteso imputridisce, e il piede\\\\Dell'armento l'insulta e del pastore.\\Di novità bramoso io nell'udire\\Tutta inviava e nel veder la mente,"
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "1656",
+                    "text": "Girò l'infausta chiave e le sue strane\\volgendo intorno e spaventose rote\\abbassar fe' la testa al fiero cane,\\che 'n bocca tien la formidabil cote,\\siché toccò le machine inumane\\ond'avampa il balen ch'altrui percote,\\e con fragore orribile e rimbombo\\aventò contro me globi di piombo."
+                },
+                {
+                    "book": "bibit000049.json",
+                    "year": 1441,
+                    "idx": "4374",
+                    "text": "Il scuto gli spezzò quel maledetto,\\Le piastre aperse, come fosser carte,\\E crudelmente lo piagò nel petto;\\Gionse allo arcione e tutto lo dislibroe,\\Il collo al suo ronzon tagliò via netto.\\Ora a quel colpo gionse Brandimarte,\\E, destinato di farne vendetta,\\Sprona il destriero e la sua lancia assetta."
+                },
+                {
+                    "book": "bibit000045.json",
+                    "year": 1313,
+                    "idx": "177",
+                    "text": "Là si ficcava tra la turba molta\\con un roncone in man tagliando, e presto\\di quello a piè si faceva raccolta,\\\\impiendo con affanno il suo molesto\\voler, cacciando misura e piatate\\in modo sconcio assai e disonesto."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 38,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit001172.json",
+                    "year": 1798,
+                    "idx": "757",
+                    "text": "Dolce mio lauro, ov'abitar solea\\Ogni bellezza, ogni virtute ardente,\\Vedeva alla sua ombra onestamente\\Il mio Signor sedersi e la mia dea.\\\\Ancor io il nido di pensieri eletti\\Posi in quell'alma pianta; e 'n foco e 'n gielo\\Tremando, ardendo, assai felice fui."
+                },
+                {
+                    "book": "bibit000682.json",
+                    "year": 1544,
+                    "idx": "140",
+                    "text": "et ha presa figura\\di voi che di bellezza avete il vanto;\\per cui con vostra pace\\\\il vostro nome e la beltà si tace”.\\“Felice la mia fiamma\\la qual m' infiamma così dolcemente;\\\\felice ancor pietra sì cara e bella,\\e più s' ardesse anch' ella;\\ma tiene il foco in seno, e sì no 'l sente,"
+                },
+                {
+                    "book": "bibit000996.json",
+                    "year": 1430,
+                    "idx": "165",
+                    "text": "così afflitto, doglioso e senza luce,\\un Etna del mio cor, degli occhi un Tebro\\formando, né fia pur che la mia ardente\\fiamma consumi il copioso umore,\\né 'l copioso umor l'ardente fiamma!».\\\\O del divin pensier felice obietto\\e del cerchio sovran pi` bella parte,\\che sète delle grazie in ciel cosparte\\gentil, grato, cortese, almo ricetto!"
+                },
+                {
+                    "book": "bibit001257.json",
+                    "year": 1304,
+                    "idx": "19",
+                    "text": "È questo 'l nido in che la mia fenice\\mise l'aurate et le purpuree penne,\\che sotto le sue ali il mio cor tenne,\\et parole et sospiri ancho n'elice?\\\\O del dolce mio mal prima radice,\\ov'è 'l bel viso onde quel lume venne\\che vivo et lieto ardendo mi mantenne?\\Sola eri in terra; or se' nel ciel felice."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 39,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "1810",
+                    "text": "E a le arroganti e garrule\\Voci così rispose:\\Frenate i detti frivoli,\\\\O meschinelli, o vani;\\Ché forse il vostro pregio\\Non giungerà a domani.\\\\Tanti morire e nascere\\Su questa piaggia amena\\Di voi vid'io, ch'esistere"
+                },
+                {
+                    "book": "bibit000409.json",
+                    "year": 1698,
+                    "idx": "56",
+                    "text": "Crudel, sarai contenta. Ecco adempito\\Il tuo fiero comando.\\\\Aimè! che dici?\\\\Già Tito... Oh Dio! già dal trafitto seno\\Versa l'anima grande.\\\\Ah, che facesti!\\\\No, nol fec'io, ché, dell'error pentito,\\A salvarlo correa; ma giunsi appunto\\Che un traditor del congiurato stuolo\\Da tergo lo feria. Ferma! gridai;\\Ma il colpo era vibrato. Il ferro indegno\\Lascia colui nella ferita e fugge.\\A ritrarlo io m'affretto;\\Ma con l'acciaro il sangue\\N'esce, il manto m'asperge, e Tito, oh Dio!\\Manca, vacilla e cade."
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "2952",
+                    "text": "Iva pur troppo in sua malizia sciocco\\spogliando i morti ond'era pieno il fosso\\e per torre a Giaffer la banda e 'l fiocco,\\ch'eran di seta e d'or, s'era già mosso,\\quando dal fiero inaspettato stocco\\irreparabilmente ei fu percosso.\\– Ladron, (gli disse Orgonte) io non t'incolpo:\\vantati pur che mi rubasti il colpo. –"
+                },
+                {
+                    "book": "bibit000049.json",
+                    "year": 1441,
+                    "idx": "185",
+                    "text": "Astolfo era per ira in tanto errore,\\Che non stima de Carlo la presenza;\\Anci diceva: - Falso traditore,\\Che sei ben nato da quella semenza!\\Io te trarò del petto fora il core,\\In prima che de qui facciam libroenza. -\\Dicea Grifone a lui: - Temote poco,\\Quando seremo fuor di questo loco."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 40,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000033.json",
+                    "year": 1791,
+                    "idx": "1175",
+                    "text": "Sin da cuanno me venne la sdiddetta\\Vado in giro pe ccase oggni matina:\\E nn´averebbe trove una ventina,\\Ma a tutte cuante sc´è la su´ pescetta.\\\\Cuella che sse sfittò jjeri a Rripetta\\È un paradiso, ma nun c´è ccuscina.\\L´antra c´ho vvisto mo´ a la Coroncina\\Ha una scala a llumaca stretta stretta."
+                },
+                {
+                    "book": "bibit000898.json",
+                    "year": 1646,
+                    "idx": "107",
+                    "text": "Mo che t' hai fatta ssa galante vesta,\\Co chisso tuppo a mmuodo de sopposta,\\Pare comme a no gallo co la cresta:\\Ma l' uocchie russe so' cchiù de ragosta.\\Ssa facce ha lo colore de l' agresta,\\E pare na porchetta co la crosta:\\Chi te vede, a pigliare va de posta\\L' orvietano, ch' è contra de la pesta.\\Scommuoglie lo defietto co ssa robba.\\Chi tene mente a ssa foggia novella\\Vede sso gra' scartiello, e po' se strobba.\\Zitto, ca la gallina patanella\\Se bene è bascia, peccerella e sgobba,\\Puro è tenuta pe na cosa bella!"
+                },
+                {
+                    "book": "bibit000319.json",
+                    "year": 1474,
+                    "idx": "351",
+                    "text": "Et io con veste candida & fregiata\\per mezo a liste doro e d ognintorno\\& con sete pur tutta adombrata\\di bei fiocchi vermigli al capo intorno\\foggia che sol fu da Ginevra usata\\non d alcunaltra: udito il segno: torno\\sopra il veron: che in modo era locato\\che nanzi mi scopria: drieto: e da lato"
+                },
+                {
+                    "book": "bibit000044.json",
+                    "year": 1313,
+                    "idx": "24",
+                    "text": "avean levato, e sé tacitamente\\dietro ad un alber pose, e ver di lui\\uno spiedo drizzò lungo e tagliente.\\\\Di squama pien, furioso costui\\venia, da' can d'ogni parte addentato,\\ed infiammato di nuocere altrui;"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 41,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit001570.json",
+                    "year": 1964,
+                    "idx": "24",
+                    "text": "Or m'abbagliavan de' vostri occhi i rai,\\Or mi parea l'accorte parolette\\Udir che par' non trovaranno mai,\\\\Talor le mani insieme tenea strette,\\Il netto avorio in mezo aver credendo\\De la vostra che 'l pregio ha tra l'elette."
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "807",
+                    "text": "Perfida io già non fui; se forse errai,\\colpevol son d'involontario errore.\\Un scusabil fallir perdona omai,\\se pur fallo può dirsi amar Amore,\\colui dale cui forze, e tu tel sai,\\difendersi non vale ardito core;\\dunque t'adirerai perch'abbia amato\\quelche pur del tuo grembo al mondo è nato?"
+                },
+                {
+                    "book": "bibit000049.json",
+                    "year": 1441,
+                    "idx": "826",
+                    "text": "E se io non fossi a l'ultimo libroito\\Insieme della vita e dello onore,\\Io non farebbi a te cotale invito,\\Ché non è al mondo vergogna maggiore\\Che a richieder colui che hai deservito.\\Tu m'hai portato già cotanto amore,\\Ed io fui sempre a te tanto spietata;\\Ma ancor col tempo te serò ben grata."
+                },
+                {
+                    "book": "bibit000046.json",
+                    "year": 1313,
+                    "idx": "685",
+                    "text": "Or non avevi tu altro gioiello\\da poter dare al tuo novello amante,\\io dico a Diomede, se non quello\\ch'io t'avea dato con lagrime tante\\in rimembranza di me tapinello,\\mentre con Calcas fossi dimorante?\\Null'altro far tel fé se non dispetto,\\e per mostrar ben chiaro il tuo 'ntelletto."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 42,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit001671.json",
+                    "year": 1798,
+                    "idx": "54",
+                    "text": "O Torquato o Torquato, a noi promesso\\Eri tu allora; il pianto\\A te, non altro, prometteva il Cielo.\\Oh misero Torquato; il dolce canto\\Non valse a consolarti o a sciorre il gelo\\Onde l'alma t'avean, ch'era sì calda,\\Cinta l'odio e l'immondo\\Livor privato e de' tiranni. Amore,\\Amor, di nostra vita ultimo inganno,\\T'abbandonava. Ombra reale e salda\\Ti parve il nulla, e 'l mondo\\Inabitata piaggia. Al tardo onore\\Non sorser gli occhi tuoi; mercè, non danno,\\L'estrema ora ti fu. Morte domanda\\Chi nostro mal conobbe, e non ghirlanda."
+                },
+                {
+                    "book": "bibit000799.json",
+                    "year": 1538,
+                    "idx": "193",
+                    "text": "(A gran pena le lagrime ritegno.\\O nostra umanità, quanto se' frale!)\\Figlio, sta' di buon cor, ché quanto brami\\di far prometto. E ciò per questo capo\\ti giuro, e questa man ti do per pegno.\\\\Or consolato moro e consolato\\a te vengo, Amarilli.\\Ricevi il tuo Mirtillo,\\del tuo fido pastor l'anima prendi,\\ché, ne l'amato nome d'Amarilli\\terminando la vita e le parole,\\qui piego a morte le ginocchia e taccio."
+                },
+                {
+                    "book": "bibit000996.json",
+                    "year": 1430,
+                    "idx": "30",
+                    "text": "qual morte prima e or m'adduce vita,\\che fa del santo corpo, ohimè, sostegno,\\e 'l tuo duol e 'l mio error pianger m'invita.\\Questo è del nostro ben securo pegno,\\ond'agevol ne fia la via smarrita;\\\\e se fu peso a te molesto e greve,\\a noi l'alma d'error fe' sgombra e lieve.\\Tu, del mondo signor, povero e nudo\\fra noi scendesti di umiltade armato,\\e a l'ira del tuo Padre il saldo scudo"
+                },
+                {
+                    "book": "bibit000046.json",
+                    "year": 1313,
+                    "idx": "120",
+                    "text": "Tu che farai? Deh, dilmi, starai altera,\\e lascerai colui, che sé non cura\\per amar te, a morte tanto fera\\venire? O reo distino, o rea ventura\\ch'un sì fatto uom per te amando pera!\\Almanco della tua vaga figura\\non gli fostù né de' tuoi occhi cara,\\forse il campresti ancor da morte amara. —"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 43,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000125.json",
+                    "year": 1905,
+                    "idx": "111",
+                    "text": "Ma con l'astuto non avrai buon sorte,\\la natura dà spazio e ben concede:\\quel Garibaldi in quelle strade torte\\lungimirante astutamente vede;\\quando a Marsala giunge giù alle porte\\e quando i Mille ci hanno messo il piede,\\li sparpaglia, li mette in varia fila\\astutamente e sembran centoemmila."
+                },
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "1098",
+                    "text": "Lungo spazio di mare avea trascorso;\\Né però ancor le fortunate e liete\\Piagge, e de' monti butirrosi il dorso\\\\Scoprir poteva; e s'aggirava intanto\\Non vi saprei ben dir dove né quanto.\\Quand'ecco Gradellin, che a la veletta"
+                },
+                {
+                    "book": "bibit001455.json",
+                    "year": 1544,
+                    "idx": "983",
+                    "text": "de le fere temendo; e l'aspre rupi,\\e le selvagge lustre, e i lochi inculti\\fugge la paurosa; e dove scorge\\\\de' piedi umani le vestigia impresse,\\presso le vie da lor calcate e corse,\\ivi secura il suo portato espone,"
+                },
+                {
+                    "book": "bibit000363.json",
+                    "year": 1432,
+                    "idx": "2496",
+                    "text": "Lasciàn costoro intorno, e in mezzo Gano.\\Rinaldo nostro séguita il suo corso;\\e per fortuna in un paese strano\\s'avvide il padron suo ch'era trascorso,\\e disse: - Mal condotti un giorno siàno:\\e' ci convien pigliare o 'l graffio o 'l morso.\\Noi ci troviam sotto il segno di Marte,\\dove val poco del nocchier qui l'arte."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 44,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit001502.json",
+                    "year": 1798,
+                    "idx": "20",
+                    "text": "Te voglio, te desidero, te bramo.\\\\Me non avrai, ch'io ho eletto una sede\\Dove nel foco star potrai contento.\\\\Non mi mandar dove poi manchi fede.\\\\Vanne a quel loco che a' principii chiamo,\\Levato ivi seratti ogni tuo stento."
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "647",
+                    "text": "Le mostro che soverchio è voler poi\\investigar la mia vietata faccia,\\poiché però non crescerà tra noi\\quel grand'amor, che l'un e l'altro allaccia.\\L'essorto che non guasti i piacer suoi\\per un lieve desio, ma goda e taccia:\\quanto può giusto sdegno io le rammento\\e la fede promessa e 'l giuramento."
+                },
+                {
+                    "book": "bibit001653.json",
+                    "year": 1460,
+                    "idx": "329",
+                    "text": "E di questo securo io voglio farte,\\e per lui la mia fede io ti prometto,\\ad Amor presentarlo da tua parte,\\se da la sorte ria non me è interdetto.\\Così ti giuro oprar mio ingegno e arte\\che quel ch'io dico sortirà ad effetto.\\Sòglielo adonque, invitto duce, io prego,\\e a mia domanda non voler far nego –."
+                },
+                {
+                    "book": "bibit000046.json",
+                    "year": 1313,
+                    "idx": "148",
+                    "text": "Ed oltre a questo, ancora a mio potere\\la pregherò ch'abbi di te mercede.\\Quel ch'ella rispondrà potrem vedere,\\e già di certo l'animo mio crede\\che sua risposta ti dovrà piacere;\\e però scrivi, e ponvi ogni tua fede,\\ogni tua pena, ed il disio appresso:\\nulla lasciar che non vi sia espresso. —"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 45,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "2481",
+                    "text": "Poscia che dati i mirti ebbe a man piena,\\Di lauro, che parea lieto fiorisse\\Tra le sue man, fe' al sasso una catena.\\\\E un sospir trasse affettuoso, e disse\\Pace eterna a l'amico: e te chiamando,\\I lumi al cielo sì pietosi affisse,"
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "2675",
+                    "text": "Comincia a serenar l'aria del volto\\e più grato a mostrarsi e men rubello,\\e sperando in tal guisa esser poi sciolto\\qualch'indizio gli dà d'amor novello.\\La prega intanto almen che gli sia tolto\\dela nana importuna il gran flagello,\\poiché gli è sovr'ogni altra aspra sciagura\\sì malvagia ministra a soffrir dura."
+                },
+                {
+                    "book": "bibit000363.json",
+                    "year": 1432,
+                    "idx": "2906",
+                    "text": "e che voleva infin baciarli il piede\\e far con lui sincera e vera pace,\\e che, se il Mainetto suo rivede,\\dirà qual Simion: \"Come a te piace,\\l'anima mia omai, Signor, recede\";\\e tutte cose che parran capace,\\digeste, essaminate a parte a parte,\\con mille scaltrimenti e con mille arte:"
+                },
+                {
+                    "book": "bibit000047.json",
+                    "year": 1313,
+                    "idx": "426",
+                    "text": "E lagrimando per grande allegrezza,\\mirando quel fantin, le par vedere\\Africo propio in ogni sua fattezza,\\e veramente gliel par riavere;\\e lui baciando con gran tenerezza,\\diceva: – Figliuol mio, gran dispiacere\\mi fia a contare, e grandissimo duolo,\\la morte del tuo padre e mio figliuolo. –"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 46,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "980",
+                    "text": "Oh quante volte, addio, dicemmo, addio;\\E il piè senza partir restò dov'era!\\Quante volte partimmo, e a la primiera\\Orma tornaro il piè di Clori e il mio!\\\\Era già presso a discoprirne il sole;\\Quando le dissi alfin: ma che le dissi,\\Se il pianto confondeva le parole?"
+                },
+                {
+                    "book": "bibit000409.json",
+                    "year": 1698,
+                    "idx": "48",
+                    "text": "Sesto, dove t'affretti?\\\\Io corro, amico...\\O dèi! non m'arrestar. (vuol partire\\\\Ma dove vai?\\\\Vado... Per mio rossor già lo saprai. (parte\\\\Già lo saprai per mio rossor! Che arcano\\Si nasconde in que' detti! A quale oggetto\\Celarlo a me? Quel pallido sembiante,\\Quel ragionar confuso,\\Stelle! che mai vuol dir? Qualche periglio\\Sovrasta a Sesto. Abbandonar nol deve\\Un amico fedel. Seguasi. (vuol partire"
+                },
+                {
+                    "book": "bibit001236.json",
+                    "year": 1550,
+                    "idx": "100",
+                    "text": "Oh, quante volte al dì son un lion!\\Oh, quante volte al dì son un agnel!\\Quante mi inalzo col pensier al ciel\\E po me lasso andar zo a tombolon!\\Oh, quante volte aniego la rason\\E fazo l'appetito mio fradel!\\Quante stago in amor puoco in cervel!\\Quante possio saver mai quel che son!\\Oh, quanto spesso bramo, e no so che,\\E quel, co so che l'ho, nol vorìa haver,\\E co ghe ne son privo ardo da sé!\\Oh, quanto un sguardo sforza el mio voler!\\Quanto el me empie de miel e de aloè!\\Quanti travagi ha un puoco de piaser!"
+                },
+                {
+                    "book": "bibit001641.json",
+                    "year": 1445,
+                    "idx": "153",
+                    "text": "Quante volte m'advien, misero lasso!,\\el giorno, ch'io mi sento\\con mio grave tormento\\\\disfare il cor da smisurato foco!,\\ond'io temendo spesso ne spavento,\\col volto mesto e passo,\\\\d'ogni piacere scasso.\\Ma la speranza un poco,\\per far di me più stratio e lungo gioco,"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 47,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "919",
+                    "text": "Oh de la gloria luminoso calle!\\Felice quei che in te vestigio imprime,\\Né a' rai del tuo bel Sol volge le spalle.\\\\Or chi brama che 'l grande e che 'l sublime\\Risplenda ne' suoi scritti, e si consiglia\\Correr di Pindo in ver le palme prime;"
+                },
+                {
+                    "book": "bibit000784.json",
+                    "year": 1668,
+                    "idx": "193",
+                    "text": "una dolce e gloriosa\\là verdeggia nobil Palma;\\e v'è un Dattilo sublime.\\\\Ivi 'l Buoncore\\coltiva l'erbe\\di cui gli apristi\\\\tu le virtudi;\\e là 'l Perotti\\con nobil cura\\\\e' sta rimando\\l'egra natura.\\A le cose alte e divine"
+                },
+                {
+                    "book": "bibit000799.json",
+                    "year": 1538,
+                    "idx": "170",
+                    "text": "O fanciul glorioso,\\vera stirpe d'Alcide,\\che fère già sì mostruose ancide!\\\\O fanciul glorioso,\\come presago di tua gloria, il cielo\\a la tua gloria arride. Era tal, forse,\\il famoso cignale\\che vivo Ercole vinse, e tal l'avresti\\forse ancor tu, s'egli di te non fosse\\così prima fatica,\\come fu già del tuo grand'avo terza.\\Ma con le fère scherza\\la virtude giovinetta ancora,\\per far de' mostri in più matura etate\\strazio poi sanguinoso."
+                },
+                {
+                    "book": "bibit001318.json",
+                    "year": 1304,
+                    "idx": "144",
+                    "text": "Qui de l'ostile onor l'alta novella,\\non scemato co gli occhi, a tutti piacque,\\e la piú casta v'era la piú bella.\\\\Né 'l triumfo non suo seguire spiacque\\a lui che, se credenza non è vana,\\sol per triumfi e per imperii nacque."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 48,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "1289",
+                    "text": "Tu in mezzo a l'ostie pingui e a i puri fochi\\Risorgi a noi fra i canti e le carole\\Col nuovo Sol lucido a par del sole.\\\\L'alma, in cui d'ogni corpo immagin nasce\\Pe' sensi, e col desio cresce, e diventa\\Esca di lei, che di pensier si pasce,"
+                },
+                {
+                    "book": "bibit000784.json",
+                    "year": 1668,
+                    "idx": "201",
+                    "text": "la qual qui scende agli uomini dal cielo,\\le leggi poi stimate don del cielo\\mastro ti fêr de l'armonia celeste;\\\\àgiati al seno omai cotesta cetra,\\c'hai finor tòcco assiso agiata in grembo,\\e col più vago e più leggiadro vezzo"
+                },
+                {
+                    "book": "bibit000441.json",
+                    "year": 1478,
+                    "idx": "34",
+                    "text": "adonque tu con tua possa divina\\potrai far ch'i' ami un discortese petto,\\un fredo giaccio et indurata pietra?\\\\Da qual parte del ciel et da qual choro\\de' bei spirti che 'l cerchio empireo serra\\quest'Angel venne ad habitar la terra\\cinto il bel crin di trionfal alloro?"
+                },
+                {
+                    "book": "bibit001257.json",
+                    "year": 1304,
+                    "idx": "168",
+                    "text": "Piangi, Sol, piangi, se del lauro verde\\ti cal come già calse,\\e tu Giove.............\\\\Voi che vedeste sua doppia beltate\\e l'angelica vita\\e quel celeste portamento in terra,\\\\a pianger mecho vincavi pietate,\\di me vi doglia, e prendavi pietate,\\non di lei ch'è salita"
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 49,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000141.json",
+                    "year": 1886,
+                    "idx": "101",
+                    "text": "Nulla più triste di quell'orto era,\\nulla più tetro di quel cielo morto\\che disfaceva per il nudo orto\\l'anima sua bianchissima e leggera.\\\\Maternamente coronò la sera\\l'offerta pura e il muto cuore assorto\\in ricevere il tenero conforto\\quasi nova fiorisse primavera."
+                },
+                {
+                    "book": "bibit001062.json",
+                    "year": 1754,
+                    "idx": "39",
+                    "text": "Poi la Notte d'amor l'almo disìo\\sentì pur ella, e all'Erebo mischiosse;\\e dolce un tremor diede e concepìo,\\e doppia prole dal suo grembo scosse;\\il Giorno, io dico, luminoso e dio,\\e l'Etere che lieve intorno mosse;\\onde i semi si svolsero dell'acque,\\della terra, del fuoco, e il mondo nacque."
+                },
+                {
+                    "book": "bibit001420.json",
+                    "year": 1478,
+                    "idx": "3808",
+                    "text": "stretto dal pianto e dal dolore amaro\\non dava a gli occhi suoi riposo alcuno.\\Pur quando venne fuor la bella aurora\\\\cinta di rose a rimenarci il giorno,\\l'inerte sonno con le sue lusinghe\\che suol far molle ogni dolore amaro"
+                },
+                {
+                    "book": "bibit000756.json",
+                    "year": 1304,
+                    "idx": "4",
+                    "text": "Quella che 'l giovenil meo core avinse\\nel primo tempo ch'io conobbi amore,\\del suo leggiadro albergo escendo fore,\\con mio dolor d'un bel nodo mi scinse.\\\\Né poi nova belleza l'alma strinse,\\né mai luce sentì che fésse ardore,\\se non co la memoria del valore\\che per dolci durezze la sospinse."
+                }
+            ],
+            
+            
+        },
+        {
+            "task_id": 50,
+            "task_type": "ranking",
+            "snippets": [
+                {
+                    "book": "bibit000118.json",
+                    "year": 1798,
+                    "idx": "590",
+                    "text": "E che d'onor ben vaga,\\Esponga il petto a memorabil piaga.\\\\Deh qual mi fia concesso\\Stil di tanto dolore,\\Onde accompagni il core\\\\Ne l'alta angoscia oppresso?\\O Febo, o re dell'immortal Permesso,\\Se v'ha musa pietosa"
+                },
+                {
+                    "book": "bibit001540.json",
+                    "year": 1569,
+                    "idx": "1261",
+                    "text": "Tal forse intenerir col dolce canto\\suol la bella Adriana i duri affetti\\e con la voce e con la vista intanto\\gir per due strade a saettare i petti;\\e 'n tal guisa Florinda udisti, o Manto,\\là ne' teatri de' tuoi regi tetti,\\d'Arianna spiegar gli aspri martiri\\e trar da mille cor mille sospiri."
+                },
+                {
+                    "book": "bibit000637.json",
+                    "year": 1450,
+                    "idx": "266",
+                    "text": "Colui, che con soäve ingegno et arte,\\Infiammar prima fe' gli ombrosi mirti,\\D'Ariadna cantando in dolci accenti;\\\\Poi con più audaci et animosi spirti,\\Examinando il ciel di parte in parte,\\Dinumerò le aurate stelle, ardenti;"
+                },
+                {
+                    "book": "bibit000041.json",
+                    "year": 1313,
+                    "idx": "404",
+                    "text": "Allor, sentendo cantar Filomena\\che si fa lieta del morto Tereo,\\si drizza, e 'l polo con vista serena\\mirato un pezzo, lauda Penteo\\la man di Giove d'ogni grazia piena,\\che lavoro sì bello e grande feo;\\poi ad Emilia il suo pensier voltava,\\vedendo Citerea che si levava"
+                }
+            ],
+            
+            
+        }
+    ]
+}

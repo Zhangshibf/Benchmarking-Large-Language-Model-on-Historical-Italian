@@ -1,0 +1,1809 @@
+{
+    "file_info": {
+        "source": "narrativa_author_tasks.json",
+        "task_count": 50,
+        "type": "odd_one_out"
+    },
+    "tasks": [
+        {
+            "task_id": 1,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Mio padre d'un danno ne fa due; mia madre fa alla sua vicina quello che non gli farà mai più; mio fratello quanti ne trova, tanti ne ammazza; e mia sorella piange di quello ch'ella ha riso tutto quest'anno.",
+                    "author": "Giulio Cesare Croce",
+                    "book": "bibit000151.json",
+                    "year": 1550,
+                    "snippet_idx": "56"
+                },
+                {
+                    "text": "Quel dire di stare sopra le altre donne non vuol dire ch'ella voglia montargli adosso, goffo che tu sei; ma come signora e padrona vuol essere maggiore di tutte l'altre ed essere onorata e riverita da quelle come il giusto vuole.",
+                    "author": "Giulio Cesare Croce",
+                    "book": "bibit000143.json",
+                    "year": 1550,
+                    "snippet_idx": "47"
+                },
+                {
+                    "text": "Non bisogna parimente che 'l marito si persuada d'esser superiore alla moglie, come prencipe al suddito, o come pastore alle pecore, ma come l'anima al corpo, col quale è per una certa natural benivolenza congiunta.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "1143"
+                },
+                {
+                    "text": "Così con i detti barilli s'imbarcarono nel porto delle salamandre e dopo alquanti dì arrivarono nel porto de' scarafaggi e trovandosi travagliati dal mare si rissolsero di sbarcarsi in detta città e ivi riposarsi alquanti giorni, e, fatto portare i detti barilli in doana, gli fecero sgabellare; ma i poveretti, fidandosi troppo de' gabellini, furono traditi da essi, poiché, avendo quei scarafaggi anasato i barilli de' detti fichi, tosto s'imaginarono una frode, la qual fu questa, cioè di votargli que' barili di fichi ed empirli di tante di quelle pallottole di sterco di bue (con riverenza) ch'essi son usi di fare l'estate nelle careggiate delle strade.",
+                    "author": "Giulio Cesare Croce",
+                    "book": "bibit000143.json",
+                    "year": 1550,
+                    "snippet_idx": "39"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 2,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "La mamma sembrava che le penetrasse nell'anima, con quegli occhi amorosi che la covavano, se taceva, in tutto quel che diceva, fin nei consigli che le dava intorno al taglio di un corpetto o pel ricamo di un guanciale su cui dovevasi posare il capo della sua figliuola, accanto a quello dello sposo. Ci pensava spesso la giovinetta, col viso chino, facendosi rossa fino al collo.",
+                    "author": "Giovanni Verga",
+                    "book": "bibit000621.json",
+                    "year": 1840,
+                    "snippet_idx": "252"
+                },
+                {
+                    "text": "E proprio in quel punto lei le fece un atto con una mano mettendosi l'altra sul petto, come per dirle: — Signora, si fidi di me. — Ebbene, quel suo atto, quel suo sguardo, da cui mi accorsi che lei aveva capito tutti i sentimenti, tutti i pensieri di mia madre, quello sguardo che voleva dire: — Coraggio! — quell'atto che era un'onesta promessa di protezione, d'affetto, d'indulgenza, — io non l'ho mai scordato, m'è rimasto scolpito nel cuore per sempre; ed è quel ricordo che m'ha fatto partir da Torino.",
+                    "author": "Edmondo De Amicis",
+                    "book": "bibit001508.json",
+                    "year": 1846,
+                    "snippet_idx": "517"
+                },
+                {
+                    "text": "Intanto non pensiamo a quelle brutte cose. Adesso sono allegra, felice, e mi stupisco come tutta quella gente abbia paura e maledica il colèra... Benedetto colèra che mi fa star qui, in campagna! Se durasse tutto l´anno!",
+                    "author": "Giovanni Verga",
+                    "book": "bibit000569.json",
+                    "year": 1840,
+                    "snippet_idx": "9"
+                },
+                {
+                    "text": "Finita l'opera, passò una mezz'ora al caffè d'Europa, e quando tornò all'albergo il gas era spento. Passando pel corridoio, dinanzi all'uscio di quel famoso numero undici, si rammentò un'altra volta del biglietto che avea in tasca e involontariamente rallentò il passo.",
+                    "author": "Giovanni Verga",
+                    "book": "bibit001594.json",
+                    "year": 1840,
+                    "snippet_idx": "96"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 3,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Qual anco scrive, nell'istoria della Prussia, che la Samogizia fu così chiamata da Saimone, di detto Litwone fratello, che la venne a populare, la qual a quel tempo per lunghi tratti di terra verso la Prussia e verso la Livonia si stendeva; che similmente i Lotiali, over Litwoni, che ora dopo la venuta de Germania in quelle parti da' Latini son chiamati Livoni, ebbero il nome dall'istesso Litwone.",
+                    "author": "Giovanni Battista Ramusio",
+                    "book": "bibit001323.json",
+                    "year": 1485,
+                    "snippet_idx": "11826"
+                },
+                {
+                    "text": "2 marzo fu sereno e freddo. Quel giorno, tolta l'altezza del sole, sendo nella sua maggior esaltazione, lo trovammo alzato sopra l'orizonte gradi sei, minuti 48. La sua declinazione era gradi sette, minuti 12, i quali insieme fanno 14; il qual numero detratto di 90, riman l'altezza del polo gradi 76.",
+                    "author": "Giovanni Battista Ramusio",
+                    "book": "bibit001323.json",
+                    "year": 1485,
+                    "snippet_idx": "20571"
+                },
+                {
+                    "text": "Io non ve potrebbe dire, nobilissima brigata, de quanto gaudio e piacere me ocupò la mente tal risposta, sì per avere lui expresso le parole cum impeto e dolore, sì perch'io sapeva essere el vero che già più d'uno mese in cielo stelle non s'erano vedute per l'aere denso e nubiloso, che fu tutto quello mese che era de genaro.",
+                    "author": "Giovanni Sabadino degli Arienti",
+                    "book": "bibit000917.json",
+                    "year": 1445,
+                    "snippet_idx": "1293"
+                },
+                {
+                    "text": "Li putti, in caso di necessità, senza il sacerdote possono essere battezati. Gli animali e uccelli dagli altri uccelli over fere lacerati, non è lecito che siano mangiati; ma quelli che ne mangieranno, o vero negli azzimi celebreranno, o vero nella settuagesima useranno la carne, o vero il sangue degli animali devoreranno, siano ripresi ed emendati. Li uccelli e gli animali soffocati non siano mangiati.",
+                    "author": "Giovanni Battista Ramusio",
+                    "book": "bibit001323.json",
+                    "year": 1485,
+                    "snippet_idx": "9512"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 4,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Se la natura del nostro Giornale è difficile a definire, non così lo scopo. In questo non v'è misteri. Noi non miriamo nè all'aumento dell'industria, nè al miglioramento degli ordini sociali, nè al perfezionamento dell'uomo. Non intendiamo di essere nè coronati nè lapidati. Confessiamo schiettamente che il nostro Giornale non avrà nessuna utilità.",
+                    "author": "Giacomo Leopardi",
+                    "book": "bibit000105.json",
+                    "year": 1798,
+                    "snippet_idx": "0"
+                },
+                {
+                    "text": "Stride la fiamma, e si raddoppia, e gira in vortici frementi finchè trova pascolo, e sembra che questo ripeter voglia anche dal duro sasso. Mi accosto tremante, ed oh lacrimevole scena! Vedo là mucchj di annerite pietre, quà abbruciati legni, da quali esce furtiva una qualche infocata scintilla. Ad altra parte mi volgo, e vedo! aimè che vedo?... vedo un afflitta donna, che seduta sul suolo graffiasi le chiome sparuta, e mesta. Dagli occhi manda una qualche lacrima, che gli striscia sul volto, e sulle labbra spunta un qualche interotto sospiro.",
+                    "author": "Giacomo Leopardi",
+                    "book": "bibit000329.json",
+                    "year": 1798,
+                    "snippet_idx": "1"
+                },
+                {
+                    "text": "Il solo Elia era quegli, che dalle nubi potea pregando ottenerne la pioggia, ma Iddio non vi acconsentiva, se prima Acabbo non ritornava sul retto sentiero della virtù. Elia spesso questa verità gli avea predicata, ma egli nella sua empietà ostinato ascoltar non volea nè preghiere nè minaccie.",
+                    "author": "Giacomo Leopardi",
+                    "book": "bibit000329.json",
+                    "year": 1798,
+                    "snippet_idx": "33"
+                },
+                {
+                    "text": "Finalmente abbiamo plebe; non già cittadini; o pochissimi. I medici, gli avvocati, i professori d'università, i letterati, i ricchi mercatanti, l'innumerabile schiera degl'impiegati fanno arti gentili, essi dicono, e cittadinesche; non però hanno nerbo e diritto cittadinesco. Chiunque si guadagna sia pane, sia gemme con l'industria sua personale, e non è padrone di terre, non è se non parte di plebe; meno misera, non già meno serva.",
+                    "author": "Ugo Foscolo",
+                    "book": "bibit001627.json",
+                    "year": 1778,
+                    "snippet_idx": "66"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 5,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Retornata che fu la giovene cum l'aqua e gettatone nel volto a la matre, e in sé retornata, miser Piero prese el bacile de le fature e quelle tutte in un altro vaso gettò: che era cosa miracolosa (se vera fusse stata) a vedere. Il che la donna e la giovene vedendo e maravigliandose, renderono ingente grazie a Dio de tanto bene li avea facto.",
+                    "author": "Giovanni Sabadino degli Arienti",
+                    "book": "bibit000917.json",
+                    "year": 1445,
+                    "snippet_idx": "520"
+                },
+                {
+                    "text": "L'arcipreite, che con gli occhi avea finto de lagrimare e col core dadovero riso, pigliò de continente il carrico de quanto dal compare gli era stato ordenato; e repigliata possessione de la muglie e de le piccole facultà sue, prima che 'l marito dal santissimo viaggio retornasse, per firmo si può tenere che, per cavare un spirito dannato da quello afflitto corpo de la giovane, con grandissimo piacere de tutti dui assai più d'un centinaro ve ne puosero de beati.",
+                    "author": "Masuccio Salernitano",
+                    "book": "bibit001701.json",
+                    "year": 1410,
+                    "snippet_idx": "316"
+                },
+                {
+                    "text": "E cavalcando via cum gran celerità verso il mare, capitarono in una foresta del re, nominata la foresta de Granoizze, dove epso ha uno bellissimo parco pieno de varii animali quadrupedi, distante da Londra forsi cinque miglia; e questo parco passato, entrarono in un'altra magiore foresta ivi contigua.",
+                    "author": "Giovanni Sabadino degli Arienti",
+                    "book": "bibit000917.json",
+                    "year": 1445,
+                    "snippet_idx": "395"
+                },
+                {
+                    "text": "— Avendo io audito nominare uno de mia professione operante sì morale effecto, non me posso contenere non ve dica uno torto recevetti quando sposo me trovai. Dove prego le vostre urbane Excellenzie, essendo io araldo della excelsa communità nostre e venuto qui col magnifico conte Andrea di Bentivogli, mio optimo benefactore e singular signore, me fazati degno che 'l recevuto torto narrare ve possa; che non fia senza piacevole riso, cum exemplo di chi in simile rete incappa, come io misero incespitato ce sono —.",
+                    "author": "Giovanni Sabadino degli Arienti",
+                    "book": "bibit000917.json",
+                    "year": 1445,
+                    "snippet_idx": "615"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 6,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "E però dichino i moderni censori con esso teco quello che e´ vogliono, ché io non acconsentirò mai al parer loro infinché una legge universale non me ne farà proibizione; e basterammi in quelle poche canzoni che io farò farle con i dovuti numeri e poner gli accenti in quelle partì del verso dove debbono stare ragionevolmente —.",
+                    "author": "Agnolo Firenzuola",
+                    "book": "bibit000183.json",
+                    "year": 1493,
+                    "snippet_idx": "77"
+                },
+                {
+                    "text": "Voi avete dunque asapere che mentre una madonna Castora degli Alamanni, come è usanza di voi altre Fiorentine la state, si stava a cucire in sull´uscio, venne un frate di Santa Croce a chieder del pane, e in quel mentre che la fante andò per esso il frate cominciò a raccontarle come il dì davanti era rovinato il tetto della lor chiesa e soggiunse: «Oh, come fu gran miracolo che niuno de´ nostri frati vi si ritrovasse, che veramente Iddio e il beato Santo Francesco ci aiutarono!»; a cui la donna, come a chi incresceva troppo la sua ipocresia, rispose senza altro pensare: «Gran mercé che non rovinò il tetto di cucina, che e´ n´arebbe colti sotto più d´un paio».",
+                    "author": "Agnolo Firenzuola",
+                    "book": "bibit000183.json",
+                    "year": 1493,
+                    "snippet_idx": "246"
+                },
+                {
+                    "text": "Essendo adunque in amore necessaria la belleza dello animo, né possendosi conoscere né fruire sanza quella del corpo, noi potiamo conchiudere che il nostro amore si debba collocare in donna bella e vaga e in uomo leggiadro e ben formato. Poscia che e´ mi pare averti assai bene fatta morbida questa prima parte, io voglio venire alla seconda.",
+                    "author": "Agnolo Firenzuola",
+                    "book": "bibit000183.json",
+                    "year": 1493,
+                    "snippet_idx": "33"
+                },
+                {
+                    "text": "Qui non voglio che stiamo ad ammaestrare colui che parla, che tenga il capo diritto, che si astenga dal leccare o dal mordere le labra, e che procuri d'accompagnare i gesti con le parole, come s'accompagna il ballo col suono.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "492"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 7,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "E in quello con disiderio non piccolo i miei veloci passi drizzando, la battuta strata medesma me condusse a lo 'ntrare de un fulto e orrido bosco, difeso da nodosi tronchi e pongenti spine, quivi da loro naturalità produtti; l'intrata del quale quanto a me, che sulo e inerme me vedea, fusse spaventevole e dura, ciascuno sel pò considerare. E certo dal timore quasi perterrito, il mio fervente disio se cominciò ad intepedire, e più volte a volgere gli mei passi indietro fui vicino.",
+                    "author": "Masuccio Salernitano",
+                    "book": "bibit001701.json",
+                    "year": 1410,
+                    "snippet_idx": "642"
+                },
+                {
+                    "text": "Non meno piacevole e con grande arte ordenata che utile e fruttuosa se porrà dire la racontata beffa, per lo essere con sì bel tratto da uomini vulgari ingannato non sulo un sagace santo, ma quasi tutto lo astutissimo populo fiorentino.",
+                    "author": "Masuccio Salernitano",
+                    "book": "bibit001701.json",
+                    "year": 1410,
+                    "snippet_idx": "556"
+                },
+                {
+                    "text": "Quale de secreto più strettamente esaminandola, la indusse a compitamente dirgli cui era, e cui il morto amante, e per quale accagione venuta, e perché recomparatolo e dopo fuggitisi; e quanto era dal principio de loro amore travenuto con un fiume de lacrime gli racontò.",
+                    "author": "Masuccio Salernitano",
+                    "book": "bibit001701.json",
+                    "year": 1410,
+                    "snippet_idx": "1130"
+                },
+                {
+                    "text": "Che io di tanta calamità mia mi fussi cagione, potessi con brieve rimedio finirla, e pure ostinata per soprastare di sdegno me stessa e chi me amava consumassi. Erano le nostre gote in altro tempo fresche, piene e vivide; allora per troppo continuo dolore pallide, stenuate e smorte, tale che chi noi vedea potea in sé aver pietate e molto muoversi a compassione.",
+                    "author": "Leon Battista Alberti",
+                    "book": "bibit001155.json",
+                    "year": 1404,
+                    "snippet_idx": "68"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 8,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Si arriva, direi, a quindicimila lire. Bisogna, però, che la tua matrigna acconsenta a cedere il suo diritto di prima ipotecaria al Credito Fondiario. Questa è la condizione indispensabile. Credi che la tua matrigna acconsentirà?",
+                    "author": "Federigo Tozzi",
+                    "book": "bibit001571.json",
+                    "year": 1883,
+                    "snippet_idx": "399"
+                },
+                {
+                    "text": "Ella non rispose, gli sorrise. Avrebbe voluto dirgli che lo stimava infinitamente migliore di sè, che si era sentita, un momento prima, tanto debole, tanto in balìa sua se avesse voluto, e non meritava quelle care parole timide.",
+                    "author": "Antonio Fogazzaro",
+                    "book": "bibit001373.json",
+                    "year": 1842,
+                    "snippet_idx": "630"
+                },
+                {
+                    "text": "Quando Pietro la decise ad alzarsi, dicendole che altrimenti non sarebbe più stata in tempo alla diligenza, ella sentì rientrare la voglia immensa di parlare con tenerezza; e la sua bocca fece una smorfia cattiva ma graziosa.",
+                    "author": "Federigo Tozzi",
+                    "book": "bibit000910.json",
+                    "year": 1883,
+                    "snippet_idx": "402"
+                },
+                {
+                    "text": "La strada è quasi da per tutto piana e stretta, con parecchie ville e altri poderi; e poi lecci, querci, castagni, cancelli di legno, siepi potate. Mentre si vedono le altre ville, molto più belle, che vanno alla chiesa di Marciano; e un ammasso di colline verso la parte di maremma e il Monte Amiata.",
+                    "author": "Federigo Tozzi",
+                    "book": "bibit000910.json",
+                    "year": 1883,
+                    "snippet_idx": "20"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 9,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "La contessa avea promesso ad Alberto di scrivergli; ma non ne avea fatto nulla. Ella fu alcun poco sorpresa e, diciamolo pure, anche indispettita, di non veder giungere nessuna lettera del marchesino. Questi, dall'altro lato, incaponivasi a non scriverle, perché ella non s'era curata di mandargli un sol rigo - ed entrambi, senza avvedersene, si tenevano il broncio, proprio come due innamorati. La donna combatteva anche colla curiosità di figlia d'Eva, e fu vinta la prima.",
+                    "author": "Giovanni Verga",
+                    "book": "bibit000804.json",
+                    "year": 1840,
+                    "snippet_idx": "235"
+                },
+                {
+                    "text": "Qui respirano certa aria densa, affumicata, che, al mio arrivo, ho veduto poggiare sulla città, greve, in forma di un enorme cono, come sul nostro stagno il vapore d´inverno, il quale però si sa che cosa sia; è più puro. Gli altri che stanno qui sono tutti o quasi tutti lieti e tranquilli perché non sanno che altrove si possa vivere tanto meglio.",
+                    "author": "Italo Svevo",
+                    "book": "bibit000123.json",
+                    "year": 1861,
+                    "snippet_idx": "3"
+                },
+                {
+                    "text": "Era vestito accuratamente quantunque di stoffe rozze; il solino naturalmente giallognolo si adattava esattamente al collo e la cravatta frusta ma non sucida era annodata con una certa qual civetteria.",
+                    "author": "Italo Svevo",
+                    "book": "bibit000123.json",
+                    "year": 1861,
+                    "snippet_idx": "663"
+                },
+                {
+                    "text": "— Essa non aveva ottenuto in compenso altra garanzia all'infuori di una promessa di matrimonio. Fece, con la solita sconsideratezza, il nome di un giovane avvocato il quale le aveva dato il consiglio d'accontentarsi di quella promessa perché la legge puniva la seduzione in quelle forme.",
+                    "author": "Italo Svevo",
+                    "book": "bibit000087.json",
+                    "year": 1861,
+                    "snippet_idx": "487"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 10,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Finita la prima parte dello spettacolo, il direttore della compagnia, vestito in giubba nera, calzoni bianchi a coscia e stivaloni di pelle fin sopra ai ginocchi, si presentò all'affollatissimo pubblico e, fatto un grande inchino, principiò con molta solennità il seguente spropositato discorso:",
+                    "author": "Carlo Collodi",
+                    "book": "bibit000139.json",
+                    "year": 1826,
+                    "snippet_idx": "255"
+                },
+                {
+                    "text": "Quel mostro marino era nè più nè meno quel gigantesco Pesce-cane, ricordato più volte in questa storia, e che per le sue stragi e per la sua insaziabile voracità, veniva soprannominato \"l'Attila dei pesci e dei pescatori\".",
+                    "author": "Carlo Collodi",
+                    "book": "bibit000139.json",
+                    "year": 1826,
+                    "snippet_idx": "282"
+                },
+                {
+                    "text": "Si alzò, andò ad aprire la finestra, e appoggiò i gomiti al davanzale. Il mare era levigato e lucente; i pescatori sparsi per la riva, o aggruppati dinanzi agli usci delle loro casipole, chiacchieravano della pesca del tonno e della salatura delle acciughe; lontan lontano, perduto fra la bruna distesa, si udiva ad intervalli un canto monotono e orientale, le onde morivano come un sospiro ai piedi dell'alta muraglia; la spuma biancheggiava un istante, e l'acre odore marino saliva a buffi, come ad ondate anch'esso.",
+                    "author": "Giovanni Verga",
+                    "book": "bibit001594.json",
+                    "year": 1840,
+                    "snippet_idx": "218"
+                },
+                {
+                    "text": "– Mi sta bene!... Pur troppo mi sta bene! Ho voluto fare lo svogliato, il vagabondo... ho voluto dar retta ai cattivi compagni, e per questo la fortuna mi perseguita sempre. Se fossi stato un ragazzino per bene, come ce n'è tanti; se avessi avuto voglia di studiare e di lavorare, se fossi rimasto in casa col mio povero babbo, a quest'ora non mi troverei qui, in mezzo ai campi, a fare il cane di guardia alla casa di un contadino. Oh! se potessi rinascere un'altra volta!... Ma oramai è tardi, e ci vuol pazienza!",
+                    "author": "Carlo Collodi",
+                    "book": "bibit000139.json",
+                    "year": 1826,
+                    "snippet_idx": "135"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 11,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Facendoli de capucio e cum offerirli ciò che poteva, se partì, lassando garrulare il notaro col podestà. Il quale, credendo ciò che avea audito da miser Laurenzo, se ne entrò in Camera, lassando per insensato il notaro. Lui adunque, non potendo patire questa ingiuria, non restava de maledire i cieli e la sua adversa fortuna, dicendo ad alta voce:",
+                    "author": "Giovanni Sabadino degli Arienti",
+                    "book": "bibit000917.json",
+                    "year": 1445,
+                    "snippet_idx": "326"
+                },
+                {
+                    "text": "Né fu prima publicata questa cosa che i creditori di Roderigo si ristrinsono insieme; e giudicando che fussi spacciato, né possendo ancora scoprirsi per non essere venuto il tempo de' pagamenti loro, conclusono che fussi bene osservarlo così destramente, acciò che dal detto al fatto di nascoso non se ne fuggissi. Roderigo, da l'altra parte, non veggiendo al caso suo rimedio e sapiendo a quanto la leggie infernale lo costringeva, pensò di fuggirsi in ogni modo. E montato una mattina a cavallo, abitando propinquo alla Porta al Prato, per quella se ne uscì.",
+                    "author": "Niccolò Machiavelli",
+                    "book": "bibit000555.json",
+                    "year": 1469,
+                    "snippet_idx": "21"
+                },
+                {
+                    "text": "Voglio, oltr'a di questo, che da l'uno canto de la piaza sieno insieme venti persone almeno che abbino trombe, corni, tamburi, cornamuse, cembanelle, cemboli e d'ogni altra qualità romori; i quali, quando io alzerò uno cappello, dieno in quegli strumenti, e, sonando, ne venghino verso il palco: le quali cose, insieme con certi altri segreti rimedii, credo che faranno partire questo spirito.",
+                    "author": "Niccolò Machiavelli",
+                    "book": "bibit000555.json",
+                    "year": 1469,
+                    "snippet_idx": "38"
+                },
+                {
+                    "text": "Presa adunque Belfagor la condizione e i danari, ne venne nel mondo; e ordinato di sua masnade cavagli e compagni, entrò onoratissimamente in Firenze; la quale città innanzi a tutte l'altre elesse per suo domicilio, come quella che gli pareva più atta a sopportare chi con arte usurarie essercitassi i suoi danari.",
+                    "author": "Niccolò Machiavelli",
+                    "book": "bibit000555.json",
+                    "year": 1469,
+                    "snippet_idx": "9"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 12,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Quelli veramente che hanno miglior ingegno, pensino per loro e per me quello che possa essere la vera causa di tal cosa, perché io ho posto la questione in campo nelli termini veri, e come testimonio di vista, e fin tanto che la si truovi.",
+                    "author": "Giovanni Battista Ramusio",
+                    "book": "bibit001323.json",
+                    "year": 1485,
+                    "snippet_idx": "13465"
+                },
+                {
+                    "text": "Io conosco molte persone le quali hanno una certa virtù di saper con gli occhi, con la fronte, co' gesti e con altri segni esteriori mostrarsi intenti ai ragionamenti altrui, e sono tuttavia con l'animo rivolti altrove, in sì fatta maniera che sono in un punto presenti e assenti, e sodisfanno giuntamente a loro medesimi e agli altri.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "150"
+                },
+                {
+                    "text": "Dove essendo poi venuto il signor Duca a visitar la serenissima principessa Leonora d'Austria sua cognata, e inteso il giusto desiderio di casa nostra, si contentò nel partirsi per Saluzzo di lasciarcelo qua per lo spazio ancora di sei giorni.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "4"
+                },
+                {
+                    "text": "De' meravigliosi effetti del latte io ne sono chiarissimo, ed è cosa più che certa che s'uno agnello è allevato sotto le mammelle d'una capra, o vero un capretto sotto quelle d'una pecora, il capretto mette il pelo più molle e l'agnello si veste di lana più ruvida. Onde si ha da tenere per fermo che sì come il figliuolo piglia dal latte la complessione della balia, così i costumi dell'animo seguono la complessione del corpo.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "1243"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 13,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Dunque, i modi e le parole non essendo della pedantesca lingua, né della lombarda, saranno o della toscana o della latina, o pur d'alcuna nobile straniera, com'è della provenzale, o della francese, o della spagnuola.",
+                    "author": "Torquato Tasso",
+                    "book": "bibit001247.json",
+                    "year": 1544,
+                    "snippet_idx": "87"
+                },
+                {
+                    "text": "Adunque, né mi debbo vergognare ch'egli sia tale; e s'io volessi accrescerlo, tanto dovrei accrescerlo che agguagliasse il maggiore de' perfettissimi: ché superarlo molto non si potrebbe, se non si facesse con l'altra misura, propria di quell'arti le quali, misurando il numero, la longhezza, la larghezza e la profondità al contrario, non fuggono gli estremi, né schivano detta imperfezione.",
+                    "author": "Torquato Tasso",
+                    "book": "bibit001247.json",
+                    "year": 1544,
+                    "snippet_idx": "42"
+                },
+                {
+                    "text": "Dunque Omero cantando due passioni, non cantò due azioni; ma il primo sdegno d'Achille contra Agamennone fu scompagnato da ogni azione, perché egli dimorò nelle tende, né si mosse a prieghi, né si piegò a' doni portatigli da gli ambasciatori, sino a la morte di Patroclo, nella quale cominciò il secondo sdegno, ed ebbe principio l'azion d'Achille parimente. Né questo mi ricordo che dicesse il Mazzone.",
+                    "author": "Torquato Tasso",
+                    "book": "bibit001247.json",
+                    "year": 1544,
+                    "snippet_idx": "34"
+                },
+                {
+                    "text": "E di più considero (se pur è lecito discender così bassamente in questi discorsi) che talora nascondete alcune voci toscane e fate sorgere quelle lombarde, che sono accettate da tutti, e lasciando di dire “zio”, “grandine” e “cavoli”, dite “barba”, “tempesta” e “verzi”. Considero poi che quelle voci le quali fra noi sono scolorite e hanno quasi perduta la lor forma, voi le venite correggendo e riducendo al loro primo essere, e dove qui si dice “pari”, “mari”, “incrosto” e “pareiso”, voi dite “padre”, “madre”, “inchiostro” e “paradiso”.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "556"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 14,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Alla Camera ce n'è troppo poco. Ci vuole un giornale. Mi occorre assolutamente un giornale e non puoi credere quanto mi costi metterlo in piedi, benchè molti, anche miei colleghi, consentano meco a parole. Quando si tratta di fare, tutti sono linci per le difficoltà: il paese non è preparato, il momento non è buono, il mio programma di politica interna non si può attuare se non con Trento e l'Istria in tasca, e di ciò non deve parlarsi.",
+                    "author": "Antonio Fogazzaro",
+                    "book": "bibit001373.json",
+                    "year": 1842,
+                    "snippet_idx": "369"
+                },
+                {
+                    "text": "Perchè tante volte certa presunzione umana trova modo di mescolarsi a movimenti pii dell'anima nostra e ci induce a scambiare per fatti di origine soprannaturale fatti che derivano invece da condizioni anomale del nostro spirito e del nostro corpo, operati da Dio sempre, perchè Dio opera tutto in tutto, s'intende, con i suoi metodi, per i suoi fini imperscrutabili, ma fatti non diretti a farci conoscere la sua volontà. Vede...\"",
+                    "author": "Antonio Fogazzaro",
+                    "book": "bibit000184.json",
+                    "year": 1842,
+                    "snippet_idx": "738"
+                },
+                {
+                    "text": "Il conte Ladislao gittò impetuosamente il capo e il busto all'indietro, scrutò un momento la signora con gli occhi stretti, poi si levò in piedi e, steso il braccio sinistro e appuntato l'indice all'uscio, disse con minacciosa calma:",
+                    "author": "Antonio Fogazzaro",
+                    "book": "bibit001373.json",
+                    "year": 1842,
+                    "snippet_idx": "561"
+                },
+                {
+                    "text": "Da ultimo ho ripreso fra mano la famosa opera del conte Rinaldo; e fra un mese ne sarà pubblicato il secondo fascicolo; la somma occorrente è già depositata presso il tipografo, e la stampa non soffrirà interruzioni. Spero che se ne gioverà assai la patria letteratura, e che gli studi critici sul commercio veneto e sulle istituzioni commerciali dei Veneziani durante il Medio Evo serviranno di splendido commento alla storia che va compilando con sì profonda dottrina il nostro Romanin.",
+                    "author": "Ippolito Nievo",
+                    "book": "bibit001238.json",
+                    "year": 1831,
+                    "snippet_idx": "3553"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 15,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Fileta dunque, levatosi in piedi e nell'antico seggio de' pastori a seder postosi, tentò primieramente, di canna e di tasto in tasto, tutta la sua sampogna se dentro ben netta fosse e, veggendo che 'l fiato senza alcuno intoppo correva, in un tempo la 'ntonò si forte e con tanto spirito che al petto di qualunque robusto giovine si sarebbe disdetto.",
+                    "author": "Annibale Caro",
+                    "book": "bibit000966.json",
+                    "year": 1507,
+                    "snippet_idx": "162"
+                },
+                {
+                    "text": "A questo nulla mi rispose, ma piú presso facendomisi cominciò molto vezzosamente a ridere e a tirarmi delle coccole di mortella, le quali secondo che mi percotevano, cosí mi pareva che la stizza mi scemassero, tanto che tutto raddolcito cominciai a desiderar di averlo in mano e di carezzarlo.",
+                    "author": "Annibale Caro",
+                    "book": "bibit000966.json",
+                    "year": 1507,
+                    "snippet_idx": "91"
+                },
+                {
+                    "text": "Avendo adunque pigliato tal impresa, era necessario ch'io facessi quelle cose che si richieggono a' pazzi. Veramente, li primi tre giorni ch'io finsi il pazzo, mai non mi trovai tanto stracco né tanto affaticato come allora, perché di continuo avea cinquanta o sessanta mammoli drieto, che mi traevano de' sassi e mi lapidavano, e io lapidava loro, li qual mi gridavan drieto: \"Pazzo, pazzo\", e io di continuo aveva la camicia piena di sassi, e faceva come fanno i pazzi.",
+                    "author": "Giovanni Battista Ramusio",
+                    "book": "bibit001323.json",
+                    "year": 1485,
+                    "snippet_idx": "2896"
+                },
+                {
+                    "text": "Grande e bella città di Lesbo è Metellino: il suo sito è in su la marina, posta infra canali di mare e strisce di terra. Nella terra son d'ambe le sponde edifici bellissimi, e per mezzo strade popolatissime. A' pie' degli edifici corrono i canali, e sopra ciascun canale, dall'una striscia di terra all'altra, sono ponti di finissimo marmo e d'artificiosa scultura; laonde, a vederla, ti parrebbe piú tosto un'isola che una città.",
+                    "author": "Annibale Caro",
+                    "book": "bibit000966.json",
+                    "year": 1507,
+                    "snippet_idx": "3"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 16,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Una vittoria fra l'altre mi consola il pensiero. S'era nel settembre del trenta: salivamo verso Bellosguardo, io e una mia pigionale di Pescia, semplice donna e di cuore. Alzo gli occhi, e ravviso sull'alto le care fattezze di quel mio cugino di Pisa che m'aveva detto addio con tanta pietà.",
+                    "author": "Niccolò Tommaseo",
+                    "book": "bibit001225.json",
+                    "year": 1802,
+                    "snippet_idx": "87"
+                },
+                {
+                    "text": "Sul far del giorno giunsimo alle prime vedette del campo repubblicano di Schipani, ove Giulio ed Amilcare furono sorpresi e contenti di udire i pericoli da me corsi e fortunatamente superati. Le feste, i baci, le gioie, le congratulazioni furono infinite: ma in mezzo a tutto ciò essi recavano in fronte una profonda mestizia per la prossima e inevitabile rovina della Repubblica: io celava un altro benché diverso lutto nel cuore per la tragica morte di mio padre. Il primo col quale m'apersi fu Lucilio. Egli m'ascoltò più addolorato che sorpreso, e — Pur troppo — soggiunse — dovea finire così!",
+                    "author": "Ippolito Nievo",
+                    "book": "bibit001238.json",
+                    "year": 1831,
+                    "snippet_idx": "2430"
+                },
+                {
+                    "text": "Francesi potrebbero essere di governo: ma d'ingegno e di lingua, italiani: e dai Bretoni (che a chi loro parla francese non degnan rispondere) imparar da' Bretoni ad amare la tradizione de' padri loro; e a' Francesi rendersi rispettabili rispettando se stessi.",
+                    "author": "Niccolò Tommaseo",
+                    "book": "bibit001225.json",
+                    "year": 1802,
+                    "snippet_idx": "345"
+                },
+                {
+                    "text": "Vedere il sole cader tra le nubi, le più prossime al mare color di rame, poi cenerognole, poi più su altre bianchicce, altre lucenti; e una donna in un campo, pallida i lineamenti severi, e modestamente altera come suol donna còrsa che infrancesata non sia, gli pareva degno di quadro.",
+                    "author": "Niccolò Tommaseo",
+                    "book": "bibit001225.json",
+                    "year": 1802,
+                    "snippet_idx": "370"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 17,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "E danno più importanza di voi altri agli esami, ve lo assicuro, e s'affezionano di più ai loro maestri. Riconoscono il maestro al passo e all'odore; s'accorgono se è di buono o di cattivo umore, se sta bene o male, nient'altro che dal suono d'una sua parola; vogliono che il maestro li tocchi, quando gli incoraggia e li loda, e gli palpan le mani e le braccia per esprimergli la loro gratitudine. E si voglion bene anche fra loro, sono buoni compagni. Nel tempo della ricreazione sono quasi sempre insieme quei soliti.",
+                    "author": "Edmondo De Amicis",
+                    "book": "bibit001508.json",
+                    "year": 1846,
+                    "snippet_idx": "350"
+                },
+                {
+                    "text": "Chi sa se la mano degli uomini o il furore delle intemperie non avrebbero consumato l'opera vandalica di Fulgenzio e degli altri devastatori rapaci di quell'antica dimora!... Chi sa se un futuro padrone non avrebbe rialzato quelle mura cadenti, rintonacato quelle pareti, e raspato loro di dosso quelle fattezze della vecchiaia che parlavano con tanto affetto con tanta potenza al mio cuore!! Tale il destino degli uomini, tale il destino delle cose: sotto un'apparenza di giovialità e di salute si nasconde sovente l'aridità dell'anima e la morte del cuore.",
+                    "author": "Ippolito Nievo",
+                    "book": "bibit001238.json",
+                    "year": 1831,
+                    "snippet_idx": "2735"
+                },
+                {
+                    "text": "Io non rispondeva nulla e lasciava che si sbizzarrisse nel suo panegirico; soltanto accennandole di parlar piano quando sospettava che la ragazza fosse nella camera vicina, e stesse anche origliando come qualche volta io l'aveva scoperta.",
+                    "author": "Ippolito Nievo",
+                    "book": "bibit001238.json",
+                    "year": 1831,
+                    "snippet_idx": "3325"
+                },
+                {
+                    "text": "Lo spirito d'associazione, indizio di ravvicinamento e strumento di più vasta concordia, va incoraggiato in ogni fatta d'intraprese; come educazione ad analogo esercizio di altre operazioni, come fattore di confidenza e di prosperità e d'altri mezzi generali di miglioria.",
+                    "author": "Ippolito Nievo",
+                    "book": "bibit001238.json",
+                    "year": 1831,
+                    "snippet_idx": "3107"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 18,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "tu mi guardi forse con maggior sorpresa che compassione, e domandi a te stesso come mai sia possibile che la vitalità che senti in te rigogliosa e robusta possa giungere a tanta miseria di deperimento... Eppure, vedi! Tutta cotesta robustezza, tutta cotesta forza... un soffio... e se ne vanno!... E l'uomo...",
+                    "author": "Giovanni Verga",
+                    "book": "bibit000402.json",
+                    "year": 1840,
+                    "snippet_idx": "229"
+                },
+                {
+                    "text": "Egli combatté dieci anni in America per la libertà d'un popolo straniero, combatté in tre guerre contro gli Austriaci per la liberazione della Lombardia e del Trentino, difese Roma dai Francesi nel 1849, liberò Palermo e Napoli nel 1860, ricombatté per Roma nel 67, lottò nel 1870 contro i Tedeschi in difesa della Francia. Egli aveva la fiamma dell'eroismo e il genio della guerra. Combatté in quaranta combattimenti e ne vinse trentasette.",
+                    "author": "Edmondo De Amicis",
+                    "book": "bibit001508.json",
+                    "year": 1846,
+                    "snippet_idx": "701"
+                },
+                {
+                    "text": "E neppure sai che spesso egli ti cerca e sta con te, perché ha un'amarezza nel cuore, dei dispiaceri che a tutti gli uomini toccano nel mondo, e cerca te come un amico, per confortarsi e dimenticare, e ha bisogno di rifugiarsi nel tuo affetto, per ritrovare la serenità e il coraggio. Pensa dunque che dolore dev'esser per lui quando invece di trovar affetto in te, trova freddezza e irriverenza! Non macchiarti mai più di questa orribile ingratitudine!",
+                    "author": "Edmondo De Amicis",
+                    "book": "bibit001508.json",
+                    "year": 1846,
+                    "snippet_idx": "722"
+                },
+                {
+                    "text": "Sfilarono pei primi gli alunni delle scuole serali di disegno, orefici, scalpellini, litografi, e anche dei falegnami e dei muratori; poi quelli della scuola di commercio; poi quelli del Liceo musicale, fra cui parecchie ragazze, delle operaie, tutte vestite in gala, che furono salutate con un grande applauso, e ridevano. Infine vennero gli alunni delle scuole serali elementari, e allora cominciò a esser bello a vedere.",
+                    "author": "Edmondo De Amicis",
+                    "book": "bibit001508.json",
+                    "year": 1846,
+                    "snippet_idx": "741"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 19,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Non si disse né rispose altro fra loro; ma vennero secondo l'ordine, e assettatesi a sedere sotto il pesco, a la Comare toccò lo stare in mezzo de la Balia e de la Nanna, e a la galante Pippa al riscontro de la Comare.",
+                    "author": "Pietro Aretino",
+                    "book": "bibit001664.json",
+                    "year": 1492,
+                    "snippet_idx": "373"
+                },
+                {
+                    "text": "Io non so come possano essere lodevoli queste estremità da voi raccontate, conciosiaché il non lasciare uscire la figliuola di casa se non una volta o due l'anno, come se fosse una santa reliquia, è cagione di farla divenire sciocca, paurosa e inetta alle conversazioni, e più facile a dar nella rete, perché non essendo avezza a mirar il sole, tosto per un picciol raggio le si abbaglia la vista e cade a rovescio.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "1390"
+                },
+                {
+                    "text": "Bella industria è quella d'una ruffiana che, col farsi ognun compare e comare, ognun figliozzo e santolo, si ficca per ogni buco. Tutte le forge nuove di Mantova, di Ferrara e di Milano pigliano la sceda da la ruffiana: ella trova tutte l'usanze de le acconciature dei capi del mondo; ella, al dispetto de la natura, menda ogni difetto e di fiati e di denti e di ciglia e di pocce e di mani e di facce e di fuora e di drento e di drieto e dinanzi.",
+                    "author": "Pietro Aretino",
+                    "book": "bibit001664.json",
+                    "year": 1492,
+                    "snippet_idx": "399"
+                },
+                {
+                    "text": "E a me piacque il conversar con simili, perché quel nonnulla che gli fa stizzare gli fa anco pacificare; e assimiglio la lor collera a un rannuvolarsi di luglio: che tuonando e balenando, doppo venticinque gocciole piovute giuso, eccoti il sole. Sì che sofferenza ti sarà ricchezza.",
+                    "author": "Pietro Aretino",
+                    "book": "bibit001664.json",
+                    "year": 1492,
+                    "snippet_idx": "76"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 20,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "— Fratello, fa come te dirò: torna dove vendiste le legne e guarda se per ventura sapesti trovare la casa del comperatore, o se tu el scontrasti per la via, a questo modo potresti essere pagato, altrimenti non —.",
+                    "author": "Giovanni Sabadino degli Arienti",
+                    "book": "bibit000917.json",
+                    "year": 1445,
+                    "snippet_idx": "285"
+                },
+                {
+                    "text": "E ne' tempi di Vespasiano in Cipro e ne' tempi di Traiano pur in Asia quattro terre, Elea, Mirina, Pitane, Cume, rotte da' terremuoti mancorono. E ne' tempi di Galieno Augusto principe romano furono terremuoti maravigliosi. Muggirono e' monti e in profondo sé apersono, e insieme in più luoghi ruppono lungi dal mare a mezzo e' campi acque salse, e molte furono terre marittime oppresse dal mare e summerse. Pesaro, dice Plutarco, inanzi alla battaglia qual poi fu tra Cesare e Antonio, ruinò inghiottito dalla terra.",
+                    "author": "Leon Battista Alberti",
+                    "book": "bibit000517.json",
+                    "year": 1404,
+                    "snippet_idx": "152"
+                },
+                {
+                    "text": "Pericle el simile, Telamon e Antigono e Senofonte e Anassagora insieme e quella femmina lacedemoniese; quali uomini a maggior cose desti, rispuosero: 'Sapea io me avere generato un uom mortale e aspettavalo, adoperandosi quanto io el desiderava in cose pericolose per la sua patria, ancora prima udire simile suo ben consigliato offizio'. E molti altri, quali sarebbe qui lungo recitarli, a me addussi a memoria in que' miei casi, e dispuosi imitarli.",
+                    "author": "Leon Battista Alberti",
+                    "book": "bibit000517.json",
+                    "year": 1404,
+                    "snippet_idx": "127"
+                },
+                {
+                    "text": "Sarà ottima ricolta quella che sia non piggiore che quella de' tuoi vicini, e sarà grande quella che chiederà piccola spesa. Migliore ricolta fie quella che adempierà tutti e' mesi, che quella che adempierà tutti e' grannai. Riponi le cose in luogo che tu ve le ritruovi; adoperale quanto bisogna; serbale quanto tu vuoi; vendile quanto tu puoi. Béi quando la botte sia piena, e béi quando el'è scema. El fuoco mai si spenga in casa, e mai arda indarno. D'ogni frutto della terra rendine parte e grazia a Dio. Niuno dono sarà maggiore che quello quale sia vacuo d'ogni iniustizia.",
+                    "author": "Leon Battista Alberti",
+                    "book": "bibit001441.json",
+                    "year": 1404,
+                    "snippet_idx": "15"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 21,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "La Natura crea di propria autorità tali ingegni da non poter essere se non generosi; venti anni addietro sì fatti ingegni si rimanevano inerti ed assiderati nel sopore universale d'Italia: ma i tempi d'oggi hanno ridestato in essi le virili e natie loro passioni; ed hanno acquistato tal tempra, che spezzarli puoi, piegarli non mai.",
+                    "author": "Ugo Foscolo",
+                    "book": "bibit001627.json",
+                    "year": 1778,
+                    "snippet_idx": "63"
+                },
+                {
+                    "text": "Una tomba lontana pens'io, e dentrovi te che lasciai viva, o Teresa, e vidi nel partir mio commossa correre a celare le lagrime. Tu m'amavi d'amore ultimo e combattuto; e mel dicesti in linguaggio degno di te, facendomiti un giorno vedere inginocchiata a un'imagine cara, e chiedente vittoria sul cuor tuo. Nessun uomo forse ebbe dichiarazione d'amore più pura; pochi rimprovero più potente. Quanto devota a' servigi miei! Quanto riverente della mia povertà! Perché povera tu pure; e non sempre stata così: e bella un tempo, e pur non amata, e dal disamore altrui forse tratta a fallire.",
+                    "author": "Niccolò Tommaseo",
+                    "book": "bibit001225.json",
+                    "year": 1802,
+                    "snippet_idx": "148"
+                },
+                {
+                    "text": "Ecco il Sole più bello! Tutte le mie fibre sono in un tremito soave perchè risentono la giocondità di questo Cielo raggiante e salubre. Sono pure contento di essere partito! proseguirò fra poche ore; non so ancora dirti dove mi fermerò, nè quando terminerà il mio viaggio: ma per li 16 sarò in Tolone.",
+                    "author": "Ugo Foscolo",
+                    "book": "bibit001627.json",
+                    "year": 1778,
+                    "snippet_idx": "247"
+                },
+                {
+                    "text": "O! un altro tuo bacio, e abbandonarmi poscia a' miei sogni e a' miei soavi delirj: io ti morrò a' piedi; ma tutto tuo, e sapendo che pur t'ho lasciata innocente — ma insieme infelice! — Tu, se non potrai essermi sposa, mi sarai almeno compagna nel sepolcro. Ah no; la pena di questo amore fatale si rovesci sopra di me. Ch'io pianga per tutta un'eternità; ma che il cielo, o Teresa, non voglia che tu sia lungamente per mia cagione infelice! Ma intanto io ti ho perduta, e tu mi t'involi, tu stessa. Ah se tu mi amassi com'io t'amo!",
+                    "author": "Ugo Foscolo",
+                    "book": "bibit001627.json",
+                    "year": 1778,
+                    "snippet_idx": "149"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 22,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "E perché ad ogne Musa fu da l’antiche poete appricato quacche soprantennenzia de ’n’azzione omana, e ogn’una de chelle è posta ne l’arma de ’no chianeta celeste secunno la ’nfroenzia de chella sfera, perzò perzò ha voluto lo poeta de ’st’Egroche mettere ogn’una d’esse secunno chello che tratta sotto lo nomme de chella Musa c’aggia quacche totela sopra lo soggetto de che se descorre.",
+                    "author": "Giambattista Basile",
+                    "book": "bibit001700.json",
+                    "year": 1566,
+                    "snippet_idx": "4"
+                },
+                {
+                    "text": "A li quale benché se poteva responnere francamente ca non s’era apparecchiata ’sta tavola pe scauzacane, né fatta ’sta colata pe stracce vecchie de spogliampise, ma ped uommene de ciappa che se rentenneno de le menestre che le so’ messe ’nanze e hanno buon gusto, tuttavota, perché lo ’mezzare a chi non sa è cosa da ommo da bene, l’è parzeto de fare ’na recercata pe le ragiune che l’hanno muoppeto a chiammarele Muse.",
+                    "author": "Giambattista Basile",
+                    "book": "bibit001700.json",
+                    "year": 1566,
+                    "snippet_idx": "1"
+                },
+                {
+                    "text": "Egli è proverbio commune che non si può insieme bere e fischiare, onde non è maraviglia se quelle che consumano tutto il tempo intorno alla coltivazione di loro stesse, lasciano andare la casa in abbandono. Ma lasciamo ancora noi di ragionare di loro, conchiudendo che di questi corpi pomposi e inutili si può giustamente dire che vale più la piuma che l'uccello.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "1198"
+                },
+                {
+                    "text": "La seconna, le Muse so’ chiamate zitelle zite perché so’ contente de lo decoro naturale senza cercare arteficie e marcangegne, e lo poeta avenno voluto a scrivere ’ste composte la semprece bellezza de la lengua napolitana, senza la ’nzalata ’mescata che semmenaro li Varvare e cogliettero li Toscanise, perzò l’è parzeto co gran ragione ’ntitularele Muse.",
+                    "author": "Giambattista Basile",
+                    "book": "bibit001700.json",
+                    "year": 1566,
+                    "snippet_idx": "3"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 23,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "— Ho bisogno di denaro: mio figlio ha da pagare dei debiti: perdite di giuoco, vuoto di cassa, che cosa so io? Se non paga, se non gli mando i denari, subito, è rovinato, la sua carriera è finita. Coi militari, non si scherza; capite? E quell'altra sventurata che è buttata in fondo a un letto! E dei creditori che non mi dànno pace: carta bollata su carta bollata; sapete com'è dei piccoli impegni, che ne abbiamo tutti, contratti con la sicurezza di poter far fronte... Chi avrebbe previsto questo inferno?..",
+                    "author": "Federico De Roberto",
+                    "book": "bibit000511.json",
+                    "year": 1861,
+                    "snippet_idx": "213"
+                },
+                {
+                    "text": "Finì di compiacersi di vedere come Angiolina avesse fatto comprendere alla madre quanto ci tenesse al suo consenso; lo diede con parole generose. Gli doleva che Angiolina ne sposasse un altro, ma visto ch'era per suo bene... L'altra ebbe un altro risolino, ma questo piú sulla faccia che nella voce e a lui parve ironico. Che la madre sapesse anche dei suoi patti con la figlia? Neppure questo non gli sarebbe dispiaciuto tanto. Perché avrebbe dovuto dolersi di quelle risatine destinate all'onesto Volpini? Certo era che qui non poteva essere lui il deriso.",
+                    "author": "Italo Svevo",
+                    "book": "bibit000087.json",
+                    "year": 1861,
+                    "snippet_idx": "131"
+                },
+                {
+                    "text": "Le due donne restavano a sentire, intente; e donna Venera dimenticava di recitare le sue preghiere. Ma come uno di quelli si voltò, vedendo Carmela, e si mise a sorriderle, lei riprese subito per mano la comare.",
+                    "author": "Federico De Roberto",
+                    "book": "bibit000511.json",
+                    "year": 1861,
+                    "snippet_idx": "264"
+                },
+                {
+                    "text": "—Ah!... — esclamò di nuovo, in aria di mistero. — Come si fa? Tu non lo sai, come si fa! Si fa, che ci vogliono tante cose... — Alzatasi, aprì uno sportello praticato nel muro e cavò da un ripostiglio una pupattola di cera, deforme, rosa dall'uso, con tante spille dalle grosse capocchie appuntate sulla testa e sul petto.",
+                    "author": "Federico De Roberto",
+                    "book": "bibit000511.json",
+                    "year": 1861,
+                    "snippet_idx": "100"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 24,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Appiè del pendio, passata la macchia de' tigli che fanno l'aere sempre fresco e odorato, là dove que' rigagnoli adunano un pelaghetto, troverai il salice solitario sotto i cui rami piangenti io stava più ore prostrato parlando con le mie speranze. E come tu sarai giunto presso alla vetta, udrai forse un cuculo il quale parea che ogni sera mi chiamasse col lugubre suo metro, e soltanto lo interrompea quando accorgevasi del mio borbottare o del calpestio de' miei piedi.",
+                    "author": "Ugo Foscolo",
+                    "book": "bibit001627.json",
+                    "year": 1778,
+                    "snippet_idx": "191"
+                },
+                {
+                    "text": "Io non ho ardito interrogarti qual sia quella che è tua patria, di modo che posso dire per verità, che di te so il più e non il meno; mercecché pienamente ammiro la tua umanità, la tua virtù, e conosco i pregi tutti dell'animo tuo, quantunque ignori i casi tuoi e qual sia la terra, che avendo tali cittadini, crederò, senza errare, felicissima regione”. “Tu vedi però, disse Eutichio, che a me tale non sembra, posciaché non vi soggiorno”. “Al certo, rispose Saffo, la patria degli uomini, come tu sei, altra non può essere che l'universo”.",
+                    "author": "Alessandro Verri",
+                    "book": "bibit000080.json",
+                    "year": 1741,
+                    "snippet_idx": "327"
+                },
+                {
+                    "text": "Ardeva in un canto della stanza un pallido lume per togliere le tenebre, ma che però non turbasse col vivo splendore il sonno amico della oscurità; a cui l'ancella sedendo vicino placidamente filava, pronta ai cenni della vegliante signora. Finalmente parve che Saffo, vinta dal sonno, alquanto sospendesse le continuate angosce: il che osservando la donna affettuosa, cessò dal lavoro, e trattenendosi immobile e tacita, quasi frenava il respiro per non turbare un sonno così prezioso.",
+                    "author": "Alessandro Verri",
+                    "book": "bibit000080.json",
+                    "year": 1741,
+                    "snippet_idx": "118"
+                },
+                {
+                    "text": "Ecco che immantinenti in altra parte non molto distante dallo stadio s'udivano risonare giulivi istromenti a richiamare la moltitudine a nuovo genere di spettacolo; al qual segno trascorse l'avida turba verso il suono, come l'api quando il pastore le richiama battendo la caldaia. Si preparavano gli esercizi ginnastici nella palestra, in cui molti pugillatori apparvero armati di cesti, e molti vennero lieti e baldanzosi, che partirono sostenuti dalle braccia de' pietosi amici, col viso tinto di sangue.",
+                    "author": "Alessandro Verri",
+                    "book": "bibit000080.json",
+                    "year": 1741,
+                    "snippet_idx": "61"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 25,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Di questi tre effetti universalmente per tutta la canzona, secondo che il loco richiede, parla el Poeta, ed è da intendere amore essere cagione di questi effetti non effettiva, perchè lui non è quello che le idee nella mente angelica produca, chè questo è Iddio, nè che l’alma illustri dello splendore ideale, chè questo fa la mente, nè che il cielo muova, chè altro motore non ha che l’anima propria; ma dicesi causa perchè sanza lui non seguirebbono dalle loro principali cause gli predetti effetti, perchè, se la mente a Dio e l’anima alla mente non si convertissi, della quale conversione è causa Amore, nè in quella le idee nè in questa quelle specifiche ragioni descenderebbono, dalle quali, se l’anima non fussi perfetta e illuminata, non sarebbe atta causa ad eccitare quel moto del cielo, dal seno della materia inferiore, queste forme sensibili.",
+                    "author": "Giovanni Pico della Mirandola",
+                    "book": "bibit000827.json",
+                    "year": 1463,
+                    "snippet_idx": "57"
+                },
+                {
+                    "text": "Questa anima, dunque, è la più infima de tutte le nature spirituale, le quale angeli appellemo, perché quilli angeli, i quali in novi ordini e tre gerarchie se distingueno, sono de natura immutabile, e in tal modo che, dove una volta inclinano la voluntade o sia bona o sia cativa, mai più de quella partire se ponno; e imperò né gli angeli boni dal bene, né li cativi dal male se possono seperare. Ma l'anima nostra, quando sta congiunta al corpo, è mutabile e flexibile; e dal bene al male e dal male al bene, e da' vizii alle virtute e da le virtude ai vizii se piega.",
+                    "author": "Giovanni Sabadino degli Arienti",
+                    "book": "bibit000917.json",
+                    "year": 1445,
+                    "snippet_idx": "1399"
+                },
+                {
+                    "text": "El foco è caldo ed è caldo per la sua natura e per la sua forma propria. Un legno non è da sè caldo, ma ben può dal foco essere riscaldato, participando da lui la predetta qualità. Dunque questa cosa chiamata calore ha nel sole essere causale, nel foco essere formale, nel legno o altra simile materia essere participato.",
+                    "author": "Giovanni Pico della Mirandola",
+                    "book": "bibit000827.json",
+                    "year": 1463,
+                    "snippet_idx": "1"
+                },
+                {
+                    "text": "Puoi dunque considerare, lettore, quanti errori nel primo congresso commetta el nostro Marsilio confundendo in tutto, sol per questo capo, e pervertendo ciò che d’amore parla. Benchè, oltre a questo, in ogni parte di questo trattato abbia commesso in ogni materia errori, come io credo nel processo chiaramente manifestare.",
+                    "author": "Giovanni Pico della Mirandola",
+                    "book": "bibit000827.json",
+                    "year": 1463,
+                    "snippet_idx": "17"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 26,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Disse la Regina: «Sappia tua Maestà ch'io son venuta qui dinanzi alla tua Corona con queste nobilissime madonne per la risposta della domanda fatta a te per via d'entrare ancor esse ne' negozi e offici istessi che hanno quei del Senato; alle quali avendo tua Maestà mandato quella scatola con espressa commissione ch'elle non l'aprissero in modo alcuno e tornarla a lei nel modo ch'ella gli era stata data, ora una più curiosa dell'altre avendo desiderio di vedere quello che vi si rinchiudeva dentro, l'aperse non pensando più oltre; e l'uccello subito scampò via; onde elle sono restate tanto addolorate di simil fatto ch'elle non ardivano di levar più la testa, né mirarti in viso per la gran vergogna ch'elle hanno per aver trasgredito il precetto regale.",
+                    "author": "Giulio Cesare Croce",
+                    "book": "bibit000151.json",
+                    "year": 1550,
+                    "snippet_idx": "71"
+                },
+                {
+                    "text": "Io ti farò poi i castagnacci, quando tu avrai tolti questi rimedi; e, se non vuoi questa cassia, piglia queste quattro pillole; poi ti metterò questa cura, ché queste ti scaricaranno di sopra e quest'altra di sotto, e non avrai più male.",
+                    "author": "Giulio Cesare Croce",
+                    "book": "bibit000143.json",
+                    "year": 1550,
+                    "snippet_idx": "108"
+                },
+                {
+                    "text": "Qui la Reina soggiunse che se non s'avevano a tacere le lodi d'alcuna persona, conveniva anco lodar la signora Caterina del giudicio e della cortesia che in un punto aveva dimostrata nel presentare una così ordinata e aggradevole cena.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "1747"
+                },
+                {
+                    "text": "Prima, era costui picciolo di persona, il suo capo era grosso e tondo come un pallone, la fronte crespa e rugosa, gli occhi rossi come di fuoco, le ciglia lunghe e aspre come setole di porco, l'orecchie asinine, la bocca grande e alquanto storta, con il labro di sotto pendente a guisa di cavallo, la barba folta sotto il mento e cadente come quella del becco, il naso adunco e righignato all'insù, con le nari larghissime; i denti in fuori come il cinghiale, con tre overo quattro gosci sotto la gola, i quali, mentre che esso parlava, parevano tanti pignattoni che bollessero; aveva le gambe caprine, a guisa di satiro, i piedi lunghi e larghi e tutto il corpo peloso; le sue calze erano di grosso bigio, e tutte rappezzate sulle ginocchia, le scarpe alte e ornate di grossi tacconi.",
+                    "author": "Giulio Cesare Croce",
+                    "book": "bibit000151.json",
+                    "year": 1550,
+                    "snippet_idx": "3"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 27,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Tutt'a un tratto la piazza sembrò avvampare in un vasto incendio, sul quale si stampavano le finestre delle case, i cornicioni dei tetti, la lunga balconata del Palazzo di Città, formicolante di gente.",
+                    "author": "Giovanni Verga",
+                    "book": "bibit001610.json",
+                    "year": 1840,
+                    "snippet_idx": "128"
+                },
+                {
+                    "text": "— Per una sera, — gli disse sorridendo, — si contenti di parlare con me di Annetta. Ella ha dovuto uscire col signor Federico. Dunque ascolto! Mi racconti qualche cosa dei suoi rapporti con Annetta. — Stette zitta, attendendo ch´egli parlasse, mentre egli rimaneva muto, sorpreso dallo strano esordio col quale Francesca sembrava di voler estorcergli delle confidenze. — Credevo le facesse piacere di parlare di Annetta e con me lo può, visto che, come avrà capito, lo spero, sono la sua confidente. — Volle dargli una prova ch´ella sapeva tutto: — Mai più sul pianerottolo!",
+                    "author": "Italo Svevo",
+                    "book": "bibit000123.json",
+                    "year": 1861,
+                    "snippet_idx": "683"
+                },
+                {
+                    "text": "Velleda avea smesso di suonare; Gemmati stava a discorrere con lei sottovoce, ella l'ascoltava, sorridendo a fior di labbro qualche volta. Poi Gemmati s'era avvicinato all'Adele e s'era dato a parlare con lei.",
+                    "author": "Giovanni Verga",
+                    "book": "bibit000804.json",
+                    "year": 1840,
+                    "snippet_idx": "49"
+                },
+                {
+                    "text": "E dicono pure: \"Val più un pezzente di un potente\"; che non si può cavargli la pelle pel suo debito. Per ciò chi non ha nulla deve pagar la terra più cara degli altri, - il padrone ci arrischia di più - e se la raccolta viene magra, il mezzadro è certo di non prender nulla, e andarsene via con la falce sotto l'ascella. Ma l'andarsene in tal modo è anche una brutta cosa, dopo un anno di fatiche, e colla prospettiva dell'inverno lungo senza pane.",
+                    "author": "Giovanni Verga",
+                    "book": "bibit001123.json",
+                    "year": 1840,
+                    "snippet_idx": "301"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 28,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Di questo commune onore ben si mostrò intendente Scipione l'Africano, il quale dopo soggiogata la Spagna, vinto Annibale e conquistata l'Africa, stimò di non aver fatto nulla, se non vedeva crescere parimente il nome e la gloria del fratello.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "1459"
+                },
+                {
+                    "text": "Un giorno ella mi chiamò e dissemi s'io voleva andar a caccia con lei; io le risposi de sì e andai seco. Alla tornata poi finsi di cascar ammalato per stracchezza, e stetti in questa fizione otto giorni, ed ella di continuo mi mandava a visitare per suoi secreti messi.",
+                    "author": "Giovanni Battista Ramusio",
+                    "book": "bibit001323.json",
+                    "year": 1485,
+                    "snippet_idx": "2915"
+                },
+                {
+                    "text": "Hea, regione di Marocco, dalla parte dell'occidente e del settentrione termina al mare Oceano; dal mezzogiorno ha fine al monte Atlante; dall'oriente compie al fiume di Esifnual, il quale nascendo dal detto monte entra nel fiume di Tensist, e questo separa Hea dalla propinqua regione.",
+                    "author": "Giovanni Battista Ramusio",
+                    "book": "bibit001323.json",
+                    "year": 1485,
+                    "snippet_idx": "225"
+                },
+                {
+                    "text": "Quando e con quale occasione si fecero di quei luochi patroni non si può sapere, non essendo in uso tra lor a quei tempi il scrivere e il notar i lor successi. È ben questo a tutto il mondo noto, che essi sono sempre stati gente bellicosa, valente e pronta di mano, alla qual cosa le imprese da loro animosamente e con gran valor fatte chiara testimonianza rendono.",
+                    "author": "Giovanni Battista Ramusio",
+                    "book": "bibit001323.json",
+                    "year": 1485,
+                    "snippet_idx": "11817"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 29,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Anche si parlerà di teatri e di spettacoli; e si daranno traduzioni di cose recenti e poco note da diverse lingue, purchè ci paiano cose veramente notabili, e purchè corrispondano al tenore delle nostre opinioni, e all'indole del Giornale, il quale intendiamo che serbi in ogni sua parte un color solo. E se di tal qualità ci verranno, come desideriamo e preghiamo, articoli nuovi da valenti ingegni italiani o stranieri, noi li riceveremo con gratitudine, e li pubblicheremo con fedeltà.",
+                    "author": "Giacomo Leopardi",
+                    "book": "bibit000105.json",
+                    "year": 1798,
+                    "snippet_idx": "7"
+                },
+                {
+                    "text": "Di sotto a me le coste del monte sono spaccate in burroni infecondi fra i quali si vedono offuscarsi le ombre della sera, che a poco a poco s'innalzano; il fondo oscuro e orribile sembra la bocca di una voragine. Nella falda del mezzogiorno l'aria è signoreggiata dal bosco che sovrasta e offusca la valle dove pascono al fresco le pecore, e pendono dall'erta le capre sbrancate. Cantano flebilmente gli uccelli come se piangessero il giorno che muore, mugghiano le giovenche, e il vento pare che si compiaccia del susurrar delle fronde.",
+                    "author": "Ugo Foscolo",
+                    "book": "bibit001627.json",
+                    "year": 1778,
+                    "snippet_idx": "128"
+                },
+                {
+                    "text": "Fin l'onde marine si abbelliscono dal vago aspetto del sole, il quale, dopo di essersi in quelle ampiamente specchiato, e dopo di avere le alte cime de' monti vagamente indorate, lascia il basso orizonte, e sul vasto cielo s'innalza per mostrarsi a tutti, e i doni suoi profondere a tutto quanto sulla terra si trova. Da lui svegliati i pastori s'alzano a cavare dalle stalle fumanti e i lanuti armenti, e i tardi buovi, e quelli al pascolo condurre, e questi all'aratro aggiogare.",
+                    "author": "Giacomo Leopardi",
+                    "book": "bibit000329.json",
+                    "year": 1798,
+                    "snippet_idx": "23"
+                },
+                {
+                    "text": "Sia pur anche un misero in oscuro carcere ristretto se la sorte di un vero amico gli fece dono avrà per questi un appoggio onde poter esserne liberato. Sia uno di ogni amico spogliato, d'ogni conforto ancora sarà privo, e costretto sarà a bere l'amaro calice delle sventure fino all'ultima feccia. L'uomo non nasce per se stesso, ma per la società.",
+                    "author": "Giacomo Leopardi",
+                    "book": "bibit000329.json",
+                    "year": 1798,
+                    "snippet_idx": "5"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 30,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Succedendo poi a Palemone un prencipe dell'istessa casata, non solo presero gli Italiani il nuovo nome, ma presero anco la lengua di quella gente, la signoria delle qual s'aveano tolta, e al modo e norma di vivere s'accostaron degli istessi barbari.",
+                    "author": "Giovanni Battista Ramusio",
+                    "book": "bibit001323.json",
+                    "year": 1485,
+                    "snippet_idx": "11832"
+                },
+                {
+                    "text": "El medico sul tirato respondendo non dubitasse perché, trovando l'erba, presto el sanarebbe, e il compagno tuttavia respondendoli cum le magiore papolate del mondo e scopiando dentro da sé de le risa, el medico trovò l'erba che voleva (che credo fusse marobio, sì come da poi entesi) e, quella volta e pesta e factone quasi in uno momento uno buono bichiero de suco, quello cum gran festa portò a l'infermo; che tuttavia affannato mostrandose diceva:",
+                    "author": "Giovanni Sabadino degli Arienti",
+                    "book": "bibit000917.json",
+                    "year": 1445,
+                    "snippet_idx": "918"
+                },
+                {
+                    "text": "I quali, nel tempo de la loro caciata, retrovandose cum l'arme sanguinate in mano, parte de Romagna e parte de Toscana valorosamente occuparono: dove oggidì ancora li loro successori se trovano cum ereditario nome de l'expulse famiglie.",
+                    "author": "Giovanni Sabadino degli Arienti",
+                    "book": "bibit000917.json",
+                    "year": 1445,
+                    "snippet_idx": "144"
+                },
+                {
+                    "text": "E perché questo cibo è stato ed è duro a masticare, io ne voglio dare uno alle vostre mente che serà dolce e molle a masticare: e però ogni passione poniamo da canto e state audire, ché più presto riso che altro prenderete.",
+                    "author": "Giovanni Sabadino degli Arienti",
+                    "book": "bibit000917.json",
+                    "year": 1445,
+                    "snippet_idx": "1205"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 31,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Quale è quella erba così virtuosa che non possa alcuna volta farci male, se troppo o poco pigliandone o in non conveniente modo usandola noi ci discostiamo da le regole che vi ha posto su l´arte de la medicina, o per dir meglio essa natura?",
+                    "author": "Agnolo Firenzuola",
+                    "book": "bibit000183.json",
+                    "year": 1493,
+                    "snippet_idx": "223"
+                },
+                {
+                    "text": "E volete sapere ch'io dica il vero? Considerate che non solamente nella professione di noi medici, ma nell'altre ancora non è tenuta sicura la teorica senza la prattica, ma ci confidiamo più nell'argomento delle cose da noi con ragione sperimentate, che nella semplice dottrina altrui. E voi che avete mangiata gran copia di sale fuori di casa vostra, ben potete riconoscere quanto v'abbiano renduto saggio e accorto i vostri pellegrinaggi, e quanto siate voi differente da quegli uomini che non udirono mai il suono d'altre campane che di queste.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "80"
+                },
+                {
+                    "text": "— Poi che egli non mi può piacer prima che adesso — disse allor la Reina sorridendo —, adesso voglio che mi piaccia; mostraci adunque questa nuova foggia di vestimenti, ché noi aspettiamo vederla con disiderio —.",
+                    "author": "Agnolo Firenzuola",
+                    "book": "bibit000183.json",
+                    "year": 1493,
+                    "snippet_idx": "78"
+                },
+                {
+                    "text": "È all´ultima parte del colle dove costoro dimoravano e quasi al principio della già detta valle una spiaggetta assai piacevole chiamata Campettoli, nel cui principio sotto ad alcuni selvaggi arbucelli di acqua surgente riluce una chiarissima fontana, alle fresche onde della quale Celso, sanza altro dire, guidò la bella compagnia. La quale, poi che con lenti passi ivi fu arrivata e con le belle acque della fonte ebbero le tre donne scacciata la polvere che nello scendere del colle troppo arditamente si era posta sopra delle lor candide guance, la Reina prese loro a dire in questa forma:",
+                    "author": "Agnolo Firenzuola",
+                    "book": "bibit000183.json",
+                    "year": 1493,
+                    "snippet_idx": "91"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 32,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "E perché gli maritimi viaggi soglino essere, o per contrarietà de' tempi o per nove occorrencie de' mercante, multo più longi che non vorrebbono gli vianti, avvenne che le galee per diverse accagione ultre il devuto termene più misi stettero ad arrivare.",
+                    "author": "Masuccio Salernitano",
+                    "book": "bibit001701.json",
+                    "year": 1410,
+                    "snippet_idx": "981"
+                },
+                {
+                    "text": "El buffone de l'imperatore, el dono e l'onore recevuto, li rese quelle grazie che a lui forono più possibile; e quinde partendosi occupato de festa e letizia, se ne tornò a la imperiale corte, dove non li parve mai avere quiete, finché tanto effecto non ebbe notificato a l'imperatore. El quale, ancora che fosse barbaro, non puòte fare che, pensando al magnifico effecto del regio araldo, non se rimpesse de vergogna e de maraviglia; e detteli materia de celerare la sua partita, cognoscendo maximamente quanto lui mancato avea circa l'effecto de la liberalitade verso la virtù sua.",
+                    "author": "Giovanni Sabadino degli Arienti",
+                    "book": "bibit000917.json",
+                    "year": 1445,
+                    "snippet_idx": "607"
+                },
+                {
+                    "text": "E perché al numero de' magnanimi e de' liberali da li teneri anni te ho cognosciuto, e ottimo medico da sanare ogne langore, me è piaciuto, donandote de la sequente novella noticia, supplicarte che de salutiferi remedii, che a l'una e l'altra passione accadeno, al tuo Masuccio e dottrina e consiglio prestar ne debbi, a tal che, da te istrutto, possa agli posteri la tua mirabile scienza con autorità non piccola comunicare. Vale.",
+                    "author": "Masuccio Salernitano",
+                    "book": "bibit001701.json",
+                    "year": 1410,
+                    "snippet_idx": "468"
+                },
+                {
+                    "text": "Li quali, non volendo l'uno più contro l'altro giostrare, ognuno de essi lo onore a l'altro cedendo, se ne uscerno; il che, trovandose poche lanze più Marchetto che Lanzilao avere rotte, con non meno piacere e gloria de l'uno che de l'altro, fu a Marchetto il palio e lo onore donato. E andando a fare festa al palagio del signore, avvenne che gli ditti compagni tutti dui in uno ballo se innamororno de una medesma giovenetta, multo ligiadra e bella, figliola de un notevole cavaliero de la cità, e, senza sapere l'un de l'altro, ognuno ardentissimamente la vaghiggiava.",
+                    "author": "Masuccio Salernitano",
+                    "book": "bibit001701.json",
+                    "year": 1410,
+                    "snippet_idx": "1057"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 33,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "— Deve proporgli di farsi prestare il danaro da qualcuno, ossia da me... si fa una ipoteca!... E quando egli non potrà andare più avanti, comprerò ogni cosa io. Così, non si mette in balìa delle banche! .. È meglio che s'ipotechi con me; non ne conviene? Gli dice che con me si fa una cosa alla buona... magari penso io alle spese che ci vogliono per far registrare l'ipoteca; così lui acconsentirà meglio. Che m'importerebbe di dover sopportare io tutte le spese, che dovrebbero essere a metà? Si mette, nel contratto, che egli si obbliga di rendermele dentro un certo tempo...",
+                    "author": "Federigo Tozzi",
+                    "book": "bibit001571.json",
+                    "year": 1883,
+                    "snippet_idx": "91"
+                },
+                {
+                    "text": "Poco a poco la nebbia si aperse, apparve a destra, nero, imminente, il tragico Picco Astore, apparvero in un chiarore di sole pallido pendenti grembi e molli dorsi di pascoli, alture nere gremite di abeti, profili grandi delle creste di Val Posina. E presto intorno ai due silenziosi ruppe il sereno da ogni parte, l'erbe imperlate brillarono, lo smeraldo dei pascoli si ravvivò, le cervici calve di Picco Astore diventaron fulve, gli umidi aromi della montagna odorarono. Jeanne sedette sur un muricciuolo diroccato che troncava il sentiero dove si gitta dal prato in una macchia.",
+                    "author": "Antonio Fogazzaro",
+                    "book": "bibit000184.json",
+                    "year": 1842,
+                    "snippet_idx": "669"
+                },
+                {
+                    "text": "La polvere volava alta, con le pagliuzze e le festuche; e anche dalla parte del Monte Amiata le nebbie si affoltarono. Ogni cosa cambiò di colore, con una rapidità istantanea; quasi piacevole. Le ombre a un tratto affievolivano e a un tratto rinforzavano; i prati ora erano più scuri e ora più chiari; qualche volta con una tenerezza improvvisa ed esaltata, qualche volta con un lividore che pareva dovesse doventare nero.",
+                    "author": "Federigo Tozzi",
+                    "book": "bibit001571.json",
+                    "year": 1883,
+                    "snippet_idx": "267"
+                },
+                {
+                    "text": "Ella portò loro due anelli d´oro falso, per regalo. La baciarono e poi si trovarono tutte e due impacciate. Non sapevano se la tenevano nel mezzo; e, camminando, cambiavano sempre di posto. La minore, anzi, si mise dietro; e, quando Ghìsola la chiamò con sé, invece andò lungo la proda sul margine erboso della strada; riabbassando la testa tutte le volte che Ghìsola si voltava a lei, perché non voleva far vedere che la guardava. Anche la sorella più grande parlò poco, anzi non disse niente.",
+                    "author": "Federigo Tozzi",
+                    "book": "bibit000910.json",
+                    "year": 1883,
+                    "snippet_idx": "280"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 34,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Amo la carta persino sulla quale tu scrivi! La riconosco, è quella che spaccia il vecchio Creglingi, e, vedendola, ricordo la strada principale del nostro paesello, tortuosa ma linda. Mi ritrovo là ove s´allarga in una piazza nel cui mezzo sta la casa del Creglingi, bassa e piccola, col tetto in forma di cappello calabrese, tutta un solo buco, la bottega! Lui, dentro, affaccendato a vendere carta, chiodi, zozza, sigari e bolli, lento ma coi gesti agitati della persona che vuole far presto, servendo dieci persone ossia servendone una e invigilando sulle altre nove con l´occhio inquieto.",
+                    "author": "Italo Svevo",
+                    "book": "bibit000123.json",
+                    "year": 1861,
+                    "snippet_idx": "1"
+                },
+                {
+                    "text": "Le chiese scusa; non s'era spiegato bene e, coraggiosamente ripeté con altre parole quello che già aveva detto. Ella non rilevò la nuova offesa, ma conservò per qualche tempo un tono risentito: — Non voglio ch'ella creda che per me sarebbe stato lo stesso di venir avvicinata da uno o l'altro di quei due signori. A loro non avrei permesso di parlarmi. — Al loro primo incontro, vagamente avevano ricordato d'essersi visti sulla via un anno prima; egli dunque — diceva Angiolina — non era per lei il primo venuto. — Io — dichiarò Emilio solennemente, — non volli dire altro se non che io non la meritavo.",
+                    "author": "Italo Svevo",
+                    "book": "bibit000087.json",
+                    "year": 1861,
+                    "snippet_idx": "61"
+                },
+                {
+                    "text": "I fanti della banca venivano considerati quali impiegati ed erano attribuiti ai singoli dipartimenti, alla cassa, alla liquidazione o alla corrispondenza; i loro capi immediati erano i capi ufficio relativi. Solo nel processo di tempo, incominciando da Maller stesso, i più alti impiegati si servirono di un fante e lo resero in parte loro domestico, pagandolo separatamente. Ciò completava la giornata del fante occupata solo in parte dai doveri di ufficio.",
+                    "author": "Italo Svevo",
+                    "book": "bibit000123.json",
+                    "year": 1861,
+                    "snippet_idx": "1216"
+                },
+                {
+                    "text": "La lettera l'ho ancora fra le mie cose più care; nel reliquario della memoria che principia colla ciocca di capelli fattasi strappare dalla Pisana, e finisce colla spada di mio figlio che ieri mi giunse dall'America insieme con la tarda conferma della sua morte. Povero Giulio! era nato per esser grande; e non poté esserlo che nella sventura. Ma torniamo al principio del secolo, e leggete intanto cosa mi scriveva a Ferrara Bruto Provedoni, tornato da poco tempo nel suo paesucolo con una gamba di meno, e molti affanni di più.",
+                    "author": "Ippolito Nievo",
+                    "book": "bibit001238.json",
+                    "year": 1831,
+                    "snippet_idx": "2514"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 35,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Adesso al puledro gli toccava di aver la salute per guadagnarsi le trentadue lire e cinquanta che era costato, e la paglia che si mangiava. Intanto badava a saltellare dietro a compare Neli, cercando di addentargli il giubbone per giuoco, quasi sapesse che era il giubbone del padrone nuovo, e non gliene importasse di lasciare per sempre la stalla dov'era stato al caldo, accanto alla madre, a fregarsi il muso sulla sponda della mangiatoia, o a fare a testate e a capriole col montone, e andare a stuzzicare il maiale nel suo cantuccio.",
+                    "author": "Giovanni Verga",
+                    "book": "bibit001123.json",
+                    "year": 1840,
+                    "snippet_idx": "190"
+                },
+                {
+                    "text": "E da quel giorno in poi, continuò più di cinque mesi a levarsi ogni mattina, prima dell'alba, per andare a girare il bindolo, e guadagnare così quel bicchiere di latte, che faceva tanto bene alla salute cagionosa del suo babbo. Nè si contentò di questo: perchè a tempo avanzato, imparò a fabbricare anche i canestri e i panieri di giunco: e coi quattrini che ne ricavava, provvedeva con moltissimo giudizio a tutte le spese giornaliere. Fra le altre cose, costruì da sè stesso un elegante carrettino per condurre a spasso il suo babbo alle belle giornate, e per fargli prendere una boccata d'aria.",
+                    "author": "Carlo Collodi",
+                    "book": "bibit000139.json",
+                    "year": 1826,
+                    "snippet_idx": "313"
+                },
+                {
+                    "text": "A questo affettuoso invito Pinocchio spicca un salto, e di fondo alla platea va nei posti distinti; poi con un altro salto, dai posti distinti monta sulla testa del direttore d'orchestra, e di lì schizza sul palcoscenico.",
+                    "author": "Carlo Collodi",
+                    "book": "bibit000139.json",
+                    "year": 1826,
+                    "snippet_idx": "46"
+                },
+                {
+                    "text": "Per me gli assassini sono stati inventati apposta dai babbi, per far paura ai ragazzi che vogliono andare fuori la notte. E poi se anche li trovassi qui sulla strada, mi darebbero forse soggezione? Neanche per sogno. Anderei loro sul viso, gridando: \"Signori assassini, che cosa vogliono da me? Si rammentino che con me non si scherza! Se ne vadano dunque per i fatti loro, e zitti!\" A questa parlantina fatta sul serio, quei poveri assassini, mi par di vederli, scapperebbero via come il vento. Caso poi fossero tanto ineducati da non volere scappare, allora scapperei io, e così la farei finita...",
+                    "author": "Carlo Collodi",
+                    "book": "bibit000139.json",
+                    "year": 1826,
+                    "snippet_idx": "77"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 36,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Ne l'udire parlar lei e nel sentire gli scherzi de la fante, il mercatante spiritava: e se non che ella gli faceva animo, era forza di menarlo a la colonna. E levatosi la mattina, fece segnare e benedire la camera, la sala, la cocina, la cella dal vino, dove si tengano le legne, il tetto, e per tutto; e trovato un prete dei manco tristi che poté, disse col dargli un ducato: «Dite le messe di san Gregorio per l'anima de lo spirito che sta in casa de la signora tale».",
+                    "author": "Pietro Aretino",
+                    "book": "bibit001664.json",
+                    "year": 1492,
+                    "snippet_idx": "530"
+                },
+                {
+                    "text": "Fu sùbito da il re ordinato tutto; e, venuta la domenica mattina e ripieno il palco di personaggi e la piaza di populo, celebrata la messa, venne la spiritata condutta in sul palco per le mani di dua vescovi e molti signori. Quando Roderigo vide tanto popolo insieme e tanto apparato, rimase quasi che stupido, e fra sé disse : — Che cosa ha pensato di fare questo poltrone di questo villano? Crede egli sbigottirmi con questa pompa? non sa egli che io sono uso a vedere le pompe del cielo e le furie dello inferno? Io lo gastigherò in ogni modo.",
+                    "author": "Niccolò Machiavelli",
+                    "book": "bibit000555.json",
+                    "year": 1469,
+                    "snippet_idx": "39"
+                },
+                {
+                    "text": "Purnondimeno il suocero, i frategli, il parentado, l'obligo del matrimonio e, sopratutto, il grande amore le portava gli faceva avere pazienza. Io voglio lasciare ire le grande spese, che, per contentarla, faceva in vestirla di nuove usanze e contentarla di nuove fogge, che continuamente la nostra città per sua naturale consuetudine varia; che fu necessitato, volendo stare in pace con lei, aiutare al suocero maritare l'altre sue figliuole: dove spese grossa somma di danari.",
+                    "author": "Niccolò Machiavelli",
+                    "book": "bibit000555.json",
+                    "year": 1469,
+                    "snippet_idx": "15"
+                },
+                {
+                    "text": "Et, fattosi chiamare Roderigo di Castiglia, prese una casa a fitto nel Borgo d'Ognisanti; e perché non si potessino rinvenire le sue condizioni, disse essersi da piccolo partito di Spagna e itone in Soria e avere in Aleppe guadagnato tutte le sue facultà; donde s'era poi partito per venire in Italia a prendere donna in luoghi più umani e alla vita civile e allo animo suo più conformi.",
+                    "author": "Niccolò Machiavelli",
+                    "book": "bibit000555.json",
+                    "year": 1469,
+                    "snippet_idx": "10"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 37,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "A cui il Cavaliere: – Voi, signora, mi fate dar bere forse perché io cianci d'avantaggio, ma vi avverrà come a quella donna, la quale diede mangiare più dell'usato alla sua gallina perché facesse più gran copia d'uova e di maggior grossezza, ma la gallina per soverchia grassezza restò in tutto di farne – .",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "1707"
+                },
+                {
+                    "text": "E sì come le leggi e costumi civili sono communicati non solamente alla città, ma alle ville e castella e popoli che le sono sottoposti, così voglio che la civil conversazione appartenga nonché agli uomini che vivono nelle città, ma ad ogn'altra sorte di persone dovunque si trovino e di quale stato si siano: e insomma che la conversazione civile sia onesta, lodevole e virtuosa.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "173"
+                },
+                {
+                    "text": "Eccovi adunque che 'l simulare è un termine ampio, il quale si stende a molte cose e a diversi fini; e l'adulare è un termine assai più ristretto e contenuto sotto il simulare, quasi spezie sotto il suo genere.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "306"
+                },
+                {
+                    "text": "Queste sono le cose che con la piccolezza del nostro ingegno abbiamo saputo raccoglier dai ragionamenti del detto pilotto, le quali, se non satisfaranno così a pieno a chi le leggerà come la grandezza della materia richiede, saranno almeno come uno stimolo ad eccitar qualche sublime ed elevato ingegno a pensarvi più diligentemente sopra.",
+                    "author": "Giovanni Battista Ramusio",
+                    "book": "bibit001323.json",
+                    "year": 1485,
+                    "snippet_idx": "2219"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 38,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Non di risposta mi par ch'abbia bisogno, ma d'alcuna dimanda. Ditemi, dunque, perché nel giudizio s'allontana dal parlar d'Aristotele: il qual, se ben mi ricordo, vuol che così le voci come i nomi peregrini siano riguardati con maggior maraviglia? Ma, di grazia, non ci fermiamo su' testi, se non c'è conceduta commodità di rivolger le carte con lungo studio: perché altrimenti converrebbe ch'io invocassi più volte la memoria che non fanno tutt'i poeti le Muse.",
+                    "author": "Torquato Tasso",
+                    "book": "bibit001247.json",
+                    "year": 1544,
+                    "snippet_idx": "93"
+                },
+                {
+                    "text": "Fu accettata dalla Reina questa risposta, ma con tutto ciò tornò il signor Giovanni a dire: – Può essere che questa ragione abbia luogo fra noi, ma non sarebbe già stata accettata in quel paese dove si sogliono misurare i corpi con una cintola di certa misura, nella quale se per avventura alcuno non poteva capire, era tenuto per disonorato e per uno della greggia d'Epicuro. E parimente i Lacedemoni con aspre leggi castigavano gli uomini grassi, conoscendo che così fatti corpi erano inutili a se stessi e agli altri.",
+                    "author": "Stefano Guazzo",
+                    "book": "bibit000235.json",
+                    "year": 1530,
+                    "snippet_idx": "1676"
+                },
+                {
+                    "text": "La confuse, se c'era, e io poteva farlo con tale esempio; ma s'ella c'era, doveva esserci per rispetto della quantità significata o della relazione, o pur per rispetto delle diverse misure della quantità.",
+                    "author": "Torquato Tasso",
+                    "book": "bibit001247.json",
+                    "year": 1544,
+                    "snippet_idx": "96"
+                },
+                {
+                    "text": "Non sarà dunque sconvenevole a l'epico, che somiglia l'uomo d'arme, usare alcuna saetta tolta da la faretra d'Ovidio; la qual vada a ferire in modo che la piaga porti seco il diletto accompagnato con la maraviglia.",
+                    "author": "Torquato Tasso",
+                    "book": "bibit001247.json",
+                    "year": 1544,
+                    "snippet_idx": "82"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 39,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Era magnifica con il suo arco di bellezza in giro alle tre fronti, via via dagli umili oscuri piani del settentrione al radiante chiarore del cielo sopra la città illuminata, al dorso dell'altura stretto fra le due carpinate lunghe, ai campi arati dormenti nella valletta del mezzogiorno, sotto la luna.",
+                    "author": "Antonio Fogazzaro",
+                    "book": "bibit000184.json",
+                    "year": 1842,
+                    "snippet_idx": "260"
+                },
+                {
+                    "text": "— Perché io pago subito: i debiti non li voglio. Se io avessi uno che avanzasse da me, gli tirerei una fucilata dalla finestra. Il fieno si pesa. Si fa il conto e lei riscuote. Perché a chiedere i denari da me io non ce lo faccio venire!",
+                    "author": "Federigo Tozzi",
+                    "book": "bibit001571.json",
+                    "year": 1883,
+                    "snippet_idx": "368"
+                },
+                {
+                    "text": "Lo credo capace di affrontar qualunque rovina piuttosto che accettar niente da noi. Vi è questo buon metallo nel suo carattere, e, ogni volta che vi cade su un gran colpo, suona. Quando seppe che avevo pagato quei piccoli creditori di cui Le parlai, andò sulle furie e volle farmi subito un'obbligazione per l'intera somma sborsata. Io gli toccai allora del prossimo pagamento; mi rispose che non avessi a incaricarmene. Adesso mi si riferiscono delle mezze frasi sinistre che gli sarebbero sfuggite qui; e forse qualche ambigua parola la disse a me pure.",
+                    "author": "Antonio Fogazzaro",
+                    "book": "bibit001373.json",
+                    "year": 1842,
+                    "snippet_idx": "378"
+                },
+                {
+                    "text": "L'avvocato Bonato sapeva perfettamente che il dottor Pinton alla sua volta era malcontento di Moretti, membro della Commissione direttiva dell'Ospitale, perchè aveva osteggiato la nomina di un suo fratello a ragioniere dell'Opera Pia.",
+                    "author": "Antonio Fogazzaro",
+                    "book": "bibit000184.json",
+                    "year": 1842,
+                    "snippet_idx": "558"
+                }
+            ],
+            "solution": 1,
+            
+        },
+        {
+            "task_id": 40,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Va' tu dunque, ed a pressaviti che le troverai e, trovate, ne le terrai ed al tuo bisogno te ne servirai, ché per adesso ti basteranno a non esser povero, e per l'avvenire si provvederà che tu sia ancor ricco.",
+                    "author": "Annibale Caro",
+                    "book": "bibit000966.json",
+                    "year": 1507,
+                    "snippet_idx": "248"
+                },
+                {
+                    "text": "Già s'era Dafni fermato, come che pur guardingo si stesse, ma dal giurar d'Astilo appena assecurato stette saldo ed appressati s'abbracciarono e si baciarono. In questo mentre sopravvenne l'altra moltitudine di servi e di serve; poscia giunse il padre e la madre, e tutti con molta allegrezza e con molte lagrime lo baciarono.",
+                    "author": "Annibale Caro",
+                    "book": "bibit000966.json",
+                    "year": 1507,
+                    "snippet_idx": "330"
+                },
+                {
+                    "text": "Era nel principio di primavera, allorché i boschi, i monti, i prati sono tutti fronzuti, erbosi e fioriti, e quando pe' prati ronzan le pecchie, pe' boschi cantan gli uccelli, pe' monti scherzan gli agnelli; e per la dolcezza della stagione indolciti parimente i due pastorelli in sí fresca età, in sí gioiosa stagione tutti festosi, ciò che sentivano e che vedevano, tutto contraffacevano: udendo cantar gli uccelli, cantavano; vedendo ruzzar gli agnelli, ruzzavano; e per far come le pecchie, ancor essi coglievano fiori; e di quelli, altri si mettevano in seno, d'altri intrecciando quando un festoncino e quando una ghirlandetta, or le ninfe ne ornavano, ed or le stesse fronti ne incoronavano.",
+                    "author": "Annibale Caro",
+                    "book": "bibit000966.json",
+                    "year": 1507,
+                    "snippet_idx": "24"
+                },
+                {
+                    "text": "Voi vedete la grandezza di questo mare e avete inteso l'infinite ricchezze d'oro e perle che si trovano appresso gli uomini che ci abitano intorno; a noi sta elegger quella provincia che sia d'aere temperato, e di sito atto a produrre ciò che fa di bisogno al viver nostro, e in quella fabricare una città dove possiamo allegramente, quel tempo che ci resta di vita, godere le ricchezze che abbiam guadagnate. E non dubitate che sì come fin ad ora Iddio in ogni impresa non c'è mancato, ma sempre ci è stato favorevole, così per l'avvenire non facci il medesimo.",
+                    "author": "Giovanni Battista Ramusio",
+                    "book": "bibit001323.json",
+                    "year": 1485,
+                    "snippet_idx": "13334"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 41,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Mio padre veniva ogni anno a vedermi: ma e' si figurava la mia educazione secondo il suo desiderio, sì per avere mio zio in grande stima com'uomo di mondo (parola che a molti significa cose belle), sì perché non avrebbe saputo far meglio. Né, uomo, corso, e soldato, e' temeva o pure imaginava gli effetti d'un'attitudine sbadata, d'uno sguardo languido, in cuor di fanciulla. Gli uomini che pigliano la vita indigrosso e senza tanti dàddoli, sarebbero i meglio educatori e mariti del mondo se avessero sempre che fare con anime non isteriche.",
+                    "author": "Niccolò Tommaseo",
+                    "book": "bibit001225.json",
+                    "year": 1802,
+                    "snippet_idx": "12"
+                },
+                {
+                    "text": "Quella novità del cammino, que' poggi che l'un sull'altro si rizzano o si riposano, e dopo molto addossarsi e ondeggiare si confondono a' fianchi alteri del monte da cui paiono usciti; le vallette che in fondo al verde, giù in fondo, mostrano il biancheggiar de' villaggi; le tenui acque stillanti; e la selva di Vizzavona che sale con le grandi orme e scende pe' fianchi della forte montagna, e gode vestirli dell'ampie ombre de' frassini o delle spesse e diritte cime de' pini, mi distraevano malcontenta da' miei dolci pensieri.",
+                    "author": "Niccolò Tommaseo",
+                    "book": "bibit001225.json",
+                    "year": 1802,
+                    "snippet_idx": "21"
+                },
+                {
+                    "text": "Quando Maria ebbe la lettera, era già sera, ed essa in casa sola: onde poté rispondere singhiozzando liberamente, e portare il foglio da sé al portinaio dell'albergo di lui. La lettera, tutta vuoti che avevan fatti le lacrime grondanti, diceva:",
+                    "author": "Niccolò Tommaseo",
+                    "book": "bibit001225.json",
+                    "year": 1802,
+                    "snippet_idx": "299"
+                },
+                {
+                    "text": "Ecco, fra i rami degli ippocastani c'è una linea d'ombra che sprofonda nel vuoto, come un viale tagliato nel dosso di un monticello, sotto un gran pennacchio di carrubbi. Le belle passeggiate d'allora nel meriggio caldo e silenzioso, quando le cicale stridevano nella valletta addormentata al sole! Accanto serpeggia verso l'alto la linea bruna di un tronco, rendendo immagine del sentiero che ascendeva fra i pascoli ed il sommacco di un noto poggio; e in cima, dove l'azzurro scappa infine libero, sembra di scorgere quella vetta che vedeva tanta campagna intorno.",
+                    "author": "Giovanni Verga",
+                    "book": "bibit001161.json",
+                    "year": 1840,
+                    "snippet_idx": "5"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 42,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "— Ah! sei un ragazzo? — soggiuns'egli curvandosi un po' dalla mia banda e mostrandomi una figurona nera nascosta sotto le falde d'un cappellaccio da contrabbandiere o da mago. — Sì, sei un ragazzo; e dove vai?",
+                    "author": "Ippolito Nievo",
+                    "book": "bibit001238.json",
+                    "year": 1831,
+                    "snippet_idx": "264"
+                },
+                {
+                    "text": "La religione è per le donne il freno più potente; come quella che domina il sentimento con un sentimento più forte ed elevato. Anche l'onore non è freno bastevole, perché affatto nell'arbitrio nostro, e imposto a noi soltanto da noi stessi. La religione invece ha il momento della sua forza in un luogo inaccessibile agli umani giudizi. Essa ci comanda di non fare perché così vuole chi può tutto, chi vede tutto, chi punisce e premia le azioni degli uomini secondo il loro intimo valore.",
+                    "author": "Ippolito Nievo",
+                    "book": "bibit001238.json",
+                    "year": 1831,
+                    "snippet_idx": "1952"
+                },
+                {
+                    "text": "Il Conte tornò a casa che non toccava coi piedi il selciato; e le tre settimane che impiegò a correre dalla casa alla stamperia, rivedendo bozze, emendando errori, cambiando vocaboli e aggiungendo postille furono per lui il tempo più felice della vita, quello che sarebbe stato il primo amore ad un giovinetto qualunque. Ma lo stampatore non partecipava gran fatto di questo eccesso di giubilo; le schede non tornavano colle firme desiderate; e appena era se in Venezia e nelle città vicine se n'erano raccolte un paio di dozzine.",
+                    "author": "Ippolito Nievo",
+                    "book": "bibit001238.json",
+                    "year": 1831,
+                    "snippet_idx": "3284"
+                },
+                {
+                    "text": "— Quel bravo ragazzo, — disse il fabbro, accennando il figliuolo col dito, — quel bravo figliuolo là, che studiava e faceva onore a suo padre mentre suo padre... faceva baldoria e lo trattava come una bestia. Quando ho visto quella medaglia... Ah! il piccinetto mio, alto come un soldo di cacio, vieni un po' qua che ti guardi bene nel muso! — Il ragazzo corse subito, il fabbro lo prese e lo mise diritto sull'incudine, tenendolo sotto le ascelle, e gli disse: — Pulite un poco il frontispizio a questo bestione di babbo.",
+                    "author": "Edmondo De Amicis",
+                    "book": "bibit001508.json",
+                    "year": 1846,
+                    "snippet_idx": "326"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 43,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Quando si svegliò, trovò che calava la notte, uno di quei tristi tramonti di bella giornata invernale. Restò di nuovo indeciso, seduto sul letto. Altre volte, in quelle ore, egli aveva studiato. I suoi libri dallo scaffale gli si offrivano invano. Tutti quei titoli annunziavano della roba morta, non bastevole a far dimenticare neppure per un istante la vita, il dolore ch'egli sentiva muoversi nel seno.",
+                    "author": "Italo Svevo",
+                    "book": "bibit000087.json",
+                    "year": 1861,
+                    "snippet_idx": "355"
+                },
+                {
+                    "text": "— No, maestro, — gli disse mio padre, ripigliando il cammino, — lei ce n'ha ancora molti figliuoli, sparsi per il mondo, che si ricordano di lei, come io me ne son sempre ricordato.",
+                    "author": "Edmondo De Amicis",
+                    "book": "bibit001508.json",
+                    "year": 1846,
+                    "snippet_idx": "528"
+                },
+                {
+                    "text": "Vedi: gli uomini delle classi superiori sono gli ufficiali, e gli operai sono i soldati del lavoro; ma così nella società come nell'esercito, non solo il soldato non è men nobile dell'ufficiale perché la nobiltà sta nel lavoro e non nel guadagno, nel valore e non nel grado; ma se c'è una superiorità di merito è dalla parte del soldato, dell'operaio, i quali ricavan dall'opera propria minor profitto.",
+                    "author": "Edmondo De Amicis",
+                    "book": "bibit001508.json",
+                    "year": 1846,
+                    "snippet_idx": "539"
+                },
+                {
+                    "text": "Dopo alcune ore, incominciò a soffrire il freddo, e col freddo, la stanchezza dei giorni passati, pieni di commozioni violente, e delle notti insonni e travagliate. Si addormentò, dormì lungo tempo, si svegliò intirizzito; si sentiva male.",
+                    "author": "Edmondo De Amicis",
+                    "book": "bibit001508.json",
+                    "year": 1846,
+                    "snippet_idx": "618"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 44,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Sai che quando io ti viddi entrar per quella via che ti ha condotto là là dove io non vorrei, io usai teco con le parole lo offizio di buono amico; ora che la cosa è in termine che le parole non bastano, io non voglio co´ fatti mancare del medesimo offizio; anzi facendo conto di aver teco errato, teco ne voglio patire la penitenza, avvenga che assai dolce penitenza mi sarà il vedermisi dare occasione di dimostrare lo animo mio ad uno amico.",
+                    "author": "Agnolo Firenzuola",
+                    "book": "bibit000183.json",
+                    "year": 1493,
+                    "snippet_idx": "270"
+                },
+                {
+                    "text": "Non può far che i ribaldi non me la faccino salire: e udirai come sanno ritorre quel che danno, e la valentigia loro in isfregiare e in dar trentuni. Ora io non vo' che sia il dirieto consiglio che io ti ho a dare circa la ciancia, la maniera e il modo che hai a usare negli intertenimenti: perché son la chiave del giuoco.",
+                    "author": "Pietro Aretino",
+                    "book": "bibit001664.json",
+                    "year": 1492,
+                    "snippet_idx": "90"
+                },
+                {
+                    "text": "E quando ci si recano, il nostro tempestar le madri, le nonne, le zie e le sorelle le sforza; e ne conosco assai che, se bene i mariti, perduto che hanno e imbriacati che sono, le bastonano, le pestano e le tranno giù per la scala, sopportano ogni male per viversi con l'onestà di aver pur marito.",
+                    "author": "Pietro Aretino",
+                    "book": "bibit001664.json",
+                    "year": 1492,
+                    "snippet_idx": "555"
+                },
+                {
+                    "text": "Appunto! Ella chiamò streghe, fantasime, demoni, versiere, fate, spiriti, sibille, lune, sole, stelle, arpie, cieli, terre, mari, inferni e altri diavolamenti; sparse acque nere, polvere di defunti, erbe secche a l'ombra; disse parole intrigate, fece segni, caratteri, visi strani, bisbigliò con seco medesima: e non fu mai santo che mostrasse di aver cura degli amanti falsi. Era mezzanotte quando incantava a credenza: e i gufi, gli alocchi e le nottole dormivano sonnacchiando; solo ella non poteva carpire il sonno con gli occhi, anzi amore tuttavia la tormenta più.",
+                    "author": "Pietro Aretino",
+                    "book": "bibit001664.json",
+                    "year": 1492,
+                    "snippet_idx": "223"
+                }
+            ],
+            "solution": 0,
+            
+        },
+        {
+            "task_id": 45,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Macedonia, provincia gloriosa, quale ebbe imperio in Asia, Armenia, Iberia, Albania, Capadocia, Siria, Egitto, provincie amplissime, ricchissime, potentissime, quale ancora vincendo superò ultimi monti Tauro e Caucaso, quale impose sue leggi a nazione e gente estremissime, Battri, Medi, Persi, e quasi a tutto l'oriente, quale se facea ben riverire e ubbidire sino entro alla India terre luntanissime, costei cadde in calamità e giuoco della fortuna.",
+                    "author": "Leon Battista Alberti",
+                    "book": "bibit000517.json",
+                    "year": 1404,
+                    "snippet_idx": "141"
+                },
+                {
+                    "text": "Così noi; e faremo come a Vinegia que' che seggono iudici a' litigi: quando e' si consigliano per pronunziare la sentenza, oppongono una tavoletta, e ivi dopo iunti e' capi si consigliano. Noi per intercluderci e nasconderci da molte inezie e fastidi del volgo e degli insolenti, ne opporremo el libro in quale occupati acquiesceremo.",
+                    "author": "Leon Battista Alberti",
+                    "book": "bibit000536.json",
+                    "year": 1404,
+                    "snippet_idx": "54"
+                },
+                {
+                    "text": "— Al presente non vogliamo iudicare tanta causa, prestantissimi oratori; ma domane ancora cum noi desenareti e, desenato che averemo, intendereti la nostra diffinizione: e acciò possa discretamente passare le vostre audite rasone, cum li nostri savii consultaremo —.",
+                    "author": "Giovanni Sabadino degli Arienti",
+                    "book": "bibit000917.json",
+                    "year": 1445,
+                    "snippet_idx": "1367"
+                },
+                {
+                    "text": "Certo questi erano segni di vero amore, ed era villania la tua, vedendoti amare, se non accettavi aperto quel che tanto a te era proferto. Ma sempre pare, non in amare solo ma in ogni cosa, che i doni troppo proferiti fastidiano, e i dinegati diletti sollecitano a farsi disiderare. Amando, a me né molto piacerebbe chi mi saziassi; e certo arei in odio chi mi si porgessi troppo acerba.",
+                    "author": "Leon Battista Alberti",
+                    "book": "bibit000625.json",
+                    "year": 1404,
+                    "snippet_idx": "27"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 46,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Alcuni altri de' nostri, veggendo le piaghe d'Italia, vanno pur predicando doversi sanarle co' rimedi estremi necessari alla libertà. Ben è vero, l'Italia ha preti e frati; non già sacerdoti: perchè dove la religione non è inviscerata nelle leggi e ne' costumi d'un popolo, l'amministrazione del culto è bottega. L'Italia ha de' titolati quanti ne vuoi; ma non ha propriamente patrizj: da che i patrizj difendono con una mano la repubblica in guerra, e con l'altra la governano in pace; e in Italia sommo fasto de' nobili è il non fare e il non sapere mai nulla.",
+                    "author": "Ugo Foscolo",
+                    "book": "bibit001627.json",
+                    "year": 1778,
+                    "snippet_idx": "65"
+                },
+                {
+                    "text": "La vista intanto si va dilungando, e dopo lunghissime file di alberi e di campi, termina nell'orizzonte dove tutto si minora e si confonde. Lancia il Sole partendo pochi raggi, come se quelli fossero gli estremi addio che dà alla Natura; e le nuvole rosseggiano, poi vanno languendo, e pallide finalmente si abbujano: allora la pianura si perde, l'ombre si diffondono su la faccia della terra; ed io, quasi in mezzo all'oceano, da quella parte non trovo che il cielo.",
+                    "author": "Ugo Foscolo",
+                    "book": "bibit001627.json",
+                    "year": 1778,
+                    "snippet_idx": "130"
+                },
+                {
+                    "text": "A un tratto, di burlone ch'egli era, cominciò a rabbruscarsi, fare il geloso fuor di proposito, maltrattarmi rammentando il Russo; perch'io negli scrupoli della mia sincerità gli avevo confidato ogni cosa: ma egli aveva interpretata la mia con l'anima sua. Un bel giorno (s'era di ottobre) e' m'annunzia una gita in campagna; non sapeva per quanto; ma scriverebbe. Passa quindici giorni: nulla. Ricevo alla fine una lettera di scritto non suo: l'apro ansiosa, tremando (povera ingannata) per la salute di lui.",
+                    "author": "Niccolò Tommaseo",
+                    "book": "bibit001225.json",
+                    "year": 1802,
+                    "snippet_idx": "78"
+                },
+                {
+                    "text": "È venuto a visitarmi il signore T. che tu conoscesti a Padova. Mi disse che spesso gli parlavi di me, e che jer l'altro glien'hai scritto. Anche egli s'è ridotto in campagna per evitare i primi furori del volgo, quantunque a dir vero non siasi molto ingerito ne' pubblici affari. Io n'aveva inteso parlare come d'uomo di colto ingegno e di somma onestà: doti temute in passato, ma adesso non possedute impunemente. Ha tratto cortese, fisonomia liberale, e parla col cuore. V'era con lui un tale; credo, lo sposo promesso di sua figlia. Sarà forse un bravo e buono giovine; ma la sua faccia non dice nulla.",
+                    "author": "Ugo Foscolo",
+                    "book": "bibit001627.json",
+                    "year": 1778,
+                    "snippet_idx": "12"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 47,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "E nell'anticamera dell'ospedale, accanto alla sala delle operazioni, donna Tina era messa ad aspettare, accompagnata dalle altre sue figliuole, da mastro Nunzio e dalla Sampietrese, che aveva poi trovato il suo fazzoletto dietro la gabbia dei polli e veniva a sentir notizie dell'inferma.",
+                    "author": "Federico De Roberto",
+                    "book": "bibit000511.json",
+                    "year": 1861,
+                    "snippet_idx": "171"
+                },
+                {
+                    "text": "Erano seduti sulla panchetta a strisce gialle e rosse, sotto i platani nudi, e il viale del giardino si allungava dinanzi, allagato dal sole, tra due file di statue sulle basi delle quali l'edera s'abbarbicava. In fondo, la montagna tutta candida di neve, come una campana di zucchero.",
+                    "author": "Federico De Roberto",
+                    "book": "bibit000511.json",
+                    "year": 1861,
+                    "snippet_idx": "54"
+                },
+                {
+                    "text": "- Donna Marianna?... Eh?... eh?... Dev'esserne contento il baronello Rubiera!... Baronello? don Ninì? siete contento?... Vi saluto, don Gesualdo! Bravo! bravo! Siete lì?... - Poi corse di sopra a precipizio, scalmanato, rosso in viso, col fiato ai denti, la sottana rimboccata, il mantello e il nicchio sotto l'ascella, le mani sudice di polvere, in un mare di sudore: - Che festa, eh! signora Sganci! - Intanto chiamava don Giuseppe Barabba che gli portasse un bicchier d'acqua: - Muoio dalla sete, donna Marianna! Che bei fuochi, eh?... Circa duemila razzi! Ne ho accesi più di duecento con le mie mani sole.",
+                    "author": "Giovanni Verga",
+                    "book": "bibit001610.json",
+                    "year": 1840,
+                    "snippet_idx": "132"
+                },
+                {
+                    "text": "—Michelino!... — gridava Céline, picchiando più forte come le voci dall'interno si facevano più allegre, con dei canti e un tintinnio di bicchieri. — Michelino... non sei solo!... Me l'hai fatta, porco!... Con chi sei?... Apri, Michelino... Mi hai detto tu di venire!... Chi è questa ciabatta?... Ti sei presi i miei denari, ladraccio svergognato!... Sono stata picchiata per te!... Aprimi, Michelinuccio...",
+                    "author": "Federico De Roberto",
+                    "book": "bibit000511.json",
+                    "year": 1861,
+                    "snippet_idx": "53"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 48,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Andavano così al crescente raggio dell'alba Saffo e l'ancella, alle quali il vento mattutino scuoteva i veli, mentre che agitava le frondi degli alberi, sulla cima de' quali gorgogliavano gli augelli aspettando lieti la già vicina luce del sole, i di cui primi raggi indoravano il lembo delle nubi.",
+                    "author": "Alessandro Verri",
+                    "book": "bibit000080.json",
+                    "year": 1741,
+                    "snippet_idx": "126"
+                },
+                {
+                    "text": "Egli da prima per la tenacità del sonno, siccome ora intempestiva, non comprese ciò che si richiedesse da lui; ma finalmente riconoscendo la figlia del suo signore, che gli comandava di annodare immantinenti al timone due destrieri, con sommesso atto si pose al richiesto ufficio.",
+                    "author": "Alessandro Verri",
+                    "book": "bibit000080.json",
+                    "year": 1741,
+                    "snippet_idx": "258"
+                },
+                {
+                    "text": "Rendimi, crudele Nettuno, ciò che mi hai rapito, anche in quel misero stato in cui lo possiedi; getta su queste arene con placido flutto l'estinta di lui spoglia, onde abbiano almeno gli onori del rito funereo quelle membra, che, mentre vissero, meritavano i divini. Deh non errino galleggianti qual naufraga merce, perocché sono meritevoli del più prezioso avello d'alabastro lucente e de' più fragranti balsami egiziani!",
+                    "author": "Alessandro Verri",
+                    "book": "bibit000080.json",
+                    "year": 1741,
+                    "snippet_idx": "393"
+                },
+                {
+                    "text": "— Ma mentr'esso parlava, io udiva nella camera contigua un rammarichio di bambino e un sommesso lamento; e m'avvidi ch'egli andavasi soffermando, e ascoltava con certa ansietà: e quando quel rammarichio taceva, ei ripigliava. — Forse, gli diss'io, saranno passaggeri giunti pur ora. — No, mi rispose; è la mia figlioletta di tredici mesi che piange.",
+                    "author": "Ugo Foscolo",
+                    "book": "bibit001627.json",
+                    "year": 1778,
+                    "snippet_idx": "255"
+                }
+            ],
+            "solution": 3,
+            
+        },
+        {
+            "task_id": 49,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "Scrive Origene avere Iesu Cristo revelato molti misterii a’ discepoli, e’ quali loro non volsono scrivere, ma solo a bocca, a chi loro ne parea degno, gli comunicarono; e questo Dionisio Areopagita conferma avere osservato di poi e’ sacerdoti nostri, che per suscessione l’uno dall’altro ricevessi la intelligenzia de’ secreti che non era lecito a scrivere; e Dionisio a Timoteo, esponendo de’ nomi di Dio e della gerarchia angelica e ecclesiastica molti profundi sensi, gli comanda che tenga el libro nascoso e non lo comunichi se non a pochi, che di tale cognizione siano degni.",
+                    "author": "Giovanni Pico della Mirandola",
+                    "book": "bibit000827.json",
+                    "year": 1463,
+                    "snippet_idx": "65"
+                },
+                {
+                    "text": "Le quali tre grazie non sono altro che tre proprietà conseguente quella bellezza ideale: prima, lo essere verde non è altro che permanere e durare la cosa nel suo essere integra e sanza labefazione alcuna; nè per altro si chiama la giovanezza verde se non perchè allora l’uomo ha lo essere suo integro e perfetto el quale, del suo vigore e sua integrità con gli anni poi sempre più e più perdendo, viene ad annullarsi in tutto, conciossia che ogni cosa composta tanto nel suo essere duri quanto dura quella debita proporzione che unisce le parte sua a unione di quella.",
+                    "author": "Giovanni Pico della Mirandola",
+                    "book": "bibit000827.json",
+                    "year": 1463,
+                    "snippet_idx": "32"
+                },
+                {
+                    "text": "Per parere di vivere in isperanza de l'ottenere la donna de l'amor suo, e perché ella intendendolo cominciasse a far pensiero di contentarlo, si vestì tutto tutto di verde: la berretta verde, la cappa, il saio, le calze, il fodero, il puntale, il manico de la spada, la cintura, la camiscia, le scarpe; e fino al capo e a la barba pare a me che si facesse far verde: il pennacchio, la impresa, i puntali, le stringhe, il giubbone e tutto.",
+                    "author": "Pietro Aretino",
+                    "book": "bibit001664.json",
+                    "year": 1492,
+                    "snippet_idx": "333"
+                },
+                {
+                    "text": "Questa virtù motiva del cielo è la infima potenzia dell’anima celeste, secondo la quale potenzia è congiunta al corpo del cielo, come è la virtù nostra motiva e progressiva a’ muscoli e a’ nervi e’ quali usa per organi e instrumenti a essequire questa sua operazione che è il moto; così la virtù motiva dell’anima del cielo, atto corpo e organo al moto celeste circulare e sempiterno, così come e’ piedi sono atti al moto del camminare degli animali, transmuta mediante esso corpo del cielo questa materia inferiore e formala di tutte le forme che sono in lei, non altrimenti che la mano dell’artefice mediante el pennello forma la sua materia di questa o di quella forma artificiale.",
+                    "author": "Giovanni Pico della Mirandola",
+                    "book": "bibit000827.json",
+                    "year": 1463,
+                    "snippet_idx": "52"
+                }
+            ],
+            "solution": 2,
+            
+        },
+        {
+            "task_id": 50,
+            "task_type": "odd_one_out",
+            "snippets": [
+                {
+                    "text": "— Voi fate certamente come discrete ed amorevoli persone che voi siete, anteponendo i vicini ai forestieri e non facendo piú stima dell'altrui ricchezze che della nostra buona povertà; di che Pane e le ninfe stesse ve ne rendano merito. Voi richiedete me di quello di che io dovrei pregar voi, e fammisi certo ognora mill'anni di farlo, ché ben sarei fuor di sentimento, poiché ormai son vecchio ed ho bisogno di molte mani a condurre i miei lavori, se io non volessi con la vostra casa imparentarmi.",
+                    "author": "Annibale Caro",
+                    "book": "bibit000966.json",
+                    "year": 1507,
+                    "snippet_idx": "258"
+                },
+                {
+                    "text": "Non deve la donna vedova portare altro anello in dito, che quello il quale gli fu posto dal suo marito, e però a me basta questa verghetta d'argento, qual è l'anello matrimoniale, cioè quello che mi fu messo in dito quando fui sposata.",
+                    "author": "Giulio Cesare Croce",
+                    "book": "bibit000143.json",
+                    "year": 1550,
+                    "snippet_idx": "44"
+                },
+                {
+                    "text": "Ora costoro partironsi dalle paterne case, andarono molto tempo girando il mondo e furono nel regno delle cavallette; poi passarono su quello delle lucerte, che confina con quello del re de' parpaglioni, e così circondarono gran parte della terra e videro vari riti e vari costumi fra quelle bestiole; alla fine capitarono nel paese de' schiratoli ed era sera.",
+                    "author": "Giulio Cesare Croce",
+                    "book": "bibit000151.json",
+                    "year": 1550,
+                    "snippet_idx": "81"
+                },
+                {
+                    "text": "Voi dite la verità, e con chiara ragione mi avete provato questo, onde io non dirò più ch'io sia felice e ch'io non abbia bisogno di nulla, perché, come voi avete detto, avendo io ora bisogno di voi, vengo a esser più povera di voi, non avendo voi bisogno di me. Orsù, lasciamo andare un poco questo da parte per ora. Il bisogno ch'io ho di voi adesso ve lo dirò, e bisogna che voi mi aiutate in una cosa.",
+                    "author": "Giulio Cesare Croce",
+                    "book": "bibit000143.json",
+                    "year": 1550,
+                    "snippet_idx": "80"
+                }
+            ],
+            "solution": 0,
+            
+        }
+    ]
+}
