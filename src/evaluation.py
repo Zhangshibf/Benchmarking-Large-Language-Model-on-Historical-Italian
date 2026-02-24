@@ -5,40 +5,47 @@ from src.settings import OUTPUT_DIR, RESULTS_DIR,NER_DIR, BELLINI_FILE,CLASSENSE
 
 def evaluate_all_tiers(output_base_dir=OUTPUT_DIR,results_base_path=RESULTS_DIR):
 
-    for folder in output_base_dir.rglob('*'):
-        if folder.is_dir():
-            json_files = list(folder.glob('*.json'))
-            if len(json_files) == 7:
+    for folder in output_base_dir.rglob('**/'):
+        jsonl_files = list(folder.glob('*.jsonl'))
+        if len(jsonl_files) == 7:
+            print(f"Found match: {folder} contains exactly 7 JSONs")
+            overall_result = {}
+            for jsonl_file in jsonl_files:
                 relative_path = folder.relative_to(output_base_dir)
                 target_folder = results_base_path / relative_path
                 target_folder.mkdir(parents=True, exist_ok=True)
 
-                print(f"Processing folder: {relative_path}")
+                output_file_path = target_folder / jsonl_file.name
+                overall_path = target_folder / "overall.json"
+                preds = []
+                with open(jsonl_file, "r", encoding="utf-8") as f:
+                    for line in f:
+                        if line.strip():
+                            preds.append(json.loads(line))
+                tier = jsonl_file.stem.replace("_results", "")
+                if tier in ["tier1","tier2","tier4","tier5_auth"]:
+                    evaluation_result = calculate_accuracy(preds)
+                    overall_result[tier]=evaluation_result
+                elif "tier3" in tier:
+                    ner_mapped_file = NER_DIR / relative_path / jsonl_file.name
+                    if ner_mapped_file.is_file():
+                        ner_preds = json.load(open(ner_mapped_file,"r",encoding="utf-8"))
+                    else:
+                        create_mapped_ner(preds,ner_mapped_file)
+                        ner_preds = json.load(open(ner_mapped_file, "r", encoding="utf-8"))
+                    evaluation_result = evaluate_NER_result(ner_preds)
+                    overall_result[tier] = evaluation_result
+                elif "rank" in tier:
+                    evaluation_result = evaluate_rank_result(preds)
+                    overall_result[tier] = evaluation_result
 
-                for json_file in json_files:
-                    output_file_path = target_folder / json_file.name
-                    with open(json_file,"r",encoding="utf-8") as f:
-                        preds = json.load(f)
-                    tier = str(json_file).replace("_results.jsonl","")
-                    if tier in ["tier1","tier2","tier4","tier5_auth"]:
-                        evaluation_result = calculate_accuracy(preds)
-                    elif "tier3" in tier:
-                        ner_mapped_file = NER_DIR / relative_path / json_file.name
-                        if ner_mapped_file.is_file():
-                            ner_preds = json.load(open(ner_mapped_file,"r",encoding="utf-8"))
-                        else:
-                            create_mapped_ner(preds,ner_mapped_file)
-                            ner_preds = json.load(open(ner_mapped_file, "r", encoding="utf-8"))
-                        evaluation_result = evaluate_NER_result(ner_preds)
-                    elif "rank" in tier:
-                        evaluation_result = evaluate_rank_result(preds)
-
-                    with open(output_file_path,"w",encoding="utf-8") as f:
-                        json.dump(evaluation_result,f)
+                with open(output_file_path,"w",encoding="utf-8") as f:
+                    json.dump(evaluation_result,f)
+            with open(overall_path, "w", encoding="utf-8") as f:
+                json.dump(overall_result, f,indent=2)
 
 
-import ast
-import numpy as np
+
 from scipy.stats import spearmanr
 
 import json
@@ -66,8 +73,13 @@ def calculate_metrics(tp, fp, fn):
     return precision, recall, f1
 
 
-def evaluate_NER_result(ner_preds, benchmark):
+def evaluate_NER_result(ner_preds):
     # Map benchmark by letter_id for quick access
+    if "LL" in ner_preds[0]['letter_id']:
+        benchmark = json.load(open(BELLINI_FILE, "r", encoding='utf-8'))
+    elif "DLCL" in ner_preds[0]['letter_id']:
+        benchmark = json.load(open(CLASSENSE_FILE, "r", encoding='utf-8'))
+
     gold_map = {item['letter_id']: item['entities'] for item in benchmark}
 
     strict_doc_scores = []
@@ -142,6 +154,7 @@ def evaluate_NER_result(ner_preds, benchmark):
             "macro": {"precision": ma_f_p, "recall": ma_f_r, "f1": ma_f_f1}
         }
     }
+
 def create_mapped_ner(preds, output_path):
     # Load benchmarks (assuming paths are defined globally as per your snippet)
     if "LL" in preds[0]['id']:
@@ -211,6 +224,11 @@ def create_mapped_ner(preds, output_path):
         })
 
     # Save to JSON
+    output_path_obj = Path(output_path)
+
+    # This creates all missing parent folders (parents=True)
+    # and won't crash if they already exist (exist_ok=True)
+    output_path_obj.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(mapped_results, f, indent=2, ensure_ascii=False)
 
@@ -225,10 +243,11 @@ def evaluate_rank_result(preds):
         print(f"Error parsing model response: {e}")
         return None
 
-    gt = [i["gold_index"] for i in preds]
+    gt = [i["gold_order"] for i in preds]
 
     rho_scores = []
     for p, g in zip(parsed_preds, gt):
+
         score, _ = spearmanr(p, g)
         rho_scores.append(score)
 
@@ -239,8 +258,6 @@ def evaluate_rank_result(preds):
     }
 
 
-def evaluate_NER_result(preds):
-    pass
 
 
 def calculate_accuracy(preds):
@@ -253,3 +270,5 @@ def calculate_accuracy(preds):
             correct+=1
     return {"accuracy":correct/len(gt)}
 
+if __name__=="__main__":
+    evaluate_all_tiers()
