@@ -99,7 +99,7 @@ def run_benchmark(experiment_name: str, toy_mode: bool = False):
                         debug_path = task_output_dir / f"{task_name}_prompts_debug.txt"
                         with open(debug_path, "w", encoding="utf-8") as f_debug:
                             f_debug.write(
-                                f"=== SYSTEM ===\n{sys_message}\n\n=== HUMAN ===\n{prompt_template.format(**inputs)}")
+                                f"{prompt_template.format(**inputs)}")
                         prompt_saved = True
 
                     try:
