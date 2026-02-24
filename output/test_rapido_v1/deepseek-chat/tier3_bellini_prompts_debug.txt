@@ -1,0 +1,36 @@
+=== SYSTEM ===
+Sei un modello linguistico di grandi dimensioni specializzato nel trattamento dell'italiano storico.
+
+=== HUMAN ===
+System: Sei un modello linguistico di grandi dimensioni specializzato nel trattamento dell'italiano storico.
+Human: 
+Esegui il riconoscimento delle entità nominate (Named Entity Recognition) sul testo fornito.
+
+**Compito:**
+1. Identifica nel testo tutte le entità che appartengono ai tipi specificati.
+2. Estrai l'entità esattamente come appare nel testo.
+3. Associa a ogni entità il suo tipo corretto.
+
+**Input:**
+Testo: È vero: anche Florimo mi consiglia a scrivere l'opera a fare il possibile di dar l'opera a S. Carlo pel 12: Gennajo, essendo la Malibran scritturata per quell'epoca. Io sinceramente le dico, che mi pare assai difficile il finirla per tal'epoca; men difficile forse pei primi di Febrajo; ma d'adesso non potrei alcuna cosa promettere; quindi, se piace alla Nobile società, proporrei quanto segue: Ella abbia la bontà di inviarmi la nota compagnia che vi sarà nell'inverno venturo, come quelli che probabilmente potranno avere per l'anno primavera del 1835: — Io subito finita l'opera per Parigi imprenderò a scrivere quella per Napoli, e farò tutti gli sforzi possibili per finirla per portarla a compimento per metterla e darla in scena, al più tardi, il 1:° Febrajo del 1835: Ma se ciò non potrà riuscire prometto, darne avviso nella fine d'Agosto vegnente perché la Nobile Società prenda le sue misure, ed allora l'opera la darei nella primavera dell'istess'anno. Se questo piano conviene, ella abbia la bontà di rendermi subito avvisato, per fissar tutto con un contratto legale; mentre offerte per ora ho paralizzato altre trattative che non potrò riprendere che do se non prima avrò fermato il contratto con Napoli — Sà poi Ella qual'è la gran difficoltà Di già col Conte Pepoli che mi scrive il libro per Parigi, sono siamo in cerca anche di un argomento per Napoli; ed ancora non se ne presenta alcuno che ci convenga, e per Parigi e per costì. È la cosa la più difficile di trovare soggetti che presentano novità ed interesse, ed è la sola ragione che fa perdere tanto tempo, ma come sono convinto che senza che il libretto è il pedamento d'un'opera, così ho trovato bene impiegato il tempo per la ricerca. Ella si compiaccia dunque di rispondermi e non faccia meraviglia se dopo le paghe che ho ricevuto a Milano per la Sonnambula e la Norma domando per l'opera che mi ordina quattromila ducati. L'impresa potrà forse introitarne una mettà con la vendita della proprietà d'edizione e di spartito. L'editore Ricordi di Milano paga di già per i diritti soli di l'opera che devo scrivere per Parigi due mila franchi, e lo troverò pronto a comprare quella di Napoli quanto ella lo vuole. — Trupenas editore di Parigi (è vero che è un'opera per Parigi ove egli trovandosi già) mi paga ottomila franchi per gli dritti di proprietà nell'edizione e su lo spartito. Dopo tutto ciò: ella, Signor Cavaliere, dovrebbe indicarmi la compagnia che sarà scritturata pel Carnevale 1835:, e dirmi se la Nobile Direzione si contentasse che io dessi mettessi dessi l'opera in scena nei primi di Febrajo, e se fosse possibile anche prima: in questo caso, finita quella per Parigi imprenderò a scrivere subito per Napoli.
+Tipi di entità ammessi: ["PER", "PER_GROUP", "LOC", "ORG", "WORK", "MUSIC_TERM", "MISC"]
+
+**Formato di Output richiesto:**
+Restituisci ESCLUSIVAMENTE una lista di tuple nel formato: [(entità1:tipo),(entità2:tipo),...]
+Non aggiungere spiegazioni, introduzioni o punteggiatura extra. Se non trovi entità, restituisci [].
+
+## Tipi di Entità
+
+- **PER** - Riferimenti a persone:
+    - Nomi: Bellini, Rossini, Mercadante
+    - Con titoli: Signor Beltrame, Signora Contessa
+    - Indiretti: Signore (allocutivo formale), Ella, amico, zio, papà, sua moglie
+- **PER_GROUP** - Gruppi di persone: figli, famiglia, genitori
+- **LOC** - Luoghi: Parigi, Napoli, Milano, Catania
+- **ORG** - Organizzazioni: Casa (editrice), Teatro, Società
+- **WORK** - Titoli di opere: Puritani, Norma, Sonnambula
+- **MUSIC_TERM** - Termini musicali: opera, libretto, aria, spartito, duetto
+- **MISC** - Solo altri nomi propri non classificabili sopra
+
+**Esempio di output:**
+[(Leonardo da Vinci:PER),(Firenze:LOC)]

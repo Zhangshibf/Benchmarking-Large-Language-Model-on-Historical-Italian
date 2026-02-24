@@ -1,0 +1,37 @@
+=== SYSTEM ===
+Sei un modello linguistico di grandi dimensioni specializzato nel trattamento dell'italiano storico.
+
+=== HUMAN ===
+System: Sei un modello linguistico di grandi dimensioni specializzato nel trattamento dell'italiano storico.
+Human: 
+Esegui il riconoscimento delle entità nominate (Named Entity Recognition) sul testo fornito.
+
+**Compito:**
+1. Identifica nel testo tutte le entità che appartengono ai tipi specificati.
+2. Estrai l'entità esattamente come appare nel testo.
+3. Associa a ogni entità il suo tipo corretto.
+
+**Input:**
+Testo: Molto Reverendo Padre mio Osservandissimo Con la gratissima lettera di Vostra Paternitàricevo la nota de' libri di Faenzae insieme la certa notizia dell'offerta già fatta dal mio Marozzi. Con questo lume ora potrò regolarmi nel rispondere alla richiesta di dieci scudi. Mi spiace che ancora non siano giunti i due Manoscritti del Quadriregio; perché non avrò costì l’ozio, che qui posso godere, per collazionarli con lo stampato. Avrò caro che presto arrivino i libri del Ruinetti. Raccomando a Vostra Paternitàsollecitare la copia del Calendario; la qual fatta consegni subito al Padre Camerlingoper la stampa. Indi converrà ch’ella applichi a fare il Catalogo della Libreria Vecchia. Con che raccomandandomi a suoi santi sagrifici, ed alle orazioni sue, mi confermo. Ribano 31 ottobre 1711. DVP Mi scrive il Padre Amiciche siano giunte a Don Bonifaciole tre copie del Martelli. Faccia sapere a lui che si faccia venire da quel Padredel Monte di Cesenala Copia delle Ipercrisidel Bacchini. Veda col Padre Camerlengo, che ha la chiave, trovare delle nostre camere due copie del Catullodel Volpilegato alla rustica; e le mandi al Padre Amici. Cordialissimo Padre nel Signore Pietro Canneti Al Molto Reverendo Padre mio Osservandissimo Il Padre Don Mariangelo FiacchiMonaco Camaldolese Classe Ravenna
+Tipi di entità ammessi: ["PER", "LOC", "ORG", "WORK"]
+
+**Formato di Output richiesto:**
+Restituisci ESCLUSIVAMENTE una lista di tuple nel formato: [(entità1:tipo),(entità2:tipo),...]
+Non aggiungere spiegazioni, introduzioni o punteggiatura extra. Se non trovi entità, restituisci [].
+
+## Tipi di Entità
+
+- **PER**: Nomi di persona (es. "Padre Mariangelo Fiacchi", "Ambrogio Traversari", "Frate Leandro Alberti"). 
+  Includi titoli completi e onorifici.
+
+- **LOC**: Nomi di luogo (es. "Ravenna", "Camaldoli", "Venezia", "Roma", "Bologna"). 
+  Città, regioni, monasteri, chiese, edifici.
+
+- **ORG**: Organizzazioni e istituzioni (es. "Accademia della Crusca", "Ordine Camaldolese", "Studio Sbaraglia"). 
+  Accademie, ordini religiosi, studi, biblioteche.
+
+- **WORK**: Opere e pubblicazioni (es. "Istoria di Bologna", "Epistole", "Calendario Benedettino"). 
+  Libri, manoscritti, lettere, cronache, qualsiasi opera citata.
+
+**Esempio di output:**
+[(Leonardo da Vinci:PER),(Firenze:LOC)]
