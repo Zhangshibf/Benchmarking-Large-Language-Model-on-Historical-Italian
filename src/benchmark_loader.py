@@ -115,6 +115,32 @@ class Tier3Loader(BaseBenchmarkLoader):
 
                     yield BenchmarkInstanceNERLetter(dataset=dataset_name,id=id,text = text,entities=entites,entites_type=entites_type)
 
+class Tier4Loader(BaseBenchmarkLoader):
+    def __init__(self, benchmark_dir: Path):
+        super().__init__(benchmark_dir)
+        self.file_path = self.benchmark_dir / "tier4" / "dante.json"
+    def __iter__(self):
+        with open(self.file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            for instance in data:
+                id = instance['id']
+                target = instance["dante_text"]
+                candidates = [instance['chunk_a']['text'],instance['chunk_b']['text']]
+                correct = instance["correct_answer"]
+                if correct=="A":
+                    gold_idx = 0
+                elif correct=="B":
+                    gold_idx=1
+                gold = candidates[gold_idx]
+
+                yield BenchmarkInstance1(
+                    id=id,
+                    target=target,
+                    context="",
+                    candidates=candidates,
+                    gold=gold,
+                    gold_index=gold_idx,
+                )
 
 class Tier5LoaderAuthorship(BaseBenchmarkLoader):
     def __init__(self, benchmark_dir: Path):
