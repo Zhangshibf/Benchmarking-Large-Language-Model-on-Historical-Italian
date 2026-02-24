@@ -38,9 +38,7 @@
                     "snippet_idx": "39"
                 }
             ],
-            "solution": 2,
-            
-        },
+            "solution": 2},
         {
             "task_id": 2,
             "task_type": "odd_one_out",
@@ -74,9 +72,7 @@
                     "snippet_idx": "96"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 3,
             "task_type": "odd_one_out",
@@ -110,9 +106,7 @@
                     "snippet_idx": "9512"
                 }
             ],
-            "solution": 2,
-            
-        },
+            "solution": 2},
         {
             "task_id": 4,
             "task_type": "odd_one_out",
@@ -146,9 +140,7 @@
                     "snippet_idx": "66"
                 }
             ],
-            "solution": 3,
-            
-        },
+            "solution": 3},
         {
             "task_id": 5,
             "task_type": "odd_one_out",
@@ -182,9 +174,7 @@
                     "snippet_idx": "615"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 6,
             "task_type": "odd_one_out",
@@ -218,9 +208,7 @@
                     "snippet_idx": "492"
                 }
             ],
-            "solution": 3,
-            
-        },
+            "solution": 3},
         {
             "task_id": 7,
             "task_type": "odd_one_out",
@@ -254,9 +242,7 @@
                     "snippet_idx": "68"
                 }
             ],
-            "solution": 3,
-            
-        },
+            "solution": 3},
         {
             "task_id": 8,
             "task_type": "odd_one_out",
@@ -290,9 +276,7 @@
                     "snippet_idx": "20"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 9,
             "task_type": "odd_one_out",
@@ -326,9 +310,7 @@
                     "snippet_idx": "487"
                 }
             ],
-            "solution": 0,
-            
-        },
+            "solution": 0},
         {
             "task_id": 10,
             "task_type": "odd_one_out",
@@ -362,9 +344,7 @@
                     "snippet_idx": "135"
                 }
             ],
-            "solution": 2,
-            
-        },
+            "solution": 2},
         {
             "task_id": 11,
             "task_type": "odd_one_out",
@@ -398,9 +378,7 @@
                     "snippet_idx": "9"
                 }
             ],
-            "solution": 0,
-            
-        },
+            "solution": 0},
         {
             "task_id": 12,
             "task_type": "odd_one_out",
@@ -434,9 +412,7 @@
                     "snippet_idx": "1243"
                 }
             ],
-            "solution": 0,
-            
-        },
+            "solution": 0},
         {
             "task_id": 13,
             "task_type": "odd_one_out",
@@ -470,9 +446,7 @@
                     "snippet_idx": "556"
                 }
             ],
-            "solution": 3,
-            
-        },
+            "solution": 3},
         {
             "task_id": 14,
             "task_type": "odd_one_out",
@@ -506,9 +480,7 @@
                     "snippet_idx": "3553"
                 }
             ],
-            "solution": 3,
-            
-        },
+            "solution": 3},
         {
             "task_id": 15,
             "task_type": "odd_one_out",
@@ -542,9 +514,7 @@
                     "snippet_idx": "3"
                 }
             ],
-            "solution": 2,
-            
-        },
+            "solution": 2},
         {
             "task_id": 16,
             "task_type": "odd_one_out",
@@ -578,9 +548,7 @@
                     "snippet_idx": "370"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 17,
             "task_type": "odd_one_out",
@@ -614,9 +582,7 @@
                     "snippet_idx": "3107"
                 }
             ],
-            "solution": 0,
-            
-        },
+            "solution": 0},
         {
             "task_id": 18,
             "task_type": "odd_one_out",
@@ -650,9 +616,7 @@
                     "snippet_idx": "741"
                 }
             ],
-            "solution": 0,
-            
-        },
+            "solution": 0},
         {
             "task_id": 19,
             "task_type": "odd_one_out",
@@ -686,9 +650,7 @@
                     "snippet_idx": "76"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 20,
             "task_type": "odd_one_out",
@@ -722,9 +684,7 @@
                     "snippet_idx": "15"
                 }
             ],
-            "solution": 0,
-            
-        },
+            "solution": 0},
         {
             "task_id": 21,
             "task_type": "odd_one_out",
@@ -758,9 +718,7 @@
                     "snippet_idx": "149"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 22,
             "task_type": "odd_one_out",
@@ -794,9 +752,7 @@
                     "snippet_idx": "3"
                 }
             ],
-            "solution": 2,
-            
-        },
+            "solution": 2},
         {
             "task_id": 23,
             "task_type": "odd_one_out",
@@ -830,9 +786,7 @@
                     "snippet_idx": "100"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 24,
             "task_type": "odd_one_out",
@@ -866,9 +820,7 @@
                     "snippet_idx": "61"
                 }
             ],
-            "solution": 0,
-            
-        },
+            "solution": 0},
         {
             "task_id": 25,
             "task_type": "odd_one_out",
@@ -902,9 +854,7 @@
                     "snippet_idx": "17"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 26,
             "task_type": "odd_one_out",
@@ -938,9 +888,7 @@
                     "snippet_idx": "3"
                 }
             ],
-            "solution": 2,
-            
-        },
+            "solution": 2},
         {
             "task_id": 27,
             "task_type": "odd_one_out",
@@ -974,9 +922,7 @@
                     "snippet_idx": "301"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 28,
             "task_type": "odd_one_out",
@@ -1010,9 +956,7 @@
                     "snippet_idx": "11817"
                 }
             ],
-            "solution": 0,
-            
-        },
+            "solution": 0},
         {
             "task_id": 29,
             "task_type": "odd_one_out",
@@ -1046,9 +990,7 @@
                     "snippet_idx": "5"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 30,
             "task_type": "odd_one_out",
@@ -1082,9 +1024,7 @@
                     "snippet_idx": "1205"
                 }
             ],
-            "solution": 0,
-            
-        },
+            "solution": 0},
         {
             "task_id": 31,
             "task_type": "odd_one_out",
@@ -1118,9 +1058,7 @@
                     "snippet_idx": "91"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 32,
             "task_type": "odd_one_out",
@@ -1154,9 +1092,7 @@
                     "snippet_idx": "1057"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 33,
             "task_type": "odd_one_out",
@@ -1190,9 +1126,7 @@
                     "snippet_idx": "280"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 34,
             "task_type": "odd_one_out",
@@ -1226,9 +1160,7 @@
                     "snippet_idx": "2514"
                 }
             ],
-            "solution": 3,
-            
-        },
+            "solution": 3},
         {
             "task_id": 35,
             "task_type": "odd_one_out",
@@ -1262,9 +1194,7 @@
                     "snippet_idx": "77"
                 }
             ],
-            "solution": 0,
-            
-        },
+            "solution": 0},
         {
             "task_id": 36,
             "task_type": "odd_one_out",
@@ -1298,9 +1228,7 @@
                     "snippet_idx": "10"
                 }
             ],
-            "solution": 0,
-            
-        },
+            "solution": 0},
         {
             "task_id": 37,
             "task_type": "odd_one_out",
@@ -1334,9 +1262,7 @@
                     "snippet_idx": "2219"
                 }
             ],
-            "solution": 3,
-            
-        },
+            "solution": 3},
         {
             "task_id": 38,
             "task_type": "odd_one_out",
@@ -1370,9 +1296,7 @@
                     "snippet_idx": "82"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 39,
             "task_type": "odd_one_out",
@@ -1406,9 +1330,7 @@
                     "snippet_idx": "558"
                 }
             ],
-            "solution": 1,
-            
-        },
+            "solution": 1},
         {
             "task_id": 40,
             "task_type": "odd_one_out",
@@ -1442,9 +1364,7 @@
                     "snippet_idx": "13334"
                 }
             ],
-            "solution": 3,
-            
-        },
+            "solution": 3},
         {
             "task_id": 41,
             "task_type": "odd_one_out",
@@ -1478,9 +1398,7 @@
                     "snippet_idx": "5"
                 }
             ],
-            "solution": 3,
-            
-        },
+            "solution": 3},
         {
             "task_id": 42,
             "task_type": "odd_one_out",
@@ -1514,9 +1432,7 @@
                     "snippet_idx": "326"
                 }
             ],
-            "solution": 3,
-            
-        },
+            "solution": 3},
         {
             "task_id": 43,
             "task_type": "odd_one_out",
@@ -1550,9 +1466,7 @@
                     "snippet_idx": "618"
                 }
             ],
-            "solution": 0,
-            
-        },
+            "solution": 0},
         {
             "task_id": 44,
             "task_type": "odd_one_out",
@@ -1586,9 +1500,7 @@
                     "snippet_idx": "223"
                 }
             ],
-            "solution": 0,
-            
-        },
+            "solution": 0},
         {
             "task_id": 45,
             "task_type": "odd_one_out",
@@ -1622,9 +1534,7 @@
                     "snippet_idx": "27"
                 }
             ],
-            "solution": 2,
-            
-        },
+            "solution": 2},
         {
             "task_id": 46,
             "task_type": "odd_one_out",
@@ -1658,9 +1568,7 @@
                     "snippet_idx": "12"
                 }
             ],
-            "solution": 2,
-            
-        },
+            "solution": 2},
         {
             "task_id": 47,
             "task_type": "odd_one_out",
@@ -1694,9 +1602,7 @@
                     "snippet_idx": "53"
                 }
             ],
-            "solution": 2,
-            
-        },
+            "solution": 2},
         {
             "task_id": 48,
             "task_type": "odd_one_out",
@@ -1730,9 +1636,7 @@
                     "snippet_idx": "255"
                 }
             ],
-            "solution": 3,
-            
-        },
+            "solution": 3},
         {
             "task_id": 49,
             "task_type": "odd_one_out",
@@ -1766,9 +1670,7 @@
                     "snippet_idx": "52"
                 }
             ],
-            "solution": 2,
-            
-        },
+            "solution": 2},
         {
             "task_id": 50,
             "task_type": "odd_one_out",
@@ -1802,8 +1704,6 @@
                     "snippet_idx": "80"
                 }
             ],
-            "solution": 0,
-            
-        }
+            "solution": 0}
     ]
 }

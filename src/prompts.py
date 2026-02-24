@@ -13,7 +13,7 @@ Il tuo compito è risolvere un esercizio di disambiguazione del significato dell
 **Input:**
 Contesto: {context}
 Frase target: {target}
-Candidati: {candidate_str}
+Candidati: {answers_str}
 
 **Formato di output:** Restituisci solo il numero (es. "1", "2", "3").
 """
@@ -37,8 +37,7 @@ Restituisci ESCLUSIVAMENTE il numero della risposta corretta. Non aggiungere com
 **Formato di output:** Restituisci solo il numero (es. "1", "2", "3").
 """
 
-
-PROMPT_TIER3 = """
+PROMPT_TIER3_BELLINI = """
 Esegui il riconoscimento delle entità nominate (Named Entity Recognition) sul testo fornito.
 
 **Compito:**
@@ -48,17 +47,62 @@ Esegui il riconoscimento delle entità nominate (Named Entity Recognition) sul t
 
 **Input:**
 Testo: {testo}
-Tipi di entità ammessi: {tipi_entita}
+Tipi di entità ammessi: ["PER", "PER_GROUP", "LOC", "ORG", "WORK", "MUSIC_TERM", "MISC"]
 
 **Formato di Output richiesto:**
 Restituisci ESCLUSIVAMENTE una lista di tuple nel formato: [(entità1:tipo),(entità2:tipo),...]
 Non aggiungere spiegazioni, introduzioni o punteggiatura extra. Se non trovi entità, restituisci [].
 
+## Tipi di Entità
+
+- **PER** - Riferimenti a persone:
+    - Nomi: Bellini, Rossini, Mercadante
+    - Con titoli: Signor Beltrame, Signora Contessa
+    - Indiretti: Signore (allocutivo formale), Ella, amico, zio, papà, sua moglie
+- **PER_GROUP** - Gruppi di persone: figli, famiglia, genitori
+- **LOC** - Luoghi: Parigi, Napoli, Milano, Catania
+- **ORG** - Organizzazioni: Casa (editrice), Teatro, Società
+- **WORK** - Titoli di opere: Puritani, Norma, Sonnambula
+- **MUSIC_TERM** - Termini musicali: opera, libretto, aria, spartito, duetto
+- **MISC** - Solo altri nomi propri non classificabili sopra
+
 **Esempio di output:**
 [(Leonardo da Vinci:PER),(Firenze:LOC)]
 """
 
-# prompts.py
+PROMPT_TIER3_CLASSENSE = """
+Esegui il riconoscimento delle entità nominate (Named Entity Recognition) sul testo fornito.
+
+**Compito:**
+1. Identifica nel testo tutte le entità che appartengono ai tipi specificati.
+2. Estrai l'entità esattamente come appare nel testo.
+3. Associa a ogni entità il suo tipo corretto.
+
+**Input:**
+Testo: {testo}
+Tipi di entità ammessi: ["PER", "LOC", "ORG", "WORK"]
+
+**Formato di Output richiesto:**
+Restituisci ESCLUSIVAMENTE una lista di tuple nel formato: [(entità1:tipo),(entità2:tipo),...]
+Non aggiungere spiegazioni, introduzioni o punteggiatura extra. Se non trovi entità, restituisci [].
+
+## Tipi di Entità
+
+- **PER**: Nomi di persona (es. "Padre Mariangelo Fiacchi", "Ambrogio Traversari", "Frate Leandro Alberti"). 
+  Includi titoli completi e onorifici.
+
+- **LOC**: Nomi di luogo (es. "Ravenna", "Camaldoli", "Venezia", "Roma", "Bologna"). 
+  Città, regioni, monasteri, chiese, edifici.
+
+- **ORG**: Organizzazioni e istituzioni (es. "Accademia della Crusca", "Ordine Camaldolese", "Studio Sbaraglia"). 
+  Accademie, ordini religiosi, studi, biblioteche.
+
+- **WORK**: Opere e pubblicazioni (es. "Istoria di Bologna", "Epistole", "Calendario Benedettino"). 
+  Libri, manoscritti, lettere, cronache, qualsiasi opera citata.
+
+**Esempio di output:**
+[(Leonardo da Vinci:PER),(Firenze:LOC)]
+"""
 
 PROMPT_TIER4 = """
 Analizza il testo fornito e determina con quale delle due fonti proposte esiste una relazione di intertestualità (citazione, influenza stilistica, parodia o riferimento diretto).

@@ -59,7 +59,10 @@ class Tier1Loader(BaseBenchmarkLoader):
             candidates = list(instance["candidates"])  # copy before shuffle
             gold = instance["gold"]
             random.shuffle(candidates)
-            gold_index = candidates.index(gold)
+            gold_index = candidates.index(gold)+1
+            print(candidates)
+            print(gold)
+            print(gold_index)
 
             yield BenchmarkInstance1(
                 id=raw_idx,
@@ -82,10 +85,14 @@ class Tier2Loader(BaseBenchmarkLoader):
         for raw_idx, instance in data.items():
             target = instance["selected_token_form"]
             context = instance["sentence_text"]
-            candidates = list(instance["distractors_full"].extend(instance["deprel_full_name"]))
+            candidates = instance["distractors_full"]
+            candidates.append(instance["deprel_full_name"])
             gold = instance["deprel_full_name"]
             random.shuffle(candidates)
-            gold_index = candidates.index(gold)
+            gold_index = candidates.index(gold)+1
+            print(candidates)
+            print(gold)
+            print(gold_index)
 
             yield BenchmarkInstance1(
                 id=raw_idx,
@@ -96,24 +103,40 @@ class Tier2Loader(BaseBenchmarkLoader):
                 gold_index=gold_index,
             )
 
-class Tier3Loader(BaseBenchmarkLoader):
+class Tier3LoaderBELLINI(BaseBenchmarkLoader):
     def __init__(self, benchmark_dir: Path):
         super().__init__(benchmark_dir)
-        self.bellini_path = self.benchmark_dir / "tier3" / "bellini.json"
-        self.classense_path = self.benchmark_dir / "tier3" / "classense.json"
-        self.paths = [self.bellini_path,self.classense_path]
-    def __iter__(self):
-        for p in self.paths:
-            with open(p,"r",encoding='utf-8') as f:
-                dataset = json.load(f)
-                dataset_name = "bellini" if "bellini" in p else "classense"
-                for letter in dataset:
-                    id = letter['letter_id']
-                    text=letter['text']
-                    entites = [i['text'] for i in letter['entities']]
-                    entites_type = [i['type'] for i in letter['entities']]
 
-                    yield BenchmarkInstanceNERLetter(dataset=dataset_name,id=id,text = text,entities=entites,entites_type=entites_type)
+        self.bellini_path = self.benchmark_dir / "tier3" / "bellini.json"
+
+    def __iter__(self):
+        with open(self.bellini_path,"r",encoding='utf-8') as f:
+            dataset = json.load(f)
+            dataset_name = "bellini"
+            for letter in dataset:
+                id = letter['letter_id']
+                text=letter['text']
+                entites = [i['text'] for i in letter['entities']]
+                entites_type = [i['type'] for i in letter['entities']]
+
+                yield BenchmarkInstanceNERLetter(dataset=dataset_name,id=id,text = text,entities=entites,entites_type=entites_type)
+
+class Tier3LoaderCLASSENSE(BaseBenchmarkLoader):
+    def __init__(self, benchmark_dir: Path):
+        super().__init__(benchmark_dir)
+        self.classense_path = self.benchmark_dir / "tier3" / "classense.json"
+
+    def __iter__(self):
+        with open(self.classense_path,"r",encoding='utf-8') as f:
+            dataset = json.load(f)
+            dataset_name =  "classense"
+            for letter in dataset:
+                id = letter['letter_id']
+                text=letter['text']
+                entites = [i['text'] for i in letter['entities']]
+                entites_type = [i['type'] for i in letter['entities']]
+
+                yield BenchmarkInstanceNERLetter(dataset=dataset_name,id=id,text = text,entities=entites,entites_type=entites_type)
 
 class Tier4Loader(BaseBenchmarkLoader):
     def __init__(self, benchmark_dir: Path):
@@ -132,7 +155,10 @@ class Tier4Loader(BaseBenchmarkLoader):
                 elif correct=="B":
                     gold_idx=1
                 gold = candidates[gold_idx]
-
+                gold_idx+=1
+                print(candidates)
+                print(gold)
+                print(gold_idx)
                 yield BenchmarkInstance1(
                     id=id,
                     target=target,
@@ -153,14 +179,17 @@ class Tier5LoaderAuthorship(BaseBenchmarkLoader):
         data=[]
         for f_path in self.f_paths:
             with open(f_path, "r", encoding="utf-8") as f:
-                data.append(json.load(f_path))
+                data.append(json.load(f))
         for dataset in data:
             instances = dataset["tasks"]
 
             for instance in instances:
                 id = instance['task_id']
                 snippets = [i['text'] for i in instance["snippets"]]
-                gold_index = instance['solution']
+                gold_index = instance['solution']+1
+                print(id)
+                print(snippets)
+                print(gold_index)
 
                 yield BenchmarkInstance1(
                     id=id,
@@ -182,21 +211,33 @@ class Tier5LoaderRanking(BaseBenchmarkLoader):
         data=[]
         for f_path in self.f_paths:
             with open(f_path, "r", encoding="utf-8") as f:
-                data.append(json.load(f_path))
+                data.append(json.load(f))
         for dataset in data:
 
             instances = dataset["tasks"]
 
             for instance in instances:
                 id = instance['task_id']
-                snippets = [i['text'] for i in instance["snippets"]]
-                years = [i['year'] for i in instance["snippets"]]
-                years = [int(i) for i in years]
-                c = list(zip(snippets, years))
-                random.shuffle(c)
-                snippets, years = zip(*c)
-                sorted_year = sorted(years)
-                years_order = [sorted_year.index(i) for i in years]
+                raw_snippets = [i['text'] for i in instance["snippets"]]
+                raw_years = [int(i['year']) for i in instance["snippets"]]
 
-                yield BenchmarkInstanceRanking(id=id,snippets=snippets,order=years_order)
+                # Zip them so we can shuffle and keep track of original snippet content
+                combined = list(zip(raw_snippets, raw_years))
+                random.shuffle(combined)
+                shuffled_snippets, shuffled_years = zip(*combined)
 
+                # We need the 1-based indices of the snippets sorted by year (Newest to Oldest)
+                # 1. Create list of (index+1, year)
+                indexed_years = list(enumerate(shuffled_years, start=1))
+                # 2. Sort by year descending (Most Recent -> Oldest)
+                indexed_years.sort(key=lambda x: x[1], reverse=True)
+                # 3. Extract the ordered indices
+                gold_sequence = [item[0] for item in indexed_years]
+                print(shuffled_snippets)
+                print(shuffled_years)
+                print(gold_sequence)
+                yield BenchmarkInstanceRanking(
+                    id=id,
+                    snippets=list(shuffled_snippets),
+                    order=gold_sequence
+                )
