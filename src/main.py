@@ -34,7 +34,7 @@ def run_benchmark(experiment_name: str, toy_mode: bool = False):
     models = {
         "deepseek-chat": ChatDeepSeek(model="deepseek-chat", temperature=0),
         "gpt": ChatOpenAI(model="gpt-5.2-2025-12-11", temperature=0),
-        # "claude-3-5-sonnet": ChatAnthropic(model="claude-3-5-sonnet-20240620", temperature=0)
+        "claude-3-5-sonnet": ChatAnthropic(model="claude-opus-4-6", temperature=0)
     }
 
     tasks = [
@@ -111,16 +111,16 @@ def run_benchmark(experiment_name: str, toy_mode: bool = False):
                             "gold_order": getattr(instance, 'order', None),
                         }
 
-                        # --- THE CHANGE: Append as a single line ---
+
                         f_out.write(json.dumps(result_data, ensure_ascii=False) + "\n")
                         f_out.flush()  # Force write to disk immediately
 
                     except Exception as e:
                         print(f"    ⚠️ Errore istanza {instance.id}: {e}")
-# --- ESEMPIO DI UTILIZZO ---
-if __name__ == "__main__":
-    # Esegui un test rapido
-    run_benchmark(experiment_name="test_rapido_v1", toy_mode=True)
 
-    # Esegui l'esperimento completo (commentato per sicurezza)
-    # run_benchmark(experiment_name="esperimento_finale_marzo", toy_mode=False)
+if __name__ == "__main__":
+    #run_benchmark(experiment_name="test_rapido_v1", toy_mode=True)
+    #run_benchmark(experiment_name="round1", toy_mode=False)
+
+    run_benchmark(experiment_name="round2", toy_mode=False)
+    run_benchmark(experiment_name="round3", toy_mode=False)

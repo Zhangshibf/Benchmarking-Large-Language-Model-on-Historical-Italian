@@ -60,9 +60,9 @@ class Tier1Loader(BaseBenchmarkLoader):
             gold = instance["gold"]
             random.shuffle(candidates)
             gold_index = candidates.index(gold)+1
-            print(candidates)
-            print(gold)
-            print(gold_index)
+            # print(candidates)
+            # print(gold)
+            # print(gold_index)
 
             yield BenchmarkInstance1(
                 id=raw_idx,
@@ -90,9 +90,9 @@ class Tier2Loader(BaseBenchmarkLoader):
             gold = instance["deprel_full_name"]
             random.shuffle(candidates)
             gold_index = candidates.index(gold)+1
-            print(candidates)
-            print(gold)
-            print(gold_index)
+            # print(candidates)
+            # print(gold)
+            # print(gold_index)
 
             yield BenchmarkInstance1(
                 id=raw_idx,
@@ -156,9 +156,9 @@ class Tier4Loader(BaseBenchmarkLoader):
                     gold_idx=1
                 gold = candidates[gold_idx]
                 gold_idx+=1
-                print(candidates)
-                print(gold)
-                print(gold_idx)
+                # print(candidates)
+                # print(gold)
+                # print(gold_idx)
                 yield BenchmarkInstance1(
                     id=id,
                     target=target,
@@ -187,9 +187,9 @@ class Tier5LoaderAuthorship(BaseBenchmarkLoader):
                 id = instance['task_id']
                 snippets = [i['text'] for i in instance["snippets"]]
                 gold_index = instance['solution']+1
-                print(id)
-                print(snippets)
-                print(gold_index)
+                # print(id)
+                # print(snippets)
+                # print(gold_index)
 
                 yield BenchmarkInstance1(
                     id=id,
@@ -233,9 +233,9 @@ class Tier5LoaderRanking(BaseBenchmarkLoader):
                 indexed_years.sort(key=lambda x: x[1], reverse=True)
                 # 3. Extract the ordered indices
                 gold_sequence = [item[0] for item in indexed_years]
-                print(shuffled_snippets)
-                print(shuffled_years)
-                print(gold_sequence)
+                # print(shuffled_snippets)
+                # print(shuffled_years)
+                # print(gold_sequence)
                 yield BenchmarkInstanceRanking(
                     id=id,
                     snippets=list(shuffled_snippets),
