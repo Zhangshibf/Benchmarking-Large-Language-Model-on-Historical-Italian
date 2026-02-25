@@ -57,11 +57,10 @@ from difflib import SequenceMatcher
 
 
 def get_overlap_ratio(s1, s2):
-    # Finds the longest common substring length
+
     match = SequenceMatcher(None, s1, s2).find_longest_match(0, len(s1), 0, len(s2))
     overlap_len = match.size
-    # Your specific formula: overlap / (overlap + non_overlap_s1 + non_overlap_s2)
-    # This is equivalent to: overlap / (len(s1) + len(s2) - overlap)
+
     denom = (len(s1) + len(s2) - overlap_len)
     return overlap_len / denom if denom > 0 else 0
 
@@ -74,7 +73,7 @@ def calculate_metrics(tp, fp, fn):
 
 
 def evaluate_NER_result(ner_preds):
-    # Map benchmark by letter_id for quick access
+
     if "LL" in ner_preds[0]['letter_id']:
         benchmark = json.load(open(BELLINI_FILE, "r", encoding='utf-8'))
     elif "DLCL" in ner_preds[0]['letter_id']:
@@ -106,10 +105,8 @@ def evaluate_NER_result(ner_preds):
                     if p['type'] != g['type']: continue
 
                     if mode == 'strict':
-                        # Exact span match
                         is_match = (p['start'] == g['start'] and p['end'] == g['end'])
                     else:
-                        # Fuzzy overlap match > 50%
                         is_match = get_overlap_ratio(p['text'], g['text']) > 0.5
 
                     if is_match:
@@ -123,7 +120,7 @@ def evaluate_NER_result(ner_preds):
 
             fn = len(gold_ents) - len(matched_gold_indices)
 
-            # Store for Macro/Micro
+
             if mode == 'strict':
                 total_strict["tp"] += tp;
                 total_strict["fp"] += fp;
@@ -135,12 +132,10 @@ def evaluate_NER_result(ner_preds):
                 total_fuzzy["fn"] += fn
                 fuzzy_doc_scores.append(calculate_metrics(tp, fp, fn))
 
-    # --- Aggregate Results ---
-    # Micro: Calculate globally
+
     mi_s_p, mi_s_r, mi_s_f1 = calculate_metrics(total_strict["tp"], total_strict["fp"], total_strict["fn"])
     mi_f_p, mi_f_r, mi_f_f1 = calculate_metrics(total_fuzzy["tp"], total_fuzzy["fp"], total_fuzzy["fn"])
 
-    # Macro: Average of per-document scores
     ma_s_p, ma_s_r, ma_s_f1 = np.mean(strict_doc_scores, axis=0)
     ma_f_p, ma_f_r, ma_f_f1 = np.mean(fuzzy_doc_scores, axis=0)
 
@@ -156,13 +151,12 @@ def evaluate_NER_result(ner_preds):
     }
 
 def create_mapped_ner(preds, output_path):
-    # Load benchmarks (assuming paths are defined globally as per your snippet)
+
     if "LL" in preds[0]['id']:
         benchmark = json.load(open(BELLINI_FILE, "r", encoding='utf-8'))
     elif "DLCL" in preds[0]['id']:
         benchmark = json.load(open(CLASSENSE_FILE, "r", encoding='utf-8'))
 
-    # Create a lookup for benchmark data by letter_id
     benchmark_map = {item['letter_id']: item for item in benchmark}
 
     mapped_results = []
@@ -171,12 +165,9 @@ def create_mapped_ner(preds, output_path):
         letter_id = entry['id']
         raw_response = entry['model_response']
 
-        # 1. Parse model_response string to list of tuples
-        # We replace () with [] to make it valid literal_eval if needed,
-        # or use regex if the format is slightly inconsistent.
+
         try:
-            # Clean string format if it uses (Text:Type) instead of ("Text", "Type")
-            # This regex converts (Word:TAG) to ("Word", "TAG")
+
             cleaned_response = re.sub(r'\(([^:]+):([^)]+)\)', r'("\1", "\2")', raw_response)
             entities_list = ast.literal_eval(cleaned_response)
         except Exception as e:
@@ -190,9 +181,9 @@ def create_mapped_ner(preds, output_path):
         current_search_pos = 0
         extracted_entities = []
 
-        # 2. Map entities to character offsets
+
         for text_snippet, ent_type in entities_list:
-            # Find the snippet in the text starting from the last found position
+
             start_idx = full_text.find(text_snippet, current_search_pos)
 
             if start_idx != -1:
@@ -203,10 +194,8 @@ def create_mapped_ner(preds, output_path):
                     "start": start_idx,
                     "end": end_idx
                 })
-                # Update position to handle duplicate words in order
                 current_search_pos = end_idx
             else:
-                # Fallback: search from the beginning if not found sequentially
                 start_idx = full_text.find(text_snippet)
                 if start_idx != -1:
                     extracted_entities.append({
@@ -216,18 +205,14 @@ def create_mapped_ner(preds, output_path):
                         "end": start_idx + len(text_snippet)
                     })
 
-        # 3. Structure the final object
         mapped_results.append({
             "letter_id": letter_id,
             "text": full_text,
             "entities": extracted_entities
         })
 
-    # Save to JSON
     output_path_obj = Path(output_path)
 
-    # This creates all missing parent folders (parents=True)
-    # and won't crash if they already exist (exist_ok=True)
     output_path_obj.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(mapped_results, f, indent=2, ensure_ascii=False)
@@ -237,12 +222,7 @@ def create_mapped_ner(preds, output_path):
 
 
 def evaluate_rank_result(preds):
-    try:
-        parsed_preds = [ast.literal_eval(i["model_response"]) for i in preds]
-    except (ValueError, SyntaxError) as e:
-        print(f"Error parsing model response: {e}")
-        return None
-
+    parsed_preds = [ast.literal_eval(i["model_response"]) for i in preds]
     gt = [i["gold_order"] for i in preds]
 
     rho_scores = []

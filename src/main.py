@@ -34,7 +34,7 @@ def run_benchmark(experiment_name: str, toy_mode: bool = False):
     models = {
         "deepseek-chat": ChatDeepSeek(model="deepseek-chat", temperature=0),
         "gpt": ChatOpenAI(model="gpt-5.2-2025-12-11", temperature=0),
-        "claude-3-5-sonnet": ChatAnthropic(model="claude-opus-4-6", temperature=0)
+        "claude": ChatAnthropic(model="claude-opus-4-6", temperature=0)
     }
 
     tasks = [
@@ -121,6 +121,6 @@ def run_benchmark(experiment_name: str, toy_mode: bool = False):
 if __name__ == "__main__":
     #run_benchmark(experiment_name="test_rapido_v1", toy_mode=True)
     #run_benchmark(experiment_name="round1", toy_mode=False)
-
-    run_benchmark(experiment_name="round2", toy_mode=False)
-    run_benchmark(experiment_name="round3", toy_mode=False)
+    # run_benchmark(experiment_name="round2", toy_mode=False)
+    # run_benchmark(experiment_name="round3", toy_mode=False)
+    pass
