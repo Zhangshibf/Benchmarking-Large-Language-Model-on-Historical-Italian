@@ -1,0 +1,13 @@
+{"id": 1, "model_response": "4", "gold_index": 3, "gold_order": null}
+{"id": 2, "model_response": "3", "gold_index": 2, "gold_order": null}
+{"id": 3, "model_response": "2", "gold_index": 3, "gold_order": null}
+{"id": 4, "model_response": "3", "gold_index": 4, "gold_order": null}
+{"id": 5, "model_response": "3", "gold_index": 2, "gold_order": null}
+{"id": 6, "model_response": "4", "gold_index": 4, "gold_order": null}
+{"id": 7, "model_response": "1", "gold_index": 4, "gold_order": null}
+{"id": 8, "model_response": "1", "gold_index": 2, "gold_order": null}
+{"id": 9, "model_response": "2", "gold_index": 1, "gold_order": null}
+{"id": 10, "model_response": "3", "gold_index": 3, "gold_order": null}
+{"id": 11, "model_response": "1", "gold_index": 1, "gold_order": null}
+{"id": 12, "model_response": "3", "gold_index": 1, "gold_order": null}
+{"id": 13, "model_response": "3", "gold_index": 4, "gold_order": null}
