@@ -4,6 +4,7 @@ This repository contains code and resources for benchmarking Large Language Mode
 
 ## Repository Structure
 Benchmarking-Large-Language-Model-on-Historical-Italian/
+```
 ├── benchmark/ # Contains the benchmark dataset
 ├── output/ # Stores LLM outputs after inference
 ├── eval_results/ # Stores evaluation results
@@ -15,7 +16,7 @@ Benchmarking-Large-Language-Model-on-Historical-Italian/
 │ ├── main.py # Main script for loading benchmark and querying LLMs
 │ └── evaluation.py # Script for evaluating LLM outputs
 └── README.md
-
+```
 
 ## Components
 
