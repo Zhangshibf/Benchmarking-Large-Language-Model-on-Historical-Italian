@@ -119,8 +119,8 @@ def run_benchmark(experiment_name: str, toy_mode: bool = False):
                         print(f"    ⚠️ Errore istanza {instance.id}: {e}")
 
 if __name__ == "__main__":
-    #run_benchmark(experiment_name="test_rapido_v1", toy_mode=True)
-    #run_benchmark(experiment_name="round1", toy_mode=False)
-    # run_benchmark(experiment_name="round2", toy_mode=False)
-    # run_benchmark(experiment_name="round3", toy_mode=False)
-    pass
+    run_benchmark(experiment_name="test_rapido_v1", toy_mode=True)
+    run_benchmark(experiment_name="round1", toy_mode=False)
+    run_benchmark(experiment_name="round2", toy_mode=False)
+    run_benchmark(experiment_name="round3", toy_mode=False)
+
