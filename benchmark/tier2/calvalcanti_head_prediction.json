@@ -1,0 +1,1890 @@
+{
+    "10 - a Giovanna.conllu_0_tok13": {
+        "sentence_id": "0",
+        "selected_token_form": "valore",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "piena",
+        "true_head_id": 11,
+        "distractors": [
+            {
+                "form": "foll'",
+                "id": 3,
+                "upos": "ADJ"
+            },
+            {
+                "form": "vostra",
+                "id": 9,
+                "upos": "DET"
+            },
+            {
+                "form": "figura",
+                "id": 10,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "Li miei foll'occhi, che prima guardaro vostra figura piena di valore, fuor quei che di voi, donna, m'acusaro nel fero loco, ove ten corte amore.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "10 - a Giovanna.conllu_1_tok11": {
+        "sentence_id": "1",
+        "selected_token_form": "servidore",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "fatto",
+        "true_head_id": 9,
+        "distractors": [
+            {
+                "form": "mostraro",
+                "id": 5,
+                "upos": "VERB"
+            },
+            {
+                "form": "vostro",
+                "id": 10,
+                "upos": "DET"
+            },
+            {
+                "form": "pigliaro",
+                "id": 18,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "E mantenente avanti lui mostraro ch'io era fatto vostro servidore; perchè sospiri e dolor mi pigliaro vedendo che temenza avea lo core.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "10 - a Giovanna.conllu_2_tok21": {
+        "sentence_id": "2",
+        "selected_token_form": "forte",
+        "selected_token_pos": "ADV",
+        "true_head_form": "doleva",
+        "true_head_id": 18,
+        "distractors": [
+            {
+                "form": "Menare",
+                "id": 1,
+                "upos": "VERB"
+            },
+            {
+                "form": "trovai",
+                "id": 13,
+                "upos": "VERB"
+            },
+            {
+                "form": "amor",
+                "id": 20,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "Menarmi tosto senza riposanza in una parte, là 'v'i' trovai gente che ciascun si doleva d'amor forte.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "10 - a Giovanna.conllu_3_tok5": {
+        "sentence_id": "3",
+        "selected_token_form": "tutti",
+        "selected_token_pos": "PRON",
+        "true_head_form": "disser",
+        "true_head_id": 8,
+        "distractors": [
+            {
+                "form": "vider",
+                "id": 3,
+                "upos": "VERB"
+            },
+            {
+                "form": "mi",
+                "id": 9,
+                "upos": "PRON"
+            },
+            {
+                "form": "se'",
+                "id": 13,
+                "upos": "AUX"
+            }
+        ],
+        "sentence_text": "Quando mi vider, tutti con pietanza dissermi: — fatto se' di tal servente che mai non dei sperare altro che morte.—",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Plur",
+            "PronType": "Ind"
+        }
+    },
+    "26 - Sonetto.conllu_0_tok25": {
+        "sentence_id": "0",
+        "selected_token_form": "pensare",
+        "selected_token_pos": "VERB",
+        "true_head_form": "stringere",
+        "true_head_id": 22,
+        "distractors": [
+            {
+                "form": "assale",
+                "id": 20,
+                "upos": "VERB"
+            },
+            {
+                "form": "vale",
+                "id": 35,
+                "upos": "VERB"
+            },
+            {
+                "form": "dà",
+                "id": 47,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Un amoroso sguardo spiritale m'à m'à rinovato amor tanto piacente, ch'assai più che non sole ora m'assale e stringemi a pensare coralmente  ver la mia donna, verso cui non vale merzede nè pietà nè star soffrente, chè sovent'ora mi dà pena tale che in poca parte il core vita sente.",
+        "morph_features": {
+            "Tense": "Pres",
+            "VerbForm": "Inf",
+            "Voice": "Act"
+        }
+    },
+    "26 - Sonetto.conllu_2_tok42": {
+        "sentence_id": "2",
+        "selected_token_form": "un",
+        "selected_token_pos": "DET",
+        "true_head_form": "pietà",
+        "true_head_id": 45,
+        "distractors": [
+            {
+                "form": "amore",
+                "id": 40,
+                "upos": "NOUN"
+            },
+            {
+                "form": "noia",
+                "id": 50,
+                "upos": "NOUN"
+            },
+            {
+                "form": "gioia",
+                "id": 22,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "Ma quando sento che sì dolce sguardo dentro da li occhi mi passò a lo core e posevi uno spirito di gioia,  di farne a lei merzè già mai non tardo: così pregata foss'ella d'amore ch'un poco di pietà no i fosse a noia.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "27 - Sonetto.conllu_0_tok13": {
+        "sentence_id": "0",
+        "selected_token_form": "mente",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "destaste",
+        "true_head_id": 11,
+        "distractors": [
+            {
+                "form": "passaste",
+                "id": 7,
+                "upos": "VERB"
+            },
+            {
+                "form": "dormia",
+                "id": 15,
+                "upos": "VERB"
+            },
+            {
+                "form": "guardate",
+                "id": 17,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Voi che per li occhi mi passaste 'l core e destaste la mente che dormia, guardate a l'angosciosa vita mia, chè sospirando la distrugge amore.",
+        "morph_features": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        }
+    },
+    "27 - Sonetto.conllu_1_tok12": {
+        "sentence_id": "1",
+        "selected_token_form": "van",
+        "selected_token_pos": "VERB",
+        "true_head_form": "tagliando",
+        "true_head_id": 3,
+        "distractors": [
+            {
+                "form": "ven",
+                "id": 2,
+                "upos": "VERB"
+            },
+            {
+                "form": "riman",
+                "id": 15,
+                "upos": "VERB"
+            },
+            {
+                "form": "di",
+                "id": 4,
+                "upos": "ADP"
+            }
+        ],
+        "sentence_text": "E ven tagliando di sì gran valore che' deboletti spiriti van via; riman figura sol' en signoria e voce alquanta che parla dolore.",
+        "morph_features": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        }
+    },
+    "27 - Sonetto.conllu_2_tok25": {
+        "sentence_id": "2",
+        "selected_token_form": "da",
+        "selected_token_pos": "ADP",
+        "true_head_form": "fianco",
+        "true_head_id": 27,
+        "distractors": [
+            {
+                "form": "dardo",
+                "id": 21,
+                "upos": "NOUN"
+            },
+            {
+                "form": "'l",
+                "id": 26,
+                "upos": "DET"
+            },
+            {
+                "form": "amor",
+                "id": 4,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "Questa virtù d'amor, che m'à disfatto, da' vostr'occhi gentil presta si mosse: un dardo mi gittò dentro da 'l fianco.",
+        "morph_features": null
+    },
+    "27 - Sonetto.conllu_3_tok13": {
+        "sentence_id": "3",
+        "selected_token_form": "anima",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "riscosse",
+        "true_head_id": 16,
+        "distractors": [
+            {
+                "form": "giunse",
+                "id": 2,
+                "upos": "VERB"
+            },
+            {
+                "form": "tremando",
+                "id": 14,
+                "upos": "VERB"
+            },
+            {
+                "form": "tratto",
+                "id": 9,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Sì giunse ritto 'l colpo al primo tratto, che l'anima tremando si riscosse veggendo morto 'l cor nel lato manco.",
+        "morph_features": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        }
+    },
+    "3 - Guido a Dante..conllu_0_tok12": {
+        "sentence_id": "0",
+        "selected_token_form": "gioco",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "valore",
+        "true_head_id": 9,
+        "distractors": [
+            {
+                "form": "parere",
+                "id": 6,
+                "upos": "NOUN"
+            },
+            {
+                "form": "tutto",
+                "id": 11,
+                "upos": "DET"
+            },
+            {
+                "form": "prova",
+                "id": 22,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "Vedeste, al mio parere, ogni valore e tutto gioco e quanto ben om sente, se foste 'n prova del signor valente, che signoreggia 'l mondo de l'onore.  Poi vive in parte dove noia more e tien ragion ne la pietosa mente; sì va soave per sonni a la gente, che' cor ne porta senza far dolore.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "3 - Guido a Dante..conllu_2_tok4": {
+        "sentence_id": "2",
+        "selected_token_form": "core",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "portò",
+        "true_head_id": 6,
+        "distractors": [
+            {
+                "form": "chedea",
+                "id": 14,
+                "upos": "VERB"
+            },
+            {
+                "form": "nodri",
+                "id": 16,
+                "upos": "VERB"
+            },
+            {
+                "form": "vegendo",
+                "id": 8,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Di voi lo core ne portò, vegendo che vostra donna la morte chedea: nodrilla d'esto cor di ciò temendo.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "3 - Guido a Dante..conllu_3_tok3": {
+        "sentence_id": "3",
+        "selected_token_form": "apparve",
+        "selected_token_pos": "VERB",
+        "true_head_form": "sonno",
+        "true_head_id": 13,
+        "distractors": [
+            {
+                "form": "'l",
+                "id": 11,
+                "upos": "DET"
+            },
+            {
+                "form": "dolce",
+                "id": 12,
+                "upos": "ADJ"
+            },
+            {
+                "form": "gia",
+                "id": 7,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Quando v'apparve che sen' sen' gia dolendo, fu 'l dolce sonno ch'allor si compiea, chè 'l su' contrario lo venia vincendo.",
+        "morph_features": {
+            "Aspect": "Perf",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        }
+    },
+    "30 - Sonetto.conllu_0_tok7": {
+        "sentence_id": "0",
+        "selected_token_form": "de",
+        "selected_token_pos": "ADP",
+        "true_head_form": "battaglia",
+        "true_head_id": 9,
+        "distractors": [
+            {
+                "form": "sbigotita",
+                "id": 6,
+                "upos": "VERB"
+            },
+            {
+                "form": "anima",
+                "id": 2,
+                "upos": "NOUN"
+            },
+            {
+                "form": "la",
+                "id": 8,
+                "upos": "DET"
+            }
+        ],
+        "sentence_text": "L'anima mia vilment'è sbigotita de la battaglia ch'ell'ave dal core, che, s'ella sente pur un poco amore, più presso a lui che non sole, la more.",
+        "morph_features": null
+    },
+    "30 - Sonetto.conllu_1_tok9": {
+        "sentence_id": "1",
+        "selected_token_form": "ch'",
+        "selected_token_pos": "SCONJ",
+        "true_head_form": "partita",
+        "true_head_id": 16,
+        "distractors": [
+            {
+                "form": "Sta",
+                "id": 1,
+                "upos": "VERB"
+            },
+            {
+                "form": "à",
+                "id": 6,
+                "upos": "VERB"
+            },
+            {
+                "form": "temenza",
+                "id": 12,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "Sta come quella che non à valore, ch'è per temenza da lo cor partita: e chi vedesse com'ell'è fuggita diria per certo: — questi non à vita. —",
+        "morph_features": null
+    },
+    "30 - Sonetto.conllu_3_tok15": {
+        "sentence_id": "3",
+        "selected_token_form": "sì",
+        "selected_token_pos": "ADV",
+        "true_head_form": "venne",
+        "true_head_id": 4,
+        "distractors": [
+            {
+                "form": "ruppe",
+                "id": 11,
+                "upos": "VERB"
+            },
+            {
+                "form": "fu",
+                "id": 21,
+                "upos": "AUX"
+            },
+            {
+                "form": "strutta",
+                "id": 22,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Per gli occhi venne la battaglia in pria, che ruppe ogni valore immantenente sì, che del colpo fu strutta la mente.",
+        "morph_features": null
+    },
+    "30 - Sonetto.conllu_4_tok5": {
+        "sentence_id": "4",
+        "selected_token_form": "più",
+        "selected_token_pos": "ADV",
+        "true_head_form": "sente",
+        "true_head_id": 7,
+        "distractors": [
+            {
+                "form": "vedesse",
+                "id": 10,
+                "upos": "VERB"
+            },
+            {
+                "form": "è",
+                "id": 2,
+                "upos": "AUX"
+            },
+            {
+                "form": "fuggir",
+                "id": 13,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Qualunqu' è quei che più allegrezza sente, se vedesse li spirti fuggir via, di grande sua pietate piangeria.",
+        "morph_features": null
+    },
+    "31 - Sonetto.conllu_0_tok16": {
+        "sentence_id": "0",
+        "selected_token_form": "partire",
+        "selected_token_pos": "VERB",
+        "true_head_form": "briga",
+        "true_head_id": 14,
+        "distractors": [
+            {
+                "form": "manda",
+                "id": 22,
+                "upos": "VERB"
+            },
+            {
+                "form": "mostrano",
+                "id": 26,
+                "upos": "VERB"
+            },
+            {
+                "form": "pon",
+                "id": 32,
+                "upos": "AUX"
+            }
+        ],
+        "sentence_text": "Tu m'ài sì piena di dolor la mente che l'anima si briga di partire, e li sospir che manda il cor dolente mostrano a li occhi che non pon soffrire.",
+        "morph_features": {
+            "Tense": "Pres",
+            "VerbForm": "Inf"
+        }
+    },
+    "31 - Sonetto.conllu_1_tok4": {
+        "sentence_id": "1",
+        "selected_token_form": "lo",
+        "selected_token_pos": "DET",
+        "true_head_form": "valor",
+        "true_head_id": 7,
+        "distractors": [
+            {
+                "form": "tuo",
+                "id": 5,
+                "upos": "DET"
+            },
+            {
+                "form": "grande",
+                "id": 6,
+                "upos": "ADJ"
+            },
+            {
+                "form": "dice",
+                "id": 10,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Amor, che lo tuo grande valor sente, dice: — mi duol che ti convien morire per questa fera donna, che neente par che pietade di te voglia udire.",
+        "morph_features": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "PronType": "Art"
+        }
+    },
+    "31 - Sonetto.conllu_2_tok24": {
+        "sentence_id": "2",
+        "selected_token_form": "rame",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "fatto",
+        "true_head_id": 22,
+        "distractors": [
+            {
+                "form": "morto",
+                "id": 52,
+                "upos": "VERB"
+            },
+            {
+                "form": "aperto",
+                "id": 54,
+                "upos": "VERB"
+            },
+            {
+                "form": "vo",
+                "id": 2,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Io vo come colui ch'è fuor di vita, che pare, a chi lo sguarda, c'omo sia fatto di rame o di pietra o di legno,  che sè conduca sol per maestria, e porti ne lo core una ferita che sia, com'egli è morto, aperto segno.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "32 - Sonetto.conllu_0_tok5": {
+        "sentence_id": "0",
+        "selected_token_form": "donna",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "prego",
+        "true_head_id": 3,
+        "distractors": [
+            {
+                "form": "di'",
+                "id": 18,
+                "upos": "VERB"
+            },
+            {
+                "form": "sono",
+                "id": 21,
+                "upos": "AUX"
+            },
+            {
+                "form": "questa",
+                "id": 4,
+                "upos": "DET"
+            }
+        ],
+        "sentence_text": "S'io prego questa donna che pietate non sia nemica del suo cor gentile, tu di' ch'io sono sconoscente e vile e disperato e pien di vanitate.",
+        "morph_features": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        }
+    },
+    "32 - Sonetto.conllu_1_tok6": {
+        "sentence_id": "1",
+        "selected_token_form": "crudeltate",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "vien",
+        "true_head_id": 3,
+        "distractors": [
+            {
+                "form": "nova",
+                "id": 5,
+                "upos": "ADJ"
+            },
+            {
+                "form": "si",
+                "id": 4,
+                "upos": "ADV"
+            },
+            {
+                "form": "ti",
+                "id": 2,
+                "upos": "PRON"
+            }
+        ],
+        "sentence_text": "Onde ti vien si nova crudeltate?",
+        "morph_features": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        }
+    },
+    "32 - Sonetto.conllu_2_tok18": {
+        "sentence_id": "2",
+        "selected_token_form": "fatta",
+        "selected_token_pos": "VERB",
+        "true_head_form": "umile",
+        "true_head_id": 9,
+        "distractors": [
+            {
+                "form": "saggia",
+                "id": 10,
+                "upos": "ADJ"
+            },
+            {
+                "form": "adorna",
+                "id": 12,
+                "upos": "ADJ"
+            },
+            {
+                "form": "sottile",
+                "id": 16,
+                "upos": "ADJ"
+            }
+        ],
+        "sentence_text": "Già risomigli, a chi ti vede, umile saggia ed adorna ed accorta e sottile e fatta a modo di soavitate.",
+        "morph_features": {
+            "Aspect": "Perf",
+            "Gender": "Fem",
+            "Number": "Sing",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        }
+    },
+    "32 - Sonetto.conllu_3_tok4": {
+        "sentence_id": "3",
+        "selected_token_form": "dolente",
+        "selected_token_pos": "ADJ",
+        "true_head_form": "anima",
+        "true_head_id": 2,
+        "distractors": [
+            {
+                "form": "mia",
+                "id": 3,
+                "upos": "DET"
+            },
+            {
+                "form": "piange",
+                "id": 7,
+                "upos": "VERB"
+            },
+            {
+                "form": "cor",
+                "id": 14,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "L'anima mia dolente e paurosa piange ne li sospir che nel cor trova sì, che bagnati di pianto escon fore.",
+        "morph_features": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        }
+    },
+    "32 - Sonetto.conllu_4_tok17": {
+        "sentence_id": "4",
+        "selected_token_form": "veder",
+        "selected_token_pos": "VERB",
+        "true_head_form": "vegna",
+        "true_head_id": 15,
+        "distractors": [
+            {
+                "form": "par",
+                "id": 2,
+                "upos": "VERB"
+            },
+            {
+                "form": "piova",
+                "id": 7,
+                "upos": "VERB"
+            },
+            {
+                "form": "morir",
+                "id": 18,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Allora par che ne la mente piova una figura di donna pensosa, che vegna per veder morir lo core.",
+        "morph_features": {
+            "Tense": "Pres",
+            "VerbForm": "Inf",
+            "Voice": "Act"
+        }
+    },
+    "33 - Sonetto.conllu_0_tok17": {
+        "sentence_id": "0",
+        "selected_token_form": "dispero",
+        "selected_token_pos": "VERB",
+        "true_head_form": "dica",
+        "true_head_id": 12,
+        "distractors": [
+            {
+                "form": "temo",
+                "id": 2,
+                "upos": "VERB"
+            },
+            {
+                "form": "faccia",
+                "id": 8,
+                "upos": "VERB"
+            },
+            {
+                "form": "sento",
+                "id": 23,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Io temo che la mia disaventura non faccia sì ch'io dica: — i' mi dispero: — però ch'i' sento nel cor un pensero, che fa tremar la mente di paura  e par che dica: — amor non t'assicura in guisa, che tu possa di leggero a la tua donna sì contar il vero, che morte non ti ponga in sua figura. —",
+        "morph_features": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Act"
+        }
+    },
+    "33 - Sonetto.conllu_3_tok4": {
+        "sentence_id": "3",
+        "selected_token_form": "doglia",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "parte",
+        "true_head_id": 10,
+        "distractors": [
+            {
+                "form": "sente",
+                "id": 8,
+                "upos": "VERB"
+            },
+            {
+                "form": "va",
+                "id": 18,
+                "upos": "VERB"
+            },
+            {
+                "form": "l'",
+                "id": 6,
+                "upos": "DET"
+            }
+        ],
+        "sentence_text": "De la gran doglia che l'anima sente si parte da lo core uno sospiro, che va dicendo: — spiriti, fuggite. —",
+        "morph_features": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        }
+    },
+    "33 - Sonetto.conllu_4_tok16": {
+        "sentence_id": "4",
+        "selected_token_form": "dicendo",
+        "selected_token_pos": "VERB",
+        "true_head_form": "consolasse",
+        "true_head_id": 12,
+        "distractors": [
+            {
+                "form": "miro",
+                "id": 10,
+                "upos": "VERB"
+            },
+            {
+                "form": "sia",
+                "id": 7,
+                "upos": "AUX"
+            },
+            {
+                "form": "mia",
+                "id": 13,
+                "upos": "DET"
+            }
+        ],
+        "sentence_text": "Allor d'un uom, che sia pietoso, miro che consolasse mia vita dolente dicendo: — spiritei, non vi partite.—",
+        "morph_features": {
+            "VerbForm": "Conv",
+            "Voice": "Act"
+        }
+    },
+    "35 - Sonetto.conllu_0_tok29": {
+        "sentence_id": "0",
+        "selected_token_form": "vede",
+        "selected_token_pos": "VERB",
+        "true_head_form": "apparir",
+        "true_head_id": 17,
+        "distractors": [
+            {
+                "form": "Veder",
+                "id": 1,
+                "upos": "VERB"
+            },
+            {
+                "form": "more",
+                "id": 21,
+                "upos": "VERB"
+            },
+            {
+                "form": "om",
+                "id": 19,
+                "upos": "PRON"
+            }
+        ],
+        "sentence_text": "Veder poteste, quando vui scontrai, quel pauroso spirito d'amore, lo qual sol apparir quand'om si more, e in altra guisa non si vede mai.",
+        "morph_features": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Pass"
+        }
+    },
+    "35 - Sonetto.conllu_1_tok14": {
+        "sentence_id": "1",
+        "selected_token_form": "core",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "uccidesse",
+        "true_head_id": 11,
+        "distractors": [
+            {
+                "form": "pensai",
+                "id": 8,
+                "upos": "VERB"
+            },
+            {
+                "form": "lo",
+                "id": 12,
+                "upos": "DET"
+            },
+            {
+                "form": "dolente",
+                "id": 13,
+                "upos": "ADJ"
+            }
+        ],
+        "sentence_text": "Elli mi fu sì presso ch'i' pensai ch'elli uccidesse lo dolente core.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "35 - Sonetto.conllu_2_tok11": {
+        "sentence_id": "2",
+        "selected_token_form": "per",
+        "selected_token_pos": "ADP",
+        "true_head_form": "trar",
+        "true_head_id": 13,
+        "distractors": [
+            {
+                "form": "mise",
+                "id": 3,
+                "upos": "VERB"
+            },
+            {
+                "form": "voler",
+                "id": 12,
+                "upos": "AUX"
+            },
+            {
+                "form": "morto",
+                "id": 6,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Allor si mise nel morto colore l'anima trista per voler trar guai.",
+        "morph_features": null
+    },
+    "35 - Sonetto.conllu_3_tok19": {
+        "sentence_id": "3",
+        "selected_token_form": "dentr'",
+        "selected_token_pos": "ADV",
+        "true_head_form": "cor",
+        "true_head_id": 22,
+        "distractors": [
+            {
+                "form": "lume",
+                "id": 13,
+                "upos": "NOUN"
+            },
+            {
+                "form": "il",
+                "id": 21,
+                "upos": "DET"
+            },
+            {
+                "form": "occhi",
+                "id": 10,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "Ma poi sostenne, quando vide uscire de li occhi vostri un lume di mercede, che porse dentr'al cor nova dolcezza.",
+        "morph_features": null
+    },
+    "35 - Sonetto.conllu_4_tok11": {
+        "sentence_id": "4",
+        "selected_token_form": "che",
+        "selected_token_pos": "PRON",
+        "true_head_form": "morire",
+        "true_head_id": 13,
+        "distractors": [
+            {
+                "form": "soccorse",
+                "id": 7,
+                "upos": "VERB"
+            },
+            {
+                "form": "vede",
+                "id": 6,
+                "upos": "VERB"
+            },
+            {
+                "form": "volean",
+                "id": 12,
+                "upos": "AUX"
+            }
+        ],
+        "sentence_text": "E quel sottile spirito che vede soccorse li altri, che volean morire gravati d'angosciosa debolezza.",
+        "morph_features": {
+            "PronType": "Rel"
+        }
+    },
+    "37 - Sonetto.conllu_0_tok24": {
+        "sentence_id": "0",
+        "selected_token_form": "amare",
+        "selected_token_pos": "VERB",
+        "true_head_form": "spirito",
+        "true_head_id": 22,
+        "distractors": [
+            {
+                "form": "spirito",
+                "id": 14,
+                "upos": "NOUN"
+            },
+            {
+                "form": "spiritel",
+                "id": 29,
+                "upos": "NOUN"
+            },
+            {
+                "form": "spirito",
+                "id": 6,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "Pe' gli occhi fere un spirito sottile, che fa in la mente spirito destare, dal qual si move spirito d'amare, e ogn'altro spiritel si fa gentile.",
+        "morph_features": {
+            "Tense": "Pres",
+            "VerbForm": "Inf",
+            "Voice": "Act"
+        }
+    },
+    "37 - Sonetto.conllu_1_tok21": {
+        "sentence_id": "1",
+        "selected_token_form": "fa",
+        "selected_token_pos": "VERB",
+        "true_head_form": "spiritel",
+        "true_head_id": 18,
+        "distractors": [
+            {
+                "form": "spirito",
+                "id": 12,
+                "upos": "NOUN"
+            },
+            {
+                "form": "spiritel",
+                "id": 24,
+                "upos": "NOUN"
+            },
+            {
+                "form": "spirito",
+                "id": 6,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "Sentir non po' di lui spirito vile, di cotanta virtù spirito appare: quest'è lo spiritel, che fa tremare lo spiritel, che fa la donna umile.",
+        "morph_features": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Act"
+        }
+    },
+    "37 - Sonetto.conllu_2_tok4": {
+        "sentence_id": "2",
+        "selected_token_form": "spirito",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "move",
+        "true_head_id": 6,
+        "distractors": [
+            {
+                "form": "segue",
+                "id": 14,
+                "upos": "VERB"
+            },
+            {
+                "form": "si",
+                "id": 5,
+                "upos": "PRON"
+            },
+            {
+                "form": "questo",
+                "id": 3,
+                "upos": "DET"
+            }
+        ],
+        "sentence_text": "Poi da questo spirito si move un altro dolce spirito soave, che segue un spiritello di mercede,",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "37 - Sonetto.conllu_3_tok1": {
+        "sentence_id": "3",
+        "selected_token_form": "lo",
+        "selected_token_pos": "DET",
+        "true_head_form": "spiritel",
+        "true_head_id": 3,
+        "distractors": [
+            {
+                "form": "piove",
+                "id": 5,
+                "upos": "VERB"
+            },
+            {
+                "form": "quale",
+                "id": 2,
+                "upos": "DET"
+            },
+            {
+                "form": "spiriti",
+                "id": 4,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "lo quale spiritel spiriti piove; che di ciascuno spirit' à la chiave per forza d'uno spirito che 'l vede.",
+        "morph_features": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "PronType": "Art"
+        }
+    },
+    "49 - a Dante.conllu_0_tok22": {
+        "sentence_id": "0",
+        "selected_token_form": "mente",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "dol",
+        "true_head_id": 17,
+        "distractors": [
+            {
+                "form": "vengo",
+                "id": 2,
+                "upos": "VERB"
+            },
+            {
+                "form": "trovoti",
+                "id": 10,
+                "upos": "VERB"
+            },
+            {
+                "form": "son",
+                "id": 30,
+                "upos": "AUX"
+            }
+        ],
+        "sentence_text": "Io vengo il giorno a te infinite volte e trovoti pensar troppo vilmente: allor mi dol de la gentil tua mente e d'assai tue virtù che ti son tolte.",
+        "morph_features": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        }
+    },
+    "49 - a Dante.conllu_1_tok1": {
+        "sentence_id": "1",
+        "selected_token_form": "Solevan",
+        "selected_token_pos": "ADV",
+        "true_head_form": "spiacer",
+        "true_head_id": 3,
+        "distractors": [
+            {
+                "form": "fuggivi",
+                "id": 8,
+                "upos": "VERB"
+            },
+            {
+                "form": "parlavi",
+                "id": 15,
+                "upos": "VERB"
+            },
+            {
+                "form": "ti",
+                "id": 2,
+                "upos": "PRON"
+            }
+        ],
+        "sentence_text": "Solevanti spiacer persone molte, tuttor fuggivi la noiosa gente, di me parlavi sì coralemente che tutte le tue rime avei ricolte.",
+        "morph_features": null
+    },
+    "49 - a Dante.conllu_2_tok5": {
+        "sentence_id": "2",
+        "selected_token_form": "la",
+        "selected_token_pos": "DET",
+        "true_head_form": "vita",
+        "true_head_id": 8,
+        "distractors": [
+            {
+                "form": "ardisco",
+                "id": 3,
+                "upos": "VERB"
+            },
+            {
+                "form": "vil",
+                "id": 6,
+                "upos": "ADJ"
+            },
+            {
+                "form": "tua",
+                "id": 7,
+                "upos": "DET"
+            }
+        ],
+        "sentence_text": "Or non ardisco per la vil tua vita, far mostramento che tu' dir mi piaccia, nè vengo 'n guisa a te che tu mi veggi.",
+        "morph_features": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Sing",
+            "PronType": "Art"
+        }
+    },
+    "49 - a Dante.conllu_3_tok1": {
+        "sentence_id": "3",
+        "selected_token_form": "Se",
+        "selected_token_pos": "SCONJ",
+        "true_head_form": "leggi",
+        "true_head_id": 6,
+        "distractors": [
+            {
+                "form": "caccia",
+                "id": 12,
+                "upos": "VERB"
+            },
+            {
+                "form": "partirà",
+                "id": 14,
+                "upos": "VERB"
+            },
+            {
+                "form": "'l",
+                "id": 2,
+                "upos": "DET"
+            }
+        ],
+        "sentence_text": "Se 'l presente sonetto spesso leggi lo spirito noioso che ti caccia si partirà da l'anima invilita.",
+        "morph_features": null
+    },
+    "5 - a Giovanna.conllu_0_tok17": {
+        "sentence_id": "0",
+        "selected_token_form": "vedere",
+        "selected_token_pos": "VERB",
+        "true_head_form": "bello",
+        "true_head_id": 15,
+        "distractors": [
+            {
+                "form": "a",
+                "id": 16,
+                "upos": "ADP"
+            },
+            {
+                "form": "'l",
+                "id": 22,
+                "upos": "DET"
+            },
+            {
+                "form": "sol",
+                "id": 23,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "Avete 'n vo' li fiori e la verdura e ciò che luce od è bello a vedere: risplende più che 'l sol vostra figura: chi vo' non vede ma' non po' valere.",
+        "morph_features": {
+            "Tense": "Pres",
+            "VerbForm": "Inf",
+            "Voice": "Act"
+        }
+    },
+    "5 - a Giovanna.conllu_1_tok32": {
+        "sentence_id": "1",
+        "selected_token_form": "temere",
+        "selected_token_pos": "VERB",
+        "true_head_form": "assicura",
+        "true_head_id": 23,
+        "distractors": [
+            {
+                "form": "po'",
+                "id": 30,
+                "upos": "VERB"
+            },
+            {
+                "form": "à",
+                "id": 5,
+                "upos": "VERB"
+            },
+            {
+                "form": "teme",
+                "id": 20,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "In questo mondo non à creatura sì piena di bieltà nè di piacere; e chi d'amor si teme, l'assicura vostro bel viso, e non po' più temere.",
+        "morph_features": {
+            "Tense": "Pres",
+            "VerbForm": "Inf",
+            "Voice": "Act"
+        }
+    },
+    "5 - a Giovanna.conllu_2_tok13": {
+        "sentence_id": "2",
+        "selected_token_form": "onore",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "piaccion",
+        "true_head_id": 9,
+        "distractors": [
+            {
+                "form": "fanno",
+                "id": 5,
+                "upos": "VERB"
+            },
+            {
+                "form": "prego",
+                "id": 18,
+                "upos": "VERB"
+            },
+            {
+                "form": "pote",
+                "id": 25,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Le donne che vi fanno compagnia assa' mi piaccion per lo vostro onore; ed i' le prego per lor cortesia  che qual più pote più vi faccia onore, ed aggia cara vostra segnoria, perchè di tutte sete la migliore.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "54 - per Mandetta.conllu_0_tok23": {
+        "sentence_id": "0",
+        "selected_token_form": "lontano",
+        "selected_token_pos": "ADV",
+        "true_head_form": "vien",
+        "true_head_id": 21,
+        "distractors": [
+            {
+                "form": "raccomanda",
+                "id": 25,
+                "upos": "VERB"
+            },
+            {
+                "form": "porti",
+                "id": 5,
+                "upos": "VERB"
+            },
+            {
+                "form": "di",
+                "id": 22,
+                "upos": "ADP"
+            }
+        ],
+        "sentence_text": "O tu, che porti ne li occhi sovente amor tenendo tre saette in mano, questo mio spirto che vien di lontano ti raccomanda l'anima dolente.",
+        "morph_features": null
+    },
+    "54 - per Mandetta.conllu_1_tok12": {
+        "sentence_id": "1",
+        "selected_token_form": "arciere",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "feruta",
+        "true_head_id": 5,
+        "distractors": [
+            {
+                "form": "nella",
+                "id": 6,
+                "upos": "DET"
+            },
+            {
+                "form": "mente",
+                "id": 7,
+                "upos": "NOUN"
+            },
+            {
+                "form": "apre",
+                "id": 18,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "La quale à già feruta nella mente di due saette l'arciere soriano: a la terza apre l'arco, ma sì piano che non m'aggiunge essendoti presente.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "54 - per Mandetta.conllu_2_tok2": {
+        "sentence_id": "2",
+        "selected_token_form": "saria",
+        "selected_token_pos": "AUX",
+        "true_head_form": "alma",
+        "true_head_id": 4,
+        "distractors": [
+            {
+                "form": "dell'",
+                "id": 3,
+                "upos": "DET"
+            },
+            {
+                "form": "salute",
+                "id": 6,
+                "upos": "NOUN"
+            },
+            {
+                "form": "la",
+                "id": 5,
+                "upos": "DET"
+            }
+        ],
+        "sentence_text": "Perchè saria dell'alma la salute, che quasi giace in fra le membra morta di due saette che fan due ferute.",
+        "morph_features": {
+            "Mood": "Cnd",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        }
+    },
+    "54 - per Mandetta.conllu_3_tok11": {
+        "sentence_id": "3",
+        "selected_token_form": "disia",
+        "selected_token_pos": "VERB",
+        "true_head_form": "dà",
+        "true_head_id": 3,
+        "distractors": [
+            {
+                "form": "piacere",
+                "id": 4,
+                "upos": "VERB"
+            },
+            {
+                "form": "disconforta",
+                "id": 6,
+                "upos": "VERB"
+            },
+            {
+                "form": "la",
+                "id": 9,
+                "upos": "DET"
+            }
+        ],
+        "sentence_text": "La prima dà piacere e disconforta, e la seconda disia la vertute de la gran gioia, che la terza porta.",
+        "morph_features": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        }
+    },
+    "57 - a Nerone Cavalcanti.conllu_0_tok17": {
+        "sentence_id": "0",
+        "selected_token_form": "e",
+        "selected_token_pos": "CCONJ",
+        "true_head_form": "assicura",
+        "true_head_id": 23,
+        "distractors": [
+            {
+                "form": "so",
+                "id": 3,
+                "upos": "VERB"
+            },
+            {
+                "form": "treman",
+                "id": 13,
+                "upos": "VERB"
+            },
+            {
+                "form": "à",
+                "id": 29,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Novelle ti so dire, odi, Nerone, che' Bondelmonti treman di paura, e tutt'i fiorentin' no li assicura, udendo dir che tu a' cor di leone.",
+        "morph_features": null
+    },
+    "57 - a Nerone Cavalcanti.conllu_1_tok18": {
+        "sentence_id": "1",
+        "selected_token_form": "dura",
+        "selected_token_pos": "ADJ",
+        "true_head_form": "faccia",
+        "true_head_id": 13,
+        "distractors": [
+            {
+                "form": "ponte",
+                "id": 23,
+                "upos": "NOUN"
+            },
+            {
+                "form": "mura",
+                "id": 25,
+                "upos": "NOUN"
+            },
+            {
+                "form": "dragone",
+                "id": 9,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "E più treman di te che d'un dragone veggendo la tua faccia, ch'è sì dura che no la riterria ponte nè mura, se non la tomba del re faraone.",
+        "morph_features": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        }
+    },
+    "57 - a Nerone Cavalcanti.conllu_2_tok19": {
+        "sentence_id": "2",
+        "selected_token_form": "ritegno",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "vanno",
+        "true_head_id": 16,
+        "distractors": [
+            {
+                "form": "fai",
+                "id": 5,
+                "upos": "VERB"
+            },
+            {
+                "form": "voler",
+                "id": 11,
+                "upos": "VERB"
+            },
+            {
+                "form": "discacciare",
+                "id": 12,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "De! con' tu fai grandissimo peccato sì alto sangue voler discacciare, chè tutti vanno via sanza ritegno.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "57 - a Nerone Cavalcanti.conllu_3_tok13": {
+        "sentence_id": "3",
+        "selected_token_form": "potrai",
+        "selected_token_pos": "VERB",
+        "true_head_form": "pegno",
+        "true_head_id": 9,
+        "distractors": [
+            {
+                "form": "ver",
+                "id": 4,
+                "upos": "ADJ"
+            },
+            {
+                "form": "anima",
+                "id": 15,
+                "upos": "NOUN"
+            },
+            {
+                "form": "paziente",
+                "id": 19,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "Ma ben è ver che ti largar lo pegno, di che potrai l'anima salvare se fossi paziente del mercato.",
+        "morph_features": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Fut",
+            "VerbForm": "Fin",
+            "Voice": "Act"
+        }
+    },
+    "6 - a Giovanna.conllu_0_tok8": {
+        "sentence_id": "0",
+        "selected_token_form": "om",
+        "selected_token_pos": "PRON",
+        "true_head_form": "mira",
+        "true_head_id": 10,
+        "distractors": [
+            {
+                "form": "fa",
+                "id": 12,
+                "upos": "VERB"
+            },
+            {
+                "form": "ven",
+                "id": 5,
+                "upos": "VERB"
+            },
+            {
+                "form": "mena",
+                "id": 20,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Chi è questa che ven ch'ogn'om la mira e fa tremar di chiaritate l'a're, e mena seco amor sì che parlare null'omo pote, ma ciascun sospira?",
+        "morph_features": null
+    },
+    "6 - a Giovanna.conllu_1_tok5": {
+        "sentence_id": "1",
+        "selected_token_form": "sembra",
+        "selected_token_pos": "VERB",
+        "true_head_form": "dica'",
+        "true_head_id": 10,
+        "distractors": [
+            {
+                "form": "gira",
+                "id": 9,
+                "upos": "VERB"
+            },
+            {
+                "form": "savria",
+                "id": 18,
+                "upos": "VERB"
+            },
+            {
+                "form": "chiam'",
+                "id": 36,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "O Deo, che sembra quando li occhi gira dica'l Amor, ch'i' no 'l savria contare: cotanto d'umiltà donna mi pare, ch'ogn'altra ver di lei i' la chiam'ira.",
+        "morph_features": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        }
+    },
+    "6 - a Giovanna.conllu_2_tok20": {
+        "sentence_id": "2",
+        "selected_token_form": "beltate",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "mostra",
+        "true_head_id": 25,
+        "distractors": [
+            {
+                "form": "inchina",
+                "id": 13,
+                "upos": "VERB"
+            },
+            {
+                "form": "contar",
+                "id": 4,
+                "upos": "VERB"
+            },
+            {
+                "form": "la",
+                "id": 24,
+                "upos": "PRON"
+            }
+        ],
+        "sentence_text": "Non si poria contar la sua piagenza, ch'a lei s'inchina ogni gentil virtute, e la beltate per sua dea la mostra.",
+        "morph_features": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        }
+    },
+    "6 - a Giovanna.conllu_3_tok1": {
+        "sentence_id": "3",
+        "selected_token_form": "Non",
+        "selected_token_pos": "ADV",
+        "true_head_form": "alta",
+        "true_head_id": 4,
+        "distractors": [
+            {
+                "form": "fu",
+                "id": 2,
+                "upos": "AUX"
+            },
+            {
+                "form": "sì",
+                "id": 3,
+                "upos": "ADV"
+            },
+            {
+                "form": "la",
+                "id": 6,
+                "upos": "DET"
+            }
+        ],
+        "sentence_text": "Non fu sì alta già la mente nostra e non si pose in noi tanta salute, che propriamente n'aviam canoscenza.",
+        "morph_features": {
+            "PronType": "Neg"
+        }
+    },
+    "60 - ad un amico.conllu_0_tok90": {
+        "sentence_id": "0",
+        "selected_token_form": "famiglia",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "tramazzare",
+        "true_head_id": 87,
+        "distractors": [
+            {
+                "form": "dì",
+                "id": 35,
+                "upos": "VERB"
+            },
+            {
+                "form": "caggia",
+                "id": 4,
+                "upos": "VERB"
+            },
+            {
+                "form": "vegna",
+                "id": 17,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Se non ti caggia la tua Santalena giù per lo colto tra le dure zolle e vegna a mano d'un forese folle, che la stropicci e rendalati a pena,  dimmi se 'l frutto che la terra mena nasce di secco di caldo o di molle, e qual è 'l vento che l' annarca e tolle e di che nebbia la tempesta è piena,  e se ti piace quando la mattina odi la boce del lavoratore e 'l tramazzare della sua famiglia.",
+        "morph_features": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        }
+    },
+    "60 - ad un amico.conllu_3_tok5": {
+        "sentence_id": "3",
+        "selected_token_form": "che",
+        "selected_token_pos": "SCONJ",
+        "true_head_form": "ripiglia",
+        "true_head_id": 23,
+        "distractors": [
+            {
+                "form": "porta",
+                "id": 10,
+                "upos": "VERB"
+            },
+            {
+                "form": "ó",
+                "id": 2,
+                "upos": "VERB"
+            },
+            {
+                "form": "la",
+                "id": 8,
+                "upos": "DET"
+            }
+        ],
+        "sentence_text": "l' ó per certo che, se la Bettina porta soave spirito nel core, del novo acquisto spesso ti ripiglia.",
+        "morph_features": null
+    },
+    "7 - a Giovanna.conllu_0_tok82": {
+        "sentence_id": "0",
+        "selected_token_form": "rassembra",
+        "selected_token_pos": "VERB",
+        "true_head_form": "passa",
+        "true_head_id": 63,
+        "distractors": [
+            {
+                "form": "sguarda",
+                "id": 87,
+                "upos": "VERB"
+            },
+            {
+                "form": "appar",
+                "id": 34,
+                "upos": "VERB"
+            },
+            {
+                "form": "cantar",
+                "id": 15,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Beltà di donna di piagente core, e cavalieri armati che sian genti, cantar d'augelli, e ragionar d'amore, adorni legni in mar forte correnti,  aire sereno quand'appar l'albore, e bianca neve scender senza venti, rivera d'acqua, e prato d'ogni fiore, oro, argento, azzurro in ornamenti,  passa la gran beltate e la piagenza de la mia donna e 'l suo gentil coraggio sì, che rassembra vile a chi ciò sguarda.",
+        "morph_features": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Act"
+        }
+    },
+    "7 - a Giovanna.conllu_3_tok11": {
+        "sentence_id": "3",
+        "selected_token_form": "cielo",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "maggio",
+        "true_head_id": 16,
+        "distractors": [
+            {
+                "form": "la",
+                "id": 13,
+                "upos": "DET"
+            },
+            {
+                "form": "terra",
+                "id": 14,
+                "upos": "NOUN"
+            },
+            {
+                "form": "è",
+                "id": 3,
+                "upos": "AUX"
+            }
+        ],
+        "sentence_text": "E tanto è più d'ogn'altra canoscenza quanto lo cielo de la terra è maggio.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "7 - a Giovanna.conllu_4_tok2": {
+        "sentence_id": "4",
+        "selected_token_form": "simil",
+        "selected_token_pos": "ADJ",
+        "true_head_form": "natura",
+        "true_head_id": 4,
+        "distractors": [
+            {
+                "form": "tarda",
+                "id": 7,
+                "upos": "VERB"
+            },
+            {
+                "form": "di",
+                "id": 3,
+                "upos": "ADP"
+            },
+            {
+                "form": "A",
+                "id": 1,
+                "upos": "ADP"
+            }
+        ],
+        "sentence_text": "A simil di natura ben non tarda.",
+        "morph_features": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        }
+    },
+    "9 - a Giovanna.conllu_0_tok4": {
+        "sentence_id": "0",
+        "selected_token_form": "occhi",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "vidi",
+        "true_head_id": 2,
+        "distractors": [
+            {
+                "form": "mise",
+                "id": 9,
+                "upos": "VERB"
+            },
+            {
+                "form": "fece",
+                "id": 12,
+                "upos": "VERB"
+            },
+            {
+                "form": "guardar",
+                "id": 19,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Io vidi li occhi, dove Amor si mise quando mi fece di sè pauroso, che mi guardar com'io fosse noioso: allora dico che 'l cor si divise.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Plur"
+        }
+    },
+    "9 - a Giovanna.conllu_1_tok16": {
+        "sentence_id": "1",
+        "selected_token_form": "doglioso",
+        "selected_token_pos": "ADJ",
+        "true_head_form": "parlerei",
+        "true_head_id": 12,
+        "distractors": [
+            {
+                "form": "rise",
+                "id": 9,
+                "upos": "VERB"
+            },
+            {
+                "form": "tal",
+                "id": 14,
+                "upos": "DET"
+            },
+            {
+                "form": "guisa",
+                "id": 15,
+                "upos": "NOUN"
+            }
+        ],
+        "sentence_text": "E, se non fosse che la donna rise, io parlerei di tal guisa doglioso ch'amor medesimo farla cruccioso, che fè lo inmaginar che mi conquise.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "9 - a Giovanna.conllu_2_tok27": {
+        "sentence_id": "2",
+        "selected_token_form": "pensero",
+        "selected_token_pos": "NOUN",
+        "true_head_form": "posar",
+        "true_head_id": 23,
+        "distractors": [
+            {
+                "form": "guardare",
+                "id": 17,
+                "upos": "VERB"
+            },
+            {
+                "form": "mosse",
+                "id": 5,
+                "upos": "VERB"
+            },
+            {
+                "form": "venne",
+                "id": 20,
+                "upos": "VERB"
+            }
+        ],
+        "sentence_text": "Dal ciel si mosse un spirito in quel punto, che quella donna mi degnò guardare, e vennesi a posar nel mio pensero.",
+        "morph_features": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        }
+    },
+    "9 - a Giovanna.conllu_3_tok1": {
+        "sentence_id": "3",
+        "selected_token_form": "E",
+        "selected_token_pos": "CCONJ",
+        "true_head_form": "conta",
+        "true_head_id": 4,
+        "distractors": [
+            {
+                "form": "pare",
+                "id": 17,
+                "upos": "VERB"
+            },
+            {
+                "form": "veder",
+                "id": 15,
+                "upos": "VERB"
+            },
+            {
+                "form": "lì",
+                "id": 2,
+                "upos": "ADV"
+            }
+        ],
+        "sentence_text": "E lì mi conta si d'amore il vero, che ogni sua virtù veder mi pare sì, com'io fosse ne lo suo cor giunto.",
+        "morph_features": null
+    }
+}

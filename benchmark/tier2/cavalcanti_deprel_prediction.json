@@ -565,7 +565,7 @@
         "selected_token_form": "poi",
         "selected_token_position": 2,
         "deprel": "advmod:tmod",
-        "deprel_full_name": "Unknown relation: advmod:tmod",
+        "deprel_full_name": "temporal adverbial modifier",
         "distractors": [
             "advmod",
             "advmod:neg",
@@ -573,7 +573,7 @@
         ],
         "distractors_full": [
             "adverbial modifier",
-            "Unknown relation: advmod:neg",
+            "adverbial polarity (negative) modifier",
             "locative adverbial modifier"
         ],
         "sentence_text": "Ma poi sostenne, quando vide uscire de li occhi vostri un lume di mercede, che porse dentr'al cor nova dolcezza.",
@@ -611,7 +611,7 @@
         "selected_token_form": "mai",
         "selected_token_position": 18,
         "deprel": "advmod:tmod",
-        "deprel_full_name": "Unknown relation: advmod:tmod",
+        "deprel_full_name": "temporal adverbial modifier",
         "distractors": [
             "advmod",
             "advmod:neg",
@@ -619,7 +619,7 @@
         ],
         "distractors_full": [
             "adverbial modifier",
-            "Unknown relation: advmod:neg",
+            "adverbial polarity (negative) modifier",
             "locative adverbial modifier"
         ],
         "sentence_text": "Quando mi vider, tutti con pietanza dissermi: — fatto se' di tal servente che mai non dei sperare altro che morte.—",
@@ -1652,8 +1652,8 @@
             "advmod:lmod"
         ],
         "distractors_full": [
-            "Unknown relation: advmod:neg",
-            "Unknown relation: advmod:tmod",
+            "adverbial polarity (negative) modifier",
+            "temporal adverbial modifier",
             "locative adverbial modifier"
         ],
         "sentence_text": "Veder poteste, quando vui scontrai, quel pauroso spirito d'amore, lo qual sol apparir quand'om si more, e in altra guisa non si vede mai.",
@@ -1704,8 +1704,8 @@
             "advmod:lmod"
         ],
         "distractors_full": [
-            "Unknown relation: advmod:neg",
-            "Unknown relation: advmod:tmod",
+            "adverbial polarity (negative) modifier",
+            "temporal adverbial modifier",
             "locative adverbial modifier"
         ],
         "sentence_text": "Tu m'ài sì piena di dolor la mente che l'anima si briga di partire, e li sospir che manda il cor dolente mostrano a li occhi che non pon soffrire.",
@@ -1760,8 +1760,8 @@
         ],
         "distractors_full": [
             "adverbial modifier",
-            "Unknown relation: advmod:neg",
-            "Unknown relation: advmod:tmod"
+            "adverbial polarity (negative) modifier",
+            "temporal adverbial modifier"
         ],
         "sentence_text": "Ma quando sento che sì dolce sguardo dentro da li occhi mi passò a lo core e posevi uno spirito di gioia,  di farne a lei merzè già mai non tardo: così pregata foss'ella d'amore ch'un poco di pietà no i fosse a noia.",
         "sentence_tokens_list": [
@@ -1832,8 +1832,8 @@
         ],
         "distractors_full": [
             "adverbial modifier",
-            "Unknown relation: advmod:neg",
-            "Unknown relation: advmod:tmod"
+            "adverbial polarity (negative) modifier",
+            "temporal adverbial modifier"
         ],
         "sentence_text": "Io vo come colui ch'è fuor di vita, che pare, a chi lo sguarda, c'omo sia fatto di rame o di pietra o di legno,  che sè conduca sol per maestria, e porti ne lo core una ferita che sia, com'egli è morto, aperto segno.",
         "sentence_tokens_list": [
@@ -1909,8 +1909,8 @@
         ],
         "distractors_full": [
             "adverbial modifier",
-            "Unknown relation: advmod:neg",
-            "Unknown relation: advmod:tmod"
+            "adverbial polarity (negative) modifier",
+            "temporal adverbial modifier"
         ],
         "sentence_text": "Io vo come colui ch'è fuor di vita, che pare, a chi lo sguarda, c'omo sia fatto di rame o di pietra o di legno,  che sè conduca sol per maestria, e porti ne lo core una ferita che sia, com'egli è morto, aperto segno.",
         "sentence_tokens_list": [
@@ -2955,7 +2955,7 @@
         "selected_token_form": "fatto",
         "selected_token_position": 12,
         "deprel": "ccomp:reported",
-        "deprel_full_name": "Unknown relation: ccomp:reported",
+        "deprel_full_name": "clausal complement: reported",
         "distractors": [
             "advcl",
             "root",
@@ -3002,7 +3002,7 @@
         "selected_token_form": "à",
         "selected_token_position": 32,
         "deprel": "ccomp:reported",
-        "deprel_full_name": "Unknown relation: ccomp:reported",
+        "deprel_full_name": "clausal complement: reported",
         "distractors": [
             "advcl",
             "root",
@@ -3198,7 +3198,7 @@
         "selected_token_form": "non",
         "selected_token_position": 26,
         "deprel": "advmod:neg",
-        "deprel_full_name": "Unknown relation: advmod:neg",
+        "deprel_full_name": "adverbial polarity (negative) modifier",
         "distractors": [
             "advmod",
             "advmod:tmod",
@@ -3206,7 +3206,7 @@
         ],
         "distractors_full": [
             "adverbial modifier",
-            "Unknown relation: advmod:tmod",
+            "temporal adverbial modifier",
             "locative adverbial modifier"
         ],
         "sentence_text": "La quale à già feruta nella mente di due saette l'arciere soriano: a la terza apre l'arco, ma sì piano che non m'aggiunge essendoti presente.",
@@ -3251,7 +3251,7 @@
         "selected_token_form": "no",
         "selected_token_position": 16,
         "deprel": "advmod:neg",
-        "deprel_full_name": "Unknown relation: advmod:neg",
+        "deprel_full_name": "adverbial polarity (negative) modifier",
         "distractors": [
             "advmod",
             "advmod:tmod",
@@ -3259,7 +3259,7 @@
         ],
         "distractors_full": [
             "adverbial modifier",
-            "Unknown relation: advmod:tmod",
+            "temporal adverbial modifier",
             "locative adverbial modifier"
         ],
         "sentence_text": "O Deo, che sembra quando li occhi gira dica'l Amor, ch'i' no 'l savria contare: cotanto d'umiltà donna mi pare, ch'ogn'altra ver di lei i' la chiam'ira.",
@@ -3543,7 +3543,7 @@
         "selected_token_form": "ritto",
         "selected_token_position": 3,
         "deprel": "advcl:pred",
-        "deprel_full_name": "Unknown relation: advcl:pred",
+        "deprel_full_name": "predicative adverbial clause",
         "distractors": [
             "amod",
             "conj",
@@ -3589,7 +3589,7 @@
         "selected_token_form": "morta",
         "selected_token_position": 15,
         "deprel": "advcl:pred",
-        "deprel_full_name": "Unknown relation: advcl:pred",
+        "deprel_full_name": "predicative adverbial clause",
         "distractors": [
             "advcl",
             "root",
@@ -4026,7 +4026,7 @@
         "selected_token_form": "colui",
         "selected_token_position": 4,
         "deprel": "advcl:cmp",
-        "deprel_full_name": "Unknown relation: advcl:cmp",
+        "deprel_full_name": "comparative adverbial clause",
         "distractors": [
             "nsubj",
             "obj",
