@@ -1518,34 +1518,6 @@
     "text_length": 350
   },
   {
-    "letter_id": "LL1.24.II",
-    "filename": "LL1.24.II.xml",
-    "metadata": {
-      "sender": "Vincenzo Bellini",
-      "date": "1835-05",
-      "place_sent": "Parigi",
-      "receiver": "unknown",
-      "title": "Vincenzo Bellini a destinatario sconosciuto, in Parigi, [maggio 1835]"
-    },
-    "text": "en assurant Monsieur Laporte, qui vous lui rendra à sa premiere demande, qui dans ce moment est necessaire pour vous comme pour le theatre, plaisir qui je suis sûre qui ne vous de vous faire ce plaisir — Milles amitiés de votre",
-    "entities": [
-      {
-        "text": "Monsieur Laporte,",
-        "type": "PER",
-        "start": 12,
-        "end": 29
-      },
-      {
-        "text": "votre",
-        "type": "PER",
-        "start": 222,
-        "end": 227
-      }
-    ],
-    "entity_count": 2,
-    "text_length": 227
-  },
-  {
     "letter_id": "LL1.25",
     "filename": "LL1.25.xml",
     "metadata": {
@@ -2480,74 +2452,6 @@
     ],
     "entity_count": 4,
     "text_length": 274
-  },
-  {
-    "letter_id": "LL1.31.I",
-    "filename": "LL1.31.I.xml",
-    "metadata": {
-      "sender": "Vincenzo Bellini",
-      "date": "1835-06",
-      "place_sent": "Parigi",
-      "receiver": "unknown",
-      "title": "Vincenzo Bellini a destinatario sconosciuto, in Parigi, [giugno 1835]"
-    },
-    "text": "Monsieur Bellini prie Monsieur Frederic de vouloir passer de chez lui, aux Bains Chinois pour affiner accorder son piano, et dans le même temps lui apporter une cléf d'accorder n'ayant recû la sienne, qui erait était",
-    "entities": [
-      {
-        "text": "Bellini",
-        "type": "PER",
-        "start": 9,
-        "end": 16
-      },
-      {
-        "text": "Frederic",
-        "type": "PER",
-        "start": 31,
-        "end": 39
-      },
-      {
-        "text": "Bains Chinois",
-        "type": "ORG",
-        "start": 75,
-        "end": 88
-      }
-    ],
-    "entity_count": 3,
-    "text_length": 216
-  },
-  {
-    "letter_id": "LL1.31.II",
-    "filename": "LL1.31.II.xml",
-    "metadata": {
-      "sender": "Vincenzo Bellini",
-      "date": "1835-06",
-      "place_sent": "Parigi",
-      "receiver": "Eugène Troupenas",
-      "title": "Vincenzo Bellini a Eugène Troupenas, in Parigi, [giugno 1835]"
-    },
-    "text": "J'aurais besoin de savoir le nom de la personne qui vous a demandé la partition des Puritains pour le Theatre de Dresde",
-    "entities": [
-      {
-        "text": "Theatre de Dresde",
-        "type": "ORG",
-        "start": 102,
-        "end": 119
-      },
-      {
-        "text": "Puritains",
-        "type": "WORK",
-        "start": 84,
-        "end": 93
-      },
-      {
-        "text": "partition",
-        "type": "MISC",
-        "start": 70,
-        "end": 79
-      }
-    ],
-    "entity_count": 3,
-    "text_length": 119
   },
   {
     "letter_id": "LL1.32.II",
