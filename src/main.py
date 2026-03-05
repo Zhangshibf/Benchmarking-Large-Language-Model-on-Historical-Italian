@@ -2,24 +2,21 @@ import json
 from pathlib import Path
 from itertools import islice
 from dotenv import load_dotenv
-load_dotenv()
-# LangChain
+load_dotenv(override=True)
 from langchain_openai import ChatOpenAI
 from langchain_anthropic import ChatAnthropic
 from langchain_deepseek import ChatDeepSeek
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-
-# Project Imports
 from src.settings import OUTPUT_DIR, BENCHMARK_DIR
 from src.prompts import (
-    sys_message, PROMPT_TIER1, PROMPT_TIER2,
-    PROMPT_TIER3_CLASSENSE, PROMPT_TIER3_BELLINI,PROMPT_TIER4,
+    sys_message, PROMPT_TIER1, PROMPT_TIER2_DEPREL,
+   PROMPT_TIER4,PROMPT_TIER2_HEAD,
     PROMPT_TIER5_RANKING, PROMPT_TIER5_AUTHORSHIP, PROMPT_TIER3_BELLINI, PROMPT_TIER3_CLASSENSE
 )
 from src.benchmark_loader import (
-    Tier1Loader, Tier2Loader, Tier3LoaderCLASSENSE,Tier3LoaderBELLINI,
-    Tier4Loader, Tier5LoaderAuthorship, Tier5LoaderRanking
+    Tier1Loader, Tier2LoaderDeprel, Tier3LoaderCLASSENSE, Tier3LoaderBELLINI,
+    Tier4Loader, Tier5LoaderAuthorship, Tier5LoaderRanking,Tier2LoaderHead
 )
 
 
@@ -39,7 +36,8 @@ def run_benchmark(experiment_name: str, toy_mode: bool = False):
 
     tasks = [
         {"name": "tier1", "loader": Tier1Loader(BENCHMARK_DIR), "prompt": PROMPT_TIER1},
-        {"name": "tier2", "loader": Tier2Loader(BENCHMARK_DIR), "prompt": PROMPT_TIER2},
+        {"name": "tier2_head", "loader": Tier2LoaderHead(BENCHMARK_DIR), "prompt": PROMPT_TIER2_HEAD},
+        {"name": "tier2_deprel", "loader": Tier2LoaderDeprel(BENCHMARK_DIR), "prompt": PROMPT_TIER2_DEPREL},
         {"name": "tier3_bellini", "loader": Tier3LoaderBELLINI(BENCHMARK_DIR), "prompt": PROMPT_TIER3_BELLINI},
         {"name": "tier3_classense", "loader": Tier3LoaderCLASSENSE(BENCHMARK_DIR), "prompt": PROMPT_TIER3_CLASSENSE},
         {"name": "tier4", "loader": Tier4Loader(BENCHMARK_DIR), "prompt": PROMPT_TIER4},
@@ -75,7 +73,7 @@ def run_benchmark(experiment_name: str, toy_mode: bool = False):
                 for instance in instances:
                     inputs = {}
 
-                    if task_name in ["tier1", "tier2"]:
+                    if task_name in ["tier1","tier2_head","tier2_deprel"]:
                         inputs = {"context": getattr(instance, 'context', ""), "target": instance.target,
                                   "answers_str": format_candidates(instance.candidates)}
                     elif task_name == "tier3_bellini":
@@ -119,8 +117,9 @@ def run_benchmark(experiment_name: str, toy_mode: bool = False):
                         print(f"    ⚠️ Errore istanza {instance.id}: {e}")
 
 if __name__ == "__main__":
-    run_benchmark(experiment_name="test_rapido_v1", toy_mode=True)
-    run_benchmark(experiment_name="round1", toy_mode=False)
-    run_benchmark(experiment_name="round2", toy_mode=False)
-    run_benchmark(experiment_name="round3", toy_mode=False)
+    # run_benchmark(experiment_name="test_rapido_v1", toy_mode=True)
+    # run_benchmark(experiment_name="round1", toy_mode=False)
+    # run_benchmark(experiment_name="round2", toy_mode=False)
+    # run_benchmark(experiment_name="round3", toy_mode=False)
+    pass
 

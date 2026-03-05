@@ -18,7 +18,7 @@ Candidati: {answers_str}
 **Formato di output:** Restituisci solo il numero (es. "1", "2", "3").
 """
 
-PROMPT_TIER2 = """
+PROMPT_TIER2_DEPREL = """
 Analizza la relazione di dipendenza sintattica (dependency relation) per la parola target nel contesto fornito.
 
 **Istruzioni:**
@@ -37,6 +37,24 @@ Restituisci ESCLUSIVAMENTE il numero della risposta corretta. Non aggiungere com
 **Formato di output:** Restituisci solo il numero (es. "1", "2", "3").
 """
 
+PROMPT_TIER2_HEAD="""
+Identifica la testa sintattica della parola target nella frase data, scegliendo tra le quattro parole candidate.
+
+**Istruzioni:**
+1. Analizza la frase e individua la parola target: {target}.
+2. Determina quale delle quattro parole candidate è la testa sintattica di {target} secondo le relazioni di dipendenza Universal Dependencies.
+3. Seleziona il numero corrispondente alla parola corretta.
+
+**Input**:
+Parola target: {target}
+Contesto: {context}
+Candidati testa sintattica: {answers_str}
+
+**Vincoli**:
+Restituisci ESCLUSIVAMENTE il numero della risposta corretta. Non aggiungere commenti, etichette testuali o punteggiatura.
+
+**Formato di output**: Restituisci solo il numero (es. "1", "2", "3").
+"""
 PROMPT_TIER3_BELLINI = """
 Esegui il riconoscimento delle entità nominate (Named Entity Recognition) sul testo fornito.
 

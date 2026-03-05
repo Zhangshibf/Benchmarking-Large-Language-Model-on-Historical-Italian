@@ -73,10 +73,10 @@ class Tier1Loader(BaseBenchmarkLoader):
                 gold_index=gold_index,
             )
 
-class Tier2Loader(BaseBenchmarkLoader):
+class Tier2LoaderDeprel(BaseBenchmarkLoader):
     def __init__(self, benchmark_dir: Path):
         super().__init__(benchmark_dir)
-        self.file_path = self.benchmark_dir / "tier2" / "cavalcanti.json"
+        self.file_path = self.benchmark_dir / "tier2" / "cavalcanti_deprel_prediction.json"
 
     def __iter__(self):
         with open(self.file_path, "r", encoding="utf-8") as f:
@@ -93,6 +93,36 @@ class Tier2Loader(BaseBenchmarkLoader):
             # print(candidates)
             # print(gold)
             # print(gold_index)
+
+            yield BenchmarkInstance1(
+                id=raw_idx,
+                target=target,
+                context=context,
+                candidates=candidates,
+                gold=gold,
+                gold_index=gold_index,
+            )
+
+class Tier2LoaderHead(BaseBenchmarkLoader):
+    def __init__(self, benchmark_dir: Path):
+        super().__init__(benchmark_dir)
+        self.file_path = self.benchmark_dir / "tier2" / "cavalcanti_head_prediction.json"
+
+    def __iter__(self):
+        with open(self.file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        for raw_idx, instance in data.items():
+            target = instance["selected_token_form"]
+            context = instance["sentence_text"]
+            candidates = [i["form"] for i in instance["distractors"]]
+            candidates.append(instance["true_head_form"])
+            gold = instance["true_head_form"]
+            random.shuffle(candidates)
+            gold_index = candidates.index(gold)+1
+            print(candidates)
+            print(gold)
+            print(gold_index)
 
             yield BenchmarkInstance1(
                 id=raw_idx,

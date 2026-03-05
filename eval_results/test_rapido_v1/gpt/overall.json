@@ -2,8 +2,8 @@
   "tier1": {
     "accuracy": 0.5
   },
-  "tier2": {
-    "accuracy": 0.5
+  "tier2_head": {
+    "accuracy": 1.0
   },
   "tier3_bellini": {
     "strict": {

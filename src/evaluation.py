@@ -1,14 +1,16 @@
 import json
 from pathlib import Path
 from src.settings import OUTPUT_DIR, RESULTS_DIR,NER_DIR, BELLINI_FILE,CLASSENSE_FILE
-
-
+import pandas as pd
+from collections import defaultdict
 def evaluate_all_tiers(output_base_dir=OUTPUT_DIR,results_base_path=RESULTS_DIR):
-
+    model_groups = defaultdict(list)
     for folder in output_base_dir.rglob('**/'):
         jsonl_files = list(folder.glob('*.jsonl'))
-        if len(jsonl_files) == 7:
-            print(f"Found match: {folder} contains exactly 7 JSONs")
+        if len(jsonl_files) == 8:
+            model_name = folder.name
+            overall_result = {}
+            print(f"Found match: {folder} contains exactly 8 JSONs")
             overall_result = {}
             for jsonl_file in jsonl_files:
                 relative_path = folder.relative_to(output_base_dir)
@@ -23,7 +25,7 @@ def evaluate_all_tiers(output_base_dir=OUTPUT_DIR,results_base_path=RESULTS_DIR)
                         if line.strip():
                             preds.append(json.loads(line))
                 tier = jsonl_file.stem.replace("_results", "")
-                if tier in ["tier1","tier2","tier4","tier5_auth"]:
+                if tier in ["tier1","tier2_deprel","tier2_head","tier4","tier5_auth"]:
                     evaluation_result = calculate_accuracy(preds)
                     overall_result[tier]=evaluation_result
                 elif "tier3" in tier:
@@ -43,6 +45,34 @@ def evaluate_all_tiers(output_base_dir=OUTPUT_DIR,results_base_path=RESULTS_DIR)
                     json.dump(evaluation_result,f)
             with open(overall_path, "w", encoding="utf-8") as f:
                 json.dump(overall_result, f,indent=2)
+            model_groups[model_name].append(overall_result)
+
+
+    for model_name, rounds in model_groups.items():
+        if not rounds:
+            continue
+
+        # Flatten all rounds, calculate mean, and unflatten
+        # We use pd.json_normalize to turn nested dicts into flat columns (e.g., "tier3_bellini.strict.micro.f1")
+        df = pd.json_normalize(rounds)
+        mean_series = df.mean()
+
+        # Reconstruct the nested dictionary
+        final_mean_dict = {}
+        for keys, value in mean_series.items():
+            parts = keys.split('.')
+            d = final_mean_dict
+            for part in parts[:-1]:
+                d = d.setdefault(part, {})
+            d[parts[-1]] = value
+
+        # Save the result
+        summary_filename = f"{model_name}_final_mean.json"
+        summary_path = results_base_path / summary_filename
+        with open(summary_path, "w", encoding="utf-8") as f:
+            json.dump(final_mean_dict, f, indent=2)
+
+        print(f"Generated mean results for {model_name} at {summary_path}")
 
 
 
@@ -250,5 +280,74 @@ def calculate_accuracy(preds):
             correct+=1
     return {"accuracy":correct/len(gt)}
 
+
+import json
+from pathlib import Path
+
+
+def generate_latex_table(results_dir=RESULTS_DIR, model_names=["DeepSeek-chat", "Claude", "GPT"]):
+    """
+    Reads mean JSON files for specified models and prints a formatted LaTeX table.
+    Assumes files are named like 'claude_final_mean.json' in results_dir.
+    """
+
+    # Mapping Tier keys to the specific accuracy/metric inside the JSON
+    # Columns: Manzoni (T1), Head (T2), Deprel (T2), Dante (T4), Rank (T5), Auth (T5)
+    mapping = [
+        ("tier1", "accuracy"),
+        ("tier2_head", "accuracy"),
+        ("tier2_deprel", "accuracy"),
+        ("tier4", "accuracy"),
+        ("tier5_rank", "mean_spearman_rho"),
+        ("tier5_auth", "accuracy")
+    ]
+
+    latex_rows = []
+
+    for model in model_names:
+        # Match the filename convention from the previous step
+        file_path = Path(results_dir) / f"{model.lower()}_final_mean.json"
+        print(file_path)
+        if not file_path.exists():
+            latex_rows.append(f"{model} & ? & ? & ? & ? & ? & ? \\\\")
+            continue
+
+        with open(file_path, "r") as f:
+            data = json.load(f)
+
+        row_values = [model]
+        for tier, metric in mapping:
+            # Extract value, default to 0.0 if key is missing
+            val = data.get(tier, {}).get(metric, 0.0)
+            # Format to 3 decimal places
+            row_values.append(f"{val:.3f}")
+
+        latex_rows.append(" & ".join(row_values) + " \\\\")
+
+    # The Final LaTeX Template
+    table_template = f"""
+                        \\begin{{table}}[ht]
+                        \\centering
+                        \\resizebox{{\\textwidth}}{{!}}{{
+                        \\begin{{tabular}}{{l| c | cc | c | cc}}
+                        \\hline
+                        Model & Manzoni & \\multicolumn{{2}}{{c|}}{{Cavalcanti}} & Dante & \\multicolumn{{2}}{{c}}{{Biblioteca Italiana}} \\\\
+                        \\hline
+                        & \\scriptsize \\begin{{tabular}}[c]{{@{{}}c@{{}}}}Word Sense \\\\ Disambiguation\\end{{tabular}} & \\scriptsize Head Prediction & \\scriptsize \\begin{{tabular}}[c]{{@{{}}c@{{}}}}Deprel \\\\ Prediction\\end{{tabular}} & \\scriptsize Contrastive & \\scriptsize \\begin{{tabular}}[c]{{@{{}}c@{{}}}}Chronological \\\\ Ranking\\end{{tabular}} & \\scriptsize \\begin{{tabular}}[c]{{@{{}}c@{{}}}}Authorship \\\\ Verification\\end{{tabular}} \\\\
+                        \\hline
+                        {chr(10).join(latex_rows)}
+                        \\hline
+                        \\end{{tabular}}%
+                        }}
+                        \\caption{{Performance results across different datasets and tasks.}}
+                        \\label{{fig:result}}
+                        \\end{{table}}
+                        """
+    return table_template
+
+
+
 if __name__=="__main__":
-    evaluate_all_tiers()
+    # evaluate_all_tiers()
+    latex_code = generate_latex_table()
+    print(latex_code)
