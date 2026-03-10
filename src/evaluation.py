@@ -29,12 +29,17 @@ def evaluate_all_tiers(output_base_dir=OUTPUT_DIR,results_base_path=RESULTS_DIR)
                     evaluation_result = calculate_accuracy(preds)
                     overall_result[tier]=evaluation_result
                 elif "tier3" in tier:
-                    ner_mapped_file = NER_DIR / relative_path / jsonl_file.name
-                    if ner_mapped_file.is_file():
-                        ner_preds = json.load(open(ner_mapped_file,"r",encoding="utf-8"))
+                    # If predictions already have 'entities' (structured output), use directly.
+                    # Otherwise fall back to create_mapped_ner for legacy free-text responses.
+                    if preds and "entities" in preds[0]:
+                        ner_preds = [{"letter_id": p["letter_id"], "entities": p["entities"]} for p in preds]
                     else:
-                        create_mapped_ner(preds,ner_mapped_file)
-                        ner_preds = json.load(open(ner_mapped_file, "r", encoding="utf-8"))
+                        ner_mapped_file = NER_DIR / relative_path / jsonl_file.name
+                        if ner_mapped_file.is_file():
+                            ner_preds = json.load(open(ner_mapped_file,"r",encoding="utf-8"))
+                        else:
+                            create_mapped_ner(preds,ner_mapped_file)
+                            ner_preds = json.load(open(ner_mapped_file, "r", encoding="utf-8"))
                     evaluation_result = evaluate_NER_result(ner_preds)
                     overall_result[tier] = evaluation_result
                 elif "rank" in tier:
