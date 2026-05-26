@@ -95,10 +95,6 @@ def build_llama_openrouter_llm(
     )
 
 
-# ---------------------------------------------------------------------------
-# Free-text NER parsing  (mirrors the format expected by evaluation.create_mapped_ner)
-# ---------------------------------------------------------------------------
-
 def _format_candidates(candidates: list) -> str:
     return "\n".join([f"{i + 1}. {c}" for i, c in enumerate(candidates)])
 
@@ -161,10 +157,7 @@ def run_extra_benchmark(
                 [("system", sys_message), ("human", task["prompt"])]
             )
 
-            # IMPORTANT: for these two models we always use the free-text chain.
-            # Evaluation.py's tier3 branch already handles the free-text format
-            # via create_mapped_ner (it parses "[(entity:type), ...]" responses
-            # and resolves character offsets from the gold benchmark file).
+
             chain = prompt_template | llm | StrOutputParser()
 
             instances = islice(loader, 2) if toy_mode else loader
@@ -229,15 +222,20 @@ def run_extra_benchmark(
 
 if __name__ == "__main__":
     run_extra_benchmark(
+        experiment_name="round1",
+        toy_mode=False,
+        include_minerva=True,
+        include_llama=False,
+    )
+    run_extra_benchmark(
         experiment_name="round2",
         toy_mode=False,
-        include_minerva=False,
-        include_llama=True,
+        include_minerva=True,
+        include_llama=False,
     )
-
     run_extra_benchmark(
         experiment_name="round3",
         toy_mode=False,
-        include_minerva=False,
-        include_llama=True,
+        include_minerva=True,
+        include_llama=False,
     )
