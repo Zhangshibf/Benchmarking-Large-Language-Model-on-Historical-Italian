@@ -120,9 +120,9 @@ class Tier2LoaderHead(BaseBenchmarkLoader):
             gold = instance["true_head_form"]
             random.shuffle(candidates)
             gold_index = candidates.index(gold)+1
-            print(candidates)
-            print(gold)
-            print(gold_index)
+            # print(candidates)
+            # print(gold)
+            # print(gold_index)
 
             yield BenchmarkInstance1(
                 id=raw_idx,
