@@ -23,7 +23,7 @@ Analizza la relazione di dipendenza sintattica (dependency relation) per la paro
 
 **Istruzioni:**
 1. Esamina il target e la sua funzione sintattica all'interno della frase (contesto).
-2. Confronta la funzione individuata con la lista dei andidati deprels.
+2. Confronta la funzione individuata con la lista dei candidati deprels.
 3. Seleziona il numero corrispondente alla relazione corretta secondo lo standard Universal Dependencies.
 
 **Input:**
