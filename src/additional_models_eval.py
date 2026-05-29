@@ -223,19 +223,19 @@ def run_extra_benchmark(
 if __name__ == "__main__":
     run_extra_benchmark(
         experiment_name="round1",
-        toy_mode=False,
+        toy_mode=True,
         include_minerva=True,
         include_llama=False,
     )
-    run_extra_benchmark(
-        experiment_name="round2",
-        toy_mode=False,
-        include_minerva=True,
-        include_llama=False,
-    )
-    run_extra_benchmark(
-        experiment_name="round3",
-        toy_mode=False,
-        include_minerva=True,
-        include_llama=False,
-    )
+    # run_extra_benchmark(
+    #     experiment_name="round2",
+    #     toy_mode=False,
+    #     include_minerva=True,
+    #     include_llama=False,
+    # )
+    # run_extra_benchmark(
+    #     experiment_name="round3",
+    #     toy_mode=False,
+    #     include_minerva=True,
+    #     include_llama=False,
+    # )
