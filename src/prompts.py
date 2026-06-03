@@ -68,7 +68,7 @@ Testo: {testo}
 Tipi di entità ammessi: ["PER", "PER_GROUP", "LOC", "ORG", "WORK", "MUSIC_TERM", "MISC"]
 
 **Formato di Output richiesto:**
-Restituisci ESCLUSIVAMENTE una lista di tuple nel formato: [(entità1:tipo),(entità2:tipo),...]
+Restituisci ESCLUSIVAMENTE una lista di tuple nel formato: [entità1:tipo,entità2:tipo,...]
 Non aggiungere spiegazioni, introduzioni o punteggiatura extra. Se non trovi entità, restituisci [].
 
 ## Tipi di Entità
@@ -85,7 +85,7 @@ Non aggiungere spiegazioni, introduzioni o punteggiatura extra. Se non trovi ent
 - **MISC** - Solo altri nomi propri non classificabili sopra
 
 **Esempio di output:**
-[(Leonardo da Vinci:PER),(Firenze:LOC)]
+[Leonardo da Vinci:PER,Firenze:LOC]
 """
 
 PROMPT_TIER3_CLASSENSE = """
@@ -101,7 +101,7 @@ Testo: {testo}
 Tipi di entità ammessi: ["PER", "LOC", "ORG", "WORK"]
 
 **Formato di Output richiesto:**
-Restituisci ESCLUSIVAMENTE una lista di tuple nel formato: [(entità1:tipo),(entità2:tipo),...]
+Restituisci ESCLUSIVAMENTE una lista di tuple nel formato: [entità1:tipo,entità2:tipo,...]
 Non aggiungere spiegazioni, introduzioni o punteggiatura extra. Se non trovi entità, restituisci [].
 
 ## Tipi di Entità
@@ -119,7 +119,7 @@ Non aggiungere spiegazioni, introduzioni o punteggiatura extra. Se non trovi ent
   Libri, manoscritti, lettere, cronache, qualsiasi opera citata.
 
 **Esempio di output:**
-[(Leonardo da Vinci:PER),(Firenze:LOC)]
+[Leonardo da Vinci:PER,Firenze:LOC]
 """
 
 PROMPT_TIER4 = """
