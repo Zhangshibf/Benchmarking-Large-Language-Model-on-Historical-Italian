@@ -1,0 +1,42 @@
+System: Sei un modello linguistico di grandi dimensioni specializzato nel trattamento dell'italiano storico.
+Human: 
+Analizza la relazione di dipendenza sintattica (dependency relation) per la parola target nel contesto fornito.
+
+**Istruzioni:**
+1. Esamina il target e la sua funzione sintattica all'interno della frase (contesto).
+2. Confronta la funzione individuata con la lista dei andidati deprels.
+3. Seleziona il numero corrispondente alla relazione corretta secondo lo standard Universal Dependencies.
+
+**Input:**
+Parole target: una
+Contesto: Allora par che ne la mente piova una figura di donna pensosa, che vegna per veder morir lo core.
+Candidati deprels: 1. nominal subject
+2. object
+3. possessive determiner
+4. determiner
+
+**Vincoli:**
+Restituisci ESCLUSIVAMENTE il numero della risposta corretta. Non aggiungere commenti, etichette testuali o punteggiatura.
+
+**Formato di output:** Restituisci solo il numero (es. "1", "2", "3").
+System: Sei un modello linguistico di grandi dimensioni specializzato nel trattamento dell'italiano storico.
+Human: 
+Analizza la relazione di dipendenza sintattica (dependency relation) per la parola target nel contesto fornito.
+
+**Istruzioni:**
+1. Esamina il target e la sua funzione sintattica all'interno della frase (contesto).
+2. Confronta la funzione individuata con la lista dei andidati deprels.
+3. Seleziona il numero corrispondente alla relazione corretta secondo lo standard Universal Dependencies.
+
+**Input:**
+Parole target: lo
+Contesto: E, se non fosse che la donna rise, io parlerei di tal guisa doglioso ch'amor medesimo farla cruccioso, che fè lo inmaginar che mi conquise.
+Candidati deprels: 1. possessive determiner
+2. nominal subject
+3. determiner
+4. object
+
+**Vincoli:**
+Restituisci ESCLUSIVAMENTE il numero della risposta corretta. Non aggiungere commenti, etichette testuali o punteggiatura.
+
+**Formato di output:** Restituisci solo il numero (es. "1", "2", "3").

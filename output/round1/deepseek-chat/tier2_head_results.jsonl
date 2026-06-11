@@ -1,0 +1,65 @@
+{"id": "10 - a Giovanna.conllu_0_tok13", "model_response": "2", "gold_index": 3, "gold_order": null}
+{"id": "10 - a Giovanna.conllu_1_tok11", "model_response": "3", "gold_index": 4, "gold_order": null}
+{"id": "10 - a Giovanna.conllu_2_tok21", "model_response": "1", "gold_index": 3, "gold_order": null}
+{"id": "10 - a Giovanna.conllu_3_tok5", "model_response": "1", "gold_index": 1, "gold_order": null}
+{"id": "26 - Sonetto.conllu_0_tok25", "model_response": "1", "gold_index": 1, "gold_order": null}
+{"id": "26 - Sonetto.conllu_2_tok42", "model_response": "1", "gold_index": 1, "gold_order": null}
+{"id": "27 - Sonetto.conllu_0_tok13", "model_response": "3", "gold_index": 3, "gold_order": null}
+{"id": "27 - Sonetto.conllu_1_tok12", "model_response": "1", "gold_index": 1, "gold_order": null}
+{"id": "27 - Sonetto.conllu_2_tok25", "model_response": "4", "gold_index": 4, "gold_order": null}
+{"id": "27 - Sonetto.conllu_3_tok13", "model_response": "4", "gold_index": 4, "gold_order": null}
+{"id": "3 - Guido a Dante..conllu_0_tok12", "model_response": "3", "gold_index": 2, "gold_order": null}
+{"id": "3 - Guido a Dante..conllu_2_tok4", "model_response": "2", "gold_index": 4, "gold_order": null}
+{"id": "3 - Guido a Dante..conllu_3_tok3", "model_response": "2", "gold_index": 2, "gold_order": null}
+{"id": "30 - Sonetto.conllu_0_tok7", "model_response": "4", "gold_index": 3, "gold_order": null}
+{"id": "30 - Sonetto.conllu_1_tok9", "model_response": "1", "gold_index": 2, "gold_order": null}
+{"id": "30 - Sonetto.conllu_3_tok15", "model_response": "3", "gold_index": 1, "gold_order": null}
+{"id": "30 - Sonetto.conllu_4_tok5", "model_response": "1", "gold_index": 1, "gold_order": null}
+{"id": "31 - Sonetto.conllu_0_tok16", "model_response": "2", "gold_index": 2, "gold_order": null}
+{"id": "31 - Sonetto.conllu_1_tok4", "model_response": "2", "gold_index": 2, "gold_order": null}
+{"id": "31 - Sonetto.conllu_2_tok24", "model_response": "3", "gold_index": 3, "gold_order": null}
+{"id": "32 - Sonetto.conllu_0_tok5", "model_response": "4", "gold_index": 4, "gold_order": null}
+{"id": "32 - Sonetto.conllu_1_tok6", "model_response": "2", "gold_index": 2, "gold_order": null}
+{"id": "32 - Sonetto.conllu_2_tok18", "model_response": "1", "gold_index": 2, "gold_order": null}
+{"id": "32 - Sonetto.conllu_3_tok4", "model_response": "3", "gold_index": 4, "gold_order": null}
+{"id": "32 - Sonetto.conllu_4_tok17", "model_response": "1", "gold_index": 4, "gold_order": null}
+{"id": "33 - Sonetto.conllu_0_tok17", "model_response": "1", "gold_index": 1, "gold_order": null}
+{"id": "33 - Sonetto.conllu_3_tok4", "model_response": "3", "gold_index": 3, "gold_order": null}
+{"id": "33 - Sonetto.conllu_4_tok16", "model_response": "1", "gold_index": 1, "gold_order": null}
+{"id": "35 - Sonetto.conllu_0_tok29", "model_response": "4", "gold_index": 4, "gold_order": null}
+{"id": "35 - Sonetto.conllu_1_tok14", "model_response": "2", "gold_index": 2, "gold_order": null}
+{"id": "35 - Sonetto.conllu_2_tok11", "model_response": "1", "gold_index": 1, "gold_order": null}
+{"id": "35 - Sonetto.conllu_3_tok19", "model_response": "2", "gold_index": 2, "gold_order": null}
+{"id": "35 - Sonetto.conllu_4_tok11", "model_response": "2", "gold_index": 4, "gold_order": null}
+{"id": "37 - Sonetto.conllu_0_tok24", "model_response": "4", "gold_index": 1, "gold_order": null}
+{"id": "37 - Sonetto.conllu_1_tok21", "model_response": "3", "gold_index": 3, "gold_order": null}
+{"id": "37 - Sonetto.conllu_2_tok4", "model_response": "1", "gold_index": 3, "gold_order": null}
+{"id": "37 - Sonetto.conllu_3_tok1", "model_response": "1", "gold_index": 2, "gold_order": null}
+{"id": "49 - a Dante.conllu_0_tok22", "model_response": "3", "gold_index": 3, "gold_order": null}
+{"id": "49 - a Dante.conllu_1_tok1", "model_response": "1", "gold_index": 2, "gold_order": null}
+{"id": "49 - a Dante.conllu_2_tok5", "model_response": "3", "gold_index": 3, "gold_order": null}
+{"id": "49 - a Dante.conllu_3_tok1", "model_response": "3", "gold_index": 3, "gold_order": null}
+{"id": "5 - a Giovanna.conllu_0_tok17", "model_response": "3", "gold_index": 3, "gold_order": null}
+{"id": "5 - a Giovanna.conllu_1_tok32", "model_response": "2", "gold_index": 3, "gold_order": null}
+{"id": "5 - a Giovanna.conllu_2_tok13", "model_response": "2", "gold_index": 2, "gold_order": null}
+{"id": "54 - per Mandetta.conllu_0_tok23", "model_response": "4", "gold_index": 4, "gold_order": null}
+{"id": "54 - per Mandetta.conllu_1_tok12", "model_response": "2", "gold_index": 3, "gold_order": null}
+{"id": "54 - per Mandetta.conllu_2_tok2", "model_response": "1", "gold_index": 1, "gold_order": null}
+{"id": "54 - per Mandetta.conllu_3_tok11", "model_response": "2", "gold_index": 2, "gold_order": null}
+{"id": "57 - a Nerone Cavalcanti.conllu_0_tok17", "model_response": "1", "gold_index": 3, "gold_order": null}
+{"id": "57 - a Nerone Cavalcanti.conllu_1_tok18", "model_response": "2", "gold_index": 2, "gold_order": null}
+{"id": "57 - a Nerone Cavalcanti.conllu_2_tok19", "model_response": "1", "gold_index": 1, "gold_order": null}
+{"id": "57 - a Nerone Cavalcanti.conllu_3_tok13", "model_response": "3", "gold_index": 4, "gold_order": null}
+{"id": "6 - a Giovanna.conllu_0_tok8", "model_response": "3", "gold_index": 3, "gold_order": null}
+{"id": "6 - a Giovanna.conllu_1_tok5", "model_response": "3", "gold_index": 3, "gold_order": null}
+{"id": "6 - a Giovanna.conllu_2_tok20", "model_response": "2", "gold_index": 2, "gold_order": null}
+{"id": "6 - a Giovanna.conllu_3_tok1", "model_response": "3", "gold_index": 2, "gold_order": null}
+{"id": "60 - ad un amico.conllu_0_tok90", "model_response": "4", "gold_index": 4, "gold_order": null}
+{"id": "60 - ad un amico.conllu_3_tok5", "model_response": "1", "gold_index": 1, "gold_order": null}
+{"id": "7 - a Giovanna.conllu_0_tok82", "model_response": "3", "gold_index": 3, "gold_order": null}
+{"id": "7 - a Giovanna.conllu_3_tok11", "model_response": "2", "gold_index": 1, "gold_order": null}
+{"id": "7 - a Giovanna.conllu_4_tok2", "model_response": "2", "gold_index": 1, "gold_order": null}
+{"id": "9 - a Giovanna.conllu_0_tok4", "model_response": "2", "gold_index": 4, "gold_order": null}
+{"id": "9 - a Giovanna.conllu_1_tok16", "model_response": "1", "gold_index": 4, "gold_order": null}
+{"id": "9 - a Giovanna.conllu_2_tok27", "model_response": "3", "gold_index": 4, "gold_order": null}
+{"id": "9 - a Giovanna.conllu_3_tok1", "model_response": "1", "gold_index": 1, "gold_order": null}

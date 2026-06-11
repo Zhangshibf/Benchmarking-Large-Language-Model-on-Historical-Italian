@@ -1,0 +1,72 @@
+{
+  "tier1": {
+    "accuracy": 0.165
+  },
+  "tier2_deprel": {
+    "accuracy": 0.24285714285714285
+  },
+  "tier2_head": {
+    "accuracy": 0.24615384615384617
+  },
+  "tier3_bellini": {
+    "strict": {
+      "micro": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0
+      },
+      "macro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "fuzzy": {
+      "micro": {
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0
+      },
+      "macro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    }
+  },
+  "tier3_classense": {
+    "strict": {
+      "micro": {
+        "precision": 1.0,
+        "recall": 0.002967359050445104,
+        "f1": 0.005917159763313609
+      },
+      "macro": {
+        "precision": 0.08,
+        "recall": 0.0029670329670329672,
+        "f1": 0.005721583652618134
+      }
+    },
+    "fuzzy": {
+      "micro": {
+        "precision": 1.0,
+        "recall": 0.002967359050445104,
+        "f1": 0.005917159763313609
+      },
+      "macro": {
+        "precision": 0.08,
+        "recall": 0.0029670329670329672,
+        "f1": 0.005721583652618134
+      }
+    }
+  },
+  "tier4": {
+    "accuracy": 0.4703196347031963
+  },
+  "tier5_auth": {
+    "accuracy": 0.3
+  },
+  "tier5_rank": {
+    "mean_spearman_rho": -0.142
+  }
+}

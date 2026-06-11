@@ -1,0 +1,40 @@
+System: Sei un modello linguistico di grandi dimensioni specializzato nel trattamento dell'italiano storico.
+Human: 
+Analizza i quattro frammenti di testo tratti da diverse epoche della storia italiana.
+
+**Compito:**
+1. Confronta lo stile, il lessico, la sintassi e l'uso della punteggiatura dei quattro frammenti.
+2. Ordina i frammenti dal più RECENTE al più ANTICO.
+
+**Input:**
+Frammenti:
+1. A cui la reina disse: — Ben ti puoi omai gloriare, pensando che uno sì fatto prencipe qual è il nostro re, e sei cotali baroni quali sono coloro che con lui sedeano, si sono tutti in tuo onore e piacere obligati —.
+2. Ma ell'era damigella di buona famiglia, bene educata all'obbedienza passiva, fiera soltanto del nome della sua casa e di quello che le era stato dato in tutela; era stata strappata bruscamente alla calma del suo convento, ai tranquilli diletti, ai sogni vagamente turbati della sua giovinezza, ad un romanzetto appena abbozzato, ed era stata gettata, - ella che avea sangue di re nelle vene, - nell'alcova di quel marrano, cui per caso era caduto in capo un berretto di barone: ella avea accettato quel marrano perché il Re, il capo della sua famiglia, le leggi della sua casta glielo imponevano, e avea soffocato la sua ripugnanza allorché la mano nera e callosa di quel vecchio s'era pesata sulle sue spalle bianche e superbe, perché era suo marito: dolce e gentile com'era, cercava a furia di dolci e gentili maniere raddolcire quel vecchio lupo che le ringhiava accanto, e le mostrava i denti aguzzi allorché voleva sembrare amabile.
+3. Ladislao, re di Ispagna, dolosamente in casa de uno suo amico una figliuola de uno suo citadino se fa condure, per avere piacere cum lei; la quale cum morale rasone ed exempli defende la sua onestà: dove in sucesso divenne onorata regina.
+4. Mentre ragionavano così famigliarmente il Re e Bertoldo, gionse un messo da parte della Regina, il qual disse al Re come la Regina desiderava di vedere Bertoldo, pregando sua Maestà a mandarglielo; e perché ella aveva inteso che costui si pigliava spasso di burlar le donne, aveva fatto pensiero di farlo bastonare ben bene; onde il Re, udito la dimanda della Regina, volto a Bertoldo, gli disse:
+
+**Formato di Output richiesto:**
+Restituisci ESCLUSIVAMENTE solo i numeri dei frammenti come una list python, in ordine cronologico decrescente (dal più moderno al più arcaico). Non aggiungere spiegazioni.
+Esempio: [3, 1, 4, 2]
+
+**Output:**
+System: Sei un modello linguistico di grandi dimensioni specializzato nel trattamento dell'italiano storico.
+Human: 
+Analizza i quattro frammenti di testo tratti da diverse epoche della storia italiana.
+
+**Compito:**
+1. Confronta lo stile, il lessico, la sintassi e l'uso della punteggiatura dei quattro frammenti.
+2. Ordina i frammenti dal più RECENTE al più ANTICO.
+
+**Input:**
+Frammenti:
+1. Ora, con la provisione che la nave portò, che fu di maiz e di porci, si ristorò la gente che restava viva, e così il capitan, seguendo il suo viaggio, giunse ad una terra situata e posta sopra il mar in un alto e forte luogo, e circondata d'un certo mezzo bastione: qui ritrovarono assai provisione da mangiare, perché il popolo era fuggito via e avea abbandonata la terra.
+2. Scesero così su la felice spiaggia, con destro ministerio recando su di quella le inesperte donne; e quindi affidando alle ancore la nave, tutti si ricoverarono in una erbosa sponda e ringraziavano gli Dei della propizia navigazione. Saffo pagò loro di poi la pattuita mercede e si raccolse co' suoi seguaci in un antro non remoto, che piacevolmente ornato di serpeggianti erbe invitava al riposo i passeggeri stanchi dal lungo tragitto.
+3. E mentre queste cose così andavano, la nave portata da' poderosi venti sanza niuno governamento, avanti che il giorno apparisse da nulla parte, ne' porti dell'antica Partenope fu gittata da' fieri venti, quasi vicina agli ultimi suoi danni: e quivi da' marinari, che vedendosi in porto ripresero conforto, così spezzata dalle bande e fracassata, in sicuro luogo dall'ancore fu fermata, e aspettarono il nuovo giorno ringraziando gl'iddii, non sappiendo in che parte la fortuna gli avesse balestrati.
+4. Povero Marco! Egli aveva il cuor forte e preparato anche alle più dure prove per quel viaggio; ma quando vide sparire all'orizzonte la sua bella Genova, e si trovò in alto mare, su quel grande piroscafo affollato di contadini emigranti, solo, non conosciuto da alcuno, con quella piccola sacca, che racchiudeva tutta la sua fortuna, un improvviso scoraggiamento lo assalì. Per due giorni stette accucciato come un cane a prua, non mangiando quasi, oppresso da un gran bisogno di piangere.
+
+**Formato di Output richiesto:**
+Restituisci ESCLUSIVAMENTE solo i numeri dei frammenti come una list python, in ordine cronologico decrescente (dal più moderno al più arcaico). Non aggiungere spiegazioni.
+Esempio: [3, 1, 4, 2]
+
+**Output:**

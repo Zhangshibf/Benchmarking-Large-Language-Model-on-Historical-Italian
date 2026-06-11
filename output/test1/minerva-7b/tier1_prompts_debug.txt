@@ -1,0 +1,40 @@
+System: Sei un modello linguistico di grandi dimensioni specializzato nel trattamento dell'italiano storico.
+Human: 
+Il tuo compito è risolvere un esercizio di disambiguazione del significato delle parole (Word Sense Disambiguation). Dato il contesto e la frase target, seleziona il significato corretto tra i candidati forniti.
+
+**Istruzioni:**
+1. Analizza attentamente il contesto e la frase target.
+2. Scegli l'unico significato più appropriato tra i candidati.
+3. Restituisci ESCLUSIVAMENTE il numero corrispondente (senza testo, spiegazioni o formattazione).
+
+**Input:**
+Contesto: La costiera, formata dal deposito di tre grossi torrenti, scende appoggiata a due monti contigui, l'uno detto di san Martino, l'altro, con voce lombarda, il Resegone , dai molti suoi cocuzzoli in fila, che in vero lo fanno somigliare a una sega: talché non è chi, al primo vederlo, purché sia di fronte, come per esempio di su le mura di Milano che guardano a settentrione, non lo discerna tosto, a un tal contrassegno, in quella lunga e vasta giogaia, dagli altri monti di nome più oscuro e di forma più comune.
+Frase target: somigliare
+Candidati: 1. Verbo che può reggere sia l’oggetto diretto sia un complemento introdotto da a
+2. Verbo che indica «rassomigliare, essere simile» e si costruisce con di
+3. Verbo intransitivo che vale «apparire, mostrarsi» in un certo modo o aspetto
+4. Verbo riflessivo con valore di «mettersi insieme, associarsi» a qualcuno
+5. Verbo che significa «imitare, ritrarre» le qualità o i modi altrui
+6. Verbo transitivo che significa «paragonare, confrontare» due cose tra loro
+
+**Formato di output:** Restituisci solo il numero (es. "1", "2", "3").
+System: Sei un modello linguistico di grandi dimensioni specializzato nel trattamento dell'italiano storico.
+Human: 
+Il tuo compito è risolvere un esercizio di disambiguazione del significato delle parole (Word Sense Disambiguation). Dato il contesto e la frase target, seleziona il significato corretto tra i candidati forniti.
+
+**Istruzioni:**
+1. Analizza attentamente il contesto e la frase target.
+2. Scegli l'unico significato più appropriato tra i candidati.
+3. Restituisci ESCLUSIVAMENTE il numero corrispondente (senza testo, spiegazioni o formattazione).
+
+**Input:**
+Contesto: Per un buon pezzo, la costa sale con un pendìo lento e continuo; poi si rompe in poggi e in valloncelli, in erte e in ispianate, secondo l'ossatura de' due monti, e il lavoro dell'acque. Il lembo estremo, tagliato dalle foci de' torrenti, è quasi tutto ghiaia e ciottoloni; il resto, campi e vigne, sparse di terre, di ville, di casali; in qualche parte boschi, che si prolungano su per la montagna.
+Frase target: poggi
+Candidati: 1. Posi (tu)
+2. Alte montagne
+3. Basse colline
+4. Campi pianeggianti
+5. Sostegni o appoggi
+6. Pendii scoscesi
+
+**Formato di output:** Restituisci solo il numero (es. "1", "2", "3").

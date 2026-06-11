@@ -1,0 +1,36 @@
+System: Sei un modello linguistico di grandi dimensioni specializzato nel trattamento dell'italiano storico.
+Human: 
+Analizza i quattro frammenti di testo forniti. Tre di essi appartengono allo stesso autore, mentre uno è di un autore diverso (l'intruso).
+
+**Compito:**
+1. Confronta lo stile, il lessico, la sintassi e l'uso della punteggiatura dei quattro frammenti.
+2. Identifica quale dei quattro frammenti è stato scritto dall'autore differente.
+**Input:**
+Frammenti:
+1. Mio padre d'un danno ne fa due; mia madre fa alla sua vicina quello che non gli farà mai più; mio fratello quanti ne trova, tanti ne ammazza; e mia sorella piange di quello ch'ella ha riso tutto quest'anno.
+2. Quel dire di stare sopra le altre donne non vuol dire ch'ella voglia montargli adosso, goffo che tu sei; ma come signora e padrona vuol essere maggiore di tutte l'altre ed essere onorata e riverita da quelle come il giusto vuole.
+3. Non bisogna parimente che 'l marito si persuada d'esser superiore alla moglie, come prencipe al suddito, o come pastore alle pecore, ma come l'anima al corpo, col quale è per una certa natural benivolenza congiunta.
+4. Così con i detti barilli s'imbarcarono nel porto delle salamandre e dopo alquanti dì arrivarono nel porto de' scarafaggi e trovandosi travagliati dal mare si rissolsero di sbarcarsi in detta città e ivi riposarsi alquanti giorni, e, fatto portare i detti barilli in doana, gli fecero sgabellare; ma i poveretti, fidandosi troppo de' gabellini, furono traditi da essi, poiché, avendo quei scarafaggi anasato i barilli de' detti fichi, tosto s'imaginarono una frode, la qual fu questa, cioè di votargli que' barili di fichi ed empirli di tante di quelle pallottole di sterco di bue (con riverenza) ch'essi son usi di fare l'estate nelle careggiate delle strade.
+
+**Vincoli:**
+Restituisci ESCLUSIVAMENTE il numero del frammento intruso (es. "1", "2", "3" o "4"). Non aggiungere spiegazioni.
+
+**Output:**
+System: Sei un modello linguistico di grandi dimensioni specializzato nel trattamento dell'italiano storico.
+Human: 
+Analizza i quattro frammenti di testo forniti. Tre di essi appartengono allo stesso autore, mentre uno è di un autore diverso (l'intruso).
+
+**Compito:**
+1. Confronta lo stile, il lessico, la sintassi e l'uso della punteggiatura dei quattro frammenti.
+2. Identifica quale dei quattro frammenti è stato scritto dall'autore differente.
+**Input:**
+Frammenti:
+1. La mamma sembrava che le penetrasse nell'anima, con quegli occhi amorosi che la covavano, se taceva, in tutto quel che diceva, fin nei consigli che le dava intorno al taglio di un corpetto o pel ricamo di un guanciale su cui dovevasi posare il capo della sua figliuola, accanto a quello dello sposo. Ci pensava spesso la giovinetta, col viso chino, facendosi rossa fino al collo.
+2. E proprio in quel punto lei le fece un atto con una mano mettendosi l'altra sul petto, come per dirle: — Signora, si fidi di me. — Ebbene, quel suo atto, quel suo sguardo, da cui mi accorsi che lei aveva capito tutti i sentimenti, tutti i pensieri di mia madre, quello sguardo che voleva dire: — Coraggio! — quell'atto che era un'onesta promessa di protezione, d'affetto, d'indulgenza, — io non l'ho mai scordato, m'è rimasto scolpito nel cuore per sempre; ed è quel ricordo che m'ha fatto partir da Torino.
+3. Intanto non pensiamo a quelle brutte cose. Adesso sono allegra, felice, e mi stupisco come tutta quella gente abbia paura e maledica il colèra... Benedetto colèra che mi fa star qui, in campagna! Se durasse tutto l´anno!
+4. Finita l'opera, passò una mezz'ora al caffè d'Europa, e quando tornò all'albergo il gas era spento. Passando pel corridoio, dinanzi all'uscio di quel famoso numero undici, si rammentò un'altra volta del biglietto che avea in tasca e involontariamente rallentò il passo.
+
+**Vincoli:**
+Restituisci ESCLUSIVAMENTE il numero del frammento intruso (es. "1", "2", "3" o "4"). Non aggiungere spiegazioni.
+
+**Output:**
