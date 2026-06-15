@@ -243,7 +243,7 @@ def evaluate_NER_result(ner_preds):
         "per_class": per_class,
     }
 def create_mapped_ner(preds, output_path):
-
+    print(preds)
     if "LL" in preds[0]['id']:
         benchmark = json.load(open(BELLINI_FILE, "r", encoding='utf-8'))
     elif "DLCL" in preds[0]['id']:
@@ -256,12 +256,15 @@ def create_mapped_ner(preds, output_path):
     for entry in preds:
         letter_id = entry['id']
         raw_response = entry['model_response']
-
-
         try:
-
-            cleaned_response = re.sub(r'\(([^:]+):([^)]+)\)', r'("\1", "\2")', raw_response)
-            entities_list = ast.literal_eval(cleaned_response)
+            inner = raw_response.strip().strip('[]')
+            entities_list = []
+            for item in inner.split(','):
+                item = item.strip()
+                if not item:
+                    continue
+                text, _, label = item.rpartition(':')  # split on the LAST colon
+                entities_list.append((text.strip(), label.strip()))
         except Exception as e:
             print(f"Skipping {letter_id} due to parsing error: {e}")
             continue
