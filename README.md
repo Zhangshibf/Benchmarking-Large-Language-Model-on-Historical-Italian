@@ -46,6 +46,27 @@ The `benchmark/` directory contains the benchmark for Historical Italian.
   - Saves evaluation results to the `eval_results/` directory
 
 ## Usage
+### Set up environment and API keys
+Clone the repo
+```angular2html
+git clone https://github.com/Zhangshibf/Benchmarking-Large-Language-Model-on-Historical-Italian.git
+```
+
+Install the dependencies
+```angular2html
+pip install -r requirements.txt
+```
+
+Create a `.env` file in the project folder to set up API keys in the following format
+```angular2html
+#for GPT, Claude and DeepSeek
+OPENAI_API_KEY=sk-...
+ANTHROPIC_API_KEY=sk-ant-...
+DEEPSEEK_API_KEY=sk-...
+#for Llama
+OPENROUTER_HTTP_REFERER=...
+OPENROUTER_X_TITLE=...
+```
 
 ### Running Inference
 To load the benchmark and query LLMs:
