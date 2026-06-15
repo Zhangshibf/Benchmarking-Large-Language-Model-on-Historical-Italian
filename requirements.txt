@@ -1,5 +1,5 @@
 # Core dependencies (default API models: Claude, DeepSeek, GPT)
-langchain-core==1.4.0
+langchain-core==1.4.6
 langchain-openai==1.2.2
 pydantic==2.13.4
 python-dotenv==1.2.2
