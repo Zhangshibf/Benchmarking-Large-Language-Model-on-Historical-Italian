@@ -1,7 +1,8 @@
 """
-two additional smaller scale LLMs
+script for testing two smaller scale LLMs
 Minerva-7B-instruct-v1.0
 meta-llama/llama-3.1-8b-instruct
+Minerva runs locally on GPU, Llama uses openrouter API
 """
 
 import json
@@ -217,25 +218,25 @@ def run_extra_benchmark(
                         f_out.flush()
 
                     except Exception as e:
-                        print(f"    ⚠️ Errore istanza {instance.id}: {e}")
+                        print(f"Errore istanza {instance.id}: {e}")
 
 
 if __name__ == "__main__":
     run_extra_benchmark(
         experiment_name="round1",
-        toy_mode=True,
+        toy_mode=False,
         include_minerva=True,
-        include_llama=False,
+        include_llama=True,
     )
     # run_extra_benchmark(
     #     experiment_name="round2",
     #     toy_mode=False,
     #     include_minerva=True,
-    #     include_llama=False,
+    #     include_llama=True,
     # )
     # run_extra_benchmark(
     #     experiment_name="round3",
     #     toy_mode=False,
     #     include_minerva=True,
-    #     include_llama=False,
+    #     include_llama=True,
     # )

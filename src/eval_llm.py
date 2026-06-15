@@ -100,7 +100,7 @@ def run_benchmark(experiment_name: str, toy_mode: bool = False):
                 chain = prompt_template | llm | StrOutputParser()
 
             instances = islice(loader, 2) if toy_mode else loader
-            print(f"  📂 Task: {task_name}")
+            print(f"Task: {task_name}")
 
             prompt_saved = False
 
@@ -155,7 +155,7 @@ def run_benchmark(experiment_name: str, toy_mode: bool = False):
                         f_out.flush()  # Force write to disk immediately
 
                     except Exception as e:
-                        print(f"    ⚠️ Errore istanza {instance.id}: {e}")
+                        print(f"errore! {instance.id}: {e}")
 
 if __name__ == "__main__":
     run_benchmark(experiment_name="round1", toy_mode=False)

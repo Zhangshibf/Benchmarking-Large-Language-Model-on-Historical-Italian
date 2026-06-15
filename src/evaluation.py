@@ -3,55 +3,62 @@ from pathlib import Path
 from src.settings import OUTPUT_DIR, RESULTS_DIR,NER_DIR, BELLINI_FILE,CLASSENSE_FILE
 import pandas as pd
 from collections import defaultdict
-def evaluate_all_tiers(output_base_dir=OUTPUT_DIR,results_base_path=RESULTS_DIR):
+def evaluate_all_tiers(output_base_dir=OUTPUT_DIR, results_base_path=RESULTS_DIR,
+                       round_names=("round1", "round2", "round3")):
     model_groups = defaultdict(list)
-    for folder in output_base_dir.rglob('**/'):
-        jsonl_files = list(folder.glob('*.jsonl'))
-        if len(jsonl_files) == 8:
-            model_name = folder.name
-            overall_result = {}
-            print(f"Found match: {folder} contains exactly 8 JSONs")
-            overall_result = {}
-            for jsonl_file in jsonl_files:
-                relative_path = folder.relative_to(output_base_dir)
-                target_folder = results_base_path / relative_path
-                target_folder.mkdir(parents=True, exist_ok=True)
 
-                output_file_path = target_folder / jsonl_file.name
-                overall_path = target_folder / "overall.json"
-                preds = []
-                with open(jsonl_file, "r", encoding="utf-8") as f:
-                    for line in f:
-                        if line.strip():
-                            preds.append(json.loads(line))
-                tier = jsonl_file.stem.replace("_results", "")
-                if tier in ["tier1","tier2_deprel","tier2_head","tier4","tier5_auth"]:
-                    evaluation_result = calculate_accuracy(preds)
-                    overall_result[tier]=evaluation_result
-                elif "tier3" in tier:
-                    # If predictions already have 'entities' (structured output), use directly.
-                    # Otherwise fall back to create_mapped_ner for legacy free-text responses.
-                    if preds and "entities" in preds[0]:
-                        ner_preds = [{"letter_id": p["letter_id"], "entities": p["entities"]} for p in preds]
-                    else:
-                        ner_mapped_file = NER_DIR / relative_path / jsonl_file.name
-                        if ner_mapped_file.is_file():
-                            ner_preds = json.load(open(ner_mapped_file,"r",encoding="utf-8"))
+    for round_name in round_names:
+        round_dir = output_base_dir / round_name
+        if not round_dir.is_dir():
+            print(f"[warn] round folder not found, skipping: {round_dir}")
+            continue
+
+        for folder in round_dir.rglob('**/'):
+            jsonl_files = list(folder.glob('*.jsonl'))
+            if len(jsonl_files) == 8:
+                model_name = folder.name
+                overall_result = {}
+                print(f"Found match: {folder} contains exactly 8 JSONs")
+                overall_result = {}
+                for jsonl_file in jsonl_files:
+                    relative_path = folder.relative_to(output_base_dir)
+                    target_folder = results_base_path / relative_path
+                    target_folder.mkdir(parents=True, exist_ok=True)
+
+                    output_file_path = target_folder / jsonl_file.name
+                    overall_path = target_folder / "overall.json"
+                    preds = []
+                    with open(jsonl_file, "r", encoding="utf-8") as f:
+                        for line in f:
+                            if line.strip():
+                                preds.append(json.loads(line))
+                    tier = jsonl_file.stem.replace("_results", "")
+                    if tier in ["tier1", "tier2_deprel", "tier2_head", "tier4", "tier5_auth"]:
+                        evaluation_result = calculate_accuracy(preds)
+                        overall_result[tier] = evaluation_result
+                    elif "tier3" in tier:
+                        # If predictions already have 'entities' (structured output), use directly.
+                        # Otherwise fall back to create_mapped_ner for legacy free-text responses.
+                        if preds and "entities" in preds[0]:
+                            ner_preds = [{"letter_id": p["letter_id"], "entities": p["entities"]} for p in preds]
                         else:
-                            create_mapped_ner(preds,ner_mapped_file)
-                            ner_preds = json.load(open(ner_mapped_file, "r", encoding="utf-8"))
-                    evaluation_result = evaluate_NER_result(ner_preds)
-                    overall_result[tier] = evaluation_result
-                elif "rank" in tier:
-                    evaluation_result = evaluate_rank_result(preds)
-                    overall_result[tier] = evaluation_result
+                            ner_mapped_file = NER_DIR / relative_path / jsonl_file.name
+                            if ner_mapped_file.is_file():
+                                ner_preds = json.load(open(ner_mapped_file, "r", encoding="utf-8"))
+                            else:
+                                create_mapped_ner(preds, ner_mapped_file)
+                                ner_preds = json.load(open(ner_mapped_file, "r", encoding="utf-8"))
+                        evaluation_result = evaluate_NER_result(ner_preds)
+                        overall_result[tier] = evaluation_result
+                    elif "rank" in tier:
+                        evaluation_result = evaluate_rank_result(preds)
+                        overall_result[tier] = evaluation_result
 
-                with open(output_file_path,"w",encoding="utf-8") as f:
-                    json.dump(evaluation_result,f)
-            with open(overall_path, "w", encoding="utf-8") as f:
-                json.dump(overall_result, f,indent=2)
-            model_groups[model_name].append(overall_result)
-
+                    with open(output_file_path, "w", encoding="utf-8") as f:
+                        json.dump(evaluation_result, f)
+                with open(overall_path, "w", encoding="utf-8") as f:
+                    json.dump(overall_result, f, indent=2)
+                model_groups[model_name].append(overall_result)
 
     for model_name, rounds in model_groups.items():
         if not rounds:
@@ -80,7 +87,6 @@ def evaluate_all_tiers(output_base_dir=OUTPUT_DIR,results_base_path=RESULTS_DIR)
         print(f"Generated mean results for {model_name} at {summary_path}")
 
 
-
 from scipy.stats import spearmanr
 
 import json
@@ -107,12 +113,24 @@ def calculate_metrics(tp, fp, fn):
     return precision, recall, f1
 
 
+from collections import defaultdict  # add near the top with your other imports
+
+# admitted label sets per dataset
+ADMITTED_TYPES = {
+    "bellini":   {"PER", "PER_GROUP", "LOC", "ORG", "WORK", "MUSIC_TERM", "MISC"},
+    "classense": {"PER", "LOC", "ORG", "WORK"},
+}
+
+
 def evaluate_NER_result(ner_preds):
 
-    if "LL" in ner_preds[0]['letter_id']:
+    first_id = ner_preds[0]['letter_id']
+    if "LL" in first_id:
         benchmark = json.load(open(BELLINI_FILE, "r", encoding='utf-8'))
-    elif "DLCL" in ner_preds[0]['letter_id']:
+        admitted_types = ADMITTED_TYPES["bellini"]
+    elif "DLCL" in first_id:
         benchmark = json.load(open(CLASSENSE_FILE, "r", encoding='utf-8'))
+        admitted_types = ADMITTED_TYPES["classense"]
 
     gold_map = {item['letter_id']: item['entities'] for item in benchmark}
 
@@ -122,9 +140,23 @@ def evaluate_NER_result(ner_preds):
     total_strict = {"tp": 0, "fp": 0, "fn": 0}
     total_fuzzy = {"tp": 0, "fp": 0, "fn": 0}
 
+    # per-class corpus-level counts: per_counts[mode][type] = {tp, fp, fn}
+    per_counts = {
+        "strict": defaultdict(lambda: {"tp": 0, "fp": 0, "fn": 0}),
+        "fuzzy":  defaultdict(lambda: {"tp": 0, "fp": 0, "fn": 0}),
+    }
+    support = defaultdict(int)  # gold count per type (mode-independent)
+
     for pred_doc in ner_preds:
         doc_id = pred_doc['letter_id']
-        pred_ents = pred_doc['entities']
+
+        # relabel any predicted type outside the admitted set as "hallucination".
+        # this never creates a new match (gold types are all admitted), so it only
+        # reroutes false positives into a single bucket; aggregate numbers unchanged.
+        pred_ents = [
+            {**p, "type": p["type"] if p["type"] in admitted_types else "hallucination"}
+            for p in pred_doc['entities']
+        ]
         gold_ents = gold_map.get(doc_id, [])
 
         for mode in ['strict', 'fuzzy']:
@@ -146,15 +178,21 @@ def evaluate_NER_result(ner_preds):
 
                     if is_match:
                         tp += 1
+                        per_counts[mode][p['type']]["tp"] += 1
                         matched_gold_indices.add(i)
                         found_match = True
                         break
 
                 if not found_match:
                     fp += 1
+                    per_counts[mode][p['type']]["fp"] += 1
+
+            # unmatched gold -> false negatives, attributed to the gold type
+            for i, g in enumerate(gold_ents):
+                if i not in matched_gold_indices:
+                    per_counts[mode][g['type']]["fn"] += 1
 
             fn = len(gold_ents) - len(matched_gold_indices)
-
 
             if mode == 'strict':
                 total_strict["tp"] += tp;
@@ -167,12 +205,31 @@ def evaluate_NER_result(ner_preds):
                 total_fuzzy["fn"] += fn
                 fuzzy_doc_scores.append(calculate_metrics(tp, fp, fn))
 
+        # count gold support once per doc (outside the mode loop)
+        for g in gold_ents:
+            support[g['type']] += 1
 
     mi_s_p, mi_s_r, mi_s_f1 = calculate_metrics(total_strict["tp"], total_strict["fp"], total_strict["fn"])
     mi_f_p, mi_f_r, mi_f_f1 = calculate_metrics(total_fuzzy["tp"], total_fuzzy["fp"], total_fuzzy["fn"])
 
     ma_s_p, ma_s_r, ma_s_f1 = np.mean(strict_doc_scores, axis=0)
     ma_f_p, ma_f_r, ma_f_f1 = np.mean(fuzzy_doc_scores, axis=0)
+
+    # ---- build per-class (corpus-level / micro within each class) ----
+    def build_per_class(mode):
+        out = {}
+        types = set(per_counts[mode].keys()) | set(support.keys())
+        for t in types:
+            c = per_counts[mode][t]
+            p, r, f1 = calculate_metrics(c["tp"], c["fp"], c["fn"])
+            out[t] = {
+                "precision": p, "recall": r, "f1": f1,
+                "support": support.get(t, 0),
+                "tp": c["tp"], "fp": c["fp"], "fn": c["fn"],
+            }
+        return out
+
+    per_class = {"strict": build_per_class("strict"), "fuzzy": build_per_class("fuzzy")}
 
     return {
         "strict": {
@@ -182,9 +239,9 @@ def evaluate_NER_result(ner_preds):
         "fuzzy": {
             "micro": {"precision": mi_f_p, "recall": mi_f_r, "f1": mi_f_f1},
             "macro": {"precision": ma_f_p, "recall": ma_f_r, "f1": ma_f_f1}
-        }
+        },
+        "per_class": per_class,
     }
-
 def create_mapped_ner(preds, output_path):
 
     if "LL" in preds[0]['id']:
@@ -263,7 +320,16 @@ def evaluate_rank_result(preds):
     rho_scores = []
     for p, g in zip(parsed_preds, gt):
 
-        score, _ = spearmanr(p, g)
+        if len(list(p))!=len(g):
+            uncommon = set(p)^set(g)
+            p=list(p)
+            p.extend(list(uncommon))
+        p = tuple(p)
+        try:
+            score, _ = spearmanr(p, g)
+        except:
+            print(p)
+            print(g)
         rho_scores.append(score)
 
     avg_rho = np.nanmean(rho_scores)
@@ -276,13 +342,19 @@ def evaluate_rank_result(preds):
 
 
 def calculate_accuracy(preds):
-    model_responses = [int(i["model_response"]) for i in preds]
+    model_responses=[]
+    for i in preds:
+        try:
+            model_responses.append(int(i["model_response"]))
+        except:
+            model_responses.append(int(i["model_response"][0]))
     gt = [int(i["gold_index"]) for i in preds]
 
     correct=0
     for a,b in zip(model_responses,gt):
         if a==b:
             correct+=1
+
     return {"accuracy":correct/len(gt)}
 
 
@@ -290,69 +362,12 @@ import json
 from pathlib import Path
 
 
-def generate_latex_table(results_dir=RESULTS_DIR, model_names=["DeepSeek-chat", "Claude", "GPT"]):
-    """
-    Reads mean JSON files for specified models and prints a formatted LaTeX table.
-    Assumes files are named like 'claude_final_mean.json' in results_dir.
-    """
 
-    # Mapping Tier keys to the specific accuracy/metric inside the JSON
-    # Columns: Manzoni (T1), Head (T2), Deprel (T2), Dante (T4), Rank (T5), Auth (T5)
-    mapping = [
-        ("tier1", "accuracy"),
-        ("tier2_head", "accuracy"),
-        ("tier2_deprel", "accuracy"),
-        ("tier4", "accuracy"),
-        ("tier5_rank", "mean_spearman_rho"),
-        ("tier5_auth", "accuracy")
-    ]
+import json
+import math
+from collections import defaultdict
+from pathlib import Path
+from statistics import mean, stdev
 
-    latex_rows = []
-
-    for model in model_names:
-        # Match the filename convention from the previous step
-        file_path = Path(results_dir) / f"{model.lower()}_final_mean.json"
-        print(file_path)
-        if not file_path.exists():
-            latex_rows.append(f"{model} & ? & ? & ? & ? & ? & ? \\\\")
-            continue
-
-        with open(file_path, "r") as f:
-            data = json.load(f)
-
-        row_values = [model]
-        for tier, metric in mapping:
-            # Extract value, default to 0.0 if key is missing
-            val = data.get(tier, {}).get(metric, 0.0)
-            # Format to 3 decimal places
-            row_values.append(f"{val:.3f}")
-
-        latex_rows.append(" & ".join(row_values) + " \\\\")
-
-    # The Final LaTeX Template
-    table_template = f"""
-                        \\begin{{table}}[ht]
-                        \\centering
-                        \\resizebox{{\\textwidth}}{{!}}{{
-                        \\begin{{tabular}}{{l| c | cc | c | cc}}
-                        \\hline
-                        Model & Manzoni & \\multicolumn{{2}}{{c|}}{{Cavalcanti}} & Dante & \\multicolumn{{2}}{{c}}{{Biblioteca Italiana}} \\\\
-                        \\hline
-                        & \\scriptsize \\begin{{tabular}}[c]{{@{{}}c@{{}}}}Word Sense \\\\ Disambiguation\\end{{tabular}} & \\scriptsize Head Prediction & \\scriptsize \\begin{{tabular}}[c]{{@{{}}c@{{}}}}Deprel \\\\ Prediction\\end{{tabular}} & \\scriptsize Contrastive & \\scriptsize \\begin{{tabular}}[c]{{@{{}}c@{{}}}}Chronological \\\\ Ranking\\end{{tabular}} & \\scriptsize \\begin{{tabular}}[c]{{@{{}}c@{{}}}}Authorship \\\\ Verification\\end{{tabular}} \\\\
-                        \\hline
-                        {chr(10).join(latex_rows)}
-                        \\hline
-                        \\end{{tabular}}%
-                        }}
-                        \\caption{{Performance results across different datasets and tasks.}}
-                        \\label{{fig:result}}
-                        \\end{{table}}
-                        """
-    return table_template
-
-
-
-if __name__=="__main__":
-    # evaluate_all_tiers()
-    latex_code = generate_latex_table()
-    print(latex_code)
+if __name__ == "__main__":
+    evaluate_all_tiers()
