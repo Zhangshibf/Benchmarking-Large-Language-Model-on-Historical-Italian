@@ -1,0 +1,11 @@
+# Core dependencies (default API models: Claude, DeepSeek, GPT)
+langchain-core==1.4.0
+langchain-openai==1.2.2
+pydantic==2.13.4
+python-dotenv==1.2.2
+langchain-anthropic==1.4.6
+langchain-deepseek==1.1.0
+#extra for smaller LLM (Minerva and Llama)
+langchain-huggingface==1.2.2
+transformers==5.9.0
+torch==2.12.0
